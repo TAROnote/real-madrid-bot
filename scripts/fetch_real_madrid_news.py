@@ -24,6 +24,13 @@ HEADERS = {
     )
 }
 
+import requests
+def resolve_google_news_url(url: str) -> str:
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=10, allow_redirects=True)
+        return r.url
+    except Exception:
+        return url
 KEYWORDS = [
     "real madrid",
     "madridista",
