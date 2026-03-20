@@ -24,7 +24,6 @@ HEADERS = {
     )
 }
 
-import requests
 def resolve_google_news_url(url: str) -> str:
     try:
         r = requests.get(url, headers=HEADERS, timeout=10, allow_redirects=True)
@@ -58,7 +57,8 @@ def now_jst() -> datetime:
     return datetime.now(timezone.utc).astimezone(JST)
 
 def clean_text(text: str) -> str:
-    text = re.sub(r"\s+", " ", (text or "")).strip()
+    text = BeautifulSoup(text or "", "html.parser").get_text(" ", strip=True)
+    text = re.sub(r"\s+", " ", text).strip()
     return text
 
 def get_html(url: str, timeout: int = 20) -> str:
@@ -280,6 +280,7 @@ def collect_all_items() -> List[NewsItem]:
             print(f"[WARN] RSS {label} failed: {e}")
 
     all_items = dedupe_items(all_items)
+    all_items = [item for item in all_items if "news.google.com" not in item.link]
     all_items = sort_items(all_items)
     return all_items[:15]
 
