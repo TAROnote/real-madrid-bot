@@ -113,7 +113,8 @@ def fetch_google_news_rss(query: str, label: str, limit: int = 10) -> List[NewsI
 
     for entry in feed.entries[:limit]:
         title = clean_text(entry.get("title", ""))
-        link = entry.get("link", "")
+        raw_link = entry.get("link", "")
+        link = resolve_google_news_url(raw_link)
         summary = clean_text(entry.get("summary", ""))
         published = entry.get("published", "") or entry.get("updated", "")
 
