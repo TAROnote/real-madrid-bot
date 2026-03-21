@@ -248,6 +248,57 @@ def fetch_football_espana(limit: int = 12) -> List[NewsItem]:
 
     return dedupe_items(items)[:limit]
 
+def fetch_extra_sites() -> List[NewsItem]:
+    sources = [
+        ("LaLiga", "https://www.laliga.com/laliga-easports", "https://www.laliga.com"),
+        ("Football España Home", "https://www.football-espana.net/", "https://www.football-espana.net"),
+        ("AS", "https://en.as.com/soccer/", "https://en.as.com"),
+        ("OneFootball", "https://onefootball.com/en/competition/laliga-10", "https://onefootball.com"),
+        ("ESPN", "https://www.espn.com/soccer/league/_/name/esp.1", "https://www.espn.com"),
+        ("Sky Sports", "https://www.skysports.com/la-liga", "https://www.skysports.com"),
+        ("NewsNow", "https://www.newsnow.co.uk/h/?search=La%2BLiga&lang=a", "https://www.newsnow.co.uk"),
+    ]
+
+    items: List[NewsItem] = []
+
+    for label, url, base in sources:
+        try:
+            html = get_html(url)
+            soup = BeautifulSoup(html, "lxml")
+
+            for a in soup.select("a[href]"):
+                href = a.get("href", "").strip()
+                text = clean_text(a.get_text(" ", strip=True))
+
+                if not href or not text:
+                    continue
+                if len(text) < 15:
+                    continue
+
+                if href.startswith("/"):
+                    link = base + href
+                else:
+                    link = href
+
+                if not link.startswith("http"):
+                    continue
+
+                if not is_relevant(text, ""):
+                    continue
+
+                items.append(
+                    NewsItem(
+                        title=text,
+                        link=link,
+                        source=label,
+                    )
+                )
+
+        except Exception as e:
+            print(f"[WARN] {label} failed: {e}")
+
+    return dedupe_items(items)[:20]
+
 def collect_all_items() -> List[NewsItem]:
     all_items: List[NewsItem] = []
 
@@ -264,6 +315,13 @@ def collect_all_items() -> List[NewsItem]:
             time.sleep(1)
         except Exception as e:
             print(f"[WARN] {name} failed: {e}")
+
+    try:
+    extra_items = fetch_extra_sites()
+    all_items.extend(extra_items)
+    time.sleep(1)
+except Exception as e:
+    print(f"[WARN] extra sites failed: {e}")
 
     rss_queries = [
         ("Google News / Real Madrid", "Real Madrid"),
