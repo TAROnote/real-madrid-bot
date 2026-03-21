@@ -3,6 +3,7 @@ name: Daily Real Madrid News
 on:
   schedule:
     - cron: '0 22 * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 permissions:
