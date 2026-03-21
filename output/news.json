@@ -1,17 +1,10 @@
 {
-  "generated_at_jst": "2026-03-21T08:01:26.792051+09:00",
+  "generated_at_jst": "2026-03-21T22:16:39.020253+09:00",
   "count": 15,
   "items": [
     {
       "title": "New Bernabéu",
       "link": "https://www.realmadrid.com/en-US/news/new-bernabeu",
-      "source": "Real Madrid Official",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Real Madrid continues preparing for the derby",
-      "link": "https://www.realmadrid.com/en-US/news/football/first-team/trainings/el-equipo-se-esta-entrenando-20-03-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
@@ -26,13 +19,6 @@
     {
       "title": "The Real Madrid-Girona match will be played on Friday, April 10, at 9:00 pm CEST",
       "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-real-madrid-girona-se-jugara-el-viernes-10-de-abril-a-las-21-00-h-20-03-2026",
-      "source": "Real Madrid Official",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Courtois Medical Report",
-      "link": "https://www.realmadrid.com/en-US/news/football/first-team/medical-reports/parte-medico-de-courtois-19-03-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
@@ -80,6 +66,13 @@
       "summary": ""
     },
     {
+      "title": "Real Madrid visits Barça tomorrow in the Liga Clásico",
+      "link": "https://www.realmadrid.com/en-US/news/basket/first-team/latest-news/el-real-madrid-visita-manana-al-barca-en-el-clasico-de-liga-21-03-2026",
+      "source": "Real Madrid Official",
+      "published": "",
+      "summary": ""
+    },
+    {
       "title": "Zalgiris-Real Madrid: aiming for the 5th consecutive EuroLeague victory",
       "link": "https://www.realmadrid.com/en-US/news/basket/first-team/fixtures/zalgiris-real-madrid-20-03-2026",
       "source": "Real Madrid Official",
@@ -87,7 +80,7 @@
       "summary": ""
     },
     {
-      "title": "A Real Madrid Community Managing Madrid March 20, 2026",
+      "title": "A Real Madrid Community Managing Madrid March 21, 2026",
       "link": "https://www.managingmadrid.com/",
       "source": "Managing Madrid",
       "published": "",
@@ -103,6 +96,13 @@
     {
       "title": "Real Madrid Transfer News & Rumors",
       "link": "http://www.managingmadrid.com/real-madrid-cf-transfer-talk",
+      "source": "Managing Madrid",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Real Madrid CF: Champions League",
+      "link": "http://www.managingmadrid.com/real-madrid-cf-champions-league",
       "source": "Managing Madrid",
       "published": "",
       "summary": ""
