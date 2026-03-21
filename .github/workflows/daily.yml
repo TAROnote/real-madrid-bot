@@ -2,8 +2,7 @@ name: Daily Real Madrid News
 
 on:
   schedule:
-    - cron: '0 22 * * *'
-    - cron: '0 12 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 permissions:
@@ -30,5 +29,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output/
-          git commit -m "update news" || echo "no changes"
+          git commit -m "update news $(date '+%Y-%m-%d %H:%M')" || echo "no changes"
           git push
