@@ -370,6 +370,9 @@ def fetch_managing_madrid(limit: int = 12) -> List[NewsItem]:
         else:
             link = href
 
+        if link.rstrip("/") == "https://www.managingmadrid.com":
+            continue
+
         if not is_relevant(text, ""):
             continue
 
@@ -461,6 +464,14 @@ def fetch_extra_sites() -> List[NewsItem]:
                     link = base + href
                 else:
                     link = href
+
+                if link.rstrip("/") in [
+                "https://www.managingmadrid.com",
+                "https://www.football-espana.net",
+                "https://en.as.com/soccer",
+                "https://www.skysports.com/la-liga",
+                ]:
+                    continue
 
                 if not link.startswith("http"):
                     continue
