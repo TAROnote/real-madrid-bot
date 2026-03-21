@@ -582,6 +582,28 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: in
             domain = domain[4:]
         return domain
 
+    def get_topic_group(item: NewsItem) -> str:
+        """
+        同じ話題・同じカテゴリ配下を同一グループとして扱う。
+        特に Managing Madrid のカテゴリページと記事ページの重複を防ぐ。
+        """
+        link = normalize_url(item.link)
+        title = item.title.lower()
+
+        # Managing Madrid のカテゴリ単位でまとめる
+        managing_groups = [
+            "/real-madrid-cf-news",
+            "/real-madrid-cf-transfer-talk",
+            "/real-madrid-cf-champions-league",
+        ]
+        for path in managing_groups:
+            if path in link:
+                return f"managingmadrid:{path}"
+
+        # タイトルベースのざっくり重複除去
+        simplified_title = re.sub(r"[^a-z0-9]+", "", title)
+        return f"title:{simplified_title[:80]}"
+
     def is_bad_item(item: NewsItem) -> bool:
         link = normalize_url(item.link)
         title = item.title.lower()
@@ -589,7 +611,7 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: in
         if link in {normalize_url(u) for u in bad_exact_urls}:
             return True
 
-        # Managing Madrid のカテゴリ/一覧ページを除外
+        # Managing Madrid のカテゴリ/一覧ページ除外
         managing_categories = [
             "/real-madrid-cf-news",
             "/real-madrid-cf-transfer-talk",
@@ -599,7 +621,7 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: in
             if any(path in link for path in managing_categories) and "/20" not in link:
                 return True
 
-        # 一覧ページっぽいタイトルを除外
+        # 一覧ページっぽいタイトル除外
         bad_title_patterns = [
             "real madrid cf: news",
             "real madrid transfer news & rumors",
@@ -612,30 +634,42 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: in
 
         return False
 
-    # まず不要候補を除外
     filtered = [item for item in items if not is_bad_item(item)]
 
     picked = []
     domain_counts = {}
+    used_groups = set()
 
-    # 1周目: 同一ドメインは最大2件まで
+    # 1周目: 同じドメイン2件まで + 同じ話題グループは1件まで
     for item in filtered:
         domain = get_domain(item.link)
+        topic_group = get_topic_group(item)
+
         if domain_counts.get(domain, 0) >= max_per_domain:
+            continue
+        if topic_group in used_groups:
             continue
 
         picked.append(item)
         domain_counts[domain] = domain_counts.get(domain, 0) + 1
+        used_groups.add(topic_group)
 
         if len(picked) >= limit:
             return picked
 
-    # 2周目: 5件に足りなければ制限を外して補充
+    # 2周目: まだ足りない場合のみ、ドメイン制限だけ緩める
+    # ただし同じ話題グループは引き続き除外
     for item in filtered:
         if item in picked:
             continue
 
+        topic_group = get_topic_group(item)
+        if topic_group in used_groups:
+            continue
+
         picked.append(item)
+        used_groups.add(topic_group)
+
         if len(picked) >= limit:
             break
 
