@@ -536,31 +536,31 @@ def build_note_md(items: List[NewsItem]) -> str:
     top_items = items[:5]
     number_map = ["①", "②", "③", "④", "⑤"]
 
-for i, item in enumerate(top_items):
-en_summary, ja_summary = build_bilingual_summary(item, 150)
-ja_title = translate_title_simple(item.title)
+    for i, item in enumerate(top_items):
+        en_summary, ja_summary = build_bilingual_summary(item, 150)
+        ja_title = translate_title_simple(item.title)
+
+        lines += [
+            f"{number_map[i]} {item.title}",
+            ja_title,
+            "",
+            "🔗 リンク",
+            item.link,
+            "",
+            "要約（英語）",
+            en_summary,
+            "",
+            "要約（日本語）",
+            ja_summary,
+            "",
+        ]
 
     lines += [
-        f"{number_map[i]} {item.title}",
-        ja_title,
+        "🧾 記事全体のコメント",
         "",
-        "🔗 リンク",
-        item.link,
-        "",
-        "要約（英語）",
-        en_summary,
-        "",
-        "要約（日本語）",
-        ja_summary,
-        "",
+        "まずは公式サイトと主要メディアから、レアル関連の主要トピックを安定して拾える状態に戻した。ここから必要な要素だけを足していくのが一番安全。",
     ]
-
-lines += [
-    "🧾 記事全体のコメント",
-    "",
-    "まずは公式サイトと主要メディアから、レアル関連の主要トピックを安定して拾える状態に戻した。ここから必要な要素だけを足していくのが一番安全。",
-]
-return "\n".join(lines)
+    return "\n".join(lines)
 
 def build_x_text(items: List[NewsItem]) -> str:
     if not items:
