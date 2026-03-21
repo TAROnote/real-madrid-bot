@@ -317,19 +317,12 @@ def collect_all_items() -> List[NewsItem]:
             print(f"[WARN] {name} failed: {e}")
 
     try:
-    extra_items = fetch_extra_sites()
-    all_items.extend(extra_items)
-    time.sleep(1)
-    except Exception as e:
-    print(f"[WARN] extra sites failed: {e}")
-
-    try:
         extra_items = fetch_extra_sites()
         all_items.extend(extra_items)
         time.sleep(1)
     except Exception as e:
         print(f"[WARN] extra sites failed: {e}")
-        
+
     rss_queries = [
         ("Google News / Real Madrid", "Real Madrid"),
         ("Google News / Managing Madrid", "Real Madrid site:managingmadrid.com"),
