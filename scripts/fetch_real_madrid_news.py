@@ -556,7 +556,7 @@ def collect_all_items() -> List[NewsItem]:
 
     print("[INFO] source counts:", source_summary)
 
-    return all_items[:15]
+    return all_items
 
 def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: int = 2) -> List[NewsItem]:
     bad_exact_urls = {
