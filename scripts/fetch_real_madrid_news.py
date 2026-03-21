@@ -168,6 +168,58 @@ def trim_summary(text: str, max_len: int = 180) -> str:
         return text
     return text[: max_len - 1].rstrip() + "…"
 
+
+# 🔥👇ここに追加👇🔥
+def fetch_article_text(url: str, max_paragraphs: int = 5) -> str:
+    try:
+        html = get_html(url, timeout=20)
+        soup = BeautifulSoup(html, "lxml")
+
+        for tag in soup(["script", "style", "noscript", "header", "footer", "nav", "aside"]):
+            tag.decompose()
+
+        paragraphs = []
+        for p in soup.select("p"):
+            text = clean_text(p.get_text(" ", strip=True))
+            if len(text) < 40:
+                continue
+            paragraphs.append(text)
+
+        return " ".join(paragraphs[:max_paragraphs])
+    except Exception as e:
+        print(f"[WARN] fetch_article_text failed: {url} / {e}")
+        return ""
+
+
+def generate_summary(item: NewsItem, max_len: int = 140) -> str:
+    base_text = clean_text(item.summary) if item.summary else ""
+
+    if len(base_text) < 60:
+        article_text = fetch_article_text(item.link)
+        if article_text:
+            base_text = article_text
+
+    if not base_text:
+        return "記事の詳細はリンク先で確認してください。"
+
+    sentences = re.split(r"(?<=[。.!?])\s+", base_text)
+    picked = []
+
+    for s in sentences:
+        s = clean_text(s)
+        if len(s) < 20:
+            continue
+        picked.append(s)
+        if len(" ".join(picked)) >= max_len:
+            break
+
+    result = " ".join(picked)
+
+    if len(result) > max_len:
+        result = result[: max_len - 1] + "…"
+
+    return result
+
 def fetch_google_news_rss(query: str, label: str, limit: int = 10) -> List[NewsItem]:
     url = (
         "https://news.google.com/rss/search?"
@@ -435,7 +487,7 @@ def build_note_md(items: List[NewsItem]) -> str:
             item.link,
             "",
             "要約",
-            trim_summary(item.summary, 160) if item.summary else "要約は未生成です。リンク先で本文を確認してください。",
+            generate_summary(item, 150),
             "",
         ]
 
