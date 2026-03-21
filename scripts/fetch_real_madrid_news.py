@@ -376,6 +376,12 @@ def fetch_managing_madrid(limit: int = 12) -> List[NewsItem]:
         if "managingmadrid.com/real-madrid-cf-news" in link.lower():
             continue
 
+        if "managingmadrid.com/real-madrid-cf-transfer-talk" in link.lower():
+            continue
+
+        if "managingmadrid.com/real-madrid-cf-news" in link.lower():
+            continue
+
         if not is_relevant(text, ""):
             continue
 
@@ -577,6 +583,8 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5) -> List[NewsItem]:
         # Managing Madrid のカテゴリ/一覧ページ除外
         if "managingmadrid.com/real-madrid-cf-news" in link:
             return True
+        if "managingmadrid.com/real-madrid-cf-transfer-talk" in link:
+            return True
 
         # URLに記事っぽさがないものを除外
         if "managingmadrid.com" in link and "/20" not in link and "/real-madrid-cf-news" in link:
@@ -585,6 +593,7 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5) -> List[NewsItem]:
         # タイトルが一覧ページっぽいものを除外
         bad_title_patterns = [
             "real madrid cf: news",
+            "real madrid transfer news & rumors",
             "a real madrid community",
             "la liga news",
         ]
