@@ -136,11 +136,9 @@ def parse_dt(value: Optional[str]) -> Optional[datetime]:
 def is_relevant(title: str, summary: str = "") -> bool:
     hay = f"{title} {summary}".lower()
 
-    # ❌ 除外
     if any(ex in hay for ex in EXCLUDE_KEYWORDS):
         return False
 
-    # ✅ 含まれていればOK
     return any(k in hay for k in KEYWORDS)
 
 def dedupe_items(items: List[NewsItem]) -> List[NewsItem]:
@@ -169,7 +167,6 @@ def trim_summary(text: str, max_len: int = 180) -> str:
     return text[: max_len - 1].rstrip() + "…"
 
 
-# 🔥👇ここに追加👇🔥
 def fetch_article_text(url: str, max_paragraphs: int = 5) -> str:
     try:
         html = get_html(url, timeout=20)
@@ -572,27 +569,41 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: in
         "https://www.newsnow.co.uk/h/?search=La%2BLiga&lang=a",
     }
 
+    def normalize_url(url: str) -> str:
+        url = url.lower().strip().rstrip("/")
+        url = url.replace("http://", "https://")
+        return url
+
     def get_domain(url: str) -> str:
-        url = url.lower()
-        url = url.replace("https://", "").replace("http://", "")
-        return url.split("/")[0]
+        u = normalize_url(url)
+        u = u.replace("https://", "")
+        domain = u.split("/")[0]
+        if domain.startswith("www."):
+            domain = domain[4:]
+        return domain
 
     def is_bad_item(item: NewsItem) -> bool:
-        link = item.link.rstrip("/").lower()
+        link = normalize_url(item.link)
         title = item.title.lower()
 
-        if link in {u.lower() for u in bad_exact_urls}:
+        if link in {normalize_url(u) for u in bad_exact_urls}:
             return True
 
-        if "managingmadrid.com/real-madrid-cf-news" in link:
-            return True
+        # Managing Madrid のカテゴリ/一覧ページを除外
+        managing_categories = [
+            "/real-madrid-cf-news",
+            "/real-madrid-cf-transfer-talk",
+            "/real-madrid-cf-champions-league",
+        ]
+        if "managingmadrid.com/" in link:
+            if any(path in link for path in managing_categories) and "/20" not in link:
+                return True
 
-        if "managingmadrid.com/real-madrid-cf-transfer-talk" in link:
-            return True
-
+        # 一覧ページっぽいタイトルを除外
         bad_title_patterns = [
             "real madrid cf: news",
             "real madrid transfer news & rumors",
+            "real madrid cf: champions league",
             "a real madrid community",
             "la liga news",
         ]
@@ -601,12 +612,13 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: in
 
         return False
 
+    # まず不要候補を除外
     filtered = [item for item in items if not is_bad_item(item)]
 
     picked = []
     domain_counts = {}
 
-    # 1周目: 同じドメインは最大2件まで
+    # 1周目: 同一ドメインは最大2件まで
     for item in filtered:
         domain = get_domain(item.link)
         if domain_counts.get(domain, 0) >= max_per_domain:
@@ -618,13 +630,12 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: in
         if len(picked) >= limit:
             return picked
 
-    # 2周目: まだ5件に足りなければ制限を外して追加
+    # 2周目: 5件に足りなければ制限を外して補充
     for item in filtered:
         if item in picked:
             continue
 
         picked.append(item)
-
         if len(picked) >= limit:
             break
 
