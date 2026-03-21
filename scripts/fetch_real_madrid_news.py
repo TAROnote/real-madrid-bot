@@ -345,9 +345,7 @@ def collect_all_items() -> List[NewsItem]:
 def build_note_md(items: List[NewsItem]) -> str:
     date_str = now_jst().strftime("%Y-%m-%d")
     lines = [
-        f"# レアル・マドリードニュースまとめ（{date_str}）",
-        "",
-        "今日のレアル・マドリード関連ニュースを自動収集して整理しました。",
+        f"📰 レアル・マドリードニュースまとめ（{date_str}）",
         "",
     ]
 
@@ -355,36 +353,31 @@ def build_note_md(items: List[NewsItem]) -> str:
         lines += [
             "本日は有力な更新を取得できませんでした。",
             "",
-            "ソース確認:",
-            "- Real Madrid Official",
-            "- Managing Madrid",
-            "- Football España",
-            "- Google News RSS",
+            "🧾 記事全体のコメント",
+            "",
+            "今日は大きな更新が少ない一日でした。まずは取得元が正常に動いているかを確認して、次の改善につなげます。",
         ]
         return "\n".join(lines)
 
     top_items = items[:5]
+    number_map = ["①", "②", "③", "④", "⑤"]
 
-    for i, item in enumerate(top_items, start=1):
+    for i, item in enumerate(top_items):
         lines += [
-            f"## {i}. {item.title}",
-            f"**媒体**: {item.source}",
-        ]
-        if item.published:
-            lines.append(f"**公開日時**: {item.published}")
-        if item.summary:
-            lines.append(f"**要点**: {trim_summary(item.summary, 220)}")
-        lines += [
-            f"**リンク**: {item.link}",
+            f"{number_map[i]} {item.title}",
+            "",
+            "🔗 リンク",
+            item.link,
+            "",
+            "要約",
+            trim_summary(item.summary, 160) if item.summary else "要約は未生成です。リンク先で本文を確認してください。",
             "",
         ]
 
     lines += [
-        "---",
+        "🧾 記事全体のコメント",
         "",
-        "## 一言まとめ",
-        "今日は公式発表・専門メディア・ニュース集約の3方向から主要トピックを確認。",
-        "投稿前に、最上位1〜2本だけ本文を開いて内容確認すると精度が上がります。",
+        "まずは公式サイトと主要メディアから、レアル関連の主要トピックを安定して拾える状態に戻した。ここから必要な要素だけを足していくのが一番安全。",
     ]
     return "\n".join(lines)
 
