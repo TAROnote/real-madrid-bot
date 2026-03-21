@@ -220,6 +220,63 @@ def generate_summary(item: NewsItem, max_len: int = 140) -> str:
 
     return result
 
+def translate_title_simple(title: str) -> str:
+    t = clean_text(title)
+
+    rules = [
+        ("New Bernabéu", "新ベルナベウに関するニュース"),
+        ("Bernabéu", "ベルナベウに関するニュース"),
+        ("training", "トレーニングに関するニュース"),
+        ("Training", "トレーニングに関するニュース"),
+        ("Valverde", "バルベルデに関するニュース"),
+        ("Courtois", "クルトワに関するニュース"),
+        ("Florentino Pérez", "フロレンティーノ・ペレス会長に関するニュース"),
+        ("match", "試合に関するニュース"),
+        ("Match", "試合に関するニュース"),
+        ("injury", "負傷に関するニュース"),
+        ("Injury", "負傷に関するニュース"),
+    ]
+
+    for en, ja in rules:
+        if en in t:
+            return ja
+
+    return "レアル・マドリード関連ニュース"
+
+
+def translate_summary_simple(title: str, en_summary: str) -> str:
+    text = clean_text(en_summary)
+    tl = clean_text(title).lower()
+    sl = text.lower()
+
+    if "bernabeu" in tl or "bernabéu" in tl:
+        return "新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。"
+
+    if "training" in tl or "train" in tl:
+        return "チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。"
+
+    if "valverde" in tl:
+        return "バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。"
+
+    if "courtois" in tl or "injury" in tl or "medical" in tl:
+        return "負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。"
+
+    if "florentino" in tl or "perez" in tl:
+        return "クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。"
+
+    if "match" in tl or "preview" in tl or "derby" in tl:
+        return "試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。"
+
+    if "real madrid" in sl:
+        return "レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。"
+
+    return "この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。"
+
+def build_bilingual_summary(item: NewsItem, max_len: int = 150) -> tuple[str, str]:
+    en_summary = generate_summary(item, max_len)
+    ja_summary = translate_summary_simple(item.title, en_summary)
+    return en_summary, ja_summary
+
 def fetch_google_news_rss(query: str, label: str, limit: int = 10) -> List[NewsItem]:
     url = (
         "https://news.google.com/rss/search?"
@@ -480,16 +537,23 @@ def build_note_md(items: List[NewsItem]) -> str:
     number_map = ["①", "②", "③", "④", "⑤"]
 
     for i, item in enumerate(top_items):
-        lines += [
-            f"{number_map[i]} {item.title}",
-            "",
-            "🔗 リンク",
-            item.link,
-            "",
-            "要約",
-            generate_summary(item, 150),
-            "",
-        ]
+    en_summary, ja_summary = build_bilingual_summary(item, 150)
+    ja_title = translate_title_simple(item.title)
+
+    lines += [
+        f"{number_map[i]} {item.title}",
+        ja_title,
+        "",
+        "🔗 リンク",
+        item.link,
+        "",
+        "要約（英語）",
+        en_summary,
+        "",
+        "要約（日本語）",
+        ja_summary,
+        "",
+    ]
 
     lines += [
         "🧾 記事全体のコメント",
