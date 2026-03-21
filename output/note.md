@@ -16,15 +16,7 @@ https://www.realmadrid.com/en-US/news/football/first-team/latest-news/valverde-j
 要約
 要約は未生成です。リンク先で本文を確認してください。
 
-③ The Real Madrid-Girona match will be played on Friday, April 10, at 9:00 pm CEST
-
-🔗 リンク
-https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-real-madrid-girona-se-jugara-el-viernes-10-de-abril-a-las-21-00-h-20-03-2026
-
-要約
-要約は未生成です。リンク先で本文を確認してください。
-
-④ Florentino Pérez: 'Real Madrid has an enormous gigantic legion of fans spread out all over the world'
+③ Florentino Pérez: 'Real Madrid has an enormous gigantic legion of fans spread out all over the world'
 
 🔗 リンク
 https://www.realmadrid.com/en-US/news/club/latest-news/florentino-perez-real-madrid-has-an-enormous-gigantic-legion-of-fans-spread-out-all-over-the-world
@@ -32,10 +24,18 @@ https://www.realmadrid.com/en-US/news/club/latest-news/florentino-perez-real-mad
 要約
 要約は未生成です。リンク先で本文を確認してください。
 
-⑤ Pirri, honorary president of Real Madrid
+④ Pirri, honorary president of Real Madrid
 
 🔗 リンク
 https://www.realmadrid.com/en-US/news/club/latest-news/pirri-honorary-president-of-real-madrid
+
+要約
+要約は未生成です。リンク先で本文を確認してください。
+
+⑤ Sports complex to be renamed Florentino Pérez Real Madrid City
+
+🔗 リンク
+https://www.realmadrid.com/en-US/news/club/latest-news/sports-complex-to-be-renamed-florentino-perez-real-madrid-city
 
 要約
 要約は未生成です。リンク先で本文を確認してください。
