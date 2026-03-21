@@ -1,30 +1,6 @@
 📰 レアル・マドリードニュースまとめ（2026-03-22）
 
-① New Bernabéu
-新ベルナベウに関するニュース
-
-🔗 リンク
-https://www.realmadrid.com/en-US/news/new-bernabeu
-
-要約（英語）
-La espectacular transformación del Bernabéu para la NFL Toda la actualidad del Santiago Bernabéu del siglo XXI No te lo puedes perder: el césped retr…
-
-要約（日本語）
-新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
-
-② Valverde, Mahou Five-Star Player for February
-バルベルデに関するニュース
-
-🔗 リンク
-https://www.realmadrid.com/en-US/news/football/first-team/latest-news/valverde-jugador-cinco-estrellas-mahou-de-febrero-19-03-2026
-
-要約（英語）
-Valverde has been chosen as the Mahou Five-Star Player for February. The midfielder received this award at the Ciudad Real Madrid in recognition of h…
-
-要約（日本語）
-バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
-
-③ Bellingham will be available for Madrid Derby against Atlético
+① Bellingham will be available for Madrid Derby against Atlético
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -36,7 +12,7 @@ Real Madrid star Jude Bellingham completed Friday’s training session with the 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-④ Real Madrid Boosted by Key Returns Ahead of Crucial Madrid Derby Clash
+② Real Madrid Boosted by Key Returns Ahead of Crucial Madrid Derby Clash
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -48,17 +24,41 @@ Bellingham back in training, Mbappé fully fit, and defensive reinforcements arr
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-⑤ Florentino Pérez: 'Real Madrid has an enormous gigantic legion of fans spread out all over the world'
-フロレンティーノ・ペレス会長に関するニュース
+③ Alvaro Arbeloa explains how Jude Bellingham will fit into his Real Madrid side – “I love these problems”
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.realmadrid.com/en-US/news/club/latest-news/florentino-perez-real-madrid-has-an-enormous-gigantic-legion-of-fans-spread-out-all-over-the-world
+https://www.football-espana.net/2026/03/21/alvaro-arbeloa-jude-bellingham-real-madrid
 
 要約（英語）
-Youth academy “Our youth academy is the best in the world. This was recently reflected in the CIES Football Observatory, in which we lead the ranking…
+Real Madrid are back in La Liga action on Sunday, as they host city rivals in a mouthwatering clash at the Bernabeu. Victory is imperative for Los Bl…
 
 要約（日本語）
-クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Diego Simeone praises Alvaro Arbeloa before Madrid derby – ‘He has that something extra’
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/21/simeone-arbeloa-bernabeu
+
+要約（英語）
+Atletico Madrid manager Diego Simeone has been complementary of his opposite number Alvaro Arbeloa, before traveling to the Bernabeu to face Real Mad…
+
+要約（日本語）
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+
+⑤ LALIGA EA SPORTS MIE 18.03.2026 | NOTICIAS ¿Dónde mirar Real Madrid contra Atlético de Madrid: ELDERBI de MADRID? Compartir
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.laliga.com/noticias/donde-ver-elderbi-de-madrid-real-madrid-vs-atletico-de-madrid
+
+要約（英語）
+LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 🧾 記事全体のコメント
 
