@@ -320,7 +320,7 @@ def collect_all_items() -> List[NewsItem]:
     extra_items = fetch_extra_sites()
     all_items.extend(extra_items)
     time.sleep(1)
-except Exception as e:
+    except Exception as e:
     print(f"[WARN] extra sites failed: {e}")
 
     try:
