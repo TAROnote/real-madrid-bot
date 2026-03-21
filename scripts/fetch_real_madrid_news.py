@@ -409,6 +409,9 @@ def fetch_football_espana(limit: int = 12) -> List[NewsItem]:
             link = "https://www.football-espana.net" + href
         else:
             link = href
+            
+        if link.rstrip("/") == "https://www.football-espana.net":
+            continue
 
         if not is_relevant(text, ""):
             continue
@@ -470,6 +473,7 @@ def fetch_extra_sites() -> List[NewsItem]:
                 "https://www.football-espana.net",
                 "https://en.as.com/soccer",
                 "https://www.skysports.com/la-liga",
+                "https://onefootball.com/en/competition/laliga-10",
                 ]:
                     continue
 
@@ -549,17 +553,29 @@ def collect_all_items() -> List[NewsItem]:
     return all_items[:15]
 
 def pick_diverse_items(items: List[NewsItem], limit: int = 5) -> List[NewsItem]:
+    bad_urls = {
+        "https://www.managingmadrid.com",
+        "https://www.football-espana.net",
+        "https://en.as.com/soccer",
+        "https://www.skysports.com/la-liga",
+        "https://onefootball.com/en/competition/laliga-10",
+        "https://www.laliga.com/laliga-easports",
+        "https://www.newsnow.co.uk/h/?search=La%2BLiga&lang=a",
+    }
+
+    filtered = [item for item in items if item.link.rstrip("/") not in bad_urls]
+
     picked = []
     used_sources = set()
 
-    for item in items:
+    for item in filtered:
         if item.source not in used_sources:
             picked.append(item)
             used_sources.add(item.source)
         if len(picked) >= limit:
             return picked
 
-    for item in items:
+    for item in filtered:
         if item not in picked:
             picked.append(item)
         if len(picked) >= limit:
