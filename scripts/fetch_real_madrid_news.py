@@ -156,13 +156,12 @@ def dedupe_items(items: List[NewsItem]) -> List[NewsItem]:
 
 def sort_items(items: List[NewsItem]) -> List[NewsItem]:
     def sort_key(item: NewsItem):
-        dt = parse_dt(item.published)
-        return dt or datetime(1970, 1, 1, tzinfo=timezone.utc)
+        dt = parse_dt(item.published) or datetime(1970, 1, 1, tzinfo=timezone.utc)
 
-         score = 0
+        score = 0
 
         if "realmadrid.com" in item.link:
-        score -= 1  # 少し下げる
+            score -= 1  # 少し下げる
         
         return (dt, score)
     
