@@ -24,29 +24,29 @@ Valverde has been chosen as the Mahou Five-Star Player for February. The midfiel
 要約（日本語）
 バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
 
-③ Real Madrid CF: Champions League
+③ Bellingham will be available for Madrid Derby against Atlético
 レアル・マドリード関連ニュース
 
 🔗 リンク
-http://www.managingmadrid.com/real-madrid-cf-champions-league
+https://www.managingmadrid.com/105610/bellingham-real-madrid-atletico-2026-derby-news
 
 要約（英語）
-Stories relating to Real Madrid in the UEFA Champions League.
+Real Madrid star Jude Bellingham completed Friday’s training session with the group and will almost certainly be available for Sunday’s Madrid Derby …
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-④ How Real Madrid Broke Manchester City’s Press
+④ Real Madrid Boosted by Key Returns Ahead of Crucial Madrid Derby Clash
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-champions-league/105487/how-real-madrid-broke-manchester-citys-press
+https://www.managingmadrid.com/real-madrid-cf-la-liga/105582/real-madrid-boosted-by-key-returns-ahead-of-crucial-madrid-derby-clash
 
 要約（英語）
-﻿Analysing Real Madrid In Possession Dynamics Against Manchester City In his post-match interview in Manchester after Real Madrid won at the Etihad, …
+Bellingham back in training, Mbappé fully fit, and defensive reinforcements arrive Real Madrid continued their preparations for Sunday’s Madrid derby…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
 ⑤ Florentino Pérez: 'Real Madrid has an enormous gigantic legion of fans spread out all over the world'
 フロレンティーノ・ペレス会長に関するニュース
