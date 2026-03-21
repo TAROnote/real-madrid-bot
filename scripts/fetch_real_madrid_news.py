@@ -561,7 +561,7 @@ def collect_all_items() -> List[NewsItem]:
 
     return all_items[:15]
 
-def pick_diverse_items(items: List[NewsItem], limit: int = 5) -> List[NewsItem]:
+def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: int = 2) -> List[NewsItem]:
     bad_exact_urls = {
         "https://www.managingmadrid.com",
         "https://www.football-espana.net",
@@ -572,25 +572,24 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5) -> List[NewsItem]:
         "https://www.newsnow.co.uk/h/?search=La%2BLiga&lang=a",
     }
 
+    def get_domain(url: str) -> str:
+        url = url.lower()
+        url = url.replace("https://", "").replace("http://", "")
+        return url.split("/")[0]
+
     def is_bad_item(item: NewsItem) -> bool:
         link = item.link.rstrip("/").lower()
         title = item.title.lower()
 
-        # 完全一致で除外
         if link in {u.lower() for u in bad_exact_urls}:
             return True
 
-        # Managing Madrid のカテゴリ/一覧ページ除外
         if "managingmadrid.com/real-madrid-cf-news" in link:
             return True
+
         if "managingmadrid.com/real-madrid-cf-transfer-talk" in link:
             return True
 
-        # URLに記事っぽさがないものを除外
-        if "managingmadrid.com" in link and "/20" not in link and "/real-madrid-cf-news" in link:
-            return True
-
-        # タイトルが一覧ページっぽいものを除外
         bad_title_patterns = [
             "real madrid cf: news",
             "real madrid transfer news & rumors",
@@ -605,18 +604,27 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5) -> List[NewsItem]:
     filtered = [item for item in items if not is_bad_item(item)]
 
     picked = []
-    used_sources = set()
+    domain_counts = {}
 
+    # 1周目: 同じドメインは最大2件まで
     for item in filtered:
-        if item.source not in used_sources:
-            picked.append(item)
-            used_sources.add(item.source)
+        domain = get_domain(item.link)
+        if domain_counts.get(domain, 0) >= max_per_domain:
+            continue
+
+        picked.append(item)
+        domain_counts[domain] = domain_counts.get(domain, 0) + 1
+
         if len(picked) >= limit:
             return picked
 
+    # 2周目: まだ5件に足りなければ制限を外して追加
     for item in filtered:
-        if item not in picked:
-            picked.append(item)
+        if item in picked:
+            continue
+
+        picked.append(item)
+
         if len(picked) >= limit:
             break
 
