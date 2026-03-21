@@ -12,17 +12,17 @@ La espectacular transformación del Bernabéu para la NFL Toda la actualidad del
 要約（日本語）
 新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
-② Real Madrid Transfer News & Rumors
+② Real Madrid CF: Champions League
 レアル・マドリード関連ニュース
 
 🔗 リンク
-http://www.managingmadrid.com/real-madrid-cf-transfer-talk
+http://www.managingmadrid.com/real-madrid-cf-champions-league
 
 要約（英語）
-記事の詳細はリンク先で確認してください。
+Stories relating to Real Madrid in the UEFA Champions League.
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ Valverde, Mahou Five-Star Player for February
 バルベルデに関するニュース
