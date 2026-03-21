@@ -12,14 +12,14 @@ La espectacular transformación del Bernabéu para la NFL Toda la actualidad del
 要約（日本語）
 新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
-② A Real Madrid Community Managing Madrid March 21, 2026
+② Real Madrid CF: News
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/
+http://www.managingmadrid.com/real-madrid-cf-news
 
 要約（英語）
-Dean Huijsen masterclass vs Manchester City. Arda Güler stepped up BIG TIME vs Manchester City. Some people are actually unhappy that Vini scored two…
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
