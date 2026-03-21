@@ -433,6 +433,12 @@ def fetch_extra_sites() -> List[NewsItem]:
         ("NewsNow", "https://www.newsnow.co.uk/h/?search=La%2BLiga&lang=a", "https://www.newsnow.co.uk"),
     ]
 
+    extra_keywords = [
+        "madrid", "real madrid", "bellingham", "vinicius", "vini", "rodrygo",
+        "mbappe", "valverde", "courtois", "ancelotti", "florentino",
+        "camavinga", "tchouameni", "modric", "guler", "endrick", "bernabeu"
+    ]
+
     items: List[NewsItem] = []
 
     for label, url, base in sources:
@@ -440,13 +446,15 @@ def fetch_extra_sites() -> List[NewsItem]:
             html = get_html(url)
             soup = BeautifulSoup(html, "lxml")
 
+            source_count = 0
+
             for a in soup.select("a[href]"):
                 href = a.get("href", "").strip()
                 text = clean_text(a.get_text(" ", strip=True))
 
                 if not href or not text:
                     continue
-                if len(text) < 15:
+                if len(text) < 10:
                     continue
 
                 if href.startswith("/"):
@@ -457,7 +465,8 @@ def fetch_extra_sites() -> List[NewsItem]:
                 if not link.startswith("http"):
                     continue
 
-                if not is_relevant(text, "") and "madrid" not in text.lower():
+                hay = text.lower()
+                if not any(k in hay for k in extra_keywords):
                     continue
 
                 items.append(
@@ -465,13 +474,18 @@ def fetch_extra_sites() -> List[NewsItem]:
                         title=text,
                         link=link,
                         source=label,
+                        published="",
+                        summary="",
                     )
                 )
+                source_count += 1
+
+            print(f"[INFO] {label}: {source_count} items")
 
         except Exception as e:
             print(f"[WARN] {label} failed: {e}")
 
-    return dedupe_items(items)[:20]
+    return dedupe_items(items)[:40]
 
 def collect_all_items() -> List[NewsItem]:
     all_items: List[NewsItem] = []
@@ -514,26 +528,35 @@ def collect_all_items() -> List[NewsItem]:
     all_items = dedupe_items(all_items)
     all_items = [item for item in all_items if "news.google.com" not in item.link]
     all_items = sort_items(all_items)
+
+    source_summary = {}
+    for item in all_items:
+        source_summary[item.source] = source_summary.get(item.source, 0) + 1
+
+    print("[INFO] source counts:", source_summary)
+
     return all_items[:15]
 
-def build_note_md(items: List[NewsItem]) -> str:
-    date_str = now_jst().strftime("%Y-%m-%d")
-    lines = [
-        f"📰 レアル・マドリードニュースまとめ（{date_str}）",
-        "",
-    ]
+def pick_diverse_items(items: List[NewsItem], limit: int = 5) -> List[NewsItem]:
+    picked = []
+    used_sources = set()
 
-    if not items:
-        lines += [
-            "本日は有力な更新を取得できませんでした。",
-            "",
-            "🧾 記事全体のコメント",
-            "",
-            "今日は大きな更新が少ない一日でした。まずは取得元が正常に動いているかを確認して、次の改善につなげます。",
-        ]
-        return "\n".join(lines)
+    for item in items:
+        if item.source not in used_sources:
+            picked.append(item)
+            used_sources.add(item.source)
+        if len(picked) >= limit:
+            return picked
 
-    top_items = items[:5]
+    for item in items:
+        if item not in picked:
+            picked.append(item)
+        if len(picked) >= limit:
+            break
+
+    return picked
+
+    top_items = pick_diverse_items(items, 5)
     number_map = ["①", "②", "③", "④", "⑤"]
 
     for i, item in enumerate(top_items):
