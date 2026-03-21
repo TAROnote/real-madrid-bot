@@ -373,6 +373,9 @@ def fetch_managing_madrid(limit: int = 12) -> List[NewsItem]:
         if link.rstrip("/") == "https://www.managingmadrid.com":
             continue
 
+        if "managingmadrid.com/real-madrid-cf-news" in link.lower():
+            continue
+
         if not is_relevant(text, ""):
             continue
 
@@ -553,7 +556,7 @@ def collect_all_items() -> List[NewsItem]:
     return all_items[:15]
 
 def pick_diverse_items(items: List[NewsItem], limit: int = 5) -> List[NewsItem]:
-    bad_urls = {
+    bad_exact_urls = {
         "https://www.managingmadrid.com",
         "https://www.football-espana.net",
         "https://en.as.com/soccer",
@@ -563,7 +566,34 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5) -> List[NewsItem]:
         "https://www.newsnow.co.uk/h/?search=La%2BLiga&lang=a",
     }
 
-    filtered = [item for item in items if item.link.rstrip("/") not in bad_urls]
+    def is_bad_item(item: NewsItem) -> bool:
+        link = item.link.rstrip("/").lower()
+        title = item.title.lower()
+
+        # 完全一致で除外
+        if link in {u.lower() for u in bad_exact_urls}:
+            return True
+
+        # Managing Madrid のカテゴリ/一覧ページ除外
+        if "managingmadrid.com/real-madrid-cf-news" in link:
+            return True
+
+        # URLに記事っぽさがないものを除外
+        if "managingmadrid.com" in link and "/20" not in link and "/real-madrid-cf-news" in link:
+            return True
+
+        # タイトルが一覧ページっぽいものを除外
+        bad_title_patterns = [
+            "real madrid cf: news",
+            "a real madrid community",
+            "la liga news",
+        ]
+        if any(p in title for p in bad_title_patterns):
+            return True
+
+        return False
+
+    filtered = [item for item in items if not is_bad_item(item)]
 
     picked = []
     used_sources = set()
