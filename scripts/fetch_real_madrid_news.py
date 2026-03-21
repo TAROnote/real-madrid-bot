@@ -376,7 +376,7 @@ def fetch_managing_madrid(limit: int = 12) -> List[NewsItem]:
         if "managingmadrid.com/real-madrid-cf-transfer-talk" in link.lower():
             continue
 
-        if "managingmadrid.com/real-madrid-cf-news" in link.lower():
+        if "managingmadrid.com/real-madrid-cf-champions-league" in link.lower():
             continue
 
         if not is_relevant(text, ""):
