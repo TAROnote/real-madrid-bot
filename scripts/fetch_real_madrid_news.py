@@ -31,18 +31,77 @@ def resolve_google_news_url(url: str) -> str:
     except Exception:
         return url
 KEYWORDS = [
+    # クラブ
     "real madrid",
     "madridista",
+    "los blancos",
+    "rmcf",
     "bernabéu",
     "bernabeu",
-    "vinicius",
-    "bellingham",
-    "mbappe",
-    "rodrygo",
-    "valverde",
-    "courtois",
+
+    # 監督・首脳
     "ancelotti",
-    "xabi alonso",
+    "carlo ancelotti",
+    "florentino",
+    "florentino perez",
+
+    # GK
+    "courtois",
+    "lunin",
+
+    # DF
+    "carvajal",
+    "lucas vazquez",
+    "vazquez",
+    "rudiger",
+    "rüdiger",
+    "militao",
+    "éder militão",
+    "alaba",
+    "mendy",
+    "fran garcia",
+
+    # MF
+    "bellingham",
+    "camavinga",
+    "tchouameni",
+    "modric",
+    "kroos",
+    "valverde",
+    "arda guler",
+    "guler",
+    "ceballos",
+
+    # FW
+    "vinicius",
+    "vinicius jr",
+    "vini jr",
+    "rodrygo",
+    "mbappe",
+    "endrick",
+    "brahim",
+    "joselu",
+
+    # 若手・周辺
+    "nico paz",
+    "latasa",
+    "marvel",
+
+    # 試合・文脈
+    "real madrid vs",
+    "madrid derby",
+    "el clasico",
+    "ucl",
+    "champions league",
+    "la liga",
+]
+EXCLUDE_KEYWORDS = [
+    "real sociedad",
+    "betis",
+    "sevilla",
+    "girona",
+    "osasuna",
+    "barcelona femeni",
 ]
 
 @dataclass
@@ -76,6 +135,12 @@ def parse_dt(value: Optional[str]) -> Optional[datetime]:
 
 def is_relevant(title: str, summary: str = "") -> bool:
     hay = f"{title} {summary}".lower()
+
+    # ❌ 除外
+    if any(ex in hay for ex in EXCLUDE_KEYWORDS):
+        return False
+
+    # ✅ 含まれていればOK
     return any(k in hay for k in KEYWORDS)
 
 def dedupe_items(items: List[NewsItem]) -> List[NewsItem]:
@@ -283,7 +348,7 @@ def fetch_extra_sites() -> List[NewsItem]:
                 if not link.startswith("http"):
                     continue
 
-                if not is_relevant(text, ""):
+                if not is_relevant(text, "") and "madrid" not in text.lower():
                     continue
 
                 items.append(
