@@ -556,6 +556,24 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5) -> List[NewsItem]:
 
     return picked
 
+
+def build_note_md(items: List[NewsItem]) -> str:
+    date_str = now_jst().strftime("%Y-%m-%d")
+    lines = [
+        f"📰 レアル・マドリードニュースまとめ（{date_str}）",
+        "",
+    ]
+
+    if not items:
+        lines += [
+            "本日は有力な更新を取得できませんでした。",
+            "",
+            "🧾 記事全体のコメント",
+            "",
+            "今日は大きな更新が少ない一日でした。まずは取得元が正常に動いているかを確認して、次の改善につなげます。",
+        ]
+        return "\n".join(lines)
+
     top_items = pick_diverse_items(items, 5)
     number_map = ["①", "②", "③", "④", "⑤"]
 
