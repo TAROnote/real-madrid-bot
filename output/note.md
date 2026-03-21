@@ -12,11 +12,11 @@ La espectacular transformación del Bernabéu para la NFL Toda la actualidad del
 要約（日本語）
 新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
-② Real Madrid CF: News
+② Real Madrid Transfer News & Rumors
 レアル・マドリード関連ニュース
 
 🔗 リンク
-http://www.managingmadrid.com/real-madrid-cf-news
+http://www.managingmadrid.com/real-madrid-cf-transfer-talk
 
 要約（英語）
 記事の詳細はリンク先で確認してください。
