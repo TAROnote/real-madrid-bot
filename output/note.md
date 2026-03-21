@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-22）
 
-① Bellingham will be available for Madrid Derby against Atlético
+① Managing Madrid Podcast: Real Madrid vs Atletico Madrid, PREVIEW, La Liga 2025 - 2026
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-podcast/105617/managing-madrid-podcast-real-madrid-vs-atletico-madrid-preview-la-liga-2025-2026
+
+要約（英語）
+Mehed is joined by Jeremy of That Atleti Podcast On this Members-only episode of the Managing Madrid Podcast , Mehedi Hassan and Jeremy Beren discuss…
+
+要約（日本語）
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+
+② Bellingham will be available for Madrid Derby against Atlético
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ Real Madrid star Jude Bellingham completed Friday’s training session with the 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-② Real Madrid Boosted by Key Returns Ahead of Crucial Madrid Derby Clash
+③ ‘Antonio Rudiger is an example for young players’ – Real Madrid manager Alvaro Arbeloa
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-la-liga/105582/real-madrid-boosted-by-key-returns-ahead-of-crucial-madrid-derby-clash
+https://www.football-espana.net/2026/03/21/rudiger-arbeloa-example
 
 要約（英語）
-Bellingham back in training, Mbappé fully fit, and defensive reinforcements arrive Real Madrid continued their preparations for Sunday’s Madrid derby…
+Real Madrid manager Alvaro Arbeloa has defended Antonio Rudiger amid criticism over his playing style, and uncertainty over his future. The German ve…
 
 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Alvaro Arbeloa explains how Jude Bellingham will fit into his Real Madrid side – “I love these problems”
+④ Alvaro Arbeloa explains how Jude Bellingham will fit into his Real Madrid side – “I love these problems”
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid are back in La Liga action on Sunday, as they host city rivals in a 
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Diego Simeone praises Alvaro Arbeloa before Madrid derby – ‘He has that something extra’
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/21/simeone-arbeloa-bernabeu
-
-要約（英語）
-Atletico Madrid manager Diego Simeone has been complementary of his opposite number Alvaro Arbeloa, before traveling to the Bernabeu to face Real Mad…
-
-要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
 ⑤ LALIGA EA SPORTS MIE 18.03.2026 | NOTICIAS ¿Dónde mirar Real Madrid contra Atlético de Madrid: ELDERBI de MADRID? Compartir
 レアル・マドリード関連ニュース
