@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-23）
 
-① Real Madrid announce squad for La Liga match against Atlético de Madrid
+① CONFIRMED lineups: Real Madrid vs Atlético de Madrid, 2026 La Liga
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/105644/real-madrid-vs-atletico-de-madrid-2026-la-liga-live-online-stream
+
+要約（英語）
+Real Madrid have published their starting lineup for the upcoming match against Atlético de Madrid in La Liga. Los Blancos need the three points to k…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Real Madrid announce squad for La Liga match against Atlético de Madrid
 試合に関するニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ Real Madrid have published their squad list for Sunday’s match against Atléti
 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
-
-② Real Madrid vs Atlético de Madrid 2026 live stream: Time, TV channels and how to watch La Liga online
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/105638/real-madrid-atletico-madrid-2026-live-stream-time-tv-channels-and-how-to-watch-la-liga-online
-
-要約（英語）
-Real Madrid host Atlético de Madrid in what’s almost certainly going to be the last Madrid Derby of the season (both teams could potentially meet in …
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ CTA punish referee following scathing Real Madrid comments
 レアル・マドリード関連ニュース
