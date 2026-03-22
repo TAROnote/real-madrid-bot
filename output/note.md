@@ -24,26 +24,26 @@ Real Madrid star Jude Bellingham completed Friday’s training session with the 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-③ ‘Antonio Rudiger is an example for young players’ – Real Madrid manager Alvaro Arbeloa
+③ Liverpool and Chelsea hold talks with agent of €50m Real Madrid player
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/21/rudiger-arbeloa-example
+https://www.football-espana.net/2026/03/22/liverpool-chelsea-talks-real-madrid
 
 要約（英語）
-Real Madrid manager Alvaro Arbeloa has defended Antonio Rudiger amid criticism over his playing style, and uncertainty over his future. The German ve…
+Real Madrid have regularly encountered Premier League interest in their players, and they are doing so again in the lead-up to the summer. Eduardo Ca…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Alvaro Arbeloa explains how Jude Bellingham will fit into his Real Madrid side – “I love these problems”
+④ Juventus readying offer for Real Madrid defender following agent talks
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/21/alvaro-arbeloa-jude-bellingham-real-madrid
+https://www.football-espana.net/2026/03/22/juventus-offer-real-madrid-defender
 
 要約（英語）
-Real Madrid are back in La Liga action on Sunday, as they host city rivals in a mouthwatering clash at the Bernabeu. Victory is imperative for Los Bl…
+Real Madrid will be busy this summer, and among their plans is to bring in at least one new central defender. This is necessary due to the expected d…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
