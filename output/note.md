@@ -1,25 +1,25 @@
 📰 レアル・マドリードニュースまとめ（2026-03-22）
 
-① Referee named for Madrid Derby between Real Madrid and Atlético de Madrid
-レアル・マドリード関連ニュース
+① Real Madrid announce squad for La Liga match against Atlético de Madrid
+試合に関するニュース
 
 🔗 リンク
-https://www.managingmadrid.com/105635/real-madrid-atletico-de-madrid-2026-referee
+https://www.managingmadrid.com/105641/real-madrid-announce-squad-for-la-liga-match-against-atletico-de-madrid
 
 要約（英語）
-The Spanish Football Federation have appointed José Luis Munuera Montero as the man in charge of Sunday’s Madrid Derby between Real Madrid and Atléti…
+Real Madrid have published their squad list for Sunday’s match against Atlético de Madrid in La Liga. REAL MADRID SQUAD LIST: Goalkeepers : Lunin, Se…
 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-② Real Madrid vs Atlético de Madrid, 2026 La Liga: Predicted lineups
+② Real Madrid vs Atlético de Madrid 2026 live stream: Time, TV channels and how to watch La Liga online
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/105632/real-madrid-vs-atletico-de-madrid-2026-la-liga-lineups
+https://www.managingmadrid.com/105638/real-madrid-atletico-madrid-2026-live-stream-time-tv-channels-and-how-to-watch-la-liga-online
 
 要約（英語）
-Real Madrid host Atlético de Madrid in what’s expected to be the last Madrid Derby of the season. Mbappé will likely return to the starting lineup wh…
+Real Madrid host Atlético de Madrid in what’s almost certainly going to be the last Madrid Derby of the season (both teams could potentially meet in …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
@@ -48,7 +48,7 @@ Real Madrid will be busy this summer, and among their plans is to bring in at le
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-⑤ LALIGA EA SPORTS MIE 18.03.2026 | NOTICIAS ¿Dónde mirar Real Madrid contra Atlético de Madrid: ELDERBI de MADRID? Compartir
+⑤ LALIGA EA SPORTS MIÉ 18.03.2026 | NOTICIAS ¿Dónde mirar Real Madrid contra Atlético de Madrid: ELDERBI de MADRID? Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
