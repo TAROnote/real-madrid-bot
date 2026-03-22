@@ -1,28 +1,28 @@
 📰 レアル・マドリードニュースまとめ（2026-03-22）
 
-① Managing Madrid Podcast: Real Madrid vs Atletico Madrid, PREVIEW, La Liga 2025 - 2026
+① Referee named for Madrid Derby between Real Madrid and Atlético de Madrid
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/105617/managing-madrid-podcast-real-madrid-vs-atletico-madrid-preview-la-liga-2025-2026
+https://www.managingmadrid.com/105635/real-madrid-atletico-de-madrid-2026-referee
 
 要約（英語）
-Mehed is joined by Jeremy of That Atleti Podcast On this Members-only episode of the Managing Madrid Podcast , Mehedi Hassan and Jeremy Beren discuss…
+The Spanish Football Federation have appointed José Luis Munuera Montero as the man in charge of Sunday’s Madrid Derby between Real Madrid and Atléti…
 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-② Bellingham will be available for Madrid Derby against Atlético
+② Real Madrid vs Atlético de Madrid, 2026 La Liga: Predicted lineups
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/105610/bellingham-real-madrid-atletico-2026-derby-news
+https://www.managingmadrid.com/105632/real-madrid-vs-atletico-de-madrid-2026-la-liga-lineups
 
 要約（英語）
-Real Madrid star Jude Bellingham completed Friday’s training session with the group and will almost certainly be available for Sunday’s Madrid Derby …
+Real Madrid host Atlético de Madrid in what’s expected to be the last Madrid Derby of the season. Mbappé will likely return to the starting lineup wh…
 
 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ Liverpool and Chelsea hold talks with agent of €50m Real Madrid player
 レアル・マドリード関連ニュース
