@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-03-22）
+📰 レアル・マドリードニュースまとめ（2026-03-23）
 
 ① Real Madrid announce squad for La Liga match against Atlético de Madrid
 試合に関するニュース
@@ -24,7 +24,19 @@ Real Madrid host Atlético de Madrid in what’s almost certainly going to be th
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Liverpool and Chelsea hold talks with agent of €50m Real Madrid player
+③ CTA punish referee following scathing Real Madrid comments
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/22/cta-punish-referee-following-scathing-real-madrid-comments
+
+要約（英語）
+Over the last three years, Real Madrid have been very outspoken regarding the Negreira case, which remains a legal matter. Barcelona stand accused of…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Liverpool and Chelsea hold talks with agent of €50m Real Madrid player
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/03/22/liverpool-chelsea-talks-real-madrid
 
 要約（英語）
 Real Madrid have regularly encountered Premier League interest in their players, and they are doing so again in the lead-up to the summer. Eduardo Ca…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Juventus readying offer for Real Madrid defender following agent talks
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/22/juventus-offer-real-madrid-defender
-
-要約（英語）
-Real Madrid will be busy this summer, and among their plans is to bring in at least one new central defender. This is necessary due to the expected d…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
