@@ -24,29 +24,29 @@ Real Madrid have published their squad list for Sunday’s match against Atléti
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-③ CTA punish referee following scathing Real Madrid comments
+③ WATCH: Nahuel Molina scores wondergoal before Vinicius Junior re-establishes Real Madrid lead
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/22/cta-punish-referee-following-scathing-real-madrid-comments
+https://www.football-espana.net/2026/03/22/real-madrid-atletico-la-liga-goal-3
 
 要約（英語）
-Over the last three years, Real Madrid have been very outspoken regarding the Negreira case, which remains a legal matter. Barcelona stand accused of…
+Atletico Madrid have responded to conceding twice in five minutes to Real Madrid by bringing themselves back level at the Bernabeu. Alvaro Arbeloa’s …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Liverpool and Chelsea hold talks with agent of €50m Real Madrid player
-レアル・マドリード関連ニュース
+④ WATCH: Vinicius Junior brings Real Madrid level in Madrid derby before Fede Valverde completes comeback
+バルベルデに関するニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/22/liverpool-chelsea-talks-real-madrid
+https://www.football-espana.net/2026/03/22/real-madrid-atletico-la-liga-goal-2
 
 要約（英語）
-Real Madrid have regularly encountered Premier League interest in their players, and they are doing so again in the lead-up to the summer. Eduardo Ca…
+Real Madrid trailed at half time in the Madrid derby, but soon into the second period, they have managed to complete a fine comeback at the Bernabeu.…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
 
 ⑤ LALIGA EA SPORTS MIÉ 18.03.2026 | NOTICIAS ¿Dónde mirar Real Madrid contra Atlético de Madrid: ELDERBI de MADRID? Compartir
 レアル・マドリード関連ニュース
