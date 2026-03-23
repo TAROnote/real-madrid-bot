@@ -1,6 +1,18 @@
-📰 レアル・マドリードニュースまとめ（2026-03-23）
+📰 レアル・マドリードニュースまとめ（2026-03-24）
 
-① Player Ratings: Real Madrid 3-2 Atletico Madrid
+① Real Madrid to appeal Valverde’s red card
+バルベルデに関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/105681/real-madrid-valverde-appeal-2026-news
+
+要約（英語）
+Real Madrid are set to appeal Fede Valverde’s red card during Sunday’s Madrid Derby against Atlético de Madrid. Valverde tackled Álex Baena and the c…
+
+要約（日本語）
+バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
+
+② Player Ratings: Real Madrid 3-2 Atletico Madrid
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,41 +24,29 @@ Player Ratings: Real Madrid 3-2 Atletico Madrid Andriy Lunin: 7 His distribution
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Managing Madrid Podcast: Real Madrid 3 - 2 Atletico Madrid, Post-game Reaction, La Liga 2025 - 2026
+③ Marcos Llorente and Johnny Cardoso baffled by ‘different rules for different teams’ in Madrid derby
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/105669/managing-madrid-podcast-real-madrid-3-2-atletico-madrid-post-game-reaction-la-liga-2025-2026
+https://www.football-espana.net/2026/03/23/marcos-llorente-and-johnny-cardoso-baffled-by-different-rules-for-different-teams-in-madrid-derby
 
 要約（英語）
-Kiyan’s thoughts directly from the Bernabeu On this ⁠ Members-only episode of the Managing Madrid Podcast ⁠, Kiyan Sobhani gives his thoughts directl…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-③ Trent Alexander-Arnold benching for Madrid derby was Alvaro Arbeloa punishment
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/23/trent-alexander-arnold-dropped-madrid-derby
-
-要約（英語）
-Real Madrid may have won the Madrid derby 3-2 on Sunday, but Alvaro Arbeloa’s team selection did confuse supporters. Trent Alexander-Arnold and Kylia…
+Atletico Madrid duo Marcos Llorente and Johnny Cardoso have complained of uneven officiating during the Madrid derby, after Real Madrid ran out 3-2 w…
 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-④ Real Madrid manager Alvaro Arbeloa disagrees with Fede Valverde red card decision
-バルベルデに関するニュース
+④ Diego Simeone gives keys to Atletico Madrid loss to Real Madrid, avoids blaming referee
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/22/real-madrid-atletico-la-liga-alvaro-arbeloa-reaction
+https://www.football-espana.net/2026/03/23/diego-simeone-gives-keys-to-atletico-madrid-loss-to-real-madrid-avoids-blaming-referee
 
 要約（英語）
-Real Madrid secured an important 3-2 victory over Atletico Madrid on Sunday, as they kept themselves in the La Liga title race. They had to do it the…
+Atletico Madrid manager Diego Simeone refused to blame the refereeing for his side’s defeat to Real Madrid in the derby clash. The officiating, as is…
 
 要約（日本語）
-バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA EA SPORTS DOM 22.03.2026 | RESUMEN DE PARTIDO El Real Madrid se lleva El Derbi de Madrid Compartir
 レアル・マドリード関連ニュース
