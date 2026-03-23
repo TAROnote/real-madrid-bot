@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-24）
 
-① Real Madrid to appeal Valverde’s red card
+① “Vinicius and Valverde have assumed the leadership roles in absence of Mbappe and Bellingham”
+バルベルデに関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/real-madrid-cf-players/105687/vinicius-and-valverde-have-assumed-the-leadership-roles-in-absence-of-mbappe-and-bellingham
+
+要約（英語）
+Real Madrid’s recent run of form continues to draw praise across Spanish radio, with Onda Cero’s Radio Estadio Noche program highlighting both the te…
+
+要約（日本語）
+バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
+
+② Real Madrid to appeal Valverde’s red card
 バルベルデに関するニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ Real Madrid are set to appeal Fede Valverde’s red card during Sunday’s Madri
 
 要約（日本語）
 バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
-
-② Player Ratings: Real Madrid 3-2 Atletico Madrid
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-la-liga/105672/player-ratings-real-madrid-3-2-atletico-madrid
-
-要約（英語）
-Player Ratings: Real Madrid 3-2 Atletico Madrid Andriy Lunin: 7 His distribution needed to be better, and he nearly gifted Atletico a goal with one p…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ Marcos Llorente and Johnny Cardoso baffled by ‘different rules for different teams’ in Madrid derby
 レアル・マドリード関連ニュース
