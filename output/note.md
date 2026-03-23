@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-24）
 
-① “Vinicius and Valverde have assumed the leadership roles in absence of Mbappe and Bellingham”
+① Managing Madrid Podcast: Can Real Madrid Win The Champions League? Who Starts When Everyone Is Healthy?
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-podcast/105690/managing-madrid-podcast-can-real-madrid-win-the-champions-league-who-starts-when-everyone-is-healthy
+
+要約（英語）
+On this episode of the Managing Madrid Podcast, Kiyan Sobhani is joined by Sara Poraria of Sporty TV to discuss: - Real Madrid’s chances of winning t…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② “Vinicius and Valverde have assumed the leadership roles in absence of Mbappe and Bellingham”
 バルベルデに関するニュース
 
 🔗 リンク
@@ -8,18 +20,6 @@ https://www.managingmadrid.com/real-madrid-cf-players/105687/vinicius-and-valver
 
 要約（英語）
 Real Madrid’s recent run of form continues to draw praise across Spanish radio, with Onda Cero’s Radio Estadio Noche program highlighting both the te…
-
-要約（日本語）
-バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
-
-② Real Madrid to appeal Valverde’s red card
-バルベルデに関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/105681/real-madrid-valverde-appeal-2026-news
-
-要約（英語）
-Real Madrid are set to appeal Fede Valverde’s red card during Sunday’s Madrid Derby against Atlético de Madrid. Valverde tackled Álex Baena and the c…
 
 要約（日本語）
 バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
