@@ -48,11 +48,11 @@ Real Madrid secured an important 3-2 victory over Atletico Madrid on Sunday, as 
 要約（日本語）
 バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
 
-⑤ LALIGA EA SPORTS MIE 18.03.2026 | NOTICIAS ¿Dónde mirar Real Madrid contra Atlético de Madrid: ELDERBI de MADRID? Compartir
+⑤ LALIGA EA SPORTS DOM 22.03.2026 | RESUMEN DE PARTIDO El Real Madrid se lleva El Derbi de Madrid Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.laliga.com/noticias/donde-ver-elderbi-de-madrid-real-madrid-vs-atletico-de-madrid
+https://www.laliga.com/videos/el-real-madrid-se-lleva-el-derbi-de-madrid
 
 要約（英語）
 LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
