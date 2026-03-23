@@ -1,54 +1,54 @@
 📰 レアル・マドリードニュースまとめ（2026-03-23）
 
-① CONFIRMED lineups: Real Madrid vs Atlético de Madrid, 2026 La Liga
+① Player Ratings: Real Madrid 3-2 Atletico Madrid
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/105644/real-madrid-vs-atletico-de-madrid-2026-la-liga-live-online-stream
+https://www.managingmadrid.com/real-madrid-cf-la-liga/105672/player-ratings-real-madrid-3-2-atletico-madrid
 
 要約（英語）
-Real Madrid have published their starting lineup for the upcoming match against Atlético de Madrid in La Liga. Los Blancos need the three points to k…
+Player Ratings: Real Madrid 3-2 Atletico Madrid Andriy Lunin: 7 His distribution needed to be better, and he nearly gifted Atletico a goal with one p…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Real Madrid announce squad for La Liga match against Atlético de Madrid
-試合に関するニュース
+② Managing Madrid Podcast: Real Madrid 3 - 2 Atletico Madrid, Post-game Reaction, La Liga 2025 - 2026
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/105641/real-madrid-announce-squad-for-la-liga-match-against-atletico-de-madrid
+https://www.managingmadrid.com/managing-madrid-podcast/105669/managing-madrid-podcast-real-madrid-3-2-atletico-madrid-post-game-reaction-la-liga-2025-2026
 
 要約（英語）
-Real Madrid have published their squad list for Sunday’s match against Atlético de Madrid in La Liga. REAL MADRID SQUAD LIST: Goalkeepers : Lunin, Se…
+Kiyan’s thoughts directly from the Bernabeu On this ⁠ Members-only episode of the Managing Madrid Podcast ⁠, Kiyan Sobhani gives his thoughts directl…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+③ Trent Alexander-Arnold benching for Madrid derby was Alvaro Arbeloa punishment
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/23/trent-alexander-arnold-dropped-madrid-derby
+
+要約（英語）
+Real Madrid may have won the Madrid derby 3-2 on Sunday, but Alvaro Arbeloa’s team selection did confuse supporters. Trent Alexander-Arnold and Kylia…
 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-③ WATCH: Nahuel Molina scores wondergoal before Vinicius Junior re-establishes Real Madrid lead
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/22/real-madrid-atletico-la-liga-goal-3
-
-要約（英語）
-Atletico Madrid have responded to conceding twice in five minutes to Real Madrid by bringing themselves back level at the Bernabeu. Alvaro Arbeloa’s …
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ WATCH: Vinicius Junior brings Real Madrid level in Madrid derby before Fede Valverde completes comeback
+④ Real Madrid manager Alvaro Arbeloa disagrees with Fede Valverde red card decision
 バルベルデに関するニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/22/real-madrid-atletico-la-liga-goal-2
+https://www.football-espana.net/2026/03/22/real-madrid-atletico-la-liga-alvaro-arbeloa-reaction
 
 要約（英語）
-Real Madrid trailed at half time in the Madrid derby, but soon into the second period, they have managed to complete a fine comeback at the Bernabeu.…
+Real Madrid secured an important 3-2 victory over Atletico Madrid on Sunday, as they kept themselves in the La Liga title race. They had to do it the…
 
 要約（日本語）
 バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
 
-⑤ LALIGA EA SPORTS MIÉ 18.03.2026 | NOTICIAS ¿Dónde mirar Real Madrid contra Atlético de Madrid: ELDERBI de MADRID? Compartir
+⑤ LALIGA EA SPORTS MIE 18.03.2026 | NOTICIAS ¿Dónde mirar Real Madrid contra Atlético de Madrid: ELDERBI de MADRID? Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
