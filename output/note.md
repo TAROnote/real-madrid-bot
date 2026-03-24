@@ -24,7 +24,19 @@ Real Madrid’s recent run of form continues to draw praise across Spanish radio
 要約（日本語）
 バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
 
-③ Chelsea’s Enzo Fernandez keen on Real Madrid move despite public comments
+③ Jurgen Klopp denies Real Madrid and Atletico links again
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/24/jurgen-klopp-denies-real-madrid-and-atletico-links-again
+
+要約（英語）
+Former Liverpool and Borussia Dortmund Jurgen Klopp has again denied talk that he is set to take over at Real Madrid, or this time, Atletico Madrid i…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Chelsea’s Enzo Fernandez keen on Real Madrid move despite public comments
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/03/24/chelseas-enzo-fernandez-keen-on-real-
 
 要約（英語）
 Chelsea midfielder Enzo Fernandez has been a Real Madrid target for some time, and this summer might the year he has the best chance of doing so. Aft…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Alvaro Arbeloa wins over Real Madrid squad with view to next season
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/24/alvaro-arbeloa-wins-over-real-madrid-squad-with-view-to-next-season
-
-要約（英語）
-Real Madrid are a world away from their 1-0 defeat to Getafe at the Bernabeu three weeks ago. Since that adverse result in La Liga, Los Blancos have …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
