@@ -24,26 +24,26 @@ Real Madrid’s recent run of form continues to draw praise across Spanish radio
 要約（日本語）
 バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
 
-③ Marcos Llorente and Johnny Cardoso baffled by ‘different rules for different teams’ in Madrid derby
+③ Chelsea’s Enzo Fernandez keen on Real Madrid move despite public comments
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/23/marcos-llorente-and-johnny-cardoso-baffled-by-different-rules-for-different-teams-in-madrid-derby
+https://www.football-espana.net/2026/03/24/chelseas-enzo-fernandez-keen-on-real-madrid-move-despite-public-comments
 
 要約（英語）
-Atletico Madrid duo Marcos Llorente and Johnny Cardoso have complained of uneven officiating during the Madrid derby, after Real Madrid ran out 3-2 w…
+Chelsea midfielder Enzo Fernandez has been a Real Madrid target for some time, and this summer might the year he has the best chance of doing so. Aft…
 
 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Diego Simeone gives keys to Atletico Madrid loss to Real Madrid, avoids blaming referee
+④ Alvaro Arbeloa wins over Real Madrid squad with view to next season
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/23/diego-simeone-gives-keys-to-atletico-madrid-loss-to-real-madrid-avoids-blaming-referee
+https://www.football-espana.net/2026/03/24/alvaro-arbeloa-wins-over-real-madrid-squad-with-view-to-next-season
 
 要約（英語）
-Atletico Madrid manager Diego Simeone refused to blame the refereeing for his side’s defeat to Real Madrid in the derby clash. The officiating, as is…
+Real Madrid are a world away from their 1-0 defeat to Getafe at the Bernabeu three weeks ago. Since that adverse result in La Liga, Los Blancos have …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
