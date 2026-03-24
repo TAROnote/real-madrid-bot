@@ -1,6 +1,18 @@
-📰 レアル・マドリードニュースまとめ（2026-03-24）
+📰 レアル・マドリードニュースまとめ（2026-03-25）
 
-① Managing Madrid Podcast: Can Real Madrid Win The Champions League? Who Starts When Everyone Is Healthy?
+① Real Madrid doctors erroneously evaluated uninjured knee in Mbappé exam -report
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/105699/real-madrid-doctors-mbappe-injury-2026
+
+要約（英語）
+Real Madrid’s medical staff made a colossal mistake when they examined Kylian Mbappé‘s knee injury and actually scanned his uninjured right knee inst…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Managing Madrid Podcast: Can Real Madrid Win The Champions League? Who Starts When Everyone Is Healthy?
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ On this episode of the Managing Madrid Podcast, Kiyan Sobhani is joined by Sara 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② “Vinicius and Valverde have assumed the leadership roles in absence of Mbappe and Bellingham”
-バルベルデに関するニュース
+③ Real Madrid end doubts over future of star name
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-players/105687/vinicius-and-valverde-have-assumed-the-leadership-roles-in-absence-of-mbappe-and-bellingham
+https://www.football-espana.net/2026/03/24/real-madrid-end-doubts-over-future-of-star-name
 
 要約（英語）
-Real Madrid’s recent run of form continues to draw praise across Spanish radio, with Onda Cero’s Radio Estadio Noche program highlighting both the te…
+Real Madrid secured a crucial victory over Atletico Madrid in their derby clash on Sunday night. Beyond its importance for the remainder of the Liga …
 
 要約（日本語）
-バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Jurgen Klopp denies Real Madrid and Atletico links again
+④ Jurgen Klopp denies Real Madrid and Atletico links again
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -36,23 +48,11 @@ Former Liverpool and Borussia Dortmund Jurgen Klopp has again denied talk that h
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Chelsea’s Enzo Fernandez keen on Real Madrid move despite public comments
+⑤ LALIGA EA SPORTS LUN 23.03.2026 | NOTICIAS Historial y estadísticas del Atlético de Madrid contra Real Madrid Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/24/chelseas-enzo-fernandez-keen-on-real-madrid-move-despite-public-comments
-
-要約（英語）
-Chelsea midfielder Enzo Fernandez has been a Real Madrid target for some time, and this summer might the year he has the best chance of doing so. Aft…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-⑤ LALIGA EA SPORTS DOM 22.03.2026 | RESUMEN DE PARTIDO El Real Madrid se lleva El Derbi de Madrid Compartir
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.laliga.com/videos/el-real-madrid-se-lleva-el-derbi-de-madrid
+https://www.laliga.com/noticias/historial-estadisticas-atletico-madrid-real-madrid
 
 要約（英語）
 LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
