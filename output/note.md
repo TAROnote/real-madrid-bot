@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-25）
 
-① Antonio Rüdiger Explains The Psychology Of Getting In A Striker’s Head
+① Real Madrid target Schlotterbeck set to sign extension with Dortmund -report
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/105724/real-madrid-schlotterbeck-dortmund-rumors-report-2026
+
+要約（英語）
+Borussia Dortmund defender Nico Schlotterbeck is about to sign a contract extension with his current club, one which will keep him in the club for fi…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Antonio Rüdiger Explains The Psychology Of Getting In A Striker’s Head
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ Antonio Rüdiger has opened up about his physical struggles, mentality, and appr
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② CTA backs Valverde red card decision after Real Madrid–Atlético controversy
-バルベルデに関するニュース
+③ Son of Cristiano Ronaldo poised to sign for Real Madrid
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/latest-news/105718/cta-backs-valverde-red-card-decision-after-real-madrid-atletico-controversy
+https://www.football-espana.net/2026/03/25/cristiano-ronaldo-son-real-madrid
 
 要約（英語）
-The fallout from Real Madrid’s derby clash with Atlético Madrid continues, with the Spanish refereeing authorities stepping in to defend the game’s m…
+Cristiano Ronaldo spent nine very successful seasons at the Bernabeu, and soon, his son could follow in his footsteps by signing for Real Madrid. 15-…
 
 要約（日本語）
-バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid accused of malpractice with Kylian Mbappe – “They examined the wrong knee”
+④ Real Madrid accused of malpractice with Kylian Mbappe – “They examined the wrong knee”
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -36,23 +48,11 @@ Prior to the international break, Kylian Mbappe returned to action with Real Mad
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Referee’s Committee rule on Fede Valverde red card, snub Atletico Madrid complaints
-バルベルデに関するニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/24/referees-committee-fede-valverde-red-card
-
-要約（英語）
-Real Madrid may have won the Madrid derby on Sunday, but they will need to do without Fede Valverde for a little while after he was sent off in the c…
-
-要約（日本語）
-バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
-
-⑤ LALIGA EA SPORTS LUN 23.03.2026 | NOTICIAS Historial y estadísticas del Atlético de Madrid contra Real Madrid Compartir
+⑤ LALIGA FC Futures MAR 24.03.2026 | LALIGA FC FUTURES El primer torneo LALIGA FC FUTURES Mundial Sub12 arranca en Brunete (Madrid) Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.laliga.com/noticias/historial-estadisticas-atletico-madrid-real-madrid
+https://www.laliga.com/noticias/el-primer-torneo-laliga-fc-futures-mundial-sub12-arranca-en-brunete-madrid
 
 要約（英語）
 LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
