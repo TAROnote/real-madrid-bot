@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-26）
 
-① Valverde suspended for one game
+① Mbappé denies reports of Real Madrid examining uninjured knee
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/105755/mbappe-denies-reports-of-real-madrid-examining-wrong-knee
+
+要約（英語）
+Real Madrid star Kylian Mbappé talked to the press during France’s training camp and denied the reports about the club erroneously evaluating his uni…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Valverde suspended for one game
 バルベルデに関するニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ Real Madrid midfielder Fede Valverde will serve a one-game suspension after the 
 
 要約（日本語）
 バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
-
-② Real Madrid target Schlotterbeck set to sign extension with Dortmund -report
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/105724/real-madrid-schlotterbeck-dortmund-rumors-report-2026
-
-要約（英語）
-Borussia Dortmund defender Nico Schlotterbeck is about to sign a contract extension with his current club, one which will keep him in the club for fi…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ③ Real Madrid breathe sigh of relief as Competition Committee rule on Fede Valverde red card
 バルベルデに関するニュース
