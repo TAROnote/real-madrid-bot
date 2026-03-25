@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-26）
 
-① Real Madrid target Schlotterbeck set to sign extension with Dortmund -report
+① Valverde suspended for one game
+バルベルデに関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/105743/valverde-real-madrid-suspension-2026-news
+
+要約（英語）
+Real Madrid midfielder Fede Valverde will serve a one-game suspension after the red card he saw during the team’s win against Atlético de Madrid in t…
+
+要約（日本語）
+バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
+
+② Real Madrid target Schlotterbeck set to sign extension with Dortmund -report
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ Borussia Dortmund defender Nico Schlotterbeck is about to sign a contract extens
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② Antonio Rüdiger Explains The Psychology Of Getting In A Striker’s Head
-レアル・マドリード関連ニュース
+③ Real Madrid breathe sigh of relief as Competition Committee rule on Fede Valverde red card
+バルベルデに関するニュース
 
 🔗 リンク
-https://www.managingmadrid.com/latest-news/105720/antonio-rudiger-explains-the-psychology-of-getting-in-a-strikers-head
+https://www.football-espana.net/2026/03/25/real-madrid-committee-fede-valverde-red-card
 
 要約（英語）
-Antonio Rüdiger has opened up about his physical struggles, mentality, and approach to defending in a candid interview with Frankfurter Allgemeine Ze…
+Real Madrid may have won the Madrid derby on Sunday, but they have lost Fede Valverde to suspension on the back of it. The Uruguayan midfielder was s…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
 
-③ Vinicius Junior gives verdict on Antoine Griezmann’s MLS move, reaffirms desire for Real Madrid stay
+④ Vinicius Junior gives verdict on Antoine Griezmann’s MLS move, reaffirms desire for Real Madrid stay
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Earlier this week, it was confirmed that Antoine Griezmann will leave Atletico M
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-④ Son of Cristiano Ronaldo poised to sign for Real Madrid
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/25/cristiano-ronaldo-son-real-madrid
-
-要約（英語）
-Cristiano Ronaldo spent nine very successful seasons at the Bernabeu, and soon, his son could follow in his footsteps by signing for Real Madrid. 15-…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA FC Futures MAR 24.03.2026 | LALIGA FC FUTURES El primer torneo LALIGA FC FUTURES Mundial Sub12 arranca en Brunete (Madrid) Compartir
 レアル・マドリード関連ニュース
