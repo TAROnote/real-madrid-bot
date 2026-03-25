@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-03-25）
+📰 レアル・マドリードニュースまとめ（2026-03-26）
 
 ① Real Madrid target Schlotterbeck set to sign extension with Dortmund -report
 レアル・マドリード関連ニュース
@@ -24,7 +24,19 @@ Antonio Rüdiger has opened up about his physical struggles, mentality, and appr
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Son of Cristiano Ronaldo poised to sign for Real Madrid
+③ Vinicius Junior gives verdict on Antoine Griezmann’s MLS move, reaffirms desire for Real Madrid stay
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/25/vinicius-junior-verdict-antoine-griezmann-mls
+
+要約（英語）
+Earlier this week, it was confirmed that Antoine Griezmann will leave Atletico Madrid at the end of the season to join Orlando City. The 35-year-old,…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ Son of Cristiano Ronaldo poised to sign for Real Madrid
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/03/25/cristiano-ronaldo-son-real-madrid
 
 要約（英語）
 Cristiano Ronaldo spent nine very successful seasons at the Bernabeu, and soon, his son could follow in his footsteps by signing for Real Madrid. 15-…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid accused of malpractice with Kylian Mbappe – “They examined the wrong knee”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/25/real-madrid-accused-malpractice-kylian-mbappe
-
-要約（英語）
-Prior to the international break, Kylian Mbappe returned to action with Real Madrid after three weeks out. The French forward had been struggling wit…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
