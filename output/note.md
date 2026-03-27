@@ -1,49 +1,49 @@
 📰 レアル・マドリードニュースまとめ（2026-03-27）
 
-① Jude Bellingham Opens Up on Shoulder Surgery in Raw Behind-the-Scenes YouTube Documentary
+① “There’s a chance Nico Paz stays,” says Como sporting director
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/latest-news/105781/jude-bellingham-opens-up-on-shoulder-surgery-in-raw-behind-the-scenes-youtube-documentary
+https://www.managingmadrid.com/105803/nico-paz-como-real-madrid-rumors-2026
 
 要約（英語）
-The Real Madrid star details years of pain, delayed decisions, and a pivotal 2025 operation Jude Bellingham has given fans a rare and intimate look i…
+It seems like a given that Real Madrid will trigger their option to buy Nico Paz back from Como this upcoming summer, but Carlalberto Ludi, sporting …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Toni Kroos: “When you won the Champions League, the next day the president would tell you to go for the next one”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/latest-news/105778/toni-kroos-when-you-won-the-champions-league-the-next-day-the-president-would-tell-you-to-go-for-the-next-one
-
-要約（英語）
-﻿ German legend opens up on his decision to retire, the club’s relentless mentality, and life inside Madrid’s dressing room Toni Kroos offered a refl…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-③ Atletico Madrid slam Fede Valverde suspension decision – “Same committee, different criteria”
+② Uruguay teammates praise Fede Valverde
 バルベルデに関するニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/27/atletico-madrid-fede-valverde-decision
+https://www.managingmadrid.com/105800/uruguay-teammates-praise-fede-valverde
 
 要約（英語）
-Earlier this week, Real Madrid were informed of the ban length for midfielder Fede Valverde, who was sent off during Sunday’s Madrid derby victory ov…
+Real Madrid star Fede Valverde is playing the best football of his career and his teammates in the Uruguayan National Team praised him ahead of their…
 
 要約（日本語）
 バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
 
-④ Journalist confirms Real Madrid desire to sign Barcelona superstar
+③ Barcelona unlikely to sign €40m winger due to Real Madrid presence
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/27/real-madrid-sign-barcelona-superstar
+https://www.football-espana.net/2026/03/27/barcelona-sign-winger-real-madrid
 
 要約（英語）
-This summer’s transfer window promises to be a very one for Real Madrid, who intend to address numerous areas of Alvaro Arbeloa’s squad. One of those…
+Barcelona have started considering alternatives to Marcus Rashford, who is looking increasingly unlikely to return to Manchester United at the end of…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ Real Madrid deliver stance on Rodri Hernandez transfer after Manchester City star opens door to move
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/27/real-madrid-stance-rodri-transfer
+
+要約（英語）
+The signing of a new midfielder is one of the main priorities for Real Madrid during the upcoming summer transfer window. Numerous targets have alrea…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
