@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-03-27）
+📰 レアル・マドリードニュースまとめ（2026-03-28）
 
 ① “There’s a chance Nico Paz stays,” says Como sporting director
 レアル・マドリード関連ニュース
@@ -48,11 +48,11 @@ Barcelona have started considering alternatives to Marcus Rashford, who is looki
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-⑤ LALIGA EA SPORTS MAR 24.03.2026 | GENERAL Golazo 'made in Vini' para remontar el derbi madrileño Compartir
+⑤ LALIGA EA SPORTS VIE 27.03.2026 | NOTICIAS ¿Dónde mirar FC Barcelona contra Atlético de Madrid? Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.laliga.com/videos/golazo-made-in-vini-para-remontar-el-derbi-madrileno
+https://www.laliga.com/noticias/donde-ver-el-atletico-de-madrid-vs-fc-barcelona
 
 要約（英語）
 LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
