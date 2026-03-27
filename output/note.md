@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-28）
 
-① “There’s a chance Nico Paz stays,” says Como sporting director
+① Managing Madrid Podcast: Should Real Madrid Sign Rodri? What’s The Truth About Mbappe’s Knee?
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-podcast/105809/managing-madrid-podcast-should-real-madrid-sign-rodri-whats-the-truth-about-mbappes-knee
+
+要約（英語）
+Kiyan and Lucas answer questions in this week’s mailbag On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani and Lucas Navarre…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② “There’s a chance Nico Paz stays,” says Como sporting director
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ It seems like a given that Real Madrid will trigger their option to buy Nico Paz
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-② Uruguay teammates praise Fede Valverde
-バルベルデに関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/105800/uruguay-teammates-praise-fede-valverde
-
-要約（英語）
-Real Madrid star Fede Valverde is playing the best football of his career and his teammates in the Uruguayan National Team praised him ahead of their…
-
-要約（日本語）
-バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
 
 ③ Decision made: Midfielder to leave Real Madrid this summer
 レアル・マドリード関連ニュース
