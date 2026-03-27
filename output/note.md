@@ -24,7 +24,19 @@ Real Madrid star Fede Valverde is playing the best football of his career and hi
 要約（日本語）
 バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
 
-③ Barcelona unlikely to sign €40m winger due to Real Madrid presence
+③ Decision made: Midfielder to leave Real Madrid this summer
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/27/midfielder-leave-real-madrid
+
+要約（英語）
+Real Madrid will be busy during the upcoming summer transfer window, both in terms of signings and exits. In regards to the latter, two players are a…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Barcelona unlikely to sign €40m winger due to Real Madrid presence
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Barcelona have started considering alternatives to Marcus Rashford, who is looki
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-④ Real Madrid deliver stance on Rodri Hernandez transfer after Manchester City star opens door to move
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/27/real-madrid-stance-rodri-transfer
-
-要約（英語）
-The signing of a new midfielder is one of the main priorities for Real Madrid during the upcoming summer transfer window. Numerous targets have alrea…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA EA SPORTS MAR 24.03.2026 | GENERAL Golazo 'made in Vini' para remontar el derbi madrileño Compartir
 レアル・マドリード関連ニュース
