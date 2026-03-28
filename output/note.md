@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-28）
 
-① Nico Paz Scored, Mastantuono Played 45 Minutes in Argentina’s 2-1 Win Over Mauritania
+① Valverde: “I never imagined scoring a hat-trick against City”
+バルベルデに関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/105843/valverde-real-madrid-uruguay-quotes-2026
+
+要約（英語）
+Real Madrid star Fede Valverde talked to the press during Uruguay’s training camp and explained his feelings about his current form, which he kept go…
+
+要約（日本語）
+バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
+
+② Nico Paz Scored, Mastantuono Played 45 Minutes in Argentina’s 2-1 Win Over Mauritania
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -8,18 +20,6 @@ https://www.managingmadrid.com/real-madrid-cf-players/105838/nico-paz-scored-mas
 
 要約（英語）
 Quick recap from Argentina’s friendly game vs. Mauritania Argentina defeated Mauritania, ranked 115th in the rankings, by 2-1 at La Bombonera, thanks…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-② Managing Madrid Podcast: Champions League Bracket Predictions
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/105827/managing-madrid-champions-league-bracket-predictions
-
-要約（英語）
-Kiyan and Leah give their predictions from now until the final. On this episode of the Managing Madrid Podcast, Kiyan Sobhani and Leah Revelle give t…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
