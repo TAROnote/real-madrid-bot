@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-03-28）
+📰 レアル・マドリードニュースまとめ（2026-03-29）
 
 ① Valverde: “I never imagined scoring a hat-trick against City”
 バルベルデに関するニュース
@@ -24,7 +24,19 @@ Quick recap from Argentina’s friendly game vs. Mauritania Argentina defeated M
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Morocco star calls for Real Madrid starlet to switch allegiance from Spain – “We will welcome him with open arms”
+③ Decision made: Real Madrid will activate €9m buy-back clause this summer
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/28/real-madrid-activate-clause
+
+要約（英語）
+Real Madrid have started their preparations for the summer transfer window, and already, one signing is considered complete. Los Blancos officials wi…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Morocco star calls for Real Madrid starlet to switch allegiance from Spain – “We will welcome him with open arms”
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/03/28/morocco-real-madrid-starlet-switch-al
 
 要約（英語）
 Thiago Pitarch has been one of the revelations of recent months, with the 18-year-old having established himself as a regular starter for Real Madrid.
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Premier League midfielder opens door to Real Madrid move
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/28/premier-league-midfielder-real-madrid
-
-要約（英語）
-Real Madrid are planning to sign a new midfielder this summer, and ahead of the transfer window opening, they have a number of targets lined up. Manc…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
