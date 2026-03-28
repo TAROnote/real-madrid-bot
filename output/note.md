@@ -24,29 +24,29 @@ Quick recap from Argentina’s friendly game vs. Mauritania Argentina defeated M
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Decision made: Midfielder to leave Real Madrid this summer
+③ Morocco star calls for Real Madrid starlet to switch allegiance from Spain – “We will welcome him with open arms”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/27/midfielder-leave-real-madrid
+https://www.football-espana.net/2026/03/28/morocco-real-madrid-starlet-switch-allegiance-spain
 
 要約（英語）
-Real Madrid will be busy during the upcoming summer transfer window, both in terms of signings and exits. In regards to the latter, two players are a…
+Thiago Pitarch has been one of the revelations of recent months, with the 18-year-old having established himself as a regular starter for Real Madrid.
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Barcelona unlikely to sign €40m winger due to Real Madrid presence
+④ Premier League midfielder opens door to Real Madrid move
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/27/barcelona-sign-winger-real-madrid
+https://www.football-espana.net/2026/03/28/premier-league-midfielder-real-madrid
 
 要約（英語）
-Barcelona have started considering alternatives to Marcus Rashford, who is looking increasingly unlikely to return to Manchester United at the end of…
+Real Madrid are planning to sign a new midfielder this summer, and ahead of the transfer window opening, they have a number of targets lined up. Manc…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA FC FUTURES VIE 27.03.2026 | LALIGA FC FUTURES El Real Madrid firma la goleada que necesitaba ante el Atlético y sella su billete a cuartos Compartir
 レアル・マドリード関連ニュース
