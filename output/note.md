@@ -1,28 +1,28 @@
 📰 レアル・マドリードニュースまとめ（2026-03-28）
 
-① Managing Madrid Podcast: Should Real Madrid Sign Rodri? What’s The Truth About Mbappe’s Knee?
+① Nico Paz Scored, Mastantuono Played 45 Minutes in Argentina’s 2-1 Win Over Mauritania
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/105809/managing-madrid-podcast-should-real-madrid-sign-rodri-whats-the-truth-about-mbappes-knee
+https://www.managingmadrid.com/real-madrid-cf-players/105838/nico-paz-scored-mastantuono-played-45-minutes-in-argentinas-2-1-win-over-mauritania
 
 要約（英語）
-Kiyan and Lucas answer questions in this week’s mailbag On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani and Lucas Navarre…
+Quick recap from Argentina’s friendly game vs. Mauritania Argentina defeated Mauritania, ranked 115th in the rankings, by 2-1 at La Bombonera, thanks…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② “There’s a chance Nico Paz stays,” says Como sporting director
+② Managing Madrid Podcast: Champions League Bracket Predictions
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/105803/nico-paz-como-real-madrid-rumors-2026
+https://www.managingmadrid.com/managing-madrid-podcast/105827/managing-madrid-champions-league-bracket-predictions
 
 要約（英語）
-It seems like a given that Real Madrid will trigger their option to buy Nico Paz back from Como this upcoming summer, but Carlalberto Ludi, sporting …
+Kiyan and Leah give their predictions from now until the final. On this episode of the Managing Madrid Podcast, Kiyan Sobhani and Leah Revelle give t…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ③ Decision made: Midfielder to leave Real Madrid this summer
 レアル・マドリード関連ニュース
