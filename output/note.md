@@ -1,28 +1,28 @@
 📰 レアル・マドリードニュースまとめ（2026-03-29）
 
-① Valverde: “I never imagined scoring a hat-trick against City”
-バルベルデに関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/105843/valverde-real-madrid-uruguay-quotes-2026
-
-要約（英語）
-Real Madrid star Fede Valverde talked to the press during Uruguay’s training camp and explained his feelings about his current form, which he kept go…
-
-要約（日本語）
-バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
-
-② Nico Paz Scored, Mastantuono Played 45 Minutes in Argentina’s 2-1 Win Over Mauritania
+① Militao set to make his return against Mallorca -report
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-players/105838/nico-paz-scored-mastantuono-played-45-minutes-in-argentinas-2-1-win-over-mauritania
+https://www.managingmadrid.com/105850/militao-real-madrid-injury-return-2026
 
 要約（英語）
-Quick recap from Argentina’s friendly game vs. Mauritania Argentina defeated Mauritania, ranked 115th in the rankings, by 2-1 at La Bombonera, thanks…
+Real Madrid defender Eder Militao has completed his recovery from the hamstring injury he suffered in December and will be available when Los Blancos…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Real Madrid can buy Victor Muñoz back for €8 million -report
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/105846/real-madrid-victor-munoz-news-2026-rumors
+
+要約（英語）
+Real Madrid product Víctor Muñoz made his debut with the Spanish national team against Serbia last night and managed to score Spain’s third goal. Muñ…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ Decision made: Real Madrid will activate €9m buy-back clause this summer
 レアル・マドリード関連ニュース
