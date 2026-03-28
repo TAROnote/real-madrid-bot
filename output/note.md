@@ -48,7 +48,7 @@ Thiago Pitarch has been one of the revelations of recent months, with the 18-yea
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-⑤ LALIGA FC FUTURES VIE 27.03.2026 | LALIGA FC FUTURES El Real Madrid firma la goleada que necesitaba ante el Atlético y sella su billete a cuartos Compartir
+⑤ LALIGA FC Futures VIE 27.03.2026 | LALIGA FC FUTURES El Real Madrid firma la goleada que necesitaba ante el Atlético y sella su billete a cuartos Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
