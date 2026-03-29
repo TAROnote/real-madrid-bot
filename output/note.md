@@ -24,26 +24,26 @@ Real Madrid product Víctor Muñoz made his debut with the Spanish national team
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Victor Munoz reflects on crucial El Clasico miss after dream Spain debut
+③ Kylian Mbappe ‘expects’ criticism at Real Madrid – ‘I’m no exception’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/29/victor-munoz-dream-spain-debut
+https://www.football-espana.net/2026/03/29/mbappe-real-madrid-criticism
 
 要約（英語）
-Spain defeated Serbia on Friday in their first match of 2026, and the contest will be remembered for Victor Munoz’s dream debut. The 22-year-old was …
+Real Madrid forward Kylian Mbappe has stated that he expects to receive criticism as part and parcel of playing for the club. The Frenchman has been …
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid fear major injury risk for Vinicius Junior
+④ Vinicius Junior expected to play for Brazil despite injury scare
 負傷に関するニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/29/real-madrid-vinicius-junior-injury-risk
+https://www.football-espana.net/2026/03/29/vinicius-junior-expected-to-play-for-brazil-despite-injury-scare
 
 要約（英語）
-Real Madrid face a crucial set of matches in the coming weeks, but there are fears they could be without Vinicius Junior for them. The 25-year-old ha…
+Real Madrid star Vinicius Junior is expected to feature for Brazil in their second friendly of the international break, despite an injury scare earli…
 
 要約（日本語）
 負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
