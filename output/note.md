@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-03-29）
+📰 レアル・マドリードニュースまとめ（2026-03-30）
 
 ① Militao set to make his return against Mallorca -report
 レアル・マドリード関連ニュース
