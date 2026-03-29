@@ -24,7 +24,19 @@ Real Madrid product Víctor Muñoz made his debut with the Spanish national team
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Decision made: Real Madrid will activate €9m buy-back clause this summer
+③ Real Madrid fear major injury risk for Vinicius Junior
+負傷に関するニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/29/real-madrid-vinicius-junior-injury-risk
+
+要約（英語）
+Real Madrid face a crucial set of matches in the coming weeks, but there are fears they could be without Vinicius Junior for them. The 25-year-old ha…
+
+要約（日本語）
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
+
+④ Decision made: Real Madrid will activate €9m buy-back clause this summer
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/03/28/real-madrid-activate-clause
 
 要約（英語）
 Real Madrid have started their preparations for the summer transfer window, and already, one signing is considered complete. Los Blancos officials wi…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Morocco star calls for Real Madrid starlet to switch allegiance from Spain – “We will welcome him with open arms”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/28/morocco-real-madrid-starlet-switch-allegiance-spain
-
-要約（英語）
-Thiago Pitarch has been one of the revelations of recent months, with the 18-year-old having established himself as a regular starter for Real Madrid.
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
