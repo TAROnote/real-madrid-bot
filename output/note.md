@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-30）
 
-① Militao set to make his return against Mallorca -report
+① Mbappé and Camavinga feature as France beat Colombia
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/real-madrid-cf-players/105857/mbappe-and-camavinga-feature-as-france-beat-colombia
+
+要約（英語）
+France extended their winning streak to four in a row as they saw off Colombia on Sunday night, securing a 3-1 win in their second game of the March …
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Militao set to make his return against Mallorca -report
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -8,18 +20,6 @@ https://www.managingmadrid.com/105850/militao-real-madrid-injury-return-2026
 
 要約（英語）
 Real Madrid defender Eder Militao has completed his recovery from the hamstring injury he suffered in December and will be available when Los Blancos…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-② Real Madrid can buy Victor Muñoz back for €8 million -report
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/105846/real-madrid-victor-munoz-news-2026-rumors
-
-要約（英語）
-Real Madrid product Víctor Muñoz made his debut with the Spanish national team against Serbia last night and managed to score Spain’s third goal. Muñ…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
