@@ -24,7 +24,19 @@ Real Madrid product Víctor Muñoz made his debut with the Spanish national team
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid fear major injury risk for Vinicius Junior
+③ Victor Munoz reflects on crucial El Clasico miss after dream Spain debut
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/29/victor-munoz-dream-spain-debut
+
+要約（英語）
+Spain defeated Serbia on Friday in their first match of 2026, and the contest will be remembered for Victor Munoz’s dream debut. The 22-year-old was …
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ Real Madrid fear major injury risk for Vinicius Junior
 負傷に関するニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid face a crucial set of matches in the coming weeks, but there are fea
 
 要約（日本語）
 負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
-
-④ Decision made: Real Madrid will activate €9m buy-back clause this summer
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/28/real-madrid-activate-clause
-
-要約（英語）
-Real Madrid have started their preparations for the summer transfer window, and already, one signing is considered complete. Los Blancos officials wi…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA FC Futures VIE 27.03.2026 | LALIGA FC FUTURES El Real Madrid firma la goleada que necesitaba ante el Atlético y sella su billete a cuartos Compartir
 レアル・マドリード関連ニュース
