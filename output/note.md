@@ -24,7 +24,19 @@ Real Madrid defender Eder Militao has completed his recovery from the hamstring 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Kylian Mbappe ‘expects’ criticism at Real Madrid – ‘I’m no exception’
+③ Chelsea star Enzo Fernandez drops another Real Madrid transfer hint
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/30/chelsea-star-enzo-fernandez-drops-another-real-madrid-transfer-hint
+
+要約（英語）
+Chelsea midfielder Enzo Fernandez is certainly making it known that he does not necessarily see himself at Stamford Bridge long-term in recent weeks,…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ Kylian Mbappe ‘expects’ criticism at Real Madrid – ‘I’m no exception’
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid forward Kylian Mbappe has stated that he expects to receive criticis
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Vinicius Junior expected to play for Brazil despite injury scare
-負傷に関するニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/29/vinicius-junior-expected-to-play-for-brazil-despite-injury-scare
-
-要約（英語）
-Real Madrid star Vinicius Junior is expected to feature for Brazil in their second friendly of the international break, despite an injury scare earli…
-
-要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
 
 ⑤ LALIGA FC Futures VIE 27.03.2026 | LALIGA FC FUTURES El Real Madrid firma la goleada que necesitaba ante el Atlético y sella su billete a cuartos Compartir
 レアル・マドリード関連ニュース
