@@ -1,28 +1,28 @@
-📰 レアル・マドリードニュースまとめ（2026-03-30）
+📰 レアル・マドリードニュースまとめ（2026-03-31）
 
-① Mbappé and Camavinga feature as France beat Colombia
+① Managing Madrid Podcast: Global Madridista COLLAB: Talking Arbeloa, Mbappe’s knee, and more.
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-players/105857/mbappe-and-camavinga-feature-as-france-beat-colombia
+https://www.managingmadrid.com/managing-madrid-podcast/105880/managing-madrid-podcast-global-madridista-collab-talking-arbeloa-mbappes-knee-and-more
 
 要約（英語）
-France extended their winning streak to four in a row as they saw off Colombia on Sunday night, securing a 3-1 win in their second game of the March …
+On this episode of the Managing Madrid Podcast, Miguel Barron (The Global Madridista) joins Kiyan Sobhani to discuss: Did you enjoy this podcast? Get…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② Militao set to make his return against Mallorca -report
+② Real Madrid will trigger €8 million clause to buy Víctor Muñoz back -report
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/105850/militao-real-madrid-injury-return-2026
+https://www.managingmadrid.com/105876/real-madrid-victor-munoz-news-rumors-2026
 
 要約（英語）
-Real Madrid defender Eder Militao has completed his recovery from the hamstring injury he suffered in December and will be available when Los Blancos…
+Osasuna sensation Víctor Muñoz made his debut with the Spanish national team during this FIFA break and managed to score a goal for La Roja as well. …
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ③ Chelsea star Enzo Fernandez drops another Real Madrid transfer hint
 レアル・マドリード関連ニュース
