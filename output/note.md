@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-03-31）
 
-① Managing Madrid Podcast: Global Madridista COLLAB: Talking Arbeloa, Mbappe’s knee, and more.
+① Sergio Arribas’ breakout season continues as Real Madrid monitor situation
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/real-madrid-cf-players/105889/sergio-arribas-breakout-season-continues-as-real-madrid-monitor-situation
+
+要約（英語）
+Sergio Arribas’ standout campaign with Almería continues to reach new heights. The attacking midfielder delivered another decisive performance in the…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Managing Madrid Podcast: Global Madridista COLLAB: Talking Arbeloa, Mbappe’s knee, and more.
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ On this episode of the Managing Madrid Podcast, Miguel Barron (The Global Madrid
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② Real Madrid will trigger €8 million clause to buy Víctor Muñoz back -report
+③ Real Madrid intend to sign Spain winger this summer on cut-price deal
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/105876/real-madrid-victor-munoz-news-rumors-2026
+https://www.football-espana.net/2026/03/30/real-madrid-intend-to-sign-spain-winger-this-summer-on-cut-price-deal
 
 要約（英語）
-Osasuna sensation Víctor Muñoz made his debut with the Spanish national team during this FIFA break and managed to score a goal for La Roja as well. …
+Real Madrid intend to bolster their squad with multiple bargain deals next summer, as they seek to rejuvenate an ageing team. New manager Alvaro Arbe…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Chelsea star Enzo Fernandez drops another Real Madrid transfer hint
+④ Chelsea star Enzo Fernandez drops another Real Madrid transfer hint
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -36,23 +48,11 @@ Chelsea midfielder Enzo Fernandez is certainly making it known that he does not 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-④ Kylian Mbappe ‘expects’ criticism at Real Madrid – ‘I’m no exception’
+⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/29/mbappe-real-madrid-criticism
-
-要約（英語）
-Real Madrid forward Kylian Mbappe has stated that he expects to receive criticism as part and parcel of playing for the club. The Frenchman has been …
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-⑤ LALIGA FC Futures VIE 27.03.2026 | LALIGA FC FUTURES El Real Madrid firma la goleada que necesitaba ante el Atlético y sella su billete a cuartos Compartir
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.laliga.com/noticias/el-real-madrid-firma-la-goleada-que-necesitaba-ante-el-atletico-y-sella-su-billete-a-cuartos
+https://www.laliga.com/noticias/atletico-de-madrid-vs-fc-barcelona-alineaciones-probables-laliga
 
 要約（英語）
 LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
