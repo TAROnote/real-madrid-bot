@@ -1,30 +1,42 @@
 📰 レアル・マドリードニュースまとめ（2026-04-01）
 
-① Bielsa: “Valverde is different to most players in his position”
-バルベルデに関するニュース
+① Managing Madrid Podcast:Big Picture Talking Points: Squad Construction, Carvajal, Camavinga, Arbeloa, And The Academy. LIVE CALL!
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-players/105907/bielsa-valverde-is-different-to-most-players-in-his-position
+https://www.managingmadrid.com/managing-madrid-podcast/105941/managing-madrid-podcastbig-picture-talking-points-squad-construction-carvajal-camavinga-arbeloa-and-the-academy-live-call
 
 要約（英語）
-Marcelo Bielsa has offered high praise for Fede Valverde, highlighting the Real Madrid midfielder’s versatility and influence as one of the defining …
+On this La Liga Tier Members only episode of the Managing Madrid Podcast , Kiyan Sobhani, Sam Sharpe, Mehedi Hassan -- along with Members on the Zoom…
 
 要約（日本語）
-バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② Camavinga: “Arbeloa sometimes gives us cookies or donuts after training”
-トレーニングに関するニュース
+② Vinicius Tobias: The Ex-Real Madrid Defender Eyeing Fresh New Start at Shakhtar
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/105900/camavinga-real-madrid-quotes-interview-2026
+https://www.managingmadrid.com/latest-news/105929/vinicius-tobias-the-ex-real-madrid-defender-eyeing-fresh-new-start-at-shakhtar
 
 要約（英語）
-Real Madrid midfielder Eduardo Camavinga talked to ESPN FC and gave some inside access to the team’s dressing room and what the chemistry is like now…
+From Ronaldo to Roberto Carlos, from Marcelo to Casemiro, we’ve seen quite a few Brazilian phenoms light it up at Real Madrid this century. President…
 
 要約（日本語）
-チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ ‘We are open’ – USMNT manager Mauricio Pochettino responds to Real Madrid links
+③ Real Madrid open to summer exit for €45m forward
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/31/real-madrid-summer-exit-forward
+
+要約（英語）
+Real Madrid are poised to have a busy summer transfer window, as they prepare to begin another new era at the Bernabeu. The plan is for a number of n…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ ‘We are open’ – USMNT manager Mauricio Pochettino responds to Real Madrid links
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ USMNT manager Mauricio Pochettino has denied any contact with Real Madrid in rec
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid star reveals Alvaro Arbeloa gives players treats after training – ‘Donuts, Oreos…’
-トレーニングに関するニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/31/vinicius-camavinga-arbeloa-treats
-
-要約（英語）
-The narrative surrounding Real Madrid manager Alvaro Arbeloa has shifted considerably over the last month, with Los Blancos heading into the final st…
-
-要約（日本語）
-チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
