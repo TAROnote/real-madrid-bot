@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-01）
 
-① Camavinga: “Arbeloa sometimes gives us cookies or donuts after training”
+① Bielsa: “Valverde is different to most players in his position”
+バルベルデに関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/real-madrid-cf-players/105907/bielsa-valverde-is-different-to-most-players-in-his-position
+
+要約（英語）
+Marcelo Bielsa has offered high praise for Fede Valverde, highlighting the Real Madrid midfielder’s versatility and influence as one of the defining …
+
+要約（日本語）
+バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
+
+② Camavinga: “Arbeloa sometimes gives us cookies or donuts after training”
 トレーニングに関するニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ Real Madrid midfielder Eduardo Camavinga talked to ESPN FC and gave some inside 
 要約（日本語）
 チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。
 
-② Rummenigge previews Bayern Munich-Real Madrid clash: “Arbeloa has found the right formula”
+③ ‘We are open’ – USMNT manager Mauricio Pochettino responds to Real Madrid links
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/105897/rummenigge-previews-bayern-munich-real-madrid-clash-arbeloa-has-found-the-right-formula
+https://www.football-espana.net/2026/03/31/we-are-open-usmnt-manager-mauricio-pochettino-responds-to-real-madrid-links
 
 要約（英語）
-Bayern Munich legend and current member of the board Karl-Heinz Rummenigge talked to AS and shared his thoughts about Real Madrid as the two European…
+USMNT manager Mauricio Pochettino has denied any contact with Real Madrid in recent months, following links to the job. The Argentine manager was one…
 
 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid star reveals Alvaro Arbeloa gives players treats after training – ‘Donuts, Oreos…’
+④ Real Madrid star reveals Alvaro Arbeloa gives players treats after training – ‘Donuts, Oreos…’
 トレーニングに関するニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ The narrative surrounding Real Madrid manager Alvaro Arbeloa has shifted conside
 
 要約（日本語）
 チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。
-
-④ Jonatan Vazquez
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/author/jonatan-vazquez
-
-要約（英語）
-記事の詳細はリンク先で確認してください。
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
