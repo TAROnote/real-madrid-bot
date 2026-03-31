@@ -1,52 +1,52 @@
-📰 レアル・マドリードニュースまとめ（2026-03-31）
+📰 レアル・マドリードニュースまとめ（2026-04-01）
 
-① Sergio Arribas’ breakout season continues as Real Madrid monitor situation
+① Camavinga: “Arbeloa sometimes gives us cookies or donuts after training”
+トレーニングに関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/105900/camavinga-real-madrid-quotes-interview-2026
+
+要約（英語）
+Real Madrid midfielder Eduardo Camavinga talked to ESPN FC and gave some inside access to the team’s dressing room and what the chemistry is like now…
+
+要約（日本語）
+チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。
+
+② Rummenigge previews Bayern Munich-Real Madrid clash: “Arbeloa has found the right formula”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-players/105889/sergio-arribas-breakout-season-continues-as-real-madrid-monitor-situation
+https://www.managingmadrid.com/105897/rummenigge-previews-bayern-munich-real-madrid-clash-arbeloa-has-found-the-right-formula
 
 要約（英語）
-Sergio Arribas’ standout campaign with Almería continues to reach new heights. The attacking midfielder delivered another decisive performance in the…
+Bayern Munich legend and current member of the board Karl-Heinz Rummenigge talked to AS and shared his thoughts about Real Madrid as the two European…
+
+要約（日本語）
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+
+③ Real Madrid star reveals Alvaro Arbeloa gives players treats after training – ‘Donuts, Oreos…’
+トレーニングに関するニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/31/vinicius-camavinga-arbeloa-treats
+
+要約（英語）
+The narrative surrounding Real Madrid manager Alvaro Arbeloa has shifted considerably over the last month, with Los Blancos heading into the final st…
+
+要約（日本語）
+チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。
+
+④ Jonatan Vazquez
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/author/jonatan-vazquez
+
+要約（英語）
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-② Managing Madrid Podcast: Global Madridista COLLAB: Talking Arbeloa, Mbappe’s knee, and more.
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/105880/managing-madrid-podcast-global-madridista-collab-talking-arbeloa-mbappes-knee-and-more
-
-要約（英語）
-On this episode of the Managing Madrid Podcast, Miguel Barron (The Global Madridista) joins Kiyan Sobhani to discuss: Did you enjoy this podcast? Get…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-③ Real Madrid target – ‘Contract renewal is not close’
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/31/real-madrid-target-contract-renewal
-
-要約（英語）
-Real Madrid are prioritising a central defender this summer, but it is not yet clear whom they will eventually pursue. Their priority target was at o…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid intend to sign Spain winger this summer on cut-price deal
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/30/real-madrid-intend-to-sign-spain-winger-this-summer-on-cut-price-deal
-
-要約（英語）
-Real Madrid intend to bolster their squad with multiple bargain deals next summer, as they seek to rejuvenate an ageing team. New manager Alvaro Arbe…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
