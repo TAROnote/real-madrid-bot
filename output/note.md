@@ -24,7 +24,19 @@ On this episode of the Managing Madrid Podcast, Miguel Barron (The Global Madrid
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Real Madrid intend to sign Spain winger this summer on cut-price deal
+③ Real Madrid target – ‘Contract renewal is not close’
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/03/31/real-madrid-target-contract-renewal
+
+要約（英語）
+Real Madrid are prioritising a central defender this summer, but it is not yet clear whom they will eventually pursue. Their priority target was at o…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid intend to sign Spain winger this summer on cut-price deal
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid intend to bolster their squad with multiple bargain deals next summe
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Chelsea star Enzo Fernandez drops another Real Madrid transfer hint
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/30/chelsea-star-enzo-fernandez-drops-another-real-madrid-transfer-hint
-
-要約（英語）
-Chelsea midfielder Enzo Fernandez is certainly making it known that he does not necessarily see himself at Stamford Bridge long-term in recent weeks,…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
