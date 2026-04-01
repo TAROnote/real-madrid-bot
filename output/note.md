@@ -24,7 +24,19 @@ From Ronaldo to Roberto Carlos, from Marcelo to Casemiro, we’ve seen quite a f
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid open to summer exit for €45m forward
+③ Bayern Munich sweat on Harry Kane fitness one week out from Real Madrid showdown
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/01/bayern-munich-harry-kane-fitness-real-madrid
+
+要約（英語）
+In a week’s time, Real Madrid and Bayern Munich will face off at the Bernabeu in the first leg of their Champions League quarter-final tie. Alvaro Ar…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid open to summer exit for €45m forward
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/03/31/real-madrid-summer-exit-forward
 
 要約（英語）
 Real Madrid are poised to have a busy summer transfer window, as they prepare to begin another new era at the Bernabeu. The plan is for a number of n…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ ‘We are open’ – USMNT manager Mauricio Pochettino responds to Real Madrid links
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/03/31/we-are-open-usmnt-manager-mauricio-pochettino-responds-to-real-madrid-links
-
-要約（英語）
-USMNT manager Mauricio Pochettino has denied any contact with Real Madrid in recent months, following links to the job. The Argentine manager was one…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
