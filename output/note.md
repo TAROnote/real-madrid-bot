@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-01）
+📰 レアル・マドリードニュースまとめ（2026-04-02）
 
 ① Managing Madrid Podcast:Big Picture Talking Points: Squad Construction, Carvajal, Camavinga, Arbeloa, And The Academy. LIVE CALL!
 レアル・マドリード関連ニュース
@@ -24,7 +24,19 @@ From Ronaldo to Roberto Carlos, from Marcelo to Casemiro, we’ve seen quite a f
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid following 18-year-old Serie A defender – reports in Italy
+③ Dani Carvajal unlikely to make Spain World Cup squad as Luis de la Fuente settles on 21 players
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/01/dani-carvajal-unlikely-to-make-spain-world-cup-squad-as-luis-de-la-fuente-settles-on-21-players
+
+要約（英語）
+Spain played their final clashes before Luis de la Fuente names his World Cup squad of 26 players over the last week, securing a 3-0 win over Serbia …
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ Real Madrid following 18-year-old Serie A defender – reports in Italy
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/01/real-madrid-following-18-year-old-ser
 
 要約（英語）
 Real Madrid have a history of pursuing the top emerging teenagers over the past two decades, and the latest talent to hit their radar is Honest Ahano…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid cool interest in Manchester City star Rodri Hernandez
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/01/real-madrid-cool-interest-in-manchester-city-star-rodri-hernandez
-
-要約（英語）
-Real Madrid’s search for a midfielder to help control games continues on, and it appears that Manchester City star Rodri Hernandez has more to do hal…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
