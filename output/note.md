@@ -24,26 +24,26 @@ From Ronaldo to Roberto Carlos, from Marcelo to Casemiro, we’ve seen quite a f
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Bayern Munich sweat on Harry Kane fitness one week out from Real Madrid showdown
+③ Real Madrid following 18-year-old Serie A defender – reports in Italy
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/01/bayern-munich-harry-kane-fitness-real-madrid
+https://www.football-espana.net/2026/04/01/real-madrid-following-18-year-old-serie-a-defender-reports-in-italy
 
 要約（英語）
-In a week’s time, Real Madrid and Bayern Munich will face off at the Bernabeu in the first leg of their Champions League quarter-final tie. Alvaro Ar…
+Real Madrid have a history of pursuing the top emerging teenagers over the past two decades, and the latest talent to hit their radar is Honest Ahano…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid open to summer exit for €45m forward
+④ Real Madrid cool interest in Manchester City star Rodri Hernandez
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/03/31/real-madrid-summer-exit-forward
+https://www.football-espana.net/2026/04/01/real-madrid-cool-interest-in-manchester-city-star-rodri-hernandez
 
 要約（英語）
-Real Madrid are poised to have a busy summer transfer window, as they prepare to begin another new era at the Bernabeu. The plan is for a number of n…
+Real Madrid’s search for a midfielder to help control games continues on, and it appears that Manchester City star Rodri Hernandez has more to do hal…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
