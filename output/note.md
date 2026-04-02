@@ -24,29 +24,29 @@ On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani and 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Ex-Barcelona midfielder Ivan Rakitic gives take on Real Madrid’s European success – ‘It’s easy to explain’
+③ Real Madrid star urges compatriot to join this summer – “Of course I would like him to come”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/02/rakitic-real-madrid-champions-league
+https://www.football-espana.net/2026/04/02/real-madrid-star-compatriot-join-this-summer
 
 要約（英語）
-For many, Real Madrid were not favourites to make it through to their Champions League quarter-final against Bayern Munich when they were drawn with …
+Real Madrid are planning to sign a new midfielder in the summer, as they get set to finally replace Toni Kroos/Luka Modric. The likes of Rodri Hernan…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid star to return from injury after lengthy absence as Vinicius Junior becomes doubt
-負傷に関するニュース
+④ Kylian Mbappe opens up on racist abuse and almost quitting French national team
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/02/real-madrid-star-to-return-from-injury-after-lengthy-absence-as-vinicius-junior-becomes-doubt
+https://www.football-espana.net/2026/04/02/kylian-mbappe-racist-abuse
 
 要約（英語）
-Real Madrid have cause for celebration this week, with the long-awaited return of defender Eder Militao on the cards. The Brazilian has been ravaged …
+As one of the best players in the best players in the world, much is expected of Kylian Mbappe – especially from Real Madrid fans. The 27-year-old ma…
 
 要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
