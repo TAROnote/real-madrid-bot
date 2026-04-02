@@ -24,29 +24,29 @@ On this La Liga Tier Members only episode of the Managing Madrid Podcast , Kiyan
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Real Madrid move closer to signing Premier League star
+③ Gianluca Prestianni insists on innocence in Vinicius racism accusation, says homophobic insult is ‘normal’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/02/real-madrid-premier-league-star
+https://www.football-espana.net/2026/04/02/prestianni-vinicius-racism
 
 要約（英語）
-Real Madrid have plans to address multiple areas of Alvaro Arbeloa’s squad during the upcoming summer transfer window, with one of the pressing being…
+Benfica winger Gianluca Prestianni has insisted that he is innocent of the racism charge levelled at him. Vinicius Junior accused him of using the ra…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-④ Real Madrid bemused by England’s Jude Bellingham conduct
+④ Liverpool and Manchester United interested in Real Madrid defensive target
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/02/real-madrid-england-jude-bellingham
+https://www.football-espana.net/2026/04/02/liverpool-and-manchester-united-interested-schlotterbeck
 
 要約（英語）
-The international break has now come to an end, and Real Madrid are gearing up for their return to action this weekend. They will be without the susp…
+The future of Borussia Dortmund central defender Nico Schlotterbeck remains a domino piece that several European clubs are keeping a close eye on. Th…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
