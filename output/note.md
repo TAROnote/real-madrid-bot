@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-02）
 
-① Managing Madrid Podcast:Big Picture Talking Points: Squad Construction, Carvajal, Camavinga, Arbeloa, And The Academy. LIVE CALL!
+① Managing Madrid Podcast: The Lunin Tribute Episode. PLUS: The Arbeloa Turnaround
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-podcast/105973/managing-madrid-podcast-the-lunin-tribute-episode-plus-the-arbeloa-turnaround
+
+要約（英語）
+On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani and Don Amancio discuss: Thanks for being a Member. We hope you enjoy the…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Managing Madrid Podcast:Big Picture Talking Points: Squad Construction, Carvajal, Camavinga, Arbeloa, And The Academy. LIVE CALL!
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,38 +24,26 @@ On this La Liga Tier Members only episode of the Managing Madrid Podcast , Kiyan
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② Vinicius Tobias: The Ex-Real Madrid Defender Eyeing Fresh New Start at Shakhtar
+③ Real Madrid move closer to signing Premier League star
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/latest-news/105929/vinicius-tobias-the-ex-real-madrid-defender-eyeing-fresh-new-start-at-shakhtar
+https://www.football-espana.net/2026/04/02/real-madrid-premier-league-star
 
 要約（英語）
-From Ronaldo to Roberto Carlos, from Marcelo to Casemiro, we’ve seen quite a few Brazilian phenoms light it up at Real Madrid this century. President…
+Real Madrid have plans to address multiple areas of Alvaro Arbeloa’s squad during the upcoming summer transfer window, with one of the pressing being…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Dani Carvajal unlikely to make Spain World Cup squad as Luis de la Fuente settles on 21 players
+④ Real Madrid bemused by England’s Jude Bellingham conduct
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/01/dani-carvajal-unlikely-to-make-spain-world-cup-squad-as-luis-de-la-fuente-settles-on-21-players
+https://www.football-espana.net/2026/04/02/real-madrid-england-jude-bellingham
 
 要約（英語）
-Spain played their final clashes before Luis de la Fuente names his World Cup squad of 26 players over the last week, securing a 3-0 win over Serbia …
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-④ Real Madrid following 18-year-old Serie A defender – reports in Italy
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/01/real-madrid-following-18-year-old-serie-a-defender-reports-in-italy
-
-要約（英語）
-Real Madrid have a history of pursuing the top emerging teenagers over the past two decades, and the latest talent to hit their radar is Honest Ahano…
+The international break has now come to an end, and Real Madrid are gearing up for their return to action this weekend. They will be without the susp…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
