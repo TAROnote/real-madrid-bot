@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-02）
+📰 レアル・マドリードニュースまとめ（2026-04-03）
 
 ① Managing Madrid Podcast: The Lunin Tribute Episode. PLUS: The Arbeloa Turnaround
 レアル・マドリード関連ニュース
@@ -24,26 +24,26 @@ On this La Liga Tier Members only episode of the Managing Madrid Podcast , Kiyan
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Gianluca Prestianni insists on innocence in Vinicius racism accusation, says homophobic insult is ‘normal’
-レアル・マドリード関連ニュース
+③ Real Madrid star to return from injury after lengthy absence as Vinicius Junior becomes doubt
+負傷に関するニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/02/prestianni-vinicius-racism
+https://www.football-espana.net/2026/04/02/real-madrid-star-to-return-from-injury-after-lengthy-absence-as-vinicius-junior-becomes-doubt
 
 要約（英語）
-Benfica winger Gianluca Prestianni has insisted that he is innocent of the racism charge levelled at him. Vinicius Junior accused him of using the ra…
+Real Madrid have cause for celebration this week, with the long-awaited return of defender Eder Militao on the cards. The Brazilian has been ravaged …
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
 
-④ Liverpool and Manchester United interested in Real Madrid defensive target
+④ Newcastle United midfielder Sandro Tonali offered to La Liga giants
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/02/liverpool-and-manchester-united-interested-schlotterbeck
+https://www.football-espana.net/2026/04/02/newcastle-united-midfielder-sandro-tonali-offered-to-la-liga-giants
 
 要約（英語）
-The future of Borussia Dortmund central defender Nico Schlotterbeck remains a domino piece that several European clubs are keeping a close eye on. Th…
+Newcastle United midfielder Sandro Tonali appears to be on his way out of St. James’ Park this summer, and a number of top clubs are likely to be int…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
