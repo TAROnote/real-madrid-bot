@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-03）
 
-① Managing Madrid Podcast: The Lunin Tribute Episode. PLUS: The Arbeloa Turnaround
+① Managing Madrid Podcast: Line-ups vs Bayern, Endrick’s role next season, Gonzalo Garcia’s future. MAILBAG!
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-podcast/105982/managing-madrid-podcast-line-ups-vs-bayern-endricks-role-next-season-gonzalo-garcias-future-mailbag
+
+要約（英語）
+Kiyan and Matt also discuss Carvajal’s drop and World Cup predictions On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani and…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Managing Madrid Podcast: The Lunin Tribute Episode. PLUS: The Arbeloa Turnaround
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani and 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② Managing Madrid Podcast:Big Picture Talking Points: Squad Construction, Carvajal, Camavinga, Arbeloa, And The Academy. LIVE CALL!
+③ Ex-Barcelona midfielder Ivan Rakitic gives take on Real Madrid’s European success – ‘It’s easy to explain’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/105941/managing-madrid-podcastbig-picture-talking-points-squad-construction-carvajal-camavinga-arbeloa-and-the-academy-live-call
+https://www.football-espana.net/2026/04/02/rakitic-real-madrid-champions-league
 
 要約（英語）
-On this La Liga Tier Members only episode of the Managing Madrid Podcast , Kiyan Sobhani, Sam Sharpe, Mehedi Hassan -- along with Members on the Zoom…
+For many, Real Madrid were not favourites to make it through to their Champions League quarter-final against Bayern Munich when they were drawn with …
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid star to return from injury after lengthy absence as Vinicius Junior becomes doubt
+④ Real Madrid star to return from injury after lengthy absence as Vinicius Junior becomes doubt
 負傷に関するニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid have cause for celebration this week, with the long-awaited return o
 
 要約（日本語）
 負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
-
-④ Newcastle United midfielder Sandro Tonali offered to La Liga giants
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/02/newcastle-united-midfielder-sandro-tonali-offered-to-la-liga-giants
-
-要約（英語）
-Newcastle United midfielder Sandro Tonali appears to be on his way out of St. James’ Park this summer, and a number of top clubs are likely to be int…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
