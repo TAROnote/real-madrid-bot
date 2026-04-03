@@ -24,7 +24,19 @@ With the Brazilian close to a return, the duo will be put to the test Éder Mili
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Spanish actor Ester Exposito responds to Kylian Mbappe romance rumours
+③ ‘Nothing concrete in Real Madrid interest’ in Liverpool star
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/03/nothing-concrete-in-real-madrid-interest-in-liverpool-star
+
+要約（英語）
+Liverpool star Ibrahima Konate could end up signing a new deal at Anfield in the summer, despite seemingly evaluating a departure for much of the sea…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ Spanish actor Ester Exposito responds to Kylian Mbappe romance rumours
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Spanish actor Ester Exposito has responded to rumours that she is dating Real Ma
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Jonatan Vazquez
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/author/jonatan-vazquez
-
-要約（英語）
-記事の詳細はリンク先で確認してください。
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
