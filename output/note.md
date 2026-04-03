@@ -1,25 +1,25 @@
 📰 レアル・マドリードニュースまとめ（2026-04-04）
 
-① Mallorca vs Real Madrid, 2026 La Liga: Predicted lineups
-レアル・マドリード関連ニュース
+① Real Madrid announce squad for LaLiga match against Mallorca
+試合に関するニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106028/mallorca-vs-real-madrid-2026-la-liga-lineups
+https://www.managingmadrid.com/106036/real-madrid-announce-squad-for-laliga-match-against-mallorca
 
 要約（英語）
-Real Madrid visit Mallorca in the first game after the FIFA break. Fede Valverde will serve his one-match suspension after the red card he saw during…
+Real Madrid have published their squad list for the upcoming match against Mallorca in La Liga. REAL MADRID LINEUP: Goalkeepers: Lunin, Fran González…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-② Militão and Huijsen: Real Madrid’s long-term defensive foundation
+② Managing Madrid Podcast: How Arbeloa Has Gotten Real Madrid Back On Track
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-players/106019/militao-and-huijsen-real-madrids-long-term-defensive-foundation
+https://www.managingmadrid.com/managing-madrid-podcast/106031/managing-madrid-podcast-how-arbeloa-has-gotten-real-madrid-back-on-track
 
 要約（英語）
-With the Brazilian close to a return, the duo will be put to the test Éder Militão’s possible return from a four-month hamstring absence this weekend…
+Kiyan and Matt also discuss the reintegration of Mbappe and Bellingham On this episode of the Managing Madrid Podcast, Kiyan Sobhani and Matt Wiltse …
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
