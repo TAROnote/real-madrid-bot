@@ -1,6 +1,18 @@
-📰 レアル・マドリードニュースまとめ（2026-04-03）
+📰 レアル・マドリードニュースまとめ（2026-04-04）
 
-① Militão and Huijsen: Real Madrid’s long-term defensive foundation
+① Mallorca vs Real Madrid, 2026 La Liga: Predicted lineups
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106028/mallorca-vs-real-madrid-2026-la-liga-lineups
+
+要約（英語）
+Real Madrid visit Mallorca in the first game after the FIFA break. Fede Valverde will serve his one-match suspension after the red card he saw during…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Militão and Huijsen: Real Madrid’s long-term defensive foundation
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,41 +24,29 @@ With the Brazilian close to a return, the duo will be put to the test Éder Mili
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② Brazilian media praise Endrick after his 15 minutes against Croatia
+③ Spanish actor Ester Exposito responds to Kylian Mbappe romance rumours
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106007/brazilian-media-praise-endrick-after-his-15-minutes-against-croatia
+https://www.football-espana.net/2026/04/03/spanish-actor-ester-exposito-responds-to-kylian-mbappe-romance-rumours
 
 要約（英語）
-Brazilian wonder kid Endrick made his case to feature on Brazil’s list for the upcoming FIFA World Cup with a brilliant 15-minute cameo off the bench…
+Spanish actor Ester Exposito has responded to rumours that she is dating Real Madrid star Kylian Mbappe. Rumours of a romance between the two went in…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Jonatan Vazquez
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/author/jonatan-vazquez
+
+要約（英語）
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-③ Chelsea sanction Enzo Fernandez for Real Madrid hints
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/03/rosenior-enzo-fernandez-real-madrid
-
-要約（英語）
-Chelsea star Enzo Fernandez has been sanctioned by the club for hinting that he would like a move to Real Madrid this summer. The Argentina internati…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ ‘Forwards have to defend less, Kylian Mbappe is committed’ – Alvaro Arbeloa on defensive work
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/03/arbeloa-mbappe-defending
-
-要約（英語）
-Real Madrid manager Alvaro Arbeloa has put Kylian Mbappe’s commitment to the cause beyond question. It follows on from the admission by the French fo…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
