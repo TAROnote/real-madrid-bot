@@ -24,26 +24,26 @@ Ivan Rakitić has shared his thoughts on Real Madrid’s continued dominance in 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Statistics show Atletico Madrid and Real Madrid deals lead Europe for January signing impact
+③ Chelsea sanction Enzo Fernandez for Real Madrid hints
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/03/statistics-show-atletico-madrid-and-real-madrid-deals-lead-europe-for-january-signing-impact
+https://www.football-espana.net/2026/04/03/rosenior-enzo-fernandez-real-madrid
 
 要約（英語）
-The January transfer window is a chance for clubs to course correct, and to make emergency adjustments at the midway point in the season, but so ofte…
+Chelsea star Enzo Fernandez has been sanctioned by the club for hinting that he would like a move to Real Madrid this summer. The Argentina internati…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ New contract for Nico Schlotterbeck will not impede Real Madrid signing
+④ ‘Forwards have to defend less, Kylian Mbappe is committed’ – Alvaro Arbeloa on defensive work
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/03/new-contract-for-nico-schlotterbeck-will-not-impede-real-madrid-signing
+https://www.football-espana.net/2026/04/03/arbeloa-mbappe-defending
 
 要約（英語）
-The future of Nico Schlotterbeck could well be settled in the coming months for the next few years, but Real Madrid do not believe that a new contrac…
+Real Madrid manager Alvaro Arbeloa has put Kylian Mbappe’s commitment to the cause beyond question. It follows on from the admission by the French fo…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
