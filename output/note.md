@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-03）
 
-① Ivan Rakitić Backs Real Madrid’s Champions League Pedigree
+① Brazilian media praise Endrick after his 15 minutes against Croatia
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106007/brazilian-media-praise-endrick-after-his-15-minutes-against-croatia
+
+要約（英語）
+Brazilian wonder kid Endrick made his case to feature on Brazil’s list for the upcoming FIFA World Cup with a brilliant 15-minute cameo off the bench…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Ivan Rakitić Backs Real Madrid’s Champions League Pedigree
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,41 +24,29 @@ Ivan Rakitić has shared his thoughts on Real Madrid’s continued dominance in 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Mbappe: “I’m a player who defends a little less than others, and sometimes that can be a problem”
+③ Statistics show Atletico Madrid and Real Madrid deals lead Europe for January signing impact
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/latest-news/105996/mbappe-im-a-player-who-defends-a-little-less-than-others-and-sometimes-that-can-be-a-problem
+https://www.football-espana.net/2026/04/03/statistics-show-atletico-madrid-and-real-madrid-deals-lead-europe-for-january-signing-impact
 
 要約（英語）
-French superstar speaks candidly on The Bridge Podcast alongside Hakimi, Tchouaméni, and Malik Bentalha﻿ Kylian Mbappé offered a raw and unfiltered l…
+The January transfer window is a chance for clubs to course correct, and to make emergency adjustments at the midway point in the season, but so ofte…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Manchester City move to shield star player amid Real Madrid interest
+④ New contract for Nico Schlotterbeck will not impede Real Madrid signing
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/03/man-city-shield-star-player-real-madrid
+https://www.football-espana.net/2026/04/03/new-contract-for-nico-schlotterbeck-will-not-impede-real-madrid-signing
 
 要約（英語）
-Real Madrid are planning to sign a new midfielder this summer, and one of the players they’ve been linked to is Rodri Hernandez. Bernabeu officials h…
+The future of Nico Schlotterbeck could well be settled in the coming months for the next few years, but Real Madrid do not believe that a new contrac…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Harry Kane injury doubts continue at Bayern Munich ahead of Real Madrid showdown
-負傷に関するニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/03/harry-kane-injury-doubts-bayern-munich-real-madrid
-
-要約（英語）
-Real Madrid will start their Champions League quarter-final tie with Bayern Munich as underdogs, but there is hope that they can progress to the last…
-
-要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
