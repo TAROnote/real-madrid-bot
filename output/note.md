@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-03）
 
-① Brazilian media praise Endrick after his 15 minutes against Croatia
+① Militão and Huijsen: Real Madrid’s long-term defensive foundation
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/real-madrid-cf-players/106019/militao-and-huijsen-real-madrids-long-term-defensive-foundation
+
+要約（英語）
+With the Brazilian close to a return, the duo will be put to the test Éder Militão’s possible return from a four-month hamstring absence this weekend…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Brazilian media praise Endrick after his 15 minutes against Croatia
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ Brazilian wonder kid Endrick made his case to feature on Brazil’s list for the
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-② Ivan Rakitić Backs Real Madrid’s Champions League Pedigree
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/latest-news/106000/ivan-rakitic-backs-real-madrids-champions-league-pedigree
-
-要約（英語）
-Ivan Rakitić has shared his thoughts on Real Madrid’s continued dominance in the Champions League in an interview with AS , backing Los Blancos and i…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ Chelsea sanction Enzo Fernandez for Real Madrid hints
 レアル・マドリード関連ニュース
