@@ -1,52 +1,52 @@
 📰 レアル・マドリードニュースまとめ（2026-04-03）
 
-① Managing Madrid Podcast: Line-ups vs Bayern, Endrick’s role next season, Gonzalo Garcia’s future. MAILBAG!
+① Ivan Rakitić Backs Real Madrid’s Champions League Pedigree
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/105982/managing-madrid-podcast-line-ups-vs-bayern-endricks-role-next-season-gonzalo-garcias-future-mailbag
+https://www.managingmadrid.com/latest-news/106000/ivan-rakitic-backs-real-madrids-champions-league-pedigree
 
 要約（英語）
-Kiyan and Matt also discuss Carvajal’s drop and World Cup predictions On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani and…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-② Managing Madrid Podcast: The Lunin Tribute Episode. PLUS: The Arbeloa Turnaround
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/105973/managing-madrid-podcast-the-lunin-tribute-episode-plus-the-arbeloa-turnaround
-
-要約（英語）
-On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani and Don Amancio discuss: Thanks for being a Member. We hope you enjoy the…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-③ Real Madrid star urges compatriot to join this summer – “Of course I would like him to come”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/02/real-madrid-star-compatriot-join-this-summer
-
-要約（英語）
-Real Madrid are planning to sign a new midfielder in the summer, as they get set to finally replace Toni Kroos/Luka Modric. The likes of Rodri Hernan…
+Ivan Rakitić has shared his thoughts on Real Madrid’s continued dominance in the Champions League in an interview with AS , backing Los Blancos and i…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Kylian Mbappe opens up on racist abuse and almost quitting French national team
+② Mbappe: “I’m a player who defends a little less than others, and sometimes that can be a problem”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/02/kylian-mbappe-racist-abuse
+https://www.managingmadrid.com/latest-news/105996/mbappe-im-a-player-who-defends-a-little-less-than-others-and-sometimes-that-can-be-a-problem
 
 要約（英語）
-As one of the best players in the best players in the world, much is expected of Kylian Mbappe – especially from Real Madrid fans. The 27-year-old ma…
+French superstar speaks candidly on The Bridge Podcast alongside Hakimi, Tchouaméni, and Malik Bentalha﻿ Kylian Mbappé offered a raw and unfiltered l…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+③ Manchester City move to shield star player amid Real Madrid interest
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/03/man-city-shield-star-player-real-madrid
+
+要約（英語）
+Real Madrid are planning to sign a new midfielder this summer, and one of the players they’ve been linked to is Rodri Hernandez. Bernabeu officials h…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Harry Kane injury doubts continue at Bayern Munich ahead of Real Madrid showdown
+負傷に関するニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/03/harry-kane-injury-doubts-bayern-munich-real-madrid
+
+要約（英語）
+Real Madrid will start their Champions League quarter-final tie with Bayern Munich as underdogs, but there is hope that they can progress to the last…
+
+要約（日本語）
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
