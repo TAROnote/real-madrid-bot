@@ -24,7 +24,19 @@ Real Madrid have published their squad list for the upcoming match against Mallo
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-③ ‘Nothing concrete in Real Madrid interest’ in Liverpool star
+③ Analysis: Alvaro Arbeloa is now part of the Real Madrid question, time to submit the answers
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/04/analysis-alvaro-arbeloa-is-now-part-of-the-real-madrid-question-time-to-submit-the-answers
+
+要約（英語）
+“If I try to be Mourinho, I’ll fail spectacularly.” Little could Alvaro Arbeloa know that the headline statement from his opening press conference at…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ ‘Nothing concrete in Real Madrid interest’ in Liverpool star
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Liverpool star Ibrahima Konate could end up signing a new deal at Anfield in the
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-④ Spanish actor Ester Exposito responds to Kylian Mbappe romance rumours
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/03/spanish-actor-ester-exposito-responds-to-kylian-mbappe-romance-rumours
-
-要約（英語）
-Spanish actor Ester Exposito has responded to rumours that she is dating Real Madrid star Kylian Mbappe. Rumours of a romance between the two went in…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
