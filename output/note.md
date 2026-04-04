@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-04）
 
-① Mallorca vs Real Madrid 2026 live stream: Time, TV channels and how to watch La Liga online
+① CONFIRMED lineups: Mallorca vs Real Madrid, 2026 La Liga
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106043/mallorca-vs-real-madrid-2026-la-liga-live-online-stream
+
+要約（英語）
+Real Madrid have published their starting lineup for the upcoming match against Mallorca in the return of La Liga after the FIFA break. Real Madrid w…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Mallorca vs Real Madrid 2026 live stream: Time, TV channels and how to watch La Liga online
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ Real Madrid visit Mallorca in the first game after the FIFA break. Some players 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Real Madrid announce squad for LaLiga match against Mallorca
-試合に関するニュース
+③ Pep Guardiola opens door for Rodri Hernandez to leave Manchester City amid Real Madrid links
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106036/real-madrid-announce-squad-for-laliga-match-against-mallorca
+https://www.football-espana.net/2026/04/04/pep-guardiola-rodri-leave-man-city-real-madrid
 
 要約（英語）
-Real Madrid have published their squad list for the upcoming match against Mallorca in La Liga. REAL MADRID LINEUP: Goalkeepers: Lunin, Fran González…
+Real Madrid are planning to sign a new midfielder this summer, and one of the players they’ve been linked to in recent weeks is Rodri Hernandez. The …
 
 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Analysis: Alvaro Arbeloa is now part of the Real Madrid question, time to submit the answers
+④ Analysis: Alvaro Arbeloa is now part of the Real Madrid question, time to submit the answers
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/04/analysis-alvaro-arbeloa-is-now-part-o
 
 要約（英語）
 “If I try to be Mourinho, I’ll fail spectacularly.” Little could Alvaro Arbeloa know that the headline statement from his opening press conference at…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-④ ‘Nothing concrete in Real Madrid interest’ in Liverpool star
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/03/nothing-concrete-in-real-madrid-interest-in-liverpool-star
-
-要約（英語）
-Liverpool star Ibrahima Konate could end up signing a new deal at Anfield in the summer, despite seemingly evaluating a departure for much of the sea…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
