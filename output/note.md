@@ -1,49 +1,49 @@
 📰 レアル・マドリードニュースまとめ（2026-04-05）
 
-① CONFIRMED lineups: Mallorca vs Real Madrid, 2026 La Liga
+① Three questions and three answers from RCD Mallorca 2-1 Real Madrid
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106043/mallorca-vs-real-madrid-2026-la-liga-live-online-stream
+https://www.managingmadrid.com/real-madrid-cf-la-liga/106046/three-questions-and-three-answers-from-rcd-mallorca-2-1-real-madrid
 
 要約（英語）
-Real Madrid have published their starting lineup for the upcoming match against Mallorca in the return of La Liga after the FIFA break. Real Madrid w…
+Real Madrid crashed to their first defeat in a month in dramatic fashion as they were beaten by relegation-battling Real Mallorca on Saturday afterno…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Mallorca vs Real Madrid 2026 live stream: Time, TV channels and how to watch La Liga online
+② Managing Madrid Podcast: Mallorca 2 - 1 Real Madrid, Post-game Reaction, La Liga 2025 - 2026
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106040/mallorca-real-madrid-2026-live-stream-time-tv-channels-and-how-to-watch-la-liga-online
+https://www.managingmadrid.com/managing-madrid-podcast/106056/managing-madrid-podcast-mallorca-2-1-real-madrid-post-game-reaction-la-liga-2025-2026
 
 要約（英語）
-Real Madrid visit Mallorca in the first game after the FIFA break. Some players might be tired and that means that coach Arbeloa could make rotations…
+On this episode of of the Managing Madrid Podcast, Kiyan Sobhani gives his thoughts directly after Real Madrid lose 2 - 1 to Mallorca away from hom. …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ WATCH: Real Madrid fall behind to Mallorca just before half time
-レアル・マドリード関連ニュース
+③ Real Madrid player ratings against Mallorca: Eder Militao stars on return from injury
+負傷に関するニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/04/mallorca-real-madrid-la-liga-goal
+https://www.football-espana.net/2026/04/04/mallorca-real-madrid-la-liga-ratings
 
 要約（英語）
-Real Madrid will close to within a point of Real Madrid if they defeat Mallorca, but their plans to do so have been thwarted by the home side, who ha…
+Real Madrid tasted a painful defeat on Saturday afternoon, as Mallorca picked up a crucial 2-1 victory on home soil. It was another disappointing per…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
 
-④ Pep Guardiola opens door for Rodri Hernandez to leave Manchester City amid Real Madrid links
+④ Real Madrid slip up at Son Moix as Mallorca claim crucial victory in relegation dogfight
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/04/pep-guardiola-rodri-leave-man-city-real-madrid
+https://www.football-espana.net/2026/04/04/mallorca-real-madrid-la-liga-report
 
 要約（英語）
-Real Madrid are planning to sign a new midfielder this summer, and one of the players they’ve been linked to in recent weeks is Rodri Hernandez. The …
+Real Madrid have suffered a potentially crucial slip-up in the La Liga title race, as they fell to defeat against Mallorca at Son Moix. Alvaro Arbelo…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
