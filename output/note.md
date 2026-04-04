@@ -24,7 +24,19 @@ On this episode of of the Managing Madrid Podcast, Kiyan Sobhani gives his thoug
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid player ratings against Mallorca: Eder Militao stars on return from injury
+③ Alvaro Arbeloa takes blame for Real Madrid loss against Mallorca, assesses La Liga chances after slip-up
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/04/mallorca-real-madrid-la-liga-alvaro-arbeloa-reaction
+
+要約（英語）
+Real Madrid fell to a disappointing defeat against Mallorca on Saturday, with the home side emerging as 2-1 winners at Son Moix. It is a result that …
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid player ratings against Mallorca: Eder Militao stars on return from injury
 負傷に関するニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid tasted a painful defeat on Saturday afternoon, as Mallorca picked up
 
 要約（日本語）
 負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
-
-④ Real Madrid slip up at Son Moix as Mallorca claim crucial victory in relegation dogfight
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/04/mallorca-real-madrid-la-liga-report
-
-要約（英語）
-Real Madrid have suffered a potentially crucial slip-up in the La Liga title race, as they fell to defeat against Mallorca at Son Moix. Alvaro Arbelo…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
