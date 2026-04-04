@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-04）
 
-① Real Madrid announce squad for LaLiga match against Mallorca
+① Mallorca vs Real Madrid 2026 live stream: Time, TV channels and how to watch La Liga online
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106040/mallorca-real-madrid-2026-live-stream-time-tv-channels-and-how-to-watch-la-liga-online
+
+要約（英語）
+Real Madrid visit Mallorca in the first game after the FIFA break. Some players might be tired and that means that coach Arbeloa could make rotations…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Real Madrid announce squad for LaLiga match against Mallorca
 試合に関するニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ Real Madrid have published their squad list for the upcoming match against Mallo
 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
-
-② Managing Madrid Podcast: How Arbeloa Has Gotten Real Madrid Back On Track
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/106031/managing-madrid-podcast-how-arbeloa-has-gotten-real-madrid-back-on-track
-
-要約（英語）
-Kiyan and Matt also discuss the reintegration of Mbappe and Bellingham On this episode of the Managing Madrid Podcast, Kiyan Sobhani and Matt Wiltse …
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ③ ‘Nothing concrete in Real Madrid interest’ in Liverpool star
 レアル・マドリード関連ニュース
