@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-04）
+📰 レアル・マドリードニュースまとめ（2026-04-05）
 
 ① CONFIRMED lineups: Mallorca vs Real Madrid, 2026 La Liga
 レアル・マドリード関連ニュース
@@ -24,7 +24,19 @@ Real Madrid visit Mallorca in the first game after the FIFA break. Some players 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Pep Guardiola opens door for Rodri Hernandez to leave Manchester City amid Real Madrid links
+③ WATCH: Real Madrid fall behind to Mallorca just before half time
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/04/mallorca-real-madrid-la-liga-goal
+
+要約（英語）
+Real Madrid will close to within a point of Real Madrid if they defeat Mallorca, but their plans to do so have been thwarted by the home side, who ha…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Pep Guardiola opens door for Rodri Hernandez to leave Manchester City amid Real Madrid links
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid are planning to sign a new midfielder this summer, and one of the pl
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Analysis: Alvaro Arbeloa is now part of the Real Madrid question, time to submit the answers
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/04/analysis-alvaro-arbeloa-is-now-part-of-the-real-madrid-question-time-to-submit-the-answers
-
-要約（英語）
-“If I try to be Mourinho, I’ll fail spectacularly.” Little could Alvaro Arbeloa know that the headline statement from his opening press conference at…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
