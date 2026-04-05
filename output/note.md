@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-05）
+📰 レアル・マドリードニュースまとめ（2026-04-06）
 
 ① Referee named for Champions League match between Real Madrid and Bayern Munich
 試合に関するニュース
@@ -24,7 +24,19 @@ Player Ratings: Mallorca 2 - 1 Real Madrid Andriy Lunin: 6 Made zero saves and c
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Wife of Real Madrid star slams Barcelona non-red card decision
+③ Financial report reveals precaution situation for Real Madrid
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/05/financial-report-real-madrid
+
+要約（英語）
+Real Madrid are among the richest clubs in the world, although their situation may not be as good as supporters have hoped. The entity headed up by F…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Wife of Real Madrid star slams Barcelona non-red card decision
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/05/wife-real-madrid-star-barcelona-red-c
 
 要約（英語）
 Saturday was a dismal day for Real Madrid, as they lost more ground to Barcelona in the 2025-26 La Liga title race. Alvaro Arbeloa’s side were defeat…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Alvaro Arbeloa takes blame for Real Madrid loss against Mallorca, assesses La Liga chances after slip-up
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/04/mallorca-real-madrid-la-liga-alvaro-arbeloa-reaction
-
-要約（英語）
-Real Madrid fell to a disappointing defeat against Mallorca on Saturday, with the home side emerging as 2-1 winners at Son Moix. It is a result that …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
