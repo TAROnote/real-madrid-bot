@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-05）
 
-① Three questions and three answers from RCD Mallorca 2-1 Real Madrid
+① Player Ratings: Mallorca 2 - 1 Real Madrid
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/real-madrid-cf-la-liga/106065/player-ratings-mallorca-2-1-real-madrid
+
+要約（英語）
+Player Ratings: Mallorca 2 - 1 Real Madrid Andriy Lunin: 6 Made zero saves and conceded twice, though neither goal was really his fault. Trent Alexan…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Three questions and three answers from RCD Mallorca 2-1 Real Madrid
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -8,18 +20,6 @@ https://www.managingmadrid.com/real-madrid-cf-la-liga/106046/three-questions-and
 
 要約（英語）
 Real Madrid crashed to their first defeat in a month in dramatic fashion as they were beaten by relegation-battling Real Mallorca on Saturday afterno…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-② Managing Madrid Podcast: Mallorca 2 - 1 Real Madrid, Post-game Reaction, La Liga 2025 - 2026
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/106056/managing-madrid-podcast-mallorca-2-1-real-madrid-post-game-reaction-la-liga-2025-2026
-
-要約（英語）
-On this episode of of the Managing Madrid Podcast, Kiyan Sobhani gives his thoughts directly after Real Madrid lose 2 - 1 to Mallorca away from hom. …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。

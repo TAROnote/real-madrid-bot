@@ -1,7 +1,14 @@
 {
-  "generated_at_jst": "2026-04-05T06:57:59.541247+09:00",
+  "generated_at_jst": "2026-04-05T14:55:03.240004+09:00",
   "count": 69,
   "items": [
+    {
+      "title": "Player Ratings: Mallorca 2 - 1 Real Madrid",
+      "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/106065/player-ratings-mallorca-2-1-real-madrid",
+      "source": "Managing Madrid",
+      "published": "",
+      "summary": ""
+    },
     {
       "title": "Three questions and three answers from RCD Mallorca 2-1 Real Madrid",
       "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/106046/three-questions-and-three-answers-from-rcd-mallorca-2-1-real-madrid",
@@ -75,13 +82,6 @@
     {
       "title": "Mbappe: “I’m a player who defends a little less than others, and sometimes that can be a problem”",
       "link": "https://www.managingmadrid.com/latest-news/105996/mbappe-im-a-player-who-defends-a-little-less-than-others-and-sometimes-that-can-be-a-problem",
-      "source": "Managing Madrid",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Fede Valverde Opens Up on Viral Moments, Zidane, and Ancelotti in Candid Interview",
-      "link": "https://www.managingmadrid.com/real-madrid-cf-players/105990/fede-valverde-opens-up-on-viral-moments-zidane-and-ancelotti-in-candid-interview",
       "source": "Managing Madrid",
       "published": "",
       "summary": ""
@@ -185,6 +185,13 @@
       "summary": ""
     },
     {
+      "title": "LALIGA EA SPORTS SAB 04.04.2026 | RESUMEN DE PARTIDO Muriqi saca al Mallorca del descenso frente al Real Madrid Compartir",
+      "link": "https://www.laliga.com/videos/muriqi-saca-al-mallorca-del-descenso-frente-al-real-madrid",
+      "source": "LaLiga",
+      "published": "",
+      "summary": ""
+    },
+    {
       "title": "Atletico Madrid",
       "link": "https://www.football-espana.net/category/la-liga/atletico-madrid",
       "source": "Football España Home",
@@ -213,15 +220,15 @@
       "summary": ""
     },
     {
-      "title": "WATCH: Robert Lewandowski completes Barcelona comeback against Atletico Madrid",
-      "link": "https://www.football-espana.net/2026/04/04/atletico-madrid-barcelona-la-liga-goal-2",
+      "title": "Atletico Madrid’s Robin Le Normand on Gerard Martin red card – ‘If I do the same, no doubt they send me off’",
+      "link": "https://www.football-espana.net/2026/04/04/atletico-madrids-robin-le-normand-on-gerard-martin-red-card-if-i-do-the-same-no-doubt-they-send-me-off",
       "source": "Football España Home",
       "published": "",
       "summary": ""
     },
     {
-      "title": "WATCH: Atletico Madrid strike first against Barcelona before Marcus Rashford equalises",
-      "link": "https://www.football-espana.net/2026/04/04/atletico-madrid-barcelona-la-liga-goal",
+      "title": "WATCH: Robert Lewandowski completes Barcelona comeback against Atletico Madrid",
+      "link": "https://www.football-espana.net/2026/04/04/atletico-madrid-barcelona-la-liga-goal-2",
       "source": "Football España Home",
       "published": "",
       "summary": ""
@@ -243,13 +250,6 @@
     {
       "title": "Atletico Madrid News",
       "link": "https://www.football-espana.net/category/la-liga/atletico-madrid",
-      "source": "Football España Home",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Diego Simeone confirms five absences for Atletico Madrid-Barcelona clash",
-      "link": "https://www.football-espana.net/2026/04/03/simeone-atletico-injuries",
       "source": "Football España Home",
       "published": "",
       "summary": ""
@@ -339,29 +339,36 @@
       "summary": ""
     },
     {
-      "title": "Second Chelsea star opens Real Madrid door after Fernández punished",
-      "link": "https://en.as.com/soccer/second-chelsea-star-opens-real-madrid-door-on-same-day-enzo-fernandez-punished-by-club-f202604-n/",
-      "source": "AS",
+      "title": "Did Barcelona Just Win La Liga?! 5 Headlines from 2-1 Atlético Madrid Win On episode 801, with Real Madrid losing earlier in the day, Barcelona rose to the occasion in their first of three matches against Atlético Madrid to go 7 points clear...",
+      "link": "https://onefootball.com/en/news/did-barcelona-just-win-la-liga-5-headlines-from-2-1-atletico-madrid-win-42662924",
+      "source": "OneFootball",
       "published": "",
       "summary": ""
     },
     {
-      "title": "Don't miss Mallorca vs Real Madrid!",
-      "link": "https://en.as.com/soccer/how-to-watch-mallorca-vs-real-madrid-on-tv-and-stream-online-in-the-us-spanish-laliga-f202604-n/",
-      "source": "AS",
+      "title": "Nico González sent off in a controversy-packed Atlético v Barça Argentine Nicolás González was sent off this Saturday in the clash between Atlético Madrid and Barcelona, on Matchday 30 of LaLiga 2025/2026, for a hard foul on Lamine Yamal.Right on...",
+      "link": "https://onefootball.com/en/news/nico-gonzalez-sent-off-in-a-controversy-packed-atletico-v-barca-42662228",
+      "source": "OneFootball",
       "published": "",
       "summary": ""
     },
     {
-      "title": "Real Madrid possible XI against Mallorca in LaLiga",
-      "link": "https://en.as.com/soccer/real-madrid-starting-lineup-against-mallorca-in-laliga-f202604-n/",
-      "source": "AS",
+      "title": "Hansi Flick: ‘I don’t know why Lamine Yamal was annoyed, he’ll be happier on Wednesday’ Barcelona manager Hansi Flick has stated that he was happy with his side’s win over Atletico Madrid on Saturday night that moved them seven points clear at the top of...",
+      "link": "https://onefootball.com/en/news/hansi-flick-i-dont-know-why-lamine-yamal-was-annoyed-hell-be-happier-on-wednesday-42661867",
+      "source": "OneFootball",
       "published": "",
       "summary": ""
     },
     {
-      "title": "Nico González sent off in controversial Atlético – Barça Argentine Nicolás González was sent off this Saturday in the match between Atlético Madrid and Barcelona, on Matchday 30 of LaLiga 2025/2026, for a hard foul on Lamine Yamal.Right on...",
-      "link": "https://onefootball.com/en/news/nico-gonzalez-sent-off-in-controversial-atletico-barca-42661763",
+      "title": "Alvaro Arbeloa takes blame for Real Madrid loss against Mallorca, assesses La Liga chances after slip-up Real Madrid fell to a disappointing defeat against Mallorca on Saturday, with the home side emerging as 2-1 winners at Son Moix. It is a result that has seen them...",
+      "link": "https://onefootball.com/en/news/alvaro-arbeloa-takes-blame-for-real-madrid-loss-against-mallorca-assesses-la-liga-chances-after-slip-up-42661866",
+      "source": "OneFootball",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Nico González sent off in controversy-packed Atlético–Barça Argentine Nicolás González was sent off this Saturday in the clash between Atlético Madrid and Barcelona, on Matchday 30 of LaLiga 2025/2026, for a hard foul on Lamine Yamal.Right on...",
+      "link": "https://onefootball.com/en/news/nico-gonzalez-sent-off-in-controversy-packed-atleticobarca-42661763",
       "source": "OneFootball",
       "published": "",
       "summary": ""
@@ -374,8 +381,8 @@
       "summary": ""
     },
     {
-      "title": "Barcelona fight back v Atlético and extend lead in La Liga Barcelona may have taken a decisive step toward winning the Spanish League title after coming from behind to beat Atlético de Madrid 2-1 this Saturday at the Riyadh Air Metropolitano....",
-      "link": "https://onefootball.com/en/news/barcelona-fight-back-v-atletico-and-extend-lead-in-la-liga-42661716",
+      "title": "Barcelona fight back to beat Atlético de Madrid, extend La Liga lead Barcelona may have taken a decisive step toward winning the Spanish League title after coming from behind to beat Atlético de Madrid 2-1 this Saturday at the Riyadh Air Metropolitano....",
+      "link": "https://onefootball.com/en/news/barcelona-fight-back-to-beat-atletico-de-madrid-extend-la-liga-lead-42661716",
       "source": "OneFootball",
       "published": "",
       "summary": ""
@@ -395,13 +402,6 @@
       "summary": ""
     },
     {
-      "title": "Robert Lewandowski sniffs out winner in game of false nines between Barcelona and Atletico Madrid Atletico Madrid 1-2 BarcelonaBarcelona took a major step towards the La Liga title on Saturday night, just about overcoming 10-man Atletico Madrid with a late winner from Robert Lewandowski. A...",
-      "link": "https://onefootball.com/en/news/robert-lewandowski-sniffs-out-winner-in-game-of-false-nines-between-barcelona-and-atletico-madrid-42661588",
-      "source": "OneFootball",
-      "published": "",
-      "summary": ""
-    },
-    {
       "title": "New Bernabéu",
       "link": "https://www.realmadrid.com/en-US/news/new-bernabeu",
       "source": "Real Madrid Official",
@@ -416,8 +416,8 @@
       "summary": ""
     },
     {
-      "title": "Campazzo, 500 matches with Real Madrid",
-      "link": "https://www.realmadrid.com/en-US/news/basket/first-team/latest-news/campazzo-500-partidos-con-el-real-madrid-26-03-2026",
+      "title": "Real Madrid-MoraBanc Andorra: the leader seeks their 11th consecutive victory in the League",
+      "link": "https://www.realmadrid.com/en-US/news/basket/first-team/fixtures/real-madrid-morabanc-andorra-05-04-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
