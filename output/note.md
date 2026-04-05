@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-05）
 
-① Player Ratings: Mallorca 2 - 1 Real Madrid
+① Referee named for Champions League match between Real Madrid and Bayern Munich
+試合に関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106075/real-madrid-bayern-2026-referee
+
+要約（英語）
+If you buy something from a link, Vox Media may earn a commission. See our ethics statement. UEFA have appointed English referee Michael Oliver as th…
+
+要約（日本語）
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+
+② Player Ratings: Mallorca 2 - 1 Real Madrid
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ Player Ratings: Mallorca 2 - 1 Real Madrid Andriy Lunin: 6 Made zero saves and c
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Three questions and three answers from RCD Mallorca 2-1 Real Madrid
+③ Wife of Real Madrid star slams Barcelona non-red card decision
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-la-liga/106046/three-questions-and-three-answers-from-rcd-mallorca-2-1-real-madrid
+https://www.football-espana.net/2026/04/05/wife-real-madrid-star-barcelona-red-card
 
 要約（英語）
-Real Madrid crashed to their first defeat in a month in dramatic fashion as they were beaten by relegation-battling Real Mallorca on Saturday afterno…
+Saturday was a dismal day for Real Madrid, as they lost more ground to Barcelona in the 2025-26 La Liga title race. Alvaro Arbeloa’s side were defeat…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Alvaro Arbeloa takes blame for Real Madrid loss against Mallorca, assesses La Liga chances after slip-up
+④ Alvaro Arbeloa takes blame for Real Madrid loss against Mallorca, assesses La Liga chances after slip-up
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid fell to a disappointing defeat against Mallorca on Saturday, with th
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid player ratings against Mallorca: Eder Militao stars on return from injury
-負傷に関するニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/04/mallorca-real-madrid-la-liga-ratings
-
-要約（英語）
-Real Madrid tasted a painful defeat on Saturday afternoon, as Mallorca picked up a crucial 2-1 victory on home soil. It was another disappointing per…
-
-要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
 
 ⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
 レアル・マドリード関連ニュース
