@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-07）
 
-① The Side-Show/La Liga | April 6th, 2026
+① Managing Madrid Podcast: Scouting Bayern Munich. Can Real Madrid Beat Them?
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-podcast/106130/managing-madrid-podcast-scouting-bayern-munich-can-real-madrid-beat-them
+
+要約（英語）
+Kiyan Sobhani is joined by Manuel Veth of The Geggenpressing Podcast On this episode of the Managing Madrid Podcast, Kiyan Sobhani is joined by Manue…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② The Side-Show/La Liga | April 6th, 2026
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ The Daily Merengue is a place where you can feel free to do all things football.
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-② Mendy rejoins Real Madrid squad in training
-トレーニングに関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106098/mendy-real-madrid-injury-news-return-2026
-
-要約（英語）
-The Frenchman will try to be 100% ready to face Bayern in the return leg. Real Madrid left-back Ferland Mendy rejoined the group in Monday’s training…
-
-要約（日本語）
-チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。
 
 ③ Vinicius Junior praises Lamine Yamal response following further racist abuse at Metropolitano
 レアル・マドリード関連ニュース
