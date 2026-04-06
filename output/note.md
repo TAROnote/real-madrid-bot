@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-06）
+📰 レアル・マドリードニュースまとめ（2026-04-07）
 
 ① The Side-Show/La Liga | April 6th, 2026
 レアル・マドリード関連ニュース
@@ -24,29 +24,29 @@ The Frenchman will try to be 100% ready to face Bayern in the return leg. Real M
 要約（日本語）
 チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。
 
-③ Alvaro Arbeloa ‘not thinking’ about consequences of Bayern Munich defeat for Real Madrid future
+③ Vinicius Junior praises Lamine Yamal response following further racist abuse at Metropolitano
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/06/arbeloa-madrid-future-bayern
+https://www.football-espana.net/2026/04/06/vinicius-lamine-yamal-praise
 
 要約（英語）
-Real Madrid manager Alvaro Arbeloa has stated that his future is not on his mind as he prepares for their Champions League quarter-final against Baye…
+Real Madrid star Vinicius Junior has praised Lamine Yamal for speaking out against racism he and Egyptians suffered during an international game last…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ ‘It’s clear we have to play differently with Mbappe and Bellingham’ – Real Madrid manager Alvaro Arbeloa
+④ Jonatan Vazquez
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/06/arbeloa-real-madrid-style
+https://www.football-espana.net/author/jonatan-vazquez
 
 要約（英語）
-Real Madrid manager Alvaro Arbeloa has acknowledged that his side have to alter their style for the return from injury of Jude Bellingham and Kylian …
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS DOM 05.04.2026 | NOTICIAS Estadísticas FC Barcelona contra Atlético de Madrid Compartir
 レアル・マドリード関連ニュース
