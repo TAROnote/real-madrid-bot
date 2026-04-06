@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-07）
 
-① Managing Madrid Podcast: Scouting Bayern Munich. Can Real Madrid Beat Them?
+① Kompany: “The Bernabéu Is the Toughest Stadium”
+ベルナベウに関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/latest-news/106143/kompany-the-bernabeu-is-the-toughest-stadium
+
+要約（英語）
+﻿Bayern coach highlights Kane’s fitness, Madrid’s threat, and the fine margins ahead of Champions League clash Vincent Kompany addressed the media ah…
+
+要約（日本語）
+新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
+
+② Managing Madrid Podcast: Scouting Bayern Munich. Can Real Madrid Beat Them?
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -8,18 +20,6 @@ https://www.managingmadrid.com/managing-madrid-podcast/106130/managing-madrid-po
 
 要約（英語）
 Kiyan Sobhani is joined by Manuel Veth of The Geggenpressing Podcast On this episode of the Managing Madrid Podcast, Kiyan Sobhani is joined by Manue…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-② The Side-Show/La Liga | April 6th, 2026
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/general/106096/the-side-show-la-liga-april-6th-2026
-
-要約（英語）
-The Daily Merengue is a place where you can feel free to do all things football. Do not be alarmed by the overt RMCF bias. Shoutout to the mods who d…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
