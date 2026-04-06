@@ -1,49 +1,49 @@
 📰 レアル・マドリードニュースまとめ（2026-04-06）
 
-① Real Madrid open to selling Camavinga this summer -report
+① The Side-Show/La Liga | April 6th, 2026
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106085/real-madrid-camavinga-rumors-2026-news
+https://www.managingmadrid.com/general/106096/the-side-show-la-liga-april-6th-2026
 
 要約（英語）
-Real Madrid midfielder Eduardo Camavinga could be on his way out of the club this summer as Los Blancos have grown increasingly frustrated with his l…
+The Daily Merengue is a place where you can feel free to do all things football. Do not be alarmed by the overt RMCF bias. Shoutout to the mods who d…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Mendy rejoins Real Madrid squad in training
+トレーニングに関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106098/mendy-real-madrid-injury-news-return-2026
+
+要約（英語）
+The Frenchman will try to be 100% ready to face Bayern in the return leg. Real Madrid left-back Ferland Mendy rejoined the group in Monday’s training…
+
+要約（日本語）
+チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。
+
+③ Alvaro Arbeloa ‘not thinking’ about consequences of Bayern Munich defeat for Real Madrid future
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/06/arbeloa-madrid-future-bayern
+
+要約（英語）
+Real Madrid manager Alvaro Arbeloa has stated that his future is not on his mind as he prepares for their Champions League quarter-final against Baye…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Referee named for Champions League match between Real Madrid and Bayern Munich
-試合に関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106075/real-madrid-bayern-2026-referee
-
-要約（英語）
-If you buy something from a link, Vox Media may earn a commission. See our ethics statement. UEFA have appointed English referee Michael Oliver as th…
-
-要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
-
-③ Real Madrid defender to miss Bayern Munich showdown as injury woes continue
-負傷に関するニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/06/real-madrid-defender-bayern-munich
-
-要約（英語）
-Real Madrid will need to be at their best to see off Bayern Munich across two legs in their upcoming Champions League quarter-final tie. In particula…
-
-要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
-
-④ Premier League clubs alerted to Vinicius Junior availability amid Real Madrid contract stalemate
+④ ‘It’s clear we have to play differently with Mbappe and Bellingham’ – Real Madrid manager Alvaro Arbeloa
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/06/premier-league-clubs-vinicius-junior-availability-real-madrid
+https://www.football-espana.net/2026/04/06/arbeloa-real-madrid-style
 
 要約（英語）
-Real Madrid are set for a big summer, but it could end up being defined by what happens with Vinicius Junior. The 25-year-old will soon enter the fin…
+Real Madrid manager Alvaro Arbeloa has acknowledged that his side have to alter their style for the return from injury of Jude Bellingham and Kylian …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
