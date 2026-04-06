@@ -24,26 +24,26 @@ Player Ratings: Mallorca 2 - 1 Real Madrid Andriy Lunin: 6 Made zero saves and c
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Financial report reveals precaution situation for Real Madrid
-レアル・マドリード関連ニュース
+③ Real Madrid defender to miss Bayern Munich showdown as injury woes continue
+負傷に関するニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/05/financial-report-real-madrid
+https://www.football-espana.net/2026/04/06/real-madrid-defender-bayern-munich
 
 要約（英語）
-Real Madrid are among the richest clubs in the world, although their situation may not be as good as supporters have hoped. The entity headed up by F…
+Real Madrid will need to be at their best to see off Bayern Munich across two legs in their upcoming Champions League quarter-final tie. In particula…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
 
-④ Wife of Real Madrid star slams Barcelona non-red card decision
+④ Premier League clubs alerted to Vinicius Junior availability amid Real Madrid contract stalemate
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/05/wife-real-madrid-star-barcelona-red-card
+https://www.football-espana.net/2026/04/06/premier-league-clubs-vinicius-junior-availability-real-madrid
 
 要約（英語）
-Saturday was a dismal day for Real Madrid, as they lost more ground to Barcelona in the 2025-26 La Liga title race. Alvaro Arbeloa’s side were defeat…
+Real Madrid are set for a big summer, but it could end up being defined by what happens with Vinicius Junior. The 25-year-old will soon enter the fin…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
