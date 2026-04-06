@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-06）
 
-① Referee named for Champions League match between Real Madrid and Bayern Munich
+① Real Madrid open to selling Camavinga this summer -report
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106085/real-madrid-camavinga-rumors-2026-news
+
+要約（英語）
+Real Madrid midfielder Eduardo Camavinga could be on his way out of the club this summer as Los Blancos have grown increasingly frustrated with his l…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Referee named for Champions League match between Real Madrid and Bayern Munich
 試合に関するニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ If you buy something from a link, Vox Media may earn a commission. See our ethic
 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
-
-② Player Ratings: Mallorca 2 - 1 Real Madrid
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-la-liga/106065/player-ratings-mallorca-2-1-real-madrid
-
-要約（英語）
-Player Ratings: Mallorca 2 - 1 Real Madrid Andriy Lunin: 6 Made zero saves and conceded twice, though neither goal was really his fault. Trent Alexan…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ Real Madrid defender to miss Bayern Munich showdown as injury woes continue
 負傷に関するニュース
@@ -48,11 +48,11 @@ Real Madrid are set for a big summer, but it could end up being defined by what 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-⑤ LALIGA EA SPORTS LUN 30.03.2026 | NOTICIAS Alineaciones Atlético de Madrid vs FC Barcelona: posibles onces Compartir
+⑤ LALIGA EA SPORTS DOM 05.04.2026 | NOTICIAS Estadísticas FC Barcelona contra Atlético de Madrid Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.laliga.com/noticias/atletico-de-madrid-vs-fc-barcelona-alineaciones-probables-laliga
+https://www.laliga.com/noticias/estadisticas-resultados-fc-barcelona-atletico-de-madrid
 
 要約（英語）
 LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
