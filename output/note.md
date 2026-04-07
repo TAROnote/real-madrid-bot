@@ -1,30 +1,42 @@
-📰 レアル・マドリードニュースまとめ（2026-04-07）
+📰 レアル・マドリードニュースまとめ（2026-04-08）
 
-① Real Madrid vs Bayern Munich 2026 live stream: Time, TV channels and how to watch Champions League online
+① DISCUSSION: Full Confidence In Lunin
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106155/real-madrid-bayern-2026-live-stream-time-tv-channels-and-how-to-watch-champions-league-online
+https://www.managingmadrid.com/videos/106161/discussion-full-confidence-in-lunin
 
 要約（英語）
-If you buy something from a link, Vox Media may earn a commission. See our ethics statement. The Champions League Quarterfinals are here! Real Madrid…
+On a recent episode of the Managing Madrid Podcast, an analytical deep dive on Thibaut Courtois and Andriy Lunin for Managing Madrid Members , Kiyan …
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Real Madrid announce squad for Champions League match against Bayern Munich
+試合に関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106157/real-madrid-bayern-2026-squad-list
+
+要約（英語）
+If you buy something from a link, Vox Media may earn a commission. See our ethics statement. Real Madrid have published their squad list for today’s …
+
+要約（日本語）
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+
+③ ‘Very good chance’ Real Madrid defensive target remains at club
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/07/very-good-chance-real-madrid-defensive-target-remains-at-club
+
+要約（英語）
+Liverpool defender Ibrahima Konate looks set to remain at the club, amid a lengthy contract stalemate. It look at stages as if Real Madrid would be t…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Real Madrid vs Bayern Munich, 2026 Champions League: Predicted lineups
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106152/real-madrid-vs-bayern-munich-2026-champions-league-lineups
-
-要約（英語）
-If you buy something from a link, Vox Media may earn a commission. See our ethics statement. Real Madrid host Bayern Munich after a discouraging perf…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-③ Predicted Teams Real Madrid-Bayern Munich: Doubts over Jude Bellingham and Eder Militao
+④ Predicted Teams Real Madrid-Bayern Munich: Doubts over Jude Bellingham and Eder Militao
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/07/predicted-teams-real-madrid-bayern
 
 要約（英語）
 Real Madrid host Bayern Munich at the Santiago Bernabeu (21:00 CEST) for the first leg of their Champions League quarter-final on Tuesday night, with…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ 18 players at risk of suspension for Atletico Madrid, Barcelona and Real Madrid in Champions League
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/07/18-players-at-risk-of-suspension-for-atletico-madrid-barcelona-and-real-madrid-in-champions-league
-
-要約（英語）
-Atletico Madrid, Barcelona and Real Madrid head into their Champions League quarter-final ties with a number of key players at risk of missing the se…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
