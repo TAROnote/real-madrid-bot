@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-08）
 
-① CONFIRMED lineups: Real Madrid vs Bayern Munich, 2026 Champions League
+① Alvaro Arbeloa: “If any team can win in Munich, it’s Real Madrid”
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/real-madrid-cf-europe/106197/alvaro-arbeloa-if-any-team-can-win-in-munich-its-real-madrid
+
+要約（英語）
+Real Madrid head coach Alvaro Arbeloa spoke to the media after their 2-1 loss to Bayern on Tuesday night. He was asked about his first reaction to th…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② CONFIRMED lineups: Real Madrid vs Bayern Munich, 2026 Champions League
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,41 +24,29 @@ If you buy something from a link, Vox Media may earn a commission. See our ethic
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② DISCUSSION: Full Confidence In Lunin
+③ Real Madrid player ratings v Bayern Munich: More Hyde than Jekyll from Alvaro Arbeloa’s side
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/videos/106161/discussion-full-confidence-in-lunin
+https://www.football-espana.net/2026/04/07/real-madrid-player-ratings-bayern
 
 要約（英語）
-On a recent episode of the Managing Madrid Podcast, an analytical deep dive on Thibaut Courtois and Andriy Lunin for Managing Madrid Members , Kiyan …
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-③ WATCH: Bayern Munich strike first blow against Real Madrid as Luis Diaz scores
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/07/real-madrid-bayern-champions-league-goal
-
-要約（英語）
-Real Madrid have been second-best in the opening stages of their showdown with Bayern Munich, and they have now fallen behind at the Bernabeu. Alvaro…
+Real Madrid fell to a 2-1 defeat against Bayern Munich on Tuesday night at the Bernabeu, giving them an uphill task for the second leg. The reality i…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ ‘Very good chance’ Real Madrid defensive target remains at club
+④ Real Madrid facing Champions League exit as Bayern Munich edge Bernabeu classic
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/07/very-good-chance-real-madrid-defensive-target-remains-at-club
+https://www.football-espana.net/2026/04/07/real-madrid-bayern-champions-league-report
 
 要約（英語）
-Liverpool defender Ibrahima Konate looks set to remain at the club, amid a lengthy contract stalemate. It look at stages as if Real Madrid would be t…
+Real Madrid are up against it in the bid for a 16th Champions League title, as Bayern Munich secured a first leg advantage at the Bernabeu. Alvaro Ar…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
 ⑤ LALIGA EA SPORTS DOM 05.04.2026 | NOTICIAS Estadísticas FC Barcelona contra Atlético de Madrid Compartir
 レアル・マドリード関連ニュース

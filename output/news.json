@@ -1,7 +1,14 @@
 {
-  "generated_at_jst": "2026-04-08T05:05:20.076278+09:00",
+  "generated_at_jst": "2026-04-08T08:05:13.797029+09:00",
   "count": 69,
   "items": [
+    {
+      "title": "Alvaro Arbeloa: “If any team can win in Munich, it’s Real Madrid”",
+      "link": "https://www.managingmadrid.com/real-madrid-cf-europe/106197/alvaro-arbeloa-if-any-team-can-win-in-munich-its-real-madrid",
+      "source": "Managing Madrid",
+      "published": "",
+      "summary": ""
+    },
     {
       "title": "CONFIRMED lineups: Real Madrid vs Bayern Munich, 2026 Champions League",
       "link": "https://www.managingmadrid.com/106166/real-madrid-vs-bayern-munich-2026-champions-league-live-online-stream",
@@ -80,9 +87,30 @@
       "summary": ""
     },
     {
-      "title": "Player Ratings: Mallorca 2 - 1 Real Madrid",
-      "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/106065/player-ratings-mallorca-2-1-real-madrid",
-      "source": "Managing Madrid",
+      "title": "Real Madrid player ratings v Bayern Munich: More Hyde than Jekyll from Alvaro Arbeloa’s side",
+      "link": "https://www.football-espana.net/2026/04/07/real-madrid-player-ratings-bayern",
+      "source": "Football España",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Real Madrid facing Champions League exit as Bayern Munich edge Bernabeu classic",
+      "link": "https://www.football-espana.net/2026/04/07/real-madrid-bayern-champions-league-report",
+      "source": "Football España",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "WATCH: Kylian Mbappe drags Real Madrid back into Bayern Munich tie",
+      "link": "https://www.football-espana.net/2026/04/07/real-madrid-bayern-champions-league-goal-3",
+      "source": "Football España",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "WATCH: Harry Kane puts Real Madrid to the sword 60 seconds into second half",
+      "link": "https://www.football-espana.net/2026/04/07/real-madrid-bayern-champions-league-goal-2",
+      "source": "Football España",
       "published": "",
       "summary": ""
     },
@@ -129,13 +157,6 @@
       "summary": ""
     },
     {
-      "title": "Jonatan Vazquez",
-      "link": "https://www.football-espana.net/author/jonatan-vazquez",
-      "source": "Football España",
-      "published": "",
-      "summary": ""
-    },
-    {
       "title": "Alvaro Arbeloa ‘not thinking’ about consequences of Bayern Munich defeat for Real Madrid future",
       "link": "https://www.football-espana.net/2026/04/06/arbeloa-madrid-future-bayern",
       "source": "Football España",
@@ -145,27 +166,6 @@
     {
       "title": "‘It’s clear we have to play differently with Mbappe and Bellingham’ – Real Madrid manager Alvaro Arbeloa",
       "link": "https://www.football-espana.net/2026/04/06/arbeloa-real-madrid-style",
-      "source": "Football España",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "‘I didn’t connect with him’ – Vinicius Junior opens up on rocky Xabi Alonso relationship",
-      "link": "https://www.football-espana.net/2026/04/06/vinicius-alono-relationship",
-      "source": "Football España",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Vinicius Junior – “At the right time, I’ll renew my Real Madrid contract”",
-      "link": "https://www.football-espana.net/2026/04/06/vinicius-junior-at-the-right-time-ill-renew-my-real-madrid-contract",
-      "source": "Football España",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Real Madrid defender to miss Bayern Munich showdown as injury woes continue",
-      "link": "https://www.football-espana.net/2026/04/06/real-madrid-defender-bayern-munich",
       "source": "Football España",
       "published": "",
       "summary": ""
@@ -332,7 +332,49 @@
       "summary": ""
     },
     {
-      "title": "Arbeloa benches Bellingham again",
+      "title": "Advantage Bayern as Madrid ponder Munich task",
+      "link": "https://en.as.com/soccer/real-madrid-vs-bayern-munich-live-online-score-stats-goals-updates-champions-league-202526-f202604-d/",
+      "source": "AS",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Real Madrid 1-2 Bayern: a hopeful ending to a frustrating night",
+      "link": "https://en.as.com/soccer/real-madrid-1-2-bayern-a-hopeful-ending-to-a-frustrating-night-f202604-n/",
+      "source": "AS",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "xG tells its story in Madrid",
+      "link": "https://en.as.com/soccer/what-was-the-xg-for-crazy-real-madrid-vs-bayern-munich-ucl-first-leg-f202604-n/",
+      "source": "AS",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Arbeloa: “Anyone who doesn’t believe in a comeback should stay in Madrid”",
+      "link": "https://en.as.com/soccer/arbeloa-anyone-who-doesnt-believe-in-a-comeback-should-stay-in-madrid-f202604-n/",
+      "source": "AS",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Real Madrid’s player ratings against Bayern Munich",
+      "link": "https://en.as.com/soccer/real-madrids-player-ratings-against-bayern-munich-f202604-n/",
+      "source": "AS",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Madrid star will miss Bayern second leg",
+      "link": "https://en.as.com/soccer/real-madrid-star-will-miss-trip-for-bayern-munich-second-leg-f202604-n/",
+      "source": "AS",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Arbeloa brings Bellingham on",
       "link": "https://en.as.com/soccer/arbeloa-benches-bellingham-again-f202604-n/",
       "source": "AS",
       "published": "",
@@ -353,41 +395,6 @@
       "summary": ""
     },
     {
-      "title": "Real Madrid vs Bayern Munich: How to watch",
-      "link": "https://en.as.com/soccer/real-madrid-vs-bayern-munich-how-to-watch-and-stream-the-champions-league-quarterfinal-in-the-us-f202604-n/",
-      "source": "AS",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "No Bellingham against Bayern",
-      "link": "https://en.as.com/soccer/will-jude-bellingham-start-against-bayern-today-real-madrid-team-news-update-f202604-n/",
-      "source": "AS",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Madrid hold tight grip on Bayern before latest showdown",
-      "link": "https://en.as.com/soccer/why-bayern-munich-wanted-to-avoid-real-madrid-at-all-costs-in-the-champions-league-f202604-n/",
-      "source": "AS",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Real Madrid's starting XI against Bayern Munich",
-      "link": "https://en.as.com/soccer/real-madrid-starting-lineup-against-bayern-munich-in-the-champions-league-today-f202604-n/",
-      "source": "AS",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Real Madrid's unmatched Euro semi",
-      "link": "https://en.as.com/soccer/how-many-champions-league-semi-finals-has-real-madrid-played-in-and-how-many-did-they-reach-the-final-f202604-n/",
-      "source": "AS",
-      "published": "",
-      "summary": ""
-    },
-    {
       "title": "How Real Madrid beating Bayern Munich in Champions League quarter-finals will benefit La Liga The UEFA rankings of various top European leagues decide the number of berths allocated to each country for the succeeding edition of the UEFA Champions League.As it stands, the Premier...",
       "link": "https://onefootball.com/en/news/how-real-madrid-beating-bayern-munich-in-champions-league-quarter-finals-will-benefit-la-liga-42675553",
       "source": "OneFootball",
@@ -395,22 +402,29 @@
       "summary": ""
     },
     {
-      "title": "Madrid Universal · 2 hours ago",
-      "link": "https://onefootball.com/en/news/how-real-madrid-beating-bayern-munich-in-champions-league-quarter-finals-will-benefit-la-liga-42675553",
-      "source": "OneFootball",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Referees Committee admits Barcelona defender should have been sent off vs Atletico FC Barcelona prevailed in a hard-fought encounter against Atletico Madrid this past Saturday in La Liga, securing a 2-1 victory.The game, though, had its fair share of controversial moments, with...",
-      "link": "https://onefootball.com/en/news/referees-committee-admits-barcelona-defender-should-have-been-sent-off-vs-atletico-42675500",
-      "source": "OneFootball",
-      "published": "",
-      "summary": ""
-    },
-    {
       "title": "New Bernabéu",
       "link": "https://www.realmadrid.com/en-US/news/new-bernabeu",
+      "source": "Real Madrid Official",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Arbeloa: “If any team can win in Munich, it's Real Madrid”",
+      "link": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/rueda-de-prensa-de-arbeloa-post-real-madrid-bayern-cuartos-de-final-ida-champions-league-07-04-2026",
+      "source": "Real Madrid Official",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Tchouameni: “If we play at our level, we are sure we can achieve great things there”",
+      "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/tchouameni-de-verdad-que-no-entiendo-la-tarjeta-amarilla-07-04-2026",
+      "source": "Real Madrid Official",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Rüdiger: “Both teams had many chances to score more goals”",
+      "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/declas-jugador-1-post-real-madrid-bayern-cuartos-de-final-ida-champions-league-07-04-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
@@ -458,29 +472,15 @@
       "summary": ""
     },
     {
-      "title": "Real Madrid starting lineup against Bayern",
-      "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/once-inicial-del-real-madrid-ante-el-bayern-07-04-2026",
+      "title": "Real Madrid visits Fenerbahce tomorrow",
+      "link": "https://www.realmadrid.com/en-US/news/basket/first-team/latest-news/el-real-madrid-visita-manana-al-fenerbahce-en-la-euroliga-08-04-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
     },
     {
-      "title": "Real Madrid lineup against Bayern",
-      "link": "https://www.realmadrid.com/en-US/news/football/first-team/squad-call/convocatoria-del-real-madrid-ante-el-bayern-06-04-2026",
-      "source": "Real Madrid Official",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Olympiacos-Real Madrid: a decisive week begins in the EuroLeague",
-      "link": "https://www.realmadrid.com/en-US/news/basket/first-team/fixtures/olympiacos-real-madrid-07-04-2026",
-      "source": "Real Madrid Official",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Real Madrid-Bayern: Champions League quarterfinals begin at the Bernabéu",
-      "link": "https://www.realmadrid.com/en-US/news/football/first-team/fixtures/real-madrid-bayern-los-cuartos-de-final-de-la-champions-arrancan-en-el-bernabeu-07-04-2026",
+      "title": "Lunin: “We are alive and we believe in that”",
+      "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/declaraciones-jugador-2-post-real-madrid-bayern-cuartos-de-final-ida-champions-league-07-04-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
