@@ -1,52 +1,52 @@
 📰 レアル・マドリードニュースまとめ（2026-04-07）
 
-① Kompany: “The Bernabéu Is the Toughest Stadium”
-ベルナベウに関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/latest-news/106143/kompany-the-bernabeu-is-the-toughest-stadium
-
-要約（英語）
-﻿Bayern coach highlights Kane’s fitness, Madrid’s threat, and the fine margins ahead of Champions League clash Vincent Kompany addressed the media ah…
-
-要約（日本語）
-新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
-
-② Managing Madrid Podcast: Scouting Bayern Munich. Can Real Madrid Beat Them?
+① Real Madrid vs Bayern Munich 2026 live stream: Time, TV channels and how to watch Champions League online
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/106130/managing-madrid-podcast-scouting-bayern-munich-can-real-madrid-beat-them
+https://www.managingmadrid.com/106155/real-madrid-bayern-2026-live-stream-time-tv-channels-and-how-to-watch-champions-league-online
 
 要約（英語）
-Kiyan Sobhani is joined by Manuel Veth of The Geggenpressing Podcast On this episode of the Managing Madrid Podcast, Kiyan Sobhani is joined by Manue…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-③ Vinicius Junior praises Lamine Yamal response following further racist abuse at Metropolitano
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/06/vinicius-lamine-yamal-praise
-
-要約（英語）
-Real Madrid star Vinicius Junior has praised Lamine Yamal for speaking out against racism he and Egyptians suffered during an international game last…
+If you buy something from a link, Vox Media may earn a commission. See our ethics statement. The Champions League Quarterfinals are here! Real Madrid…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Jonatan Vazquez
+② Real Madrid vs Bayern Munich, 2026 Champions League: Predicted lineups
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/author/jonatan-vazquez
+https://www.managingmadrid.com/106152/real-madrid-vs-bayern-munich-2026-champions-league-lineups
 
 要約（英語）
-記事の詳細はリンク先で確認してください。
+If you buy something from a link, Vox Media may earn a commission. See our ethics statement. Real Madrid host Bayern Munich after a discouraging perf…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+③ Predicted Teams Real Madrid-Bayern Munich: Doubts over Jude Bellingham and Eder Militao
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/07/predicted-teams-real-madrid-bayern
+
+要約（英語）
+Real Madrid host Bayern Munich at the Santiago Bernabeu (21:00 CEST) for the first leg of their Champions League quarter-final on Tuesday night, with…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ 18 players at risk of suspension for Atletico Madrid, Barcelona and Real Madrid in Champions League
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/07/18-players-at-risk-of-suspension-for-atletico-madrid-barcelona-and-real-madrid-in-champions-league
+
+要約（英語）
+Atletico Madrid, Barcelona and Real Madrid head into their Champions League quarter-final ties with a number of key players at risk of missing the se…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA EA SPORTS DOM 05.04.2026 | NOTICIAS Estadísticas FC Barcelona contra Atlético de Madrid Compartir
 レアル・マドリード関連ニュース
