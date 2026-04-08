@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-08）
 
-① Alvaro Arbeloa: “If any team can win in Munich, it’s Real Madrid”
+① Managing Madrid Podcast: Real Madrid 1 - 2 Bayern Munich, Post-game Reaction, Champions League 2025 - 2026
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-podcast/106209/managing-madrid-podcast-real-madrid-1-2-bayern-munich-post-game-reaction-champions-league-2025-2026
+
+要約（英語）
+Kiyan, Sam S, Sam L, and Mehedi break down the 1st leg rollercoaster On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani, Sam…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Alvaro Arbeloa: “If any team can win in Munich, it’s Real Madrid”
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,41 +24,29 @@ Real Madrid head coach Alvaro Arbeloa spoke to the media after their 2-1 loss to
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② CONFIRMED lineups: Real Madrid vs Bayern Munich, 2026 Champions League
+③ Como aiming to repeat Nico Paz trick with new Real Madrid starlet
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106166/real-madrid-vs-bayern-munich-2026-champions-league-live-online-stream
+https://www.football-espana.net/2026/04/08/como-real-madrid-starlet
 
 要約（英語）
-If you buy something from a link, Vox Media may earn a commission. See our ethics statement. Real Madrid have published their starting lineup for the…
+It is taken for granted that Real Madrid will be re-signing Nico Paz from Como during the summer transfer window. The decision has already been made …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid player ratings v Bayern Munich: More Hyde than Jekyll from Alvaro Arbeloa’s side
+④ Alvaro Arbeloa on Champions League chances in wake of Bayern Munich defeat – “Whoever does not believe should stay in Madrid”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/07/real-madrid-player-ratings-bayern
+https://www.football-espana.net/2026/04/08/real-madrid-bayern-champions-league-alvaro-arbeloa-reaction
 
 要約（英語）
-Real Madrid fell to a 2-1 defeat against Bayern Munich on Tuesday night at the Bernabeu, giving them an uphill task for the second leg. The reality i…
+Real Madrid see their Champions League progression chances hanging by a thread after losing to Bayern Munich on Tuesday. The Bundesliga giants lead 2…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid facing Champions League exit as Bayern Munich edge Bernabeu classic
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/07/real-madrid-bayern-champions-league-report
-
-要約（英語）
-Real Madrid are up against it in the bid for a 16th Champions League title, as Bayern Munich secured a first leg advantage at the Bernabeu. Alvaro Ar…
-
-要約（日本語）
-新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
 ⑤ LALIGA EA SPORTS DOM 05.04.2026 | NOTICIAS Estadísticas FC Barcelona contra Atlético de Madrid Compartir
 レアル・マドリード関連ニュース
