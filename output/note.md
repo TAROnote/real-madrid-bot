@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-09）
 
-① Managing Madrid Podcast: A Reflection On Real Madrid’s 1 - 2 Loss To Bayern Munich (1st Leg)
+① WATCHALONG: Barcelona vs Atletico Madrid / PSG vs Liverpool (Madridista Perspective)
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/videos/106238/watchalong-barcelona-vs-atletico-madrid-psg-vs-liverpool-madridista-perspective
+
+要約（英語）
+記事の詳細はリンク先で確認してください。
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Managing Madrid Podcast: A Reflection On Real Madrid’s 1 - 2 Loss To Bayern Munich (1st Leg)
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ Kiyan Sobhani and Don Amancio also discuss the ways Real Madrid can win the 2nd 
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-② Managing Madrid Podcast: Real Madrid 1 - 2 Bayern Munich, Post-game Reaction, Champions League 2025 - 2026
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/106209/managing-madrid-podcast-real-madrid-1-2-bayern-munich-post-game-reaction-champions-league-2025-2026
-
-要約（英語）
-Kiyan, Sam S, Sam L, and Mehedi break down the 1st leg rollercoaster On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani, Sam…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ③ VIDEO: Real Madrid fans mimic Islamophobic chants during Spain-Egypt clash
 レアル・マドリード関連ニュース
