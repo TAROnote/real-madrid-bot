@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-08）
+📰 レアル・マドリードニュースまとめ（2026-04-09）
 
 ① Managing Madrid Podcast: Real Madrid 1 - 2 Bayern Munich, Post-game Reaction, Champions League 2025 - 2026
 レアル・マドリード関連ニュース
@@ -24,26 +24,26 @@ Real Madrid head coach Alvaro Arbeloa spoke to the media after their 2-1 loss to
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Como aiming to repeat Nico Paz trick with new Real Madrid starlet
+③ VIDEO: Real Madrid fans mimic Islamophobic chants during Spain-Egypt clash
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/08/como-real-madrid-starlet
+https://www.football-espana.net/2026/04/08/video-real-madrid-fans-mimic-islamophobic-chants-during-spain-egypt-clash
 
 要約（英語）
-It is taken for granted that Real Madrid will be re-signing Nico Paz from Como during the summer transfer window. The decision has already been made …
+More lamentable scenes have emerged from Spanish football, where the problem of racism is on the rise. Ahead of Real Madrid’s clash with Bayern Munic…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Alvaro Arbeloa on Champions League chances in wake of Bayern Munich defeat – “Whoever does not believe should stay in Madrid”
+④ Alvaro Arbeloa benches Real Madrid player after fiery clash – ‘Anybody have something to say?’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/08/real-madrid-bayern-champions-league-alvaro-arbeloa-reaction
+https://www.football-espana.net/2026/04/08/alvaro-arbeloa-benches-real-madrid-player-after-fiery-clash-anybody-have-something-to-say
 
 要約（英語）
-Real Madrid see their Champions League progression chances hanging by a thread after losing to Bayern Munich on Tuesday. The Bundesliga giants lead 2…
+Real Madrid manager Alvaro Arbeloa has been credited with easing tensions in the dressing room over the last three months since taking over from Xabi…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
