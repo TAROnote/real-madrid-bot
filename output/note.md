@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-09）
 
-① Managing Madrid Podcast: Real Madrid 1 - 2 Bayern Munich, Post-game Reaction, Champions League 2025 - 2026
+① Managing Madrid Podcast: A Reflection On Real Madrid’s 1 - 2 Loss To Bayern Munich (1st Leg)
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-podcast/106230/managing-madrid-podcast-a-reflection-on-real-madrids-1-2-loss-to-bayern-munich-1st-leg
+
+要約（英語）
+Kiyan Sobhani and Don Amancio also discuss the ways Real Madrid can win the 2nd leg. On this episode of the Managing Madrid Podcast, Kiyan Sobhani an…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Managing Madrid Podcast: Real Madrid 1 - 2 Bayern Munich, Post-game Reaction, Champions League 2025 - 2026
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ Kiyan, Sam S, Sam L, and Mehedi break down the 1st leg rollercoaster On this Mem
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-② Alvaro Arbeloa: “If any team can win in Munich, it’s Real Madrid”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-europe/106197/alvaro-arbeloa-if-any-team-can-win-in-munich-its-real-madrid
-
-要約（英語）
-Real Madrid head coach Alvaro Arbeloa spoke to the media after their 2-1 loss to Bayern on Tuesday night. He was asked about his first reaction to th…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ VIDEO: Real Madrid fans mimic Islamophobic chants during Spain-Egypt clash
 レアル・マドリード関連ニュース
