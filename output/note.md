@@ -24,7 +24,19 @@ Alvaro Arbeloa spoke to the media ahead of Real Madrid’s match against Girona 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid: Details of Dani Carvajal falling out with Alvaro Arbeloa revealed
+③ Newcastle United working on summer deal for Real Madrid forward
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/09/newcastle-summer-deal-real-madrid
+
+要約（英語）
+Real Madrid are set for a busy summer, with plans for several signings to be added to their squad during the upcoming transfer window. On top of this…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid: Details of Dani Carvajal falling out with Alvaro Arbeloa revealed
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid manager Alvaro Arbeloa has not had an easy hand, taking charge of Lo
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ ‘Bernabeu whistles part of improved Real Madrid performance’ – Alvaro Arbeloa
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/09/arbeloa-real-madrid-bayern
-
-要約（英語）
-Real Madrid manager Alvaro Arbeloa has credited the whistles at the Santiago Bernabeu with their comeback effort against Bayern Munich on Tuesday nig…
-
-要約（日本語）
-新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
 ⑤ Real Madrid Transfer News
 レアル・マドリード関連ニュース
