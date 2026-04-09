@@ -1,6 +1,18 @@
-📰 レアル・マドリードニュースまとめ（2026-04-09）
+📰 レアル・マドリードニュースまとめ（2026-04-10）
 
-① Alvaro Arbeloa: “When Militao is fit, he’s undoubtedly the best in the world”
+① Mendy keeps ramping up ahead of return leg against Bayern
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106251/mendy-keeps-ramping-up-ahead-of-return-leg-against-bayern
+
+要約（英語）
+Real Madrid defender Ferland Mendy completed yet another training session with the group and appears ready to start when Los Blancos take on Bayern M…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Alvaro Arbeloa: “When Militao is fit, he’s undoubtedly the best in the world”
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ Alvaro Arbeloa spoke to the media ahead of Real Madrid’s match against Girona 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② WATCHALONG: Barcelona vs Atletico Madrid / PSG vs Liverpool (Madridista Perspective)
+③ Real Madrid: Details of Dani Carvajal falling out with Alvaro Arbeloa revealed
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/videos/106238/watchalong-barcelona-vs-atletico-madrid-psg-vs-liverpool-madridista-perspective
+https://www.football-espana.net/2026/04/09/real-madrid-details-of-dani-carvajal-falling-out-with-alvaro-arbeloa-revealed
 
 要約（英語）
-記事の詳細はリンク先で確認してください。
+Real Madrid manager Alvaro Arbeloa has not had an easy hand, taking charge of Los Blancos midseason from Xabi Alonso. While he is credited with impro…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ ‘Bernabeu whistles part of improved Real Madrid performance’ – Alvaro Arbeloa
+④ ‘Bernabeu whistles part of improved Real Madrid performance’ – Alvaro Arbeloa
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -36,26 +48,14 @@ Real Madrid manager Alvaro Arbeloa has credited the whistles at the Santiago Ber
 要約（日本語）
 新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
-④ ‘You all know my opinion on what continues to happen’ – Real Madrid’s Alvaro Arbeloa on Barcelona and referees
+⑤ Real Madrid Transfer News
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/09/arbeloa-real-madrid-referees-barcelona
+https://www.caughtoffside.com/tags/la-liga/real-madrid/
 
 要約（英語）
-Real Madrid manager Alvaro Arbeloa has implied that the officiating in Spain is not entirely neutral, referring back to the ongoing ‘Negreira case’ w…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-⑤ LALIGA EA SPORTS DOM 05.04.2026 | NOTICIAS Estadísticas FC Barcelona contra Atlético de Madrid Compartir
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.laliga.com/noticias/estadisticas-resultados-fc-barcelona-atletico-de-madrid
-
-要約（英語）
-LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
