@@ -24,7 +24,19 @@ Kiyan Sobhani and Don Amancio also discuss the ways Real Madrid can win the 2nd 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ VIDEO: Real Madrid fans mimic Islamophobic chants during Spain-Egypt clash
+③ Real Madrid star panned over costly error against Bayern Munich – “I’m fed up”
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/09/real-madrid-star-error-bayern-munich
+
+要約（英語）
+After their defeat to Bayern Munich on Tuesday, Real Madrid see their Champions League hopes hanging by a thread. They must win at the Allianz Arena …
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ VIDEO: Real Madrid fans mimic Islamophobic chants during Spain-Egypt clash
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/08/video-real-madrid-fans-mimic-islamoph
 
 要約（英語）
 More lamentable scenes have emerged from Spanish football, where the problem of racism is on the rise. Ahead of Real Madrid’s clash with Bayern Munic…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Alvaro Arbeloa benches Real Madrid player after fiery clash – ‘Anybody have something to say?’
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/08/alvaro-arbeloa-benches-real-madrid-player-after-fiery-clash-anybody-have-something-to-say
-
-要約（英語）
-Real Madrid manager Alvaro Arbeloa has been credited with easing tensions in the dressing room over the last three months since taking over from Xabi…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
