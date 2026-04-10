@@ -1,28 +1,28 @@
 📰 レアル・マドリードニュースまとめ（2026-04-11）
 
-① CONFIRMED lineups: Real Madrid vs Mallorca, 2026 La Liga
+① Kompany Keeps Cards Close as Bayern Balance Rotation Ahead of Real Madrid Clash
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106275/real-madrid-vs-mallorca-2026-la-liga-live-online-stream
+https://www.managingmadrid.com/latest-news/106297/kompany-keeps-cards-close-as-bayern-balance-rotation-ahead-of-real-madrid-clash
 
 要約（英語）
-Real Madrid have published their starting XI for the upcoming match against Mallorca in La Liga. Real Madrid starting XI: Lunin, Carvajal, Militao, A…
+﻿Bayern boss emphasizes competition, intensity, and fitness management before St. Pauli test With Bayern Munich set to face St. Pauli in the Bundesli…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② Mendy keeps ramping up ahead of return leg against Bayern
+② Fonseca Challenges Endrick to Step Up Amid Dip in Form at Lyon
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106251/mendy-keeps-ramping-up-ahead-of-return-leg-against-bayern
+https://www.managingmadrid.com/latest-news/106294/fonseca-challenges-endrick-to-step-up-amid-dip-in-form-at-lyon
 
 要約（英語）
-Real Madrid defender Ferland Mendy completed yet another training session with the group and appears ready to start when Los Blancos take on Bayern M…
+﻿Brazilian forward faces criticism after quiet run, with pressure mounting to rediscover early-season impact Endrick’s development in France has hit …
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ③ Bayern Munich forward ruled out of Real Madrid tie as manager gives Harry Kane update
 レアル・マドリード関連ニュース
