@@ -48,14 +48,14 @@ Real Madrid defender Raul Asencio has become an unlikely talking point in the Sp
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-⑤ Real Madrid Transfer News
+⑤ LALIGA EA SPORTS SÁB 11.04.2026 | RESUMEN DE PARTIDO Real Madrid y Girona firman tablas con dos golazos Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.caughtoffside.com/tags/la-liga/real-madrid/
+https://www.laliga.com/videos/real-madrid-y-girona-firman-tablas-con-dos-golazos
 
 要約（英語）
-記事の詳細はリンク先で確認してください。
+LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
