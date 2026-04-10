@@ -24,29 +24,29 @@ Alvaro Arbeloa spoke to the media ahead of Real Madrid’s match against Girona 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid publicly deny sporting director report – ‘categorically false’
+③ Bayern Munich forward ruled out of Real Madrid tie as manager gives Harry Kane update
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/10/real-madrid-publicly-deny-sporting-director-report-categorically-false
+https://www.football-espana.net/2026/04/10/bayern-munich-forward-ruled-out-of-real-madrid-tie-as-manager-gives-harry-kane-update
 
 要約（英語）
-Real Madrid have publicly denied that they are on the hunt for a sporting director. Los Blancos transfer policy over recent seasons has come under in…
+Bayern Munich have lost one of their attacking options ahead of the return leg with Real Madrid in the Champions League quarter-finals. Vincent Kompa…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ La Liga president Javier Tebas keen to play match in Morocco – “Why not?”
-試合に関するニュース
+④ Real Madrid defender moves to deny rift with manager Alvaro Arbeloa
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/10/la-liga-javier-tebas-morocco
+https://www.football-espana.net/2026/04/10/real-madrid-defender-moves-to-deny-rift-with-manager-alvaro-arbeloa
 
 要約（英語）
-Earlier in the season, La Liga launched a campaign to host one of the matches at the Hard Rock Stadium in Miami. They received the green light from F…
+Real Madrid defender Raul Asencio has become an unlikely talking point in the Spanish capital this week. The centre-back has not featured for the pas…
 
 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ Real Madrid Transfer News
 レアル・マドリード関連ニュース
