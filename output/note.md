@@ -1,6 +1,18 @@
-📰 レアル・マドリードニュースまとめ（2026-04-10）
+📰 レアル・マドリードニュースまとめ（2026-04-11）
 
-① Mendy keeps ramping up ahead of return leg against Bayern
+① CONFIRMED lineups: Real Madrid vs Mallorca, 2026 La Liga
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106275/real-madrid-vs-mallorca-2026-la-liga-live-online-stream
+
+要約（英語）
+Real Madrid have published their starting XI for the upcoming match against Mallorca in La Liga. Real Madrid starting XI: Lunin, Carvajal, Militao, A…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Mendy keeps ramping up ahead of return leg against Bayern
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -8,18 +20,6 @@ https://www.managingmadrid.com/106251/mendy-keeps-ramping-up-ahead-of-return-leg
 
 要約（英語）
 Real Madrid defender Ferland Mendy completed yet another training session with the group and appears ready to start when Los Blancos take on Bayern M…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-② Alvaro Arbeloa: “When Militao is fit, he’s undoubtedly the best in the world”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-la-liga/106248/alvaro-arbeloa-when-militao-is-fit-hes-undoubtedly-the-best-in-the-world
-
-要約（英語）
-Alvaro Arbeloa spoke to the media ahead of Real Madrid’s match against Girona on Friday. He was asked about Eder Militao’s qualities, to which he sai…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
