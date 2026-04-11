@@ -24,26 +24,26 @@ https://www.managingmadrid.com/latest-news/106294/fonseca-challenges-endrick-to-
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Bayern Munich forward ruled out of Real Madrid tie as manager gives Harry Kane update
+③ Real Madrid cut ties with Spanish Football Federation due to ‘adulterated’ competition
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/10/bayern-munich-forward-ruled-out-of-real-madrid-tie-as-manager-gives-harry-kane-update
+https://www.football-espana.net/2026/04/11/real-madrid-cut-ties-with-spanish-football-federation-due-to-adulterated-competition
 
 要約（英語）
-Bayern Munich have lost one of their attacking options ahead of the return leg with Real Madrid in the Champions League quarter-finals. Vincent Kompa…
+Real Madrid have cut ties with the Royal Spanish Football Federation (RFEF) due to the officiating in domestic competitions. Los Blancos believe the …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid defender moves to deny rift with manager Alvaro Arbeloa
+④ ‘It’s a penalty from here to the moon’ – Real Madrid manager Alvaro Arbeloa doubles down on refereeing
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/10/real-madrid-defender-moves-to-deny-rift-with-manager-alvaro-arbeloa
+https://www.football-espana.net/2026/04/11/its-a-penalty-from-here-to-the-moon-real-madrid-manager-alvaro-arbeloa-doubles-down-on-refereeing
 
 要約（英語）
-Real Madrid defender Raul Asencio has become an unlikely talking point in the Spanish capital this week. The centre-back has not featured for the pas…
+Real Madrid manager Alvaro Arbeloa has pointed the finger at officiating again after his side failed to win against Girona on Friday night , sliding …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
