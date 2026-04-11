@@ -24,7 +24,19 @@ https://www.managingmadrid.com/latest-news/106294/fonseca-challenges-endrick-to-
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Defender’s €50m Real Madrid clause active this summer in spite of renewal agreement
+③ Toni Kroos gives Real Madrid hope for Champions League comeback – “Bayern Munich often fail”
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/11/toni-kroos-real-madrid-hope-champions-league
+
+要約（英語）
+Real Madrid have it all to do if they are to progress to the Champions League semi-finals at the expense of Bayern Munich, who won 2-1 at the Bernabe…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Defender’s €50m Real Madrid clause active this summer in spite of renewal agreement
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/11/e50m-real-madrid-clause-active-this-s
 
 要約（英語）
 Real Madrid are planning to sign a new central defender this summer, as they prepare for the expected departure of David Alaba – and the possible one…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid cut ties with Spanish Football Federation due to ‘adulterated’ competition
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/11/real-madrid-cut-ties-with-spanish-football-federation-due-to-adulterated-competition
-
-要約（英語）
-Real Madrid have cut ties with the Royal Spanish Football Federation (RFEF) due to the officiating in domestic competitions. Los Blancos believe the …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
