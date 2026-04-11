@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-11）
+📰 レアル・マドリードニュースまとめ（2026-04-12）
 
 ① Kompany Keeps Cards Close as Bayern Balance Rotation Ahead of Real Madrid Clash
 レアル・マドリード関連ニュース
@@ -48,7 +48,7 @@ Real Madrid have cut ties with the Royal Spanish Football Federation (RFEF) due 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-⑤ LALIGA EA SPORTS SAB 11.04.2026 | RESUMEN DE PARTIDO Real Madrid y Girona firman tablas con dos golazos Compartir
+⑤ LALIGA EA SPORTS SÁB 11.04.2026 | RESUMEN DE PARTIDO Real Madrid y Girona firman tablas con dos golazos Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
