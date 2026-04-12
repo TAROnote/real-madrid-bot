@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-12）
 
-① Kompany Keeps Cards Close as Bayern Balance Rotation Ahead of Real Madrid Clash
+① Florentino Pérez: “We won’t give up, we will fight until the end”
+フロレンティーノ・ペレス会長に関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106335/florentino-perez-real-madrid-2026-quotes
+
+要約（英語）
+Real Madrid president Florentino Pérez talked to the club’s socios in a ceremony where some of them received the emblems to commemorate their 25 or 5…
+
+要約（日本語）
+クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。
+
+② Kompany Keeps Cards Close as Bayern Balance Rotation Ahead of Real Madrid Clash
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -8,18 +20,6 @@ https://www.managingmadrid.com/latest-news/106297/kompany-keeps-cards-close-as-b
 
 要約（英語）
 ﻿Bayern boss emphasizes competition, intensity, and fitness management before St. Pauli test With Bayern Munich set to face St. Pauli in the Bundesli…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-② Fonseca Challenges Endrick to Step Up Amid Dip in Form at Lyon
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/latest-news/106294/fonseca-challenges-endrick-to-step-up-amid-dip-in-form-at-lyon
-
-要約（英語）
-﻿Brazilian forward faces criticism after quiet run, with pressure mounting to rediscover early-season impact Endrick’s development in France has hit …
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
