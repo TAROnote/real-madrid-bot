@@ -24,29 +24,29 @@ https://www.managingmadrid.com/latest-news/106297/kompany-keeps-cards-close-as-b
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Toni Kroos gives Real Madrid hope for Champions League comeback – “Bayern Munich often fail”
+③ Agreement close for Toni Kroos to re-join Real Madrid in summer
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/11/toni-kroos-real-madrid-hope-champions-league
+https://www.football-espana.net/2026/04/12/toni-kroos-rejoin-real-madrid
 
 要約（英語）
-Real Madrid have it all to do if they are to progress to the Champions League semi-finals at the expense of Bayern Munich, who won 2-1 at the Bernabe…
+Real Madrid intend to sign a new midfielder this summer, as they finally prepare to sign a replacement for Toni Kroos, who left the club almost two y…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Defender’s €50m Real Madrid clause active this summer in spite of renewal agreement
+④ Real Madrid will block Barcelona efforts to sign 22-year-old winger
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/11/e50m-real-madrid-clause-active-this-summer
+https://www.football-espana.net/2026/04/12/real-madrid-block-barcelona-winger
 
 要約（英語）
-Real Madrid are planning to sign a new central defender this summer, as they prepare for the expected departure of David Alaba – and the possible one…
+Barcelona are planning to sign a new left winger this summer, amid doubts over the future of Marcus Rashford. The Manchester United loanee has done w…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS SAB 11.04.2026 | RESUMEN DE PARTIDO Real Madrid y Girona firman tablas con dos golazos Compartir
 レアル・マドリード関連ニュース
