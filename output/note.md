@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-12）
+📰 レアル・マドリードニュースまとめ（2026-04-13）
 
 ① Florentino Pérez: “We won’t give up, we will fight until the end”
 フロレンティーノ・ペレス会長に関するニュース
@@ -24,7 +24,19 @@ https://www.managingmadrid.com/latest-news/106297/kompany-keeps-cards-close-as-b
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Agreement close for Toni Kroos to re-join Real Madrid in summer
+③ Real Madrid explain Kylian Mbappe training absence as doubts swirl before Bayern Munich clash
+トレーニングに関するニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/12/real-madrid-kylian-mbappe-training-absence-bayern-munich
+
+要約（英語）
+Real Madrid are eyeing a comeback when they take on Bayern Munich in the second leg of their Champions League quarter-final tie on Wednesday. However…
+
+要約（日本語）
+チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。
+
+④ Agreement close for Toni Kroos to re-join Real Madrid in summer
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid intend to sign a new midfielder this summer, as they finally prepare
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid will block Barcelona efforts to sign 22-year-old winger
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/12/real-madrid-block-barcelona-winger
-
-要約（英語）
-Barcelona are planning to sign a new left winger this summer, amid doubts over the future of Marcus Rashford. The Manchester United loanee has done w…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS SAB 11.04.2026 | RESUMEN DE PARTIDO Real Madrid y Girona firman tablas con dos golazos Compartir
 レアル・マドリード関連ニュース
