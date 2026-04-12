@@ -48,7 +48,7 @@ Real Madrid are planning to sign a new central defender this summer, as they pre
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-⑤ LALIGA EA SPORTS SÁB 11.04.2026 | RESUMEN DE PARTIDO Real Madrid y Girona firman tablas con dos golazos Compartir
+⑤ LALIGA EA SPORTS SAB 11.04.2026 | RESUMEN DE PARTIDO Real Madrid y Girona firman tablas con dos golazos Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
