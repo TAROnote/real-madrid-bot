@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-13）
 
-① Florentino Pérez: “We won’t give up, we will fight until the end”
+① Referee named for Champions League match between Bayern Munich and Real Madrid
+試合に関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106361/bayern-real-madrid-2026-referee
+
+要約（英語）
+UEFA have appointed Slovenian referee Slavko Vincic as the man in charge of Wednesday’s match between Bayern Munich and Real Madrid in the return leg…
+
+要約（日本語）
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+
+② Florentino Pérez: “We won’t give up, we will fight until the end”
 フロレンティーノ・ペレス会長に関するニュース
 
 🔗 リンク
@@ -12,41 +24,29 @@ Real Madrid president Florentino Pérez talked to the club’s socios in a cerem
 要約（日本語）
 クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。
 
-② Kompany Keeps Cards Close as Bayern Balance Rotation Ahead of Real Madrid Clash
+③ Bayern Munich stars preview crucial Real Madrid clash – “When the Champions League comes, they perform”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/latest-news/106297/kompany-keeps-cards-close-as-bayern-balance-rotation-ahead-of-real-madrid-clash
+https://www.football-espana.net/2026/04/13/bayern-munich-preview-real-madrid-champions-league
 
 要約（英語）
-﻿Bayern boss emphasizes competition, intensity, and fitness management before St. Pauli test With Bayern Munich set to face St. Pauli in the Bundesli…
+On Wednesday, Real Madrid take on Bayern Munich in the second leg of their Champions League quarter-final tie. Alvaro Arbeloa’s side are up against i…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-③ Real Madrid add new name to managerial shortlist as Alvaro Arbeloa doubts continue
+④ Real Madrid ready to transfer-list midfielder amid Liverpool interest
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/13/real-madrid-new-name-managerial-shortlist
+https://www.football-espana.net/2026/04/13/real-madrid-transfer-list-midfielder
 
 要約（英語）
-It is looking increasingly likely that Real Madrid will have a new manager in the dugout for the start of next season. Alvaro Arbeloa is currently in…
+Real Madrid have plans to sign a new midfielder this summer, but there could also be one or two from the same position that move on. Dani Ceballos is…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Florentino Perez issues Real Madrid rallying cry ahead of Bayern Munich showdown
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/12/florentino-perez-real-madrid-rally-cry
-
-要約（英語）
-The next few days are incredibly crucial for Real Madrid, as they seek to remain in this season’s Champions League. They go to Bayern Munich on Wedne…
-
-要約（日本語）
-クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。
 
 ⑤ Real Madrid Transfer News
 レアル・マドリード関連ニュース
