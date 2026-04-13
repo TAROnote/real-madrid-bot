@@ -1,49 +1,49 @@
-📰 レアル・マドリードニュースまとめ（2026-04-13）
+📰 レアル・マドリードニュースまとめ（2026-04-14）
 
-① Referee named for Champions League match between Bayern Munich and Real Madrid
-試合に関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106361/bayern-real-madrid-2026-referee
-
-要約（英語）
-UEFA have appointed Slovenian referee Slavko Vincic as the man in charge of Wednesday’s match between Bayern Munich and Real Madrid in the return leg…
-
-要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
-
-② Florentino Pérez: “We won’t give up, we will fight until the end”
-フロレンティーノ・ペレス会長に関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106335/florentino-perez-real-madrid-2026-quotes
-
-要約（英語）
-Real Madrid president Florentino Pérez talked to the club’s socios in a ceremony where some of them received the emblems to commemorate their 25 or 5…
-
-要約（日本語）
-クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。
-
-③ Bayern Munich stars preview crucial Real Madrid clash – “When the Champions League comes, they perform”
+① Valdano: “I don’t rule out a Real Madrid comeback in Munich”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/13/bayern-munich-preview-real-madrid-champions-league
+https://www.managingmadrid.com/latest-news/106379/valdano-i-dont-rule-out-a-real-madrid-comeback-in-munich
 
 要約（英語）
-On Wednesday, Real Madrid take on Bayern Munich in the second leg of their Champions League quarter-final tie. Alvaro Arbeloa’s side are up against i…
+﻿ Former Madrid director calls for more intensity after Girona draw but backs team’s Champions League mentality Jorge Valdano has backed Real Madrid’…
 
 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid ready to transfer-list midfielder amid Liverpool interest
+② Figo: “If there’s any team that can overturn this, it’s Real Madrid”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/13/real-madrid-transfer-list-midfielder
+https://www.managingmadrid.com/latest-news/106375/figo-if-theres-any-team-that-can-overturn-this-its-real-madrid
 
 要約（英語）
-Real Madrid have plans to sign a new midfielder this summer, but there could also be one or two from the same position that move on. Dani Ceballos is…
+Former Madrid star backs Los Blancos to complete comeback vs Bayern and highlights importance of defensive balance Luis Figo has backed Real Madrid t…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+③ Jonatan Vazquez
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/author/jonatan-vazquez
+
+要約（英語）
+記事の詳細はリンク先で確認してください。
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ Premier League clubs on alert as Real Madrid take decision to sell forward this summer
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/13/premier-league-clubs-on-alert-as-real-madrid-prepare-to-sell-forward-this-summer
+
+要約（英語）
+Real Madrid have plans to sign multiple signings this summer, but they are also preparing to part ways with several first team players. Dani Carvajal…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
