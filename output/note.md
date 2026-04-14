@@ -12,29 +12,29 @@ What did we learn from the first leg, and can Arbeloa find a way to come back? T
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Valdano: “I don’t rule out a Real Madrid comeback in Munich”
+② Real Madrid announce squad for Champions League match against Bayern Munich
+試合に関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106433/bayern-real-madrid-2026-squad-list
+
+要約（英語）
+If you buy something from a link, Vox Media may earn a commission. See our ethics statement. Real Madrid have published their squad list for Wednesda…
+
+要約（日本語）
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
+
+③ Real Madrid support during war played role in sealing contract renewal
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/latest-news/106379/valdano-i-dont-rule-out-a-real-madrid-comeback-in-munich
+https://www.football-espana.net/2026/04/14/real-madrid-support-during-war-played-role-in-sealing-contract-renewal
 
 要約（英語）
-﻿ Former Madrid director calls for more intensity after Girona draw but backs team’s Champions League mentality Jorge Valdano has backed Real Madrid’…
+Real Madrid will in part place their hopes in Germany on goalkeeper Andriy Lunin, as they look for a shock comeback against Bayern Munich in the Cham…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-③ 18 players for Atletico Madrid, Barcelona and Real Madrid at risk of missing Champions League semi-finals
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/14/18-players-for-atletico-madrid-barcelona-and-real-madrid-at-risk-of-missing-champions-league-semi-finals
-
-要約（英語）
-As the crunch time of the season arrives in the Champions League, the absences through injury and suspension are piling up. Atletico Madrid, Barcelon…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ④ Jonatan Vazquez
 レアル・マドリード関連ニュース
