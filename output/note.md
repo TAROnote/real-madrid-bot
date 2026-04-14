@@ -24,7 +24,19 @@ https://www.managingmadrid.com/latest-news/106379/valdano-i-dont-rule-out-a-real
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Jonatan Vazquez
+③ 18 players for Atletico Madrid, Barcelona and Real Madrid at risk of missing Champions League semi-finals
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/14/18-players-for-atletico-madrid-barcelona-and-real-madrid-at-risk-of-missing-champions-league-semi-finals
+
+要約（英語）
+As the crunch time of the season arrives in the Champions League, the absences through injury and suspension are piling up. Atletico Madrid, Barcelon…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ Jonatan Vazquez
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ https://www.football-espana.net/author/jonatan-vazquez
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-④ Premier League clubs on alert as Real Madrid take decision to sell forward this summer
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/13/premier-league-clubs-on-alert-as-real-madrid-prepare-to-sell-forward-this-summer
-
-要約（英語）
-Real Madrid have plans to sign multiple signings this summer, but they are also preparing to part ways with several first team players. Dani Carvajal…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ Real Madrid Transfer News
 レアル・マドリード関連ニュース
