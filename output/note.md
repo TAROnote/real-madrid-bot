@@ -1,6 +1,18 @@
-📰 レアル・マドリードニュースまとめ（2026-04-14）
+📰 レアル・マドリードニュースまとめ（2026-04-15）
 
-① How Real Madrid Can Find A Path To Beating Bayern Munich
+① How Bayern Munich Exposed Real Madrid’s Woes
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-editorials/106357/how-bayern-munich-exposed-real-madrids-woes
+
+要約（英語）
+Real Madrid can’t afford to repeat the same mistakes.. In the biggest stage in Europe, just one week ago, Los Blancos had been exposed in and out of …
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② How Real Madrid Can Find A Path To Beating Bayern Munich
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,41 +24,29 @@ What did we learn from the first leg, and can Arbeloa find a way to come back? T
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Real Madrid announce squad for Champions League match against Bayern Munich
-試合に関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106433/bayern-real-madrid-2026-squad-list
-
-要約（英語）
-If you buy something from a link, Vox Media may earn a commission. See our ethics statement. Real Madrid have published their squad list for Wednesda…
-
-要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
-
-③ Real Madrid support during war played role in sealing contract renewal
+③ Alvaro Arbeloa on chances against Bayern Munich and Aurelien Tchouameni replacement: ‘We don’t need a miracle’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/14/real-madrid-support-during-war-played-role-in-sealing-contract-renewal
+https://www.football-espana.net/2026/04/14/arbeloa-champions-league-real-madrid
 
 要約（英語）
-Real Madrid will in part place their hopes in Germany on goalkeeper Andriy Lunin, as they look for a shock comeback against Bayern Munich in the Cham…
+Real Madrid manager Alvaro Arbeloa sent an optimistic message ahead of their Champions League clash with Bayern Munich, as his side look to comeback …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Jonatan Vazquez
+④ Real Madrid star Jude Bellingham: ‘I’ve been a victim of my versatility’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/author/jonatan-vazquez
+https://www.football-espana.net/2026/04/14/bellingham-real-madrid-bayern
 
 要約（英語）
-記事の詳細はリンク先で確認してください。
+Real Madrid star Jude Bellingham has admitted that he has suffered from the lack of fixed position in recent seasons, after being moved about by vari…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ Real Madrid Transfer News
 レアル・マドリード関連ニュース
