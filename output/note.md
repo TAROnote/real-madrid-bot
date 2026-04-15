@@ -1,6 +1,18 @@
-📰 レアル・マドリードニュースまとめ（2026-04-15）
+📰 レアル・マドリードニュースまとめ（2026-04-16）
 
-① How Bayern Munich Exposed Real Madrid’s Woes
+① CONFIRMED lineups: Bayern Munich vs Real Madrid, 2026 Champions League
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106479/bayern-munich-vs-real-madrid-2026-champions-league-live-online-stream
+
+要約（英語）
+If you buy something from a link, Vox Media may earn a commission. See our ethics statement. Real Madrid have published their starting lineup for the…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② How Bayern Munich Exposed Real Madrid’s Woes
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,43 +24,31 @@ Real Madrid can’t afford to repeat the same mistakes.. In the biggest stage in
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② How Real Madrid Can Find A Path To Beating Bayern Munich
+③ Bayern Munich manager Vincent Kompany: ‘Results don’t reflect Real Madrid quality’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/kiyans-observations/105598/how-real-madrid-can-find-a-path-to-beating-bayern-munich
+https://www.football-espana.net/2026/04/15/kompany-bayern-real-madrid-neuer
 
 要約（英語）
-What did we learn from the first leg, and can Arbeloa find a way to come back? These observations — where I look at Real Madrid ’s history, its playe…
+Bayern Munich manager Vincent Kompany was optimistic about their chances of reaching the Champions League semi-finals against Real Madrid on Wednesda…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Alvaro Arbeloa on chances against Bayern Munich and Aurelien Tchouameni replacement: ‘We don’t need a miracle’
+④ Predicted Teams Bayern Munich-Real Madrid: Eduardo Camavinga to remain on bench
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/14/arbeloa-champions-league-real-madrid
+https://www.football-espana.net/2026/04/15/predicted-teams-bayern-munich-real-madrid-eduardo-camavinga-to-remain-on-bench
 
 要約（英語）
-Real Madrid manager Alvaro Arbeloa sent an optimistic message ahead of their Champions League clash with Bayern Munich, as his side look to comeback …
+Real Madrid will seek to pull off a remarkable comeback against Bayern Munich at the Allianz Arena at 21:00 CEST, going into the clash 2-1 down from …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid star Jude Bellingham: ‘I’ve been a victim of my versatility’
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/14/bellingham-real-madrid-bayern
-
-要約（英語）
-Real Madrid star Jude Bellingham has admitted that he has suffered from the lack of fixed position in recent seasons, after being moved about by vari…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-⑤ General MIÉ 15.04.2026 | GENERAL Derechazo con marca registrada de Fede Valverde Compartir
+⑤ LALIGA EA SPORTS MIE 15.04.2026 | GENERAL Derechazo con marca registrada de Fede Valverde Compartir
 バルベルデに関するニュース
 
 🔗 リンク
