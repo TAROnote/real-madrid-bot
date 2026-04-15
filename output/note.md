@@ -1,64 +1,64 @@
 📰 レアル・マドリードニュースまとめ（2026-04-16）
 
-① CONFIRMED lineups: Bayern Munich vs Real Madrid, 2026 Champions League
+① Managing Madrid Podcast: Bayern Munich 4 - 3 Real Madrid, 2nd leg, Post-game Reaction, Champions League 2025 - 2026
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106479/bayern-munich-vs-real-madrid-2026-champions-league-live-online-stream
+https://www.managingmadrid.com/managing-madrid-podcast/106532/managing-madrid-podcast-bayern-munich-4-3-real-madrid-2nd-leg-post-game-reaction-champions-league-2025-2026
 
 要約（英語）
-If you buy something from a link, Vox Media may earn a commission. See our ethics statement. Real Madrid have published their starting lineup for the…
+On this ⁠ Members-only episode of the Managing Madrid Podcast ⁠, Kiyan Sobhani gives his thoughts directly from the Allianz Arena after Real Madrid l…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② How Bayern Munich Exposed Real Madrid’s Woes
+② Immediate Reaction: Bayern Munich 4-3 Real Madrid (6-4 on aggregate)
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-editorials/106357/how-bayern-munich-exposed-real-madrids-woes
+https://www.managingmadrid.com/real-madrid-cf-europe/106495/immediate-reaction-bayern-munich-4-3-real-madrid-6-4-on-aggregate
 
 要約（英語）
-Real Madrid can’t afford to repeat the same mistakes.. In the biggest stage in Europe, just one week ago, Los Blancos had been exposed in and out of …
+Bayern Munich 4-3 Real Madrid (6-4 on aggregate) (Güler x2 & Mbappé). An amazing encounter ends in disappointment... This is my immediate reaction to…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Bayern Munich manager Vincent Kompany: ‘Results don’t reflect Real Madrid quality’
+③ Real Madrid ready to cut ties with Alvaro Arbeloa after Champions League exit
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/15/kompany-bayern-real-madrid-neuer
+https://www.football-espana.net/2026/04/16/real-madrid-alvaro-arbeloa-champions-league-exit
 
 要約（英語）
-Bayern Munich manager Vincent Kompany was optimistic about their chances of reaching the Champions League semi-finals against Real Madrid on Wednesda…
+Real Madrid are set for a trophyless season, after they were d umped out of the Champions League by Bayern Munich on Wednesday. They are nine points …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Predicted Teams Bayern Munich-Real Madrid: Eduardo Camavinga to remain on bench
+④ Alvaro Arbeloa blasts referee as Real Madrid exit Champions League – “He ruined a beautiful tie”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/15/predicted-teams-bayern-munich-real-madrid-eduardo-camavinga-to-remain-on-bench
+https://www.football-espana.net/2026/04/15/bayer-real-madrid-champions-league-alvaro-arbeloa-reaction
 
 要約（英語）
-Real Madrid will seek to pull off a remarkable comeback against Bayern Munich at the Allianz Arena at 21:00 CEST, going into the clash 2-1 down from …
+Real Madrid were knocked out of the 2025-26 Champions League in controversial circumstances on Wednesday. Bayern Munich won 4-3 on the night to ensur…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-⑤ LALIGA EA SPORTS MIE 15.04.2026 | GENERAL Derechazo con marca registrada de Fede Valverde Compartir
-バルベルデに関するニュース
+⑤ LALIGA EA SPORTS MAR 14.04.2026 | NOTICIAS Estadísticas FC Barcelona contra Atlético de Madrid Compartir
+レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.laliga.com/videos/derechazo-con-marca-registrada-de-fede-valverde
+https://www.laliga.com/noticias/estadisticas-resultados-fc-barcelona-atletico-de-madrid
 
 要約（英語）
 LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
 
 要約（日本語）
-バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 🧾 記事全体のコメント
 
