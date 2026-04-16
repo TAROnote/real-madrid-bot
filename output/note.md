@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-16）
+📰 レアル・マドリードニュースまとめ（2026-04-17）
 
 ① Vinicius to Bellingham: “What do you want? What do you want? Shut your mouth!”
 レアル・マドリード関連ニュース
@@ -24,29 +24,29 @@ Real Madrid bowed out of the Champions League and likely extended their trophy-l
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ VIDEO: Vinicius Junior tells Real Madrid teammate to ‘shut your mouth’ during Bayern Munich loss
+③ Alvaro Arbeloa addresses Real Madrid future – ‘I’m not worried about it at all’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/16/video-vinicius-junior-tells-real-madrid-teammate-to-shut-your-mouth-during-bayern-munich-loss
+https://www.football-espana.net/2026/04/16/arbeloa-real-madrid-future
 
 要約（英語）
-The fallout from any Real Madrid exit from the Champions League is messy, but their loss to Bayern Munich all but certainly ended their season withou…
+Real Madrid manager Alvaro Arbeloa has said that he is not concerned about his future at the club beyond the summer. He is expected to be in charge a…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ President Florentino Perez fumes at Real Madrid players in dressing room: ‘Intolerable’
+④ Liverpool willing to do business for midfielder liked by Real Madrid
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/16/president-florentino-perez-fumes-at-real-madrid-players-in-dressing-room-intolerable
+https://www.football-espana.net/2026/04/16/liverpool-willing-to-do-business-for-midfielder-liked-by-real-madrid
 
 要約（英語）
-If Real Madrid’s players were furious last night following their elimination at the hands of Bayern Munich in the Champions League, President Florent…
+Real Madrid will be on the hunt for a midfielder this summer. Los Blancos have been struggling to adapt the absence of Luka Modric and Toni Kroos in …
 
 要約（日本語）
-クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ othercompetitions JUE 16.04.2026 | COPA DEL REY Alineaciones Copa del Rey: Real Sociedad vs Atlético de Madrid Compartir
 レアル・マドリード関連ニュース
