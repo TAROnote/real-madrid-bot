@@ -1,28 +1,28 @@
 📰 レアル・マドリードニュースまとめ（2026-04-17）
 
-① Vinicius to Bellingham: “What do you want? What do you want? Shut your mouth!”
+① Mbappe: “Real Madrid will start winning again very soon
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106559/vinicius-bellingham-exchange-bayern-real-madrid-2026
+https://www.managingmadrid.com/real-madrid-cf-players/106574/mbappe-real-madrid-will-start-winning-again-very-soon
 
 要約（英語）
-Real Madrid’s season ended abruptly with a 4-3 loss to Bayern Munich in the return leg of the Champions League Quarterfinals and Movistar’s cameras c…
+Kylian Mbappé has broken his silence following Real Madrid’s Champions League exit at the hands of Bayern Munich. The French forward took to Instagra…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② 3 observations from Real Madrid’s 4-3 loss to Bayern Munich
+② Militao: “The Real Madrid shirt is the most important shirt in club football”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-europe/106536/3-observations-from-real-madrids-4-3-loss-to-bayern-munich
+https://www.managingmadrid.com/real-madrid-cf-players/106571/militao-the-real-madrid-shirt-is-the-most-important-shirt-in-club-football
 
 要約（英語）
-Real Madrid bowed out of the Champions League and likely extended their trophy-less run to two seasons after a 4-3 loss to Bayern Munich at the Allia…
+Brazilian defender opens up on wearing football’s biggest shirt and learning from legends Éder Militão has offered a revealing look into his journey …
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ③ Alvaro Arbeloa addresses Real Madrid future – ‘I’m not worried about it at all’
 レアル・マドリード関連ニュース
