@@ -24,35 +24,35 @@ Real Madrid bowed out of the Champions League and likely extended their trophy-l
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid players slam referee after controversial red card during Bayern Munich defeat – “It’s your f****** fault”
+③ VIDEO: Vinicius Junior tells Real Madrid teammate to ‘shut your mouth’ during Bayern Munich loss
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/16/real-madrid-players-referee-red-card
+https://www.football-espana.net/2026/04/16/video-vinicius-junior-tells-real-madrid-teammate-to-shut-your-mouth-during-bayern-munich-loss
 
 要約（英語）
-Real Madrid were knocked out of the Champions League on Wednesday, as Bayern Munich secured a 6-4 aggregate victory in their quarter-final tie. Howev…
+The fallout from any Real Madrid exit from the Champions League is messy, but their loss to Bayern Munich all but certainly ended their season withou…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid ready to cut ties with Alvaro Arbeloa after Champions League exit
+④ President Florentino Perez fumes at Real Madrid players in dressing room: ‘Intolerable’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/16/real-madrid-alvaro-arbeloa-champions-league-exit
+https://www.football-espana.net/2026/04/16/president-florentino-perez-fumes-at-real-madrid-players-in-dressing-room-intolerable
 
 要約（英語）
-Real Madrid are set for a trophyless season, after they were d umped out of the Champions League by Bayern Munich on Wednesday. They are nine points …
+If Real Madrid’s players were furious last night following their elimination at the hands of Bayern Munich in the Champions League, President Florent…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。
 
-⑤ LALIGA EA SPORTS MAR 14.04.2026 | NOTICIAS Estadísticas FC Barcelona contra Atlético de Madrid Compartir
+⑤ othercompetitions JUE 16.04.2026 | COPA DEL REY Alineaciones Copa del Rey: Real Sociedad vs Atlético de Madrid Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.laliga.com/noticias/estadisticas-resultados-fc-barcelona-atletico-de-madrid
+https://www.laliga.com/noticias/posibles-alineaciones-copa-del-rey
 
 要約（英語）
 LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
