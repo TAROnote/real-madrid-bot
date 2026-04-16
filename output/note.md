@@ -1,30 +1,42 @@
 📰 レアル・マドリードニュースまとめ（2026-04-16）
 
-① Managing Madrid Podcast: Bayern Munich 4 - 3 Real Madrid, 2nd leg, Post-game Reaction, Champions League 2025 - 2026
+① Vinicius to Bellingham: “What do you want? What do you want? Shut your mouth!”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/106532/managing-madrid-podcast-bayern-munich-4-3-real-madrid-2nd-leg-post-game-reaction-champions-league-2025-2026
+https://www.managingmadrid.com/106559/vinicius-bellingham-exchange-bayern-real-madrid-2026
 
 要約（英語）
-On this ⁠ Members-only episode of the Managing Madrid Podcast ⁠, Kiyan Sobhani gives his thoughts directly from the Allianz Arena after Real Madrid l…
+Real Madrid’s season ended abruptly with a 4-3 loss to Bayern Munich in the return leg of the Champions League Quarterfinals and Movistar’s cameras c…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Immediate Reaction: Bayern Munich 4-3 Real Madrid (6-4 on aggregate)
+② 3 observations from Real Madrid’s 4-3 loss to Bayern Munich
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-europe/106495/immediate-reaction-bayern-munich-4-3-real-madrid-6-4-on-aggregate
+https://www.managingmadrid.com/real-madrid-cf-europe/106536/3-observations-from-real-madrids-4-3-loss-to-bayern-munich
 
 要約（英語）
-Bayern Munich 4-3 Real Madrid (6-4 on aggregate) (Güler x2 & Mbappé). An amazing encounter ends in disappointment... This is my immediate reaction to…
+Real Madrid bowed out of the Champions League and likely extended their trophy-less run to two seasons after a 4-3 loss to Bayern Munich at the Allia…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid ready to cut ties with Alvaro Arbeloa after Champions League exit
+③ Real Madrid players slam referee after controversial red card during Bayern Munich defeat – “It’s your f****** fault”
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/16/real-madrid-players-referee-red-card
+
+要約（英語）
+Real Madrid were knocked out of the Champions League on Wednesday, as Bayern Munich secured a 6-4 aggregate victory in their quarter-final tie. Howev…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid ready to cut ties with Alvaro Arbeloa after Champions League exit
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/16/real-madrid-alvaro-arbeloa-champions-
 
 要約（英語）
 Real Madrid are set for a trophyless season, after they were d umped out of the Champions League by Bayern Munich on Wednesday. They are nine points …
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Alvaro Arbeloa blasts referee as Real Madrid exit Champions League – “He ruined a beautiful tie”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/15/bayer-real-madrid-champions-league-alvaro-arbeloa-reaction
-
-要約（英語）
-Real Madrid were knocked out of the 2025-26 Champions League in controversial circumstances on Wednesday. Bayern Munich won 4-3 on the night to ensur…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
