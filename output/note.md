@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-17）
+📰 レアル・マドリードニュースまとめ（2026-04-18）
 
 ① Rüdiger set to sign one-year extension with Real Madrid -report
 レアル・マドリード関連ニュース
@@ -24,7 +24,19 @@ Kylian Mbappé has broken his silence following Real Madrid’s Champions League
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid open to selling player after spat with Alvaro Arbeloa
+③ Analysis: As Real Madrid career towards premature end to season, what’s left at the end of it?
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/17/real-madrid-ucl-exit-review
+
+要約（英語）
+“What did you think of the sending off?” The Spanish press lobbed the question at Bayern’s manager, as they had to every passing player , but Vincent…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ Real Madrid open to selling player after spat with Alvaro Arbeloa
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/17/real-madrid-open-to-selling-player-af
 
 要約（英語）
 Real Madrid are assessing the damage of a season without silverware, with their La Liga hopes in the doldrums. It could well have major consequences …
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Jurgen Klopp not an option for Real Madrid ahead of Alvaro Arbeloa meeting
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/17/jurgen-klopp-not-an-option-for-real-madrid-ahead-of-alvaro-arbeloa-meeting
-
-要約（英語）
-Real Madrid will not be appointing Jurgen Klopp as manager this summer, despite strong interest from Los Blancos in recent months. Advisor Anas Laghr…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
