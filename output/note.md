@@ -24,26 +24,26 @@ Brazilian defender opens up on wearing football’s biggest shirt and learning f
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Alvaro Arbeloa addresses Real Madrid future – ‘I’m not worried about it at all’
+③ Barcelona icon tells Real Madrid fans to “stop crying” about controversial Champions League exit
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/16/arbeloa-real-madrid-future
+https://www.football-espana.net/2026/04/17/real-madrid-players-champions-league-exit
 
 要約（英語）
-Real Madrid manager Alvaro Arbeloa has said that he is not concerned about his future at the club beyond the summer. He is expected to be in charge a…
+Real Madrid were dumped out of the Champions League, with Bayern Munich winning 6-4 on aggregate after a 4-3 success at the Allianz Arena . Much of t…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Liverpool willing to do business for midfielder liked by Real Madrid
+④ Real Madrid accuse Barcelona of sporting corruption in leaked letter
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/16/liverpool-willing-to-do-business-for-midfielder-liked-by-real-madrid
+https://www.football-espana.net/2026/04/17/real-madrid-accuse-barcelona-sporting-corruption
 
 要約（英語）
-Real Madrid will be on the hunt for a midfielder this summer. Los Blancos have been struggling to adapt the absence of Luka Modric and Toni Kroos in …
+Three years on from the Negreira case first coming to light, Barcelona and Real Madrid are still clashing over the matter. The Catalans have been acc…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
