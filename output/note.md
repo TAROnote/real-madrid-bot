@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-17）
 
-① Mbappe: “Real Madrid will start winning again very soon
+① Rüdiger set to sign one-year extension with Real Madrid -report
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106579/rudiger-real-madrid-extension-2026-news-rumors
+
+要約（英語）
+Real Madrid defender Antonio Rüdiger has reached an agreement with the club and will almost certainly sign a one-year contract extension this summer,…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Mbappe: “Real Madrid will start winning again very soon
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,38 +24,26 @@ Kylian Mbappé has broken his silence following Real Madrid’s Champions League
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Militao: “The Real Madrid shirt is the most important shirt in club football”
+③ Real Madrid open to selling player after spat with Alvaro Arbeloa
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-players/106571/militao-the-real-madrid-shirt-is-the-most-important-shirt-in-club-football
+https://www.football-espana.net/2026/04/17/real-madrid-open-to-selling-player-after-spat-with-alvaro-arbeloa
 
 要約（英語）
-Brazilian defender opens up on wearing football’s biggest shirt and learning from legends Éder Militão has offered a revealing look into his journey …
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-③ Barcelona icon tells Real Madrid fans to “stop crying” about controversial Champions League exit
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/17/real-madrid-players-champions-league-exit
-
-要約（英語）
-Real Madrid were dumped out of the Champions League, with Bayern Munich winning 6-4 on aggregate after a 4-3 success at the Allianz Arena . Much of t…
+Real Madrid are assessing the damage of a season without silverware, with their La Liga hopes in the doldrums. It could well have major consequences …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid accuse Barcelona of sporting corruption in leaked letter
+④ Jurgen Klopp not an option for Real Madrid ahead of Alvaro Arbeloa meeting
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/17/real-madrid-accuse-barcelona-sporting-corruption
+https://www.football-espana.net/2026/04/17/jurgen-klopp-not-an-option-for-real-madrid-ahead-of-alvaro-arbeloa-meeting
 
 要約（英語）
-Three years on from the Negreira case first coming to light, Barcelona and Real Madrid are still clashing over the matter. The Catalans have been acc…
+Real Madrid will not be appointing Jurgen Klopp as manager this summer, despite strong interest from Los Blancos in recent months. Advisor Anas Laghr…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
