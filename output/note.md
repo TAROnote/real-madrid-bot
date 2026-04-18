@@ -24,29 +24,29 @@ Real Madrid defender Antonio Rüdiger has reached an agreement with the club and
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ ‘I was made a scapegoat’ – Real Madrid star opens up on struggles
+③ Real Madrid midfielder in talks with European giant as summer exit looms large
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/18/tchouameni-scapegoat
+https://www.football-espana.net/2026/04/18/real-madrid-midfielder-talks-european-giant
 
 要約（英語）
-Real Madrid star Aurelien Tchouameni has opened up on his struggles at the Santiago Bernabeu over the past couple of seasons. The French midfielder h…
+Real Madrid have plans to let a number of first team players leave during the upcoming summer transfer window. Dani Carvajal, Antonio Rudiger and Dav…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Analysis: As Real Madrid career towards premature end to season, what’s left at the end of it?
+④ Real Madrid managerial target not considering Bernabeu switch
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/17/real-madrid-ucl-exit-review
+https://www.football-espana.net/2026/04/18/real-madrid-target-not-considering-switch
 
 要約（英語）
-“What did you think of the sending off?” The Spanish press lobbed the question at Bayern’s manager, as they had to every passing player , but Vincent…
+Real Madrid are almost certain to be searching for a new manager this summer, with it looking unlikely that Alvaro Arbeloa will continue after his si…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
 ⑤ othercompetitions JUE 16.04.2026 | COPA DEL REY Alineaciones Copa del Rey: Real Sociedad vs Atlético de Madrid Compartir
 レアル・マドリード関連ニュース
