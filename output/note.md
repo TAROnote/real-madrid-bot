@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-18）
+📰 レアル・マドリードニュースまとめ（2026-04-19）
 
 ① Tchouameni: “I was booed by the Real Madrid fans a year ago, I went through a lot”
 レアル・マドリード関連ニュース
