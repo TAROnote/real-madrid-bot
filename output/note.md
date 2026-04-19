@@ -24,7 +24,19 @@ Real Madrid defender Antonio Rüdiger has reached an agreement with the club and
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid reach decision on Dani Carvajal contract renewal
+③ Como manager Cesc Fabregas confirms plans for further Real Madrid raids
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/19/como-cesc-fabregas-real-madrid-deals
+
+要約（英語）
+Real Madrid have already decided to re-sign Nico Paz this summer, but that is unlikely to be the only deal that gets done with Como. The high-flying …
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid reach decision on Dani Carvajal contract renewal
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -36,26 +48,14 @@ Real Madrid have a number of contract situations to resolve before the summer tr
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid midfielder in talks with European giant as summer exit looms large
+⑤ othercompetitions JUE 16.04.2026 | COPA DEL REY Alineaciones Copa del Rey: Real Sociedad vs Atlético de Madrid Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/18/real-madrid-midfielder-talks-european-giant
+https://www.laliga.com/noticias/posibles-alineaciones-copa-del-rey
 
 要約（英語）
-Real Madrid have plans to let a number of first team players leave during the upcoming summer transfer window. Dani Carvajal, Antonio Rudiger and Dav…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-⑤ Real Madrid Transfer News
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.caughtoffside.com/tags/la-liga/real-madrid/
-
-要約（英語）
-記事の詳細はリンク先で確認してください。
+LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
