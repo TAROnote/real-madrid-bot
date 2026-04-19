@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-19）
+📰 レアル・マドリードニュースまとめ（2026-04-20）
 
 ① Tchouameni: “I was booed by the Real Madrid fans a year ago, I went through a lot”
 レアル・マドリード関連ニュース
@@ -24,7 +24,19 @@ Real Madrid defender Antonio Rüdiger has reached an agreement with the club and
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid midfielder in talks with European giant as summer exit looms large
+③ Real Madrid reach decision on Dani Carvajal contract renewal
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/19/real-madrid-decision-dani-carvajal-contract
+
+要約（英語）
+Real Madrid have a number of contract situations to resolve before the summer transfer window opens on the 1st of July. One of the players whose curr…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid midfielder in talks with European giant as summer exit looms large
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -36,26 +48,14 @@ Real Madrid have plans to let a number of first team players leave during the up
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid managerial target not considering Bernabeu switch
+⑤ Real Madrid Transfer News
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/18/real-madrid-target-not-considering-switch
+https://www.caughtoffside.com/tags/la-liga/real-madrid/
 
 要約（英語）
-Real Madrid are almost certain to be searching for a new manager this summer, with it looking unlikely that Alvaro Arbeloa will continue after his si…
-
-要約（日本語）
-新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
-
-⑤ othercompetitions JUE 16.04.2026 | COPA DEL REY Alineaciones Copa del Rey: Real Sociedad vs Atlético de Madrid Compartir
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.laliga.com/noticias/posibles-alineaciones-copa-del-rey
-
-要約（英語）
-LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
