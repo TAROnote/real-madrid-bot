@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-20）
 
-① Endrick impresses in Lyon’s 2-1 win over PSG
+① Date and time set for El Clásico between Barcelona and Real Madrid
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106610/el-clasico-2026-date-time
+
+要約（英語）
+LaLiga have officially announced that the last El Clásico of the 2026-27 season will be played at the Camp Nou on Sunday, May 10th at 21:00 CEST. Bar…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Endrick impresses in Lyon’s 2-1 win over PSG
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,47 +24,35 @@ Real Madrid loanee Endrick was the star man in Lyon’s surprising 2-1 win over 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Managing Madrid Podcast: A Reflection On Real Madrid’s Champions League Elimination Against Bayern Munich
+③ Alvaro Arbeloa explains La Liga woes – “It’s easier for Real Madrid to win the Champions League”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/106588/managing-madrid-podcast-a-reflection-on-real-madrids-champions-league-elimination-against-bayern-munich
+https://www.football-espana.net/2026/04/20/real-madrid-alvaro-arbeloa-la-liga-woes
 
 要約（英語）
-Kiyan and Don Amancio also discuss the big picture of the elimination On this episode of the Managing Madrid Podcast, Kiyan Sobhani and Don Amancio d…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-③ Real Madrid icon questions Xabi Alonso sack decision – “I don’t think he had time”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/20/real-madrid-icon-xabi-alonso-decision
-
-要約（英語）
-The 2025-26 season has been a miserable one for Real Madrid, and it will almost end without a trophy heading to the Bernabeu. Alvaro Arbeloa’s side h…
+Real Madrid go into their final seven matches of the season with little to play for, given they have a nine-point deficit to Barcelona in the La Liga…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid send contract proposal to star defender
+④ “Not my responsibility” – Alvaro Arbeloa addresses Real Madrid future amid Jose Mourinho links
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/20/real-madrid-contract-star-defender
+https://www.football-espana.net/2026/04/20/alvaro-arbeloa-real-madrid-future
 
 要約（英語）
-Real Madrid must resolve the futures of several first team players before the summer transfer window opens in July, and one of those is Antonio Rudig…
+Real Madrid return to action on Tuesday as they host Alaves at the Bernabeu, their first match since exiting the Champions League. A victory would se…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-⑤ othercompetitions JUE 16.04.2026 | COPA DEL REY Alineaciones Copa del Rey: Real Sociedad vs Atlético de Madrid Compartir
+⑤ LaLiga Experience LUN 20.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE vibra en Mallorca con una tarde inolvidable ante el Real Madrid Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.laliga.com/noticias/posibles-alineaciones-copa-del-rey
+https://www.laliga.com/noticias/laliga-experience-vibra-en-mallorca-con-una-tarde-inolvidable-ante-el-real-madrid
 
 要約（英語）
 LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
