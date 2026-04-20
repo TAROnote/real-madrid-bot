@@ -1,28 +1,28 @@
 📰 レアル・マドリードニュースまとめ（2026-04-20）
 
-① Tchouameni: “I was booed by the Real Madrid fans a year ago, I went through a lot”
+① Endrick impresses in Lyon’s 2-1 win over PSG
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106585/tchouameni-real-madrid-quotes-2026
+https://www.managingmadrid.com/real-madrid-cf-players/106594/endrick-impresses-in-lyons-2-1-win-over-psg
 
 要約（英語）
-Real Madrid midfielder Aurelien Tchouameni talked to the Pivot Podcast and shared his thoughts and his experience as a madridista when he got booed a…
+Real Madrid loanee Endrick was the star man in Lyon’s surprising 2-1 win over Paris Saint-Germain at Parc des Princes on Sunday night. Endrick scored…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Rüdiger set to sign one-year extension with Real Madrid -report
+② Managing Madrid Podcast: A Reflection On Real Madrid’s Champions League Elimination Against Bayern Munich
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106579/rudiger-real-madrid-extension-2026-news-rumors
+https://www.managingmadrid.com/managing-madrid-podcast/106588/managing-madrid-podcast-a-reflection-on-real-madrids-champions-league-elimination-against-bayern-munich
 
 要約（英語）
-Real Madrid defender Antonio Rüdiger has reached an agreement with the club and will almost certainly sign a one-year contract extension this summer,…
+Kiyan and Don Amancio also discuss the big picture of the elimination On this episode of the Managing Madrid Podcast, Kiyan Sobhani and Don Amancio d…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ③ Como manager Cesc Fabregas confirms plans for further Real Madrid raids
 レアル・マドリード関連ニュース
