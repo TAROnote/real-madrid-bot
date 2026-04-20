@@ -24,7 +24,19 @@ Kiyan and Don Amancio also discuss the big picture of the elimination On this ep
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Real Madrid send contract proposal to star defender
+③ Real Madrid icon questions Xabi Alonso sack decision – “I don’t think he had time”
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/20/real-madrid-icon-xabi-alonso-decision
+
+要約（英語）
+The 2025-26 season has been a miserable one for Real Madrid, and it will almost end without a trophy heading to the Bernabeu. Alvaro Arbeloa’s side h…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid send contract proposal to star defender
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/20/real-madrid-contract-star-defender
 
 要約（英語）
 Real Madrid must resolve the futures of several first team players before the summer transfer window opens in July, and one of those is Antonio Rudig…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid seriously considering Jose Mourinho return
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/20/real-madrid-considering-jose-mourinho-return
-
-要約（英語）
-At this stage, it’s taken for granted that Real Madrid will be searching for a new manager at the end of the season. Alvaro Arbeloa has convinced the…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
