@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-20）
+📰 レアル・マドリードニュースまとめ（2026-04-21）
 
 ① Date and time set for El Clásico between Barcelona and Real Madrid
 レアル・マドリード関連ニュース
@@ -48,14 +48,14 @@ Real Madrid return to action on Tuesday as they host Alaves at the Bernabeu, the
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-⑤ LaLiga Experience LUN 20.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE vibra en Mallorca con una tarde inolvidable ante el Real Madrid Compartir
+⑤ community LUN 20.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE vibra en Mallorca con una tarde inolvidable ante el Real Madrid Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
 https://www.laliga.com/noticias/laliga-experience-vibra-en-mallorca-con-una-tarde-inolvidable-ante-el-real-madrid
 
 要約（英語）
-LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
