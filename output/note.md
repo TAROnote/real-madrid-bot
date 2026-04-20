@@ -24,26 +24,26 @@ Kiyan and Don Amancio also discuss the big picture of the elimination On this ep
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Como manager Cesc Fabregas confirms plans for further Real Madrid raids
+③ Real Madrid send contract proposal to star defender
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/19/como-cesc-fabregas-real-madrid-deals
+https://www.football-espana.net/2026/04/20/real-madrid-contract-star-defender
 
 要約（英語）
-Real Madrid have already decided to re-sign Nico Paz this summer, but that is unlikely to be the only deal that gets done with Como. The high-flying …
+Real Madrid must resolve the futures of several first team players before the summer transfer window opens in July, and one of those is Antonio Rudig…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid reach decision on Dani Carvajal contract renewal
+④ Real Madrid seriously considering Jose Mourinho return
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/19/real-madrid-decision-dani-carvajal-contract
+https://www.football-espana.net/2026/04/20/real-madrid-considering-jose-mourinho-return
 
 要約（英語）
-Real Madrid have a number of contract situations to resolve before the summer transfer window opens on the 1st of July. One of the players whose curr…
+At this stage, it’s taken for granted that Real Madrid will be searching for a new manager at the end of the season. Alvaro Arbeloa has convinced the…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
