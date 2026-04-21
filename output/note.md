@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-22）
 
-① Real Madrid vs Alavés 2026 live stream: Time, TV channels and how to watch La Liga online
+① CONFIRMED lineups: Real Madrid vs Alavés, 2026 La Liga
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106717/real-madrid-vs-alaves-2026-la-liga
+
+要約（英語）
+Real Madrid have published their starting lineup for the upcoming match against Alavés in La Liga. Real Madrid starting XI: Lunin, Trent, Militao, Hu…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Real Madrid vs Alavés 2026 live stream: Time, TV channels and how to watch La Liga online
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ Real Madrid host Alavés in what will be the first game after being eliminated f
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-② Real Madrid announce squad for La Liga match against Alavés
-試合に関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106701/real-madrid-alaves-2026-squad-list
-
-要約（英語）
-Real Madrid have published their squad list for the upcoming match against Alavés in La Liga. REAL MADRID SQUAD: Goalkeepers : Lunin, Mestre, and Jav…
-
-要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
 ③ Real Madrid midfielder not considering exit despite club stance
 レアル・マドリード関連ニュース
