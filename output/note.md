@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-22）
 
-① CONFIRMED lineups: Real Madrid vs Alavés, 2026 La Liga
+① Immediate Reaction: Real Madrid 2-1 Deportivo Alavés
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/real-madrid-cf-la-liga/106728/immediate-reaction-real-madrid-2-1-deportivo-alaves
+
+要約（英語）
+Real Madrid 2-1 Deportivo Alavés (Mbappé & Vinícius Júnior). A forgettable win... This is my immediate reaction. Coming up: Player ratings, interview…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② CONFIRMED lineups: Real Madrid vs Alavés, 2026 La Liga
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ Real Madrid have published their starting lineup for the upcoming match against 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Real Madrid vs Alavés 2026 live stream: Time, TV channels and how to watch La Liga online
+③ WATCH: Vinicius apologises after screamer, Kylian Mbappe ends Real Madrid goal drought
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106704/real-madrid-alaves-2026-live-stream-time-tv-channels-and-how-to-watch-la-liga-online
+https://www.football-espana.net/2026/04/21/watch-vinicius-apologises-after-screamer-kylian-mbappe-ends-real-madrid-goal-drought
 
 要約（英語）
-Real Madrid host Alavés in what will be the first game after being eliminated from Champions League contention. The race for LaLiga is all but decide…
+Real Madrid are cruising against Alaves in their return to action following their Champions League elimination against Bayern Munich on Wednesday. Ky…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid midfielder not considering exit despite club stance
+④ Real Madrid midfielder not considering exit despite club stance
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/21/real-madrid-midfielder-not-considerin
 
 要約（英語）
 Real Madrid are looking to reshape their squad this summer, with additions expected in midfield and defence. Los Blancos are also likely to seek exit…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid cult hero Joselu Mato closing in on return to La Liga
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/21/real-madrid-cult-hero-joselu-mato-closing-in-on-return-to-la-liga
-
-要約（英語）
-Real Madrid cult hero Joselu Mato could be on the verge of a return to La Liga this summer, after spending two years in Qatar. The veteran forward wa…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
