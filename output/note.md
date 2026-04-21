@@ -24,7 +24,19 @@ With just over two months remaining until the official opening of the summer tra
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Manchester United willing to move for Real Madrid midfielder if exit is sanctioned
+③ Real Madrid academy triumphs with second UEFA Youth League title on penalties
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/21/real-madrid-academy-triumphs-with-second-uefa-youth-league-title-on-penalties
+
+要約（英語）
+Real Madrid have lifted the UEFA Youth League for the second time in their history under the guidance of Alvaro Lopez. The under-19 tournament is com…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Manchester United willing to move for Real Madrid midfielder if exit is sanctioned
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ Real Madrid midfielder Aurelien Tchouameni may well have an offer to leave the c
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Revealed: American pop star next to feature on Barcelona shirt for Clasico clash with Real Madrid
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/20/revealed-american-pop-star-next-to-feature-on-barcelona-shirt-for-clasico-clash-with-real-madrid
-
-要約（英語）
-The latest artist to feature on the Barcelona shirt during El Clasico has been revealed, with El Clasico a little under three weeks away. Main shirt …
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ community LUN 20.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE vibra en Mallorca con una tarde inolvidable ante el Real Madrid Compartir
 レアル・マドリード関連ニュース
