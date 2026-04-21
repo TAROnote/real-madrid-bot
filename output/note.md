@@ -24,26 +24,26 @@ Real Madrid completed a worthy comeback attempt in Germany against one of the mo
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid academy triumphs with second UEFA Youth League title on penalties
+③ Predicted Teams Real Madrid-Alaves: Alvaro Arbeloa to make 3-4 changes
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/21/real-madrid-academy-triumphs-with-second-uefa-youth-league-title-on-penalties
+https://www.football-espana.net/2026/04/21/predicted-teams-real-madrid-alaves-alvaro-arbeloa-to-make-3-4-changes
 
 要約（英語）
-Real Madrid have lifted the UEFA Youth League for the second time in their history under the guidance of Alvaro Lopez. The under-19 tournament is com…
+Real Madrid return to action for the first time since their Champions League elimination on Tuesday night at 21:30 CEST, with Alaves visiting the San…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Manchester United willing to move for Real Madrid midfielder if exit is sanctioned
+④ Real Madrid believe they made a mistake letting player go – could impact decision on defender’s future
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/21/manchester-united-willing-to-move-for-real-madrid-midfielder-if-exit-is-sanctioned
+https://www.football-espana.net/2026/04/21/real-madrid-believe-they-made-a-mistake-letting-player-go-could-impact-decision-on-defenders-future
 
 要約（英語）
-Real Madrid midfielder Aurelien Tchouameni may well have an offer to leave the club this summer, if Los Blancos open the door to a move for him. The …
+Real Madrid are currently picking through the wreckage of a disappointing season with seven games to go in the La Liga campaign. Despite still being …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
