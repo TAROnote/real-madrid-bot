@@ -1,52 +1,52 @@
 📰 レアル・マドリードニュースまとめ（2026-04-21）
 
-① Date and time set for El Clásico between Barcelona and Real Madrid
+① The Gaslighting Of Vinícius Júnior And Real Madrid’s Performance Against Bayern Munich
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106610/el-clasico-2026-date-time
+https://www.managingmadrid.com/managing-madrid-editorials/106646/the-gaslighting-of-vinicius-junior-and-real-madrids-performance-against-bayern-munich
 
 要約（英語）
-LaLiga have officially announced that the last El Clásico of the 2026-27 season will be played at the Camp Nou on Sunday, May 10th at 21:00 CEST. Bar…
+Real Madrid completed a worthy comeback attempt in Germany against one of the most in-form teams in the world this season. Prior to the quarter-final…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Should Real Madrid Cash In On Aurélien Tchouaméni?
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-editorials/106643/should-real-madrid-cash-in-on-aurelien-tchouameni
+
+要約（英語）
+With just over two months remaining until the official opening of the summer transfer window, it’s clear that Real Madrid are due quite a few wholesa…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+③ Manchester United willing to move for Real Madrid midfielder if exit is sanctioned
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/21/manchester-united-willing-to-move-for-real-madrid-midfielder-if-exit-is-sanctioned
+
+要約（英語）
+Real Madrid midfielder Aurelien Tchouameni may well have an offer to leave the club this summer, if Los Blancos open the door to a move for him. The …
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Revealed: American pop star next to feature on Barcelona shirt for Clasico clash with Real Madrid
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/20/revealed-american-pop-star-next-to-feature-on-barcelona-shirt-for-clasico-clash-with-real-madrid
+
+要約（英語）
+The latest artist to feature on the Barcelona shirt during El Clasico has been revealed, with El Clasico a little under three weeks away. Main shirt …
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-② Endrick impresses in Lyon’s 2-1 win over PSG
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-players/106594/endrick-impresses-in-lyons-2-1-win-over-psg
-
-要約（英語）
-Real Madrid loanee Endrick was the star man in Lyon’s surprising 2-1 win over Paris Saint-Germain at Parc des Princes on Sunday night. Endrick scored…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-③ Alvaro Arbeloa explains La Liga woes – “It’s easier for Real Madrid to win the Champions League”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/20/real-madrid-alvaro-arbeloa-la-liga-woes
-
-要約（英語）
-Real Madrid go into their final seven matches of the season with little to play for, given they have a nine-point deficit to Barcelona in the La Liga…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ “Not my responsibility” – Alvaro Arbeloa addresses Real Madrid future amid Jose Mourinho links
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/20/alvaro-arbeloa-real-madrid-future
-
-要約（英語）
-Real Madrid return to action on Tuesday as they host Alaves at the Bernabeu, their first match since exiting the Champions League. A victory would se…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ community LUN 20.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE vibra en Mallorca con una tarde inolvidable ante el Real Madrid Compartir
 レアル・マドリード関連ニュース
