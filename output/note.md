@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-21）
 
-① The Gaslighting Of Vinícius Júnior And Real Madrid’s Performance Against Bayern Munich
+① Real Madrid vs Alavés, 2026 La Liga: Predicted lineups
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106679/real-madrid-vs-alaves-2026-la-liga-lineups
+
+要約（英語）
+Real Madrid host Alavés in a rare midweek game. Los Blancos have little to play for but that’s not the case for Alavés, who are fighting to avoid rel…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② The Gaslighting Of Vinícius Júnior And Real Madrid’s Performance Against Bayern Munich
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -8,18 +20,6 @@ https://www.managingmadrid.com/managing-madrid-editorials/106646/the-gaslighting
 
 要約（英語）
 Real Madrid completed a worthy comeback attempt in Germany against one of the most in-form teams in the world this season. Prior to the quarter-final…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-② Should Real Madrid Cash In On Aurélien Tchouaméni?
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/managing-madrid-editorials/106643/should-real-madrid-cash-in-on-aurelien-tchouameni
-
-要約（英語）
-With just over two months remaining until the official opening of the summer transfer window, it’s clear that Real Madrid are due quite a few wholesa…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
