@@ -24,7 +24,19 @@ Dean Huijsen stressed the importance of maintaining intensity throughout matches
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ “I was whistled as a player too” – Real Madrid manager Alvaro Arbeloa on Vinicius Junior reaction
+③ Real Madrid receive first update after Eder Militao limps off against Alaves
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/22/real-madrid-receive-first-update-after-eder-militao-limps-off-against-alaves
+
+要約（英語）
+Real Madrid returned to winning ways for the first time in a month, ending a four-game winless streak in the process, against Alaves on Tuesday night…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ “I was whistled as a player too” – Real Madrid manager Alvaro Arbeloa on Vinicius Junior reaction
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/22/arbeloa-vinicius-whistles
 
 要約（英語）
 Real Madrid manager Alvaro Arbeloa was forced to answer multiple questions on his players being whistled by their own fans for a third time this seas…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid Player Ratings v Alaves: Trent Alexander-Arnold puts in strong showing
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/21/real-madrid-player-ratings-v-alaves-trent-alexander-arnold-puts-in-strong-showing
-
-要約（英語）
-Ratings for every Real Madrid player to feature against Alaves, as Los Blancos secured victory at the Santiago Bernabeu. Lunin did make an excellent …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
