@@ -24,7 +24,19 @@ Dean Huijsen stressed the importance of maintaining intensity throughout matches
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid receive first update after Eder Militao limps off against Alaves
+③ A strange La Liga title race with a premature end?
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/22/a-strange-la-liga-title-race-with-a-premature-end
+
+要約（英語）
+It has been a strange year in La Liga this season. Going into the final six weeks of the season, Atletico Madrid sit 22 points off the pace in the ti…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ Real Madrid receive first update after Eder Militao limps off against Alaves
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/22/real-madrid-receive-first-update-afte
 
 要約（英語）
 Real Madrid returned to winning ways for the first time in a month, ending a four-game winless streak in the process, against Alaves on Tuesday night…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ “I was whistled as a player too” – Real Madrid manager Alvaro Arbeloa on Vinicius Junior reaction
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/22/arbeloa-vinicius-whistles
-
-要約（英語）
-Real Madrid manager Alvaro Arbeloa was forced to answer multiple questions on his players being whistled by their own fans for a third time this seas…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
