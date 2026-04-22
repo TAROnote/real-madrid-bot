@@ -1,49 +1,49 @@
 📰 レアル・マドリードニュースまとめ（2026-04-22）
 
-① Immediate Reaction: Real Madrid 2-1 Deportivo Alavés
+① Managing Madrid Podcast: Real Madrid 2 - 1 Alaves, Post-game Reaction, La Liga 2025 - 2026
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-la-liga/106728/immediate-reaction-real-madrid-2-1-deportivo-alaves
+https://www.managingmadrid.com/managing-madrid-podcast/106748/managing-madrid-podcast-real-madrid-2-1-alaves-post-game-reaction-la-liga-2025-2026
 
 要約（英語）
-Real Madrid 2-1 Deportivo Alavés (Mbappé & Vinícius Júnior). A forgettable win... This is my immediate reaction. Coming up: Player ratings, interview…
+Kiyan, Sam, and Mehedi also discuss the UEFA Youth League On this episode of the Managing Madrid Podcast, Kiyan Sobhani, Sam Sharpe, and Mehedi Hassa…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Huijsen Urges Consistency and Focus After Real Madrid’s Win Over Alavés
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/real-madrid-cf-la-liga/106741/huijsen-urges-consistency-and-focus-after-real-madrids-win-over-alaves
+
+要約（英語）
+Dean Huijsen stressed the importance of maintaining intensity throughout matches following Real Madrid’s 2–1 victory over Alavés, acknowledging both …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② CONFIRMED lineups: Real Madrid vs Alavés, 2026 La Liga
+③ “I was whistled as a player too” – Real Madrid manager Alvaro Arbeloa on Vinicius Junior reaction
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106717/real-madrid-vs-alaves-2026-la-liga
+https://www.football-espana.net/2026/04/22/arbeloa-vinicius-whistles
 
 要約（英語）
-Real Madrid have published their starting lineup for the upcoming match against Alavés in La Liga. Real Madrid starting XI: Lunin, Trent, Militao, Hu…
+Real Madrid manager Alvaro Arbeloa was forced to answer multiple questions on his players being whistled by their own fans for a third time this seas…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ WATCH: Vinicius apologises after screamer, Kylian Mbappe ends Real Madrid goal drought
+④ Real Madrid Player Ratings v Alaves: Trent Alexander-Arnold puts in strong showing
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/21/watch-vinicius-apologises-after-screamer-kylian-mbappe-ends-real-madrid-goal-drought
+https://www.football-espana.net/2026/04/21/real-madrid-player-ratings-v-alaves-trent-alexander-arnold-puts-in-strong-showing
 
 要約（英語）
-Real Madrid are cruising against Alaves in their return to action following their Champions League elimination against Bayern Munich on Wednesday. Ky…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid midfielder not considering exit despite club stance
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/21/real-madrid-midfielder-not-considering-exit-despite-club-stance
-
-要約（英語）
-Real Madrid are looking to reshape their squad this summer, with additions expected in midfield and defence. Los Blancos are also likely to seek exit…
+Ratings for every Real Madrid player to feature against Alaves, as Los Blancos secured victory at the Santiago Bernabeu. Lunin did make an excellent …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
