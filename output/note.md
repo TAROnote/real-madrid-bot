@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-22）
+📰 レアル・マドリードニュースまとめ（2026-04-23）
 
 ① Managing Madrid Podcast: Real Madrid 2 - 1 Alaves, Post-game Reaction, La Liga 2025 - 2026
 レアル・マドリード関連ニュース
