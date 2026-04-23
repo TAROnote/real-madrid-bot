@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-23）
 
-① Álvaro Arbeloa: “Dani Carvajal is more than ready for the World Cup”
+① OFFICIAL: Eder Militao injury report
+負傷に関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106786/official-eder-militao-injury-report
+
+要約（英語）
+Real Madrid have published a medical report on defender Eder Militao, who suffered a hamstring injury during Tuesday’s match against Alaves. Followin…
+
+要約（日本語）
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
+
+② Álvaro Arbeloa: “Dani Carvajal is more than ready for the World Cup”
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,38 +24,26 @@ He spoke before travelling to Seville to play Real Betis Real Madrid coach Álva
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Managing Madrid Podcast: Real Madrid 2 - 1 Alaves, Post-game Reaction, La Liga 2025 - 2026
+③ Real Madrid to meet with agents of €45m winger to decide future
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/106748/managing-madrid-podcast-real-madrid-2-1-alaves-post-game-reaction-la-liga-2025-2026
+https://www.football-espana.net/2026/04/23/real-madrid-to-meet-with-agents-of-e45m-winger-to-decide-future
 
 要約（英語）
-Kiyan, Sam, and Mehedi also discuss the UEFA Youth League On this episode of the Managing Madrid Podcast, Kiyan Sobhani, Sam Sharpe, and Mehedi Hassa…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-③ ‘My main objective shouldn’t be to motivate a Real Madrid player’ – Alvaro Arbeloa
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/23/arbeloa-job-motivate-players
-
-要約（英語）
-Real Madrid manager Alvaro Arbeloa has told the media that his job is not to motivate his players, which is part of the demands they should make of t…
+Real Madrid are set for some structural changes to their squad this summer, with the season shaping up to end without silverware, and without major s…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Alvaro Arbeloa denies rift with Real Madrid captain Dani Carvajal – ‘It’s simple, only 11 can play’
+④ Real Madrid hit with huge injuries as two key players are ruled out for the season
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/23/arbeloa-carvajal-relationship-press
+https://www.football-espana.net/2026/04/23/real-madrid-hit-with-huge-injuries-as-two-key-players-are-ruled-out-for-the-season
 
 要約（英語）
-Real Madrid manager Alvaro Arbeloa has denied any issues with captain Dani Carvajal, after talk of a rift between the two in the Spanish capital. The…
+Real Madrid’s slim hopes of wrestling back the La Liga title in the final six games of the season on Thursday, as two of their key players were ruled…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
