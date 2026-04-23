@@ -24,7 +24,19 @@ Real Madrid have published a medical report on defender Eder Militao, who suffer
 要約（日本語）
 負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
 
-③ Real Madrid star among players cited in alleged prostitution ring scandal in Italy
+③ Real Madrid among two Spanish clubs keen on Serie A superstar
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/23/real-madrid-serie-a-superstar
+
+要約（英語）
+Real Madrid have plans to make a number of signings this summer, as they seek to improve their squad following a disappointing season. A new central …
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid star among players cited in alleged prostitution ring scandal in Italy
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -36,18 +48,6 @@ The headline news in Italy for the past few days has centred around the alleged 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-④ Jonatan Vazquez
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/author/jonatan-vazquez
-
-要約（英語）
-記事の詳細はリンク先で確認してください。
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
 ⑤ LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir
 レアル・マドリード関連ニュース
 
@@ -55,7 +55,7 @@ https://www.football-espana.net/author/jonatan-vazquez
 https://www.laliga.com/noticias/laliga-experience-llega-a-sevilla-para-vivir-desde-dentro-el-real-betis-real-madrid
 
 要約（英語）
-記事の詳細はリンク先で確認してください。
+LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
