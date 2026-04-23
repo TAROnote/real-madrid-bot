@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-23）
 
-① Managing Madrid Podcast: Real Madrid 2 - 1 Alaves, Post-game Reaction, La Liga 2025 - 2026
+① Álvaro Arbeloa: “Dani Carvajal is more than ready for the World Cup”
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/coach/106780/alvaro-arbeloa-dani-carvajal-is-more-than-ready-for-the-world-cup
+
+要約（英語）
+He spoke before travelling to Seville to play Real Betis Real Madrid coach Álvaro Arbeloa sought to dampen speculation surrounding a fall-out with ca…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Managing Madrid Podcast: Real Madrid 2 - 1 Alaves, Post-game Reaction, La Liga 2025 - 2026
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,38 +24,26 @@ Kiyan, Sam, and Mehedi also discuss the UEFA Youth League On this episode of the
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② Huijsen Urges Consistency and Focus After Real Madrid’s Win Over Alavés
+③ ‘My main objective shouldn’t be to motivate a Real Madrid player’ – Alvaro Arbeloa
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/real-madrid-cf-la-liga/106741/huijsen-urges-consistency-and-focus-after-real-madrids-win-over-alaves
+https://www.football-espana.net/2026/04/23/arbeloa-job-motivate-players
 
 要約（英語）
-Dean Huijsen stressed the importance of maintaining intensity throughout matches following Real Madrid’s 2–1 victory over Alavés, acknowledging both …
+Real Madrid manager Alvaro Arbeloa has told the media that his job is not to motivate his players, which is part of the demands they should make of t…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid open to selling current starter this summer
+④ Alvaro Arbeloa denies rift with Real Madrid captain Dani Carvajal – ‘It’s simple, only 11 can play’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/23/real-madrid-selling-current-starter
+https://www.football-espana.net/2026/04/23/arbeloa-carvajal-relationship-press
 
 要約（英語）
-Real Madrid will be busy this summer, with the expectation being for changes to be made to the first team squad and coaching staff. The likes of Dani…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid receive Jose Mourinho offer as managerial decision looms
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/23/real-madrid-jose-mourinho-offer
-
-要約（英語）
-It is looking increasingly likely that Real Madrid will look to appoint as new manager at the end of the current season. Alvaro Arbeloa’s failure to …
+Real Madrid manager Alvaro Arbeloa has denied any issues with captain Dani Carvajal, after talk of a rift between the two in the Spanish capital. The…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
