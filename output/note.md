@@ -24,26 +24,26 @@ Dean Huijsen stressed the importance of maintaining intensity throughout matches
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ A strange La Liga title race with a premature end?
+③ Real Madrid open to selling current starter this summer
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/22/a-strange-la-liga-title-race-with-a-premature-end
+https://www.football-espana.net/2026/04/23/real-madrid-selling-current-starter
 
 要約（英語）
-It has been a strange year in La Liga this season. Going into the final six weeks of the season, Atletico Madrid sit 22 points off the pace in the ti…
+Real Madrid will be busy this summer, with the expectation being for changes to be made to the first team squad and coaching staff. The likes of Dani…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid receive first update after Eder Militao limps off against Alaves
+④ Real Madrid receive Jose Mourinho offer as managerial decision looms
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/22/real-madrid-receive-first-update-after-eder-militao-limps-off-against-alaves
+https://www.football-espana.net/2026/04/23/real-madrid-jose-mourinho-offer
 
 要約（英語）
-Real Madrid returned to winning ways for the first time in a month, ending a four-game winless streak in the process, against Alaves on Tuesday night…
+It is looking increasingly likely that Real Madrid will look to appoint as new manager at the end of the current season. Alvaro Arbeloa’s failure to …
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
