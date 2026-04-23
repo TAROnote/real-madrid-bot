@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-24）
 
-① OFFICIAL: Eder Militao injury report
+① Managing Madrid Podcast: Is Florentino Too Involved In Coaching Decisions? MAILBAG!
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/managing-madrid-podcast/106790/managing-madrid-podcast-is-florentino-too-involved-in-coaching-decisions-mailbag
+
+要約（英語）
+On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani and Lucas Navarrete discuss: Thanks for being a Member. We hope you enjoy…
+
+要約（日本語）
+クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。
+
+② OFFICIAL: Eder Militao injury report
 負傷に関するニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ Real Madrid have published a medical report on defender Eder Militao, who suffer
 
 要約（日本語）
 負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
-
-② Álvaro Arbeloa: “Dani Carvajal is more than ready for the World Cup”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/coach/106780/alvaro-arbeloa-dani-carvajal-is-more-than-ready-for-the-world-cup
-
-要約（英語）
-He spoke before travelling to Seville to play Real Betis Real Madrid coach Álvaro Arbeloa sought to dampen speculation surrounding a fall-out with ca…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ Real Madrid star among players cited in alleged prostitution ring scandal in Italy
 レアル・マドリード関連ニュース
@@ -55,7 +55,7 @@ https://www.football-espana.net/author/jonatan-vazquez
 https://www.laliga.com/noticias/laliga-experience-llega-a-sevilla-para-vivir-desde-dentro-el-real-betis-real-madrid
 
 要約（英語）
-LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
