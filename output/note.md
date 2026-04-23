@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-23）
+📰 レアル・マドリードニュースまとめ（2026-04-24）
 
 ① OFFICIAL: Eder Militao injury report
 負傷に関するニュース
@@ -24,29 +24,29 @@ He spoke before travelling to Seville to play Real Betis Real Madrid coach Álva
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid to meet with agents of €45m winger to decide future
+③ Real Madrid star among players cited in alleged prostitution ring scandal in Italy
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/23/real-madrid-to-meet-with-agents-of-e45m-winger-to-decide-future
+https://www.football-espana.net/2026/04/23/real-madrid-star-among-players-cited-in-alleged-prostitution-ring-scandal-in-italy
 
 要約（英語）
-Real Madrid are set for some structural changes to their squad this summer, with the season shaping up to end without silverware, and without major s…
+The headline news in Italy for the past few days has centred around the alleged uncovering of a prostitution ring in Milan, with over 70 names of Ser…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-④ Real Madrid hit with huge injuries as two key players are ruled out for the season
+④ Jonatan Vazquez
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/23/real-madrid-hit-with-huge-injuries-as-two-key-players-are-ruled-out-for-the-season
+https://www.football-espana.net/author/jonatan-vazquez
 
 要約（英語）
-Real Madrid’s slim hopes of wrestling back the La Liga title in the final six games of the season on Thursday, as two of their key players were ruled…
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir
 レアル・マドリード関連ニュース
