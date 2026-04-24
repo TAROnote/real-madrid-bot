@@ -24,26 +24,26 @@ Real Madrid’s vision for the new Santiago Bernabéu took another symbolic step
 要約（日本語）
 新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
-③ Real Madrid and Barcelona informed defender will cost €50m
+③ Alvaro Arbeloa relationship with Real Madrid captain ‘has been bad since day one’
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/24/real-madrid-and-barcelona-informed-defender-will-cost-e50m
+https://www.football-espana.net/2026/04/24/alvaro-arbeloa-relationship-with-real-madrid-captain-has-been-bad-since-day-one
 
 要約（英語）
-Real Sociedad are enjoying a sensational second half of the season, lifting their fourth ever Copa del Rey last weekend, and reinvigorating what look…
+Real Madrid manager Alvaro Arbeloa has denied that relations with captain Dani Carvajal are strained, following the decision to leave him out against…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ ‘Distance’ between Vinicius Junior and Real Madrid remains in contract talks
+④ Benfica manager Jose Mourinho awaiting Real Madrid call to replace Alvaro Arbeloa
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/24/distance-between-vinicius-junior-and-real-madrid-remains-in-contract-talks
+https://www.football-espana.net/2026/04/24/benfica-manager-jose-mourinho-awaiting-real-madrid-call-to-replace-alvaro-arbeloa
 
 要約（英語）
-Real Madrid and Vinicius Junior continue to maintain a public desire for the Brazilian to remain at the club for the long-term future, yet he is now …
+Benfica manager Jose Mourinho is again being mentioned as a candidate to return to the Santiago Bernabeu this summer. Every time Real Madrid look set…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
