@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-24）
+📰 レアル・マドリードニュースまとめ（2026-04-25）
 
 ① Pellegrini: “Real Madrid Can Decide Matches in Two Touches”
 試合に関するニュース
