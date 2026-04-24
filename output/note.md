@@ -1,28 +1,28 @@
 📰 レアル・マドリードニュースまとめ（2026-04-24）
 
-① Managing Madrid Podcast: Is Florentino Too Involved In Coaching Decisions? MAILBAG!
-レアル・マドリード関連ニュース
+① Pellegrini: “Real Madrid Can Decide Matches in Two Touches”
+試合に関するニュース
 
 🔗 リンク
-https://www.managingmadrid.com/managing-madrid-podcast/106790/managing-madrid-podcast-is-florentino-too-involved-in-coaching-decisions-mailbag
+https://www.managingmadrid.com/latest-news/106811/pellegrini-real-madrid-can-decide-matches-in-two-touches
 
 要約（英語）
-On this Members-only episode of the Managing Madrid Podcast , Kiyan Sobhani and Lucas Navarrete discuss: Thanks for being a Member. We hope you enjoy…
+﻿Betis coach stresses focus, discipline, and European ambitions ahead of clash with Los Blancos Real Betis manager Manuel Pellegrini spoke to the med…
 
 要約（日本語）
-クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-② OFFICIAL: Eder Militao injury report
-負傷に関するニュース
+② Bernabéu Turns to Clay: Bellingham, Courtois Join Nadal and Sinner in Tennis Showcase
+ベルナベウに関するニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106786/official-eder-militao-injury-report
+https://www.managingmadrid.com/latest-news/106799/bernabeu-turns-to-clay-bellingham-courtois-join-nadal-and-sinner-in-tennis-showcase
 
 要約（英語）
-Real Madrid have published a medical report on defender Eder Militao, who suffered a hamstring injury during Tuesday’s match against Alaves. Followin…
+Real Madrid’s vision for the new Santiago Bernabéu took another symbolic step forward this week, as football and tennis collided in a spectacle that …
 
 要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
+新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
 ③ Real Madrid among two Spanish clubs keen on Serie A superstar
 レアル・マドリード関連ニュース
