@@ -24,29 +24,29 @@ Real Madrid’s vision for the new Santiago Bernabéu took another symbolic step
 要約（日本語）
 新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
-③ Real Madrid among two Spanish clubs keen on Serie A superstar
+③ Real Madrid and Barcelona informed defender will cost €50m
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/23/real-madrid-serie-a-superstar
+https://www.football-espana.net/2026/04/24/real-madrid-and-barcelona-informed-defender-will-cost-e50m
 
 要約（英語）
-Real Madrid have plans to make a number of signings this summer, as they seek to improve their squad following a disappointing season. A new central …
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid star among players cited in alleged prostitution ring scandal in Italy
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/23/real-madrid-star-among-players-cited-in-alleged-prostitution-ring-scandal-in-italy
-
-要約（英語）
-The headline news in Italy for the past few days has centred around the alleged uncovering of a prostitution ring in Milan, with over 70 names of Ser…
+Real Sociedad are enjoying a sensational second half of the season, lifting their fourth ever Copa del Rey last weekend, and reinvigorating what look…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+④ ‘Distance’ between Vinicius Junior and Real Madrid remains in contract talks
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/24/distance-between-vinicius-junior-and-real-madrid-remains-in-contract-talks
+
+要約（英語）
+Real Madrid and Vinicius Junior continue to maintain a public desire for the Brazilian to remain at the club for the long-term future, yet he is now …
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir
 レアル・マドリード関連ニュース
