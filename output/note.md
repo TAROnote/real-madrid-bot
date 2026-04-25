@@ -24,7 +24,19 @@ Former Real Madrid player José María Gutiérrez ‘Guti’ talked to the press
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid star at risk of missing 2026 World Cup as injury relapse revealed amid surgery fears
+③ Real Madrid target opens door to shock Barcelona move – “I am totally willing to talk to them”
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/25/real-madrid-target-barcelona-move
+
+要約（英語）
+Real Madrid are in the market for a new midfielder this summer, but one of their leading targets has perhaps just lowered his chances of a Bernabeu m…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid star at risk of missing 2026 World Cup as injury relapse revealed amid surgery fears
 負傷に関するニュース
 
 🔗 リンク
@@ -35,18 +47,6 @@ It has been a dismal season for Real Madrid, and in particular, it has been one 
 
 要約（日本語）
 負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
-
-④ Real Madrid career over? Alvaro Arbeloa avoids question on absence of veteran player
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/25/ceballos-arbeloa-questions
-
-要約（英語）
-Real Madrid slipped to another draw against Real Betis on Friday night, drawing 1-1 at La Cartuja, without the one player that has played for both si…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ⑤ LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir
 レアル・マドリード関連ニュース
