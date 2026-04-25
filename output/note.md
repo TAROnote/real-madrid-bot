@@ -24,29 +24,29 @@ https://www.managingmadrid.com/latest-news/106811/pellegrini-real-madrid-can-dec
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
 
-③ Alvaro Arbeloa relationship with Real Madrid captain ‘has been bad since day one’
+③ Real Madrid career over? Alvaro Arbeloa avoids question on absence of veteran player
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/24/alvaro-arbeloa-relationship-with-real-madrid-captain-has-been-bad-since-day-one
+https://www.football-espana.net/2026/04/25/ceballos-arbeloa-questions
 
 要約（英語）
-Real Madrid manager Alvaro Arbeloa has denied that relations with captain Dani Carvajal are strained, following the decision to leave him out against…
+Real Madrid slipped to another draw against Real Betis on Friday night, drawing 1-1 at La Cartuja, without the one player that has played for both si…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Benfica manager Jose Mourinho awaiting Real Madrid call to replace Alvaro Arbeloa
+④ Jonatan Vazquez
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/24/benfica-manager-jose-mourinho-awaiting-real-madrid-call-to-replace-alvaro-arbeloa
+https://www.football-espana.net/author/jonatan-vazquez
 
 要約（英語）
-Benfica manager Jose Mourinho is again being mentioned as a candidate to return to the Santiago Bernabeu this summer. Every time Real Madrid look set…
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
 ⑤ LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir
 レアル・マドリード関連ニュース
