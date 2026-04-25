@@ -1,6 +1,18 @@
-📰 レアル・マドリードニュースまとめ（2026-04-25）
+📰 レアル・マドリードニュースまとめ（2026-04-26）
 
-① Guti: “Mourinho return to Real Madrid? He’s not in his prime”
+① Militao set to have surgery on hamstring injury, will miss FIFA World Cup
+負傷に関するニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106886/militao-real-madrid-news-injury-2026
+
+要約（英語）
+Real Madrid defender Eder Militao suffered a hamstring injury during the match against Alavés, one which will require surgery and therefore force him…
+
+要約（日本語）
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
+
+② Guti: “Mourinho return to Real Madrid? He’s not in his prime”
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,19 +24,19 @@ Former Real Madrid player José María Gutiérrez ‘Guti’ talked to the press
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Álvaro Arbeloa: “Real Madrid haven’t had much luck”
-レアル・マドリード関連ニュース
+③ Real Madrid star at risk of missing 2026 World Cup as injury relapse revealed amid surgery fears
+負傷に関するニュース
 
 🔗 リンク
-https://www.managingmadrid.com/coach/106855/alvaro-arbeloa-real-madrid-havent-had-much-luck
+https://www.football-espana.net/2026/04/25/real-madrid-star-world-cup-injury-relapse
 
 要約（英語）
-He also raged about refereeing decisions Real Madrid coach Álvaro Arbeloa was furious in his press conference after a 1-1 tie with Real Betis, explai…
+It has been a dismal season for Real Madrid, and in particular, it has been one to forget for star defender Eder Militao. The defender has had anothe…
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
 
-③ Real Madrid career over? Alvaro Arbeloa avoids question on absence of veteran player
+④ Real Madrid career over? Alvaro Arbeloa avoids question on absence of veteran player
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -36,23 +48,11 @@ Real Madrid slipped to another draw against Real Betis on Friday night, drawing 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Jonatan Vazquez
+⑤ LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/author/jonatan-vazquez
-
-要約（英語）
-記事の詳細はリンク先で確認してください。
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
-
-⑤ Real Madrid Transfer News
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.caughtoffside.com/tags/la-liga/real-madrid/
+https://www.laliga.com/noticias/laliga-experience-llega-a-sevilla-para-vivir-desde-dentro-el-real-betis-real-madrid
 
 要約（英語）
 記事の詳細はリンク先で確認してください。
