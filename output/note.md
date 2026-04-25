@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-25）
 
-① Pellegrini: “Real Madrid Can Decide Matches in Two Touches”
+① Álvaro Arbeloa: “Real Madrid haven’t had much luck”
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/coach/106855/alvaro-arbeloa-real-madrid-havent-had-much-luck
+
+要約（英語）
+He also raged about refereeing decisions Real Madrid coach Álvaro Arbeloa was furious in his press conference after a 1-1 tie with Real Betis, explai…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Pellegrini: “Real Madrid Can Decide Matches in Two Touches”
 試合に関するニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ https://www.managingmadrid.com/latest-news/106811/pellegrini-real-madrid-can-dec
 
 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。
-
-② Bernabéu Turns to Clay: Bellingham, Courtois Join Nadal and Sinner in Tennis Showcase
-ベルナベウに関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/latest-news/106799/bernabeu-turns-to-clay-bellingham-courtois-join-nadal-and-sinner-in-tennis-showcase
-
-要約（英語）
-Real Madrid’s vision for the new Santiago Bernabéu took another symbolic step forward this week, as football and tennis collided in a spectacle that …
-
-要約（日本語）
-新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。
 
 ③ Alvaro Arbeloa relationship with Real Madrid captain ‘has been bad since day one’
 レアル・マドリード関連ニュース
@@ -48,14 +48,14 @@ Benfica manager Jose Mourinho is again being mentioned as a candidate to return 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-⑤ Real Madrid Transfer News
+⑤ LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.caughtoffside.com/tags/la-liga/real-madrid/
+https://www.laliga.com/noticias/laliga-experience-llega-a-sevilla-para-vivir-desde-dentro-el-real-betis-real-madrid
 
 要約（英語）
-記事の詳細はリンク先で確認してください。
+LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
