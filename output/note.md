@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-26)
+📰 レアル・マドリードニュースまとめ（2026-04-27)
 
 ① Real Madrid tell Como they’ll trigger Nico Paz buyback option -report
 レアル・マドリード関連ニュース
@@ -24,7 +24,19 @@ Douglas Sousa highlights Endrick’s World Cup ambitions and the importance of p
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-③ Tension between Vinicius Junior and Xabi Alonso started months before infamous El Clasico spat
+③ Real Madrid icon questions Jose Mourinho return – “Not in his prime”
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/26/real-madrid-icon-questions-jose-mourinho-return
+
+要約（英語）
+It is looking increasingly likely that Real Madrid will seek a new manager in the summer, with Alvaro Arbeloa’s position looking increasingly untenab…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Tension between Vinicius Junior and Xabi Alonso started months before infamous El Clasico spat
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -36,29 +48,17 @@ Xabi Alonso’s spell as Real Madrid manager was dominated by one singular momen
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid have already agreed contract with first summer signing
-レアル・マドリード関連ニュース
+⑤ Real Madrid Transfer News
+移籍に関するニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/26/real-madrid-contract-first-summer-signing
+https://www.caughtoffside.com/tags/la-liga/real-madrid/
 
 要約（英語）
-Real Madrid are poised to have a very busy summer, which is much-needed given their well-documented struggles this season. They have plans to sign a…
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-⑤ LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.laliga.com/noticias/laliga-experience-llega-a-sevilla-para-vivir-desde-dentro-el-real-betis-real-madrid
-
-要約（英語）
-LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
-
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。
 
 🧾 記事全体のコメント
 
