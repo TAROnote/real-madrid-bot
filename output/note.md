@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-26)
 
-① Endrick’s Father: “At Real Madrid they took the playground away from him”
+① Real Madrid tell Como they’ll trigger Nico Paz buyback option -report
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/106925/real-madrid-nico-paz-rumors-news-2026
+
+要約（英語）
+Real Madrid have decided to tell Como and Nico Paz that they will trigger their option to buy the midfielder back from the Italian team, according to…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+② Endrick’s Father: “At Real Madrid they took the playground away from him”
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -12,38 +24,26 @@ Douglas Sousa highlights Endrick’s World Cup ambitions and the importance of p
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
 
-② Militao set to have surgery on hamstring injury, will miss FIFA World Cup
-負傷に関するニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106886/militao-real-madrid-news-injury-2026
-
-要約（英語）
-Real Madrid defender Eder Militao suffered a hamstring injury during the match against Alavés, one which will require surgery and therefore force him…
-
-要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
-
-③ Alvaro Arbeloa clashes with another member of Real Madrid squad
+③ Tension between Vinicius Junior and Xabi Alonso started months before infamous El Clasico spat
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/26/alvaro-arbeloa-clashes-real-madrid-squad
+https://www.football-espana.net/2026/04/26/vinicius-junior-xabi-alonso-tension-el-clasico
 
 要約（英語）
-Alvaro Arbeloa has developed a strong relationship with the vast majority of the Real Madrid squad since he took over as manager in January. However,…
+Xabi Alonso’s spell as Real Madrid manager was dominated by one singular moment: Vinicius Junior’s outburst during El Clasico. The Brazilian winger’s…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-④ Real Madrid offered surprise chance to sign Manchester City midfielder
+④ Real Madrid have already agreed contract with first summer signing
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.football-espana.net/2026/04/26/real-madrid-offered-man-city-midfielder
+https://www.football-espana.net/2026/04/26/real-madrid-contract-first-summer-signing
 
 要約（英語）
-Real Madrid are in the market for a new midfielder, and signing one is a leading priority for this summer’s transfer window. Club bosses are finally…
+Real Madrid are poised to have a very busy summer, which is much-needed given their well-documented struggles this season. They have plans to sign a…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
