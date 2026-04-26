@@ -1,65 +1,65 @@
 📰 レアル・マドリードニュースまとめ（2026-04-26）
 
-① Endrick’s Father: “At Real Madrid they took the playground away from him”
-レアル・マドリード関連ニュース
+① New Bernabéu
+🇯🇵 New Bernabéu
 
 🔗 リンク
-https://www.managingmadrid.com/latest-news/106903/endricks-father-at-real-madrid-they-took-the-playground-away-from-him
+https://www.realmadrid.com/en-US/news/new-bernabeu
 
-要約（英語）
-Douglas Sousa highlights Endrick’s World Cup ambitions and the importance of playing time Endrick’s father, Douglas Sousa, has offered insight into h…
+📝 要約（英語）
+All the latest news at the Santiago Bernabéu in the 21st century. You can't miss it: the Bernabéu's retractable grass as you've never seen it before…
 
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+📝 要約（日本語）
+引き分けの結果に関する分析。勝ち点獲得機会を逃した背景を解説している。
 
-② Militao set to have surgery on hamstring injury, will miss FIFA World Cup
-負傷に関するニュース
+② Real Madrid's schedule until the end of the season
+🇯🇵 Real Madrid's schedule until the end of the season
+
+🔗 リンク
+https://www.realmadrid.com/en-US/news/football/first-team/latest-news/el-calendario-del-real-madrid-hasta-el-final-de-la-temporada-25-04-2026
+
+📝 要約（英語）
+Real Madrid has five La Liga matches remaining to finish the season. Three of them will be away, while the other two will be held at the Bernabéu , w…
+
+📝 要約（日本語）
+サンティアゴ・ベルナベウに関する情報。スタジアムやクラブ施設の最新動向。
+
+③ Militao set to have surgery on hamstring injury, will miss FIFA World Cup
+🇯🇵 Militao set to have surgery on hamstring injury, will miss FIFA World Cup
 
 🔗 リンク
 https://www.managingmadrid.com/106886/militao-real-madrid-news-injury-2026
 
-要約（英語）
+📝 要約（英語）
 Real Madrid defender Eder Militao suffered a hamstring injury during the match against Alavés, one which will require surgery and therefore force him…
 
-要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
-
-③ Real Madrid target opens door to shock Barcelona move – “I am totally willing to talk to them”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/25/real-madrid-target-barcelona-move
-
-要約（英語）
-Real Madrid are in the market for a new midfielder this summer, but one of their leading targets has perhaps just lowered his chances of a Bernabeu m…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+📝 要約（日本語）
+負傷・コンディション情報。選手の回復状況と今後の起用に注目。
 
 ④ Real Madrid star at risk of missing 2026 World Cup as injury relapse revealed amid surgery fears
-負傷に関するニュース
+🇯🇵 Real Madrid star at risk of missing 2026 World Cup as injury relapse revealed amid surgery fears
 
 🔗 リンク
 https://www.football-espana.net/2026/04/25/real-madrid-star-world-cup-injury-relapse
 
-要約（英語）
+📝 要約（英語）
 It has been a dismal season for Real Madrid, and in particular, it has been one to forget for star defender Eder Militao. The defender has had anothe…
 
-要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
+📝 要約（日本語）
+負傷・コンディション情報。選手の回復状況と今後の起用に注目。
 
-⑤ LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir
-レアル・マドリード関連ニュース
+⑤ Real Madrid star Kylian Mbappe exits Real Betis draw after requesting substitution
+🇯🇵 Real Madrid star Kylian Mbappe exits Real Betis draw after requesting substitution
 
 🔗 リンク
-https://www.laliga.com/noticias/laliga-experience-llega-a-sevilla-para-vivir-desde-dentro-el-real-betis-real-madrid
+https://www.football-espana.net/2026/04/25/mbappe-betis-change
 
-要約（英語）
-LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
+📝 要約（英語）
+Real Madrid star Kylian Mbappe has picked up an injury during their 1-1 draw with Real Betis on Friday night at La Cartuja, Hector Bellerin coming up…
 
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+📝 要約（日本語）
+負傷・コンディション情報。選手の回復状況と今後の起用に注目。
 
-🧾 記事全体のコメント
+🧾 今日のまとめ
 
-まずは公式サイトと主要メディアから、レアル関連の主要トピックを安定して拾える状態に戻した。ここから必要な要素だけを足していくのが一番安全。
+本日もレアル・マドリードの最新情報をお届けしました。引き続きチームの動向に注目していきましょう。
