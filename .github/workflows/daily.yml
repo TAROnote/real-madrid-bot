@@ -2,8 +2,7 @@ name: Daily Real Madrid News
 
 on:
   schedule:
-    # 3時間ごと（日本時間 6:00, 9:00, 12:00, 15:00, 18:00, 21:00, 0:00, 3:00）
-    - cron: '0 */3 * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -12,7 +11,6 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@v4
@@ -21,21 +19,15 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: |
+      - run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Fetch Real Madrid news
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/fetch_real_madrid_news.py
+      - run: python scripts/fetch_real_madrid_news.py
 
-      - name: Commit and push
-        run: |
+      - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add output/
-          git diff --cached --quiet && echo "no changes" || (
-            git commit -m "update news $(date '+%Y-%m-%d %H:%M JST')" && git push
-          )
+          git commit -m "update news" || echo "no changes"
+          git push
