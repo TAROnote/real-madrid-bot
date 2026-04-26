@@ -1,6 +1,18 @@
 📰 レアル・マドリードニュースまとめ（2026-04-26）
 
-① Militao set to have surgery on hamstring injury, will miss FIFA World Cup
+① Endrick’s Father: “At Real Madrid they took the playground away from him”
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.managingmadrid.com/latest-news/106903/endricks-father-at-real-madrid-they-took-the-playground-away-from-him
+
+要約（英語）
+Douglas Sousa highlights Endrick’s World Cup ambitions and the importance of playing time Endrick’s father, Douglas Sousa, has offered insight into h…
+
+要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+
+② Militao set to have surgery on hamstring injury, will miss FIFA World Cup
 負傷に関するニュース
 
 🔗 リンク
@@ -11,18 +23,6 @@ Real Madrid defender Eder Militao suffered a hamstring injury during the match a
 
 要約（日本語）
 負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。
-
-② Guti: “Mourinho return to Real Madrid? He’s not in his prime”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106877/guti-mourinho-real-madrid-return-quotes-2026
-
-要約（英語）
-Former Real Madrid player José María Gutiérrez ‘Guti’ talked to the press and addressed the rumors suggesting that José Mourinho could return to the …
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ Real Madrid target opens door to shock Barcelona move – “I am totally willing to talk to them”
 レアル・マドリード関連ニュース
