@@ -24,7 +24,19 @@ Real Madrid attacker Endrick talked to Canal+ France and shared some thoughts ab
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-③ Real Madrid icon questions Jose Mourinho return – “Not in his prime”
+③ Real Madrid will only sell forward if €60m offer received
+レアル・マドリード関連ニュース
+
+🔗 リンク
+https://www.football-espana.net/2026/04/27/real-madrid-sell-forward-e60m
+
+要約（英語）
+Real Madrid are open to letting a number of first team players leave during the upcoming summer transfer window. The likes of Dani Carvajal, David Al…
+
+要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
+
+④ Real Madrid icon questions Jose Mourinho return – “Not in his prime”
 レアル・マドリード関連ニュース
 
 🔗 リンク
@@ -32,18 +44,6 @@ https://www.football-espana.net/2026/04/26/real-madrid-icon-questions-jose-mouri
 
 要約（英語）
 It is looking increasingly likely that Real Madrid will seek a new manager in the summer, with Alvaro Arbeloa’s position looking increasingly untenab…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Tension between Vinicius Junior and Xabi Alonso started months before infamous El Clasico spat
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.football-espana.net/2026/04/26/vinicius-junior-xabi-alonso-tension-el-clasico
-
-要約（英語）
-Xabi Alonso’s spell as Real Madrid manager was dominated by one singular moment: Vinicius Junior’s outburst during El Clasico. The Brazilian winger’s…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
