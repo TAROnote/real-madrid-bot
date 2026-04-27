@@ -79,7 +79,10 @@ def parse_dt(value: Optional[str]) -> Optional[datetime]:
     if not value:
         return None
     try:
-        return dtparser.parse(value)
+        dt = dtparser.parse(value)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt
     except Exception:
         return None
 
@@ -93,22 +96,51 @@ def is_relevant(title: str, summary: str = "") -> bool:
     return any(k in hay for k in KEYWORDS)
 
 
+def normalize_title(title: str) -> str:
+    title = title.lower()
+    title = re.sub(r"\s*-\s*(managing madrid|football españa|real madrid).*?$", "", title)
+    title = re.sub(r"[^a-z0-9]+", "", title)
+    return title
+
+
 def dedupe_items(items: List[NewsItem]) -> List[NewsItem]:
-    seen = set()
+    seen_titles = set()
+    seen_links = set()
     out = []
 
     for item in items:
-        key = re.sub(r"[^a-z0-9]+", "", item.title.lower())
-        if len(key) < 10:
-            key = item.link.lower()
+        link_key = item.link.lower().strip().rstrip("/")
+        title_key = normalize_title(item.title)
 
-        if key in seen:
+        if link_key in seen_links:
             continue
 
-        seen.add(key)
+        if title_key and title_key in seen_titles:
+            continue
+
+        seen_links.add(link_key)
+        if title_key:
+            seen_titles.add(title_key)
+
         out.append(item)
 
     return out
+
+
+def filter_recent_items(items: List[NewsItem], hours: int = 24) -> List[NewsItem]:
+    now = now_jst()
+    recent = []
+
+    for item in items:
+        dt = parse_dt(item.published)
+        if not dt:
+            continue
+
+        dt_jst = dt.astimezone(JST)
+        if now - dt_jst <= timedelta(hours=hours):
+            recent.append(item)
+
+    return recent
 
 
 def sort_items(items: List[NewsItem]) -> List[NewsItem]:
@@ -116,9 +148,10 @@ def sort_items(items: List[NewsItem]) -> List[NewsItem]:
         dt = parse_dt(item.published) or datetime(1970, 1, 1, tzinfo=timezone.utc)
 
         score = 0
-
         if "realmadrid.com" in item.link:
             score -= 1
+        if "managingmadrid.com" in item.link:
+            score -= 0.5
 
         return (dt, score)
 
@@ -153,7 +186,7 @@ def fetch_article_text(url: str, max_paragraphs: int = 5) -> str:
         return ""
 
 
-def generate_summary(item: NewsItem, max_len: int = 150) -> str:
+def generate_summary(item: NewsItem, max_len: int = 230) -> str:
     base_text = clean_text(item.summary) if item.summary else ""
 
     if len(base_text) < 60:
@@ -198,9 +231,18 @@ def translate_title_simple(title: str) -> str:
         ("Match", "試合に関するニュース"),
         ("injury", "負傷に関するニュース"),
         ("Injury", "負傷に関するニュース"),
+        ("medical", "負傷・コンディションに関するニュース"),
+        ("Medical", "負傷・コンディションに関するニュース"),
         ("transfer", "移籍に関するニュース"),
         ("Transfer", "移籍に関するニュース"),
         ("Champions League", "チャンピオンズリーグに関するニュース"),
+        ("Endrick", "エンドリッキに関するニュース"),
+        ("Vinicius", "ヴィニシウスに関するニュース"),
+        ("Mbappe", "エムバペに関するニュース"),
+        ("Bellingham", "ベリンガムに関するニュース"),
+        ("Rodrygo", "ロドリゴに関するニュース"),
+        ("Güler", "ギュレルに関するニュース"),
+        ("Guler", "ギュレルに関するニュース"),
     ]
 
     for en, ja in rules:
@@ -216,39 +258,32 @@ def translate_summary_simple(title: str, en_summary: str) -> str:
     sl = text.lower()
 
     if "bernabeu" in tl or "bernabéu" in tl:
-        return "新ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。"
+        return "ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。収益面やブランド価値にも関わるテーマであり、今後のレアル・マドリードの成長戦略を考えるうえでも重要なニュース。"
 
     if "training" in tl or "train" in tl:
-        return "チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。"
+        return "チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。主力選手の状態や起用法にも関わるため、試合前の流れを把握するうえで押さえておきたい内容。"
 
-    if "valverde" in tl:
-        return "バルベルデに関する内容で、チーム内での存在感や評価の高さが改めて示されている。"
-
-    if "courtois" in tl or "injury" in tl or "medical" in tl:
-        return "負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。"
-
-    if "florentino" in tl or "perez" in tl:
-        return "クラブの方針やレアルの規模感に関する発言で、ブランド力や将来像を考えるうえでも重要な内容。"
+    if "injury" in tl or "medical" in tl:
+        return "負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。シーズン終盤や重要な試合が続く時期ほど、選手層やローテーションに大きく影響する可能性がある。"
 
     if "transfer" in tl or "rumor" in tl or "rumour" in tl:
-        return "移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。"
-
-    if "champions league" in tl or "ucl" in tl:
-        return "チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。"
+        return "移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。"
 
     if "match" in tl or "preview" in tl or "derby" in tl:
-        return "試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。"
+        return "試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。"
+
+    if "champions league" in tl or "ucl" in tl:
+        return "チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。"
 
     if "real madrid" in sl:
-        return "レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。"
+        return "レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。"
 
-    return "この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。"
+    return "この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。"
 
 
-def build_bilingual_summary(item: NewsItem, max_len: int = 150) -> tuple[str, str]:
+def build_japanese_summary(item: NewsItem, max_len: int = 230) -> str:
     en_summary = generate_summary(item, max_len)
-    ja_summary = translate_summary_simple(item.title, en_summary)
-    return en_summary, ja_summary
+    return translate_summary_simple(item.title, en_summary)
 
 
 def resolve_google_news_url(url: str) -> str:
@@ -363,13 +398,13 @@ def fetch_managing_madrid(limit: int = 12) -> List[NewsItem]:
         if low_link == "https://www.managingmadrid.com":
             continue
 
-        if "managingmadrid.com/real-madrid-cf-news" in low_link:
-            continue
+        category_paths = [
+            "managingmadrid.com/real-madrid-cf-news",
+            "managingmadrid.com/real-madrid-cf-transfer-talk",
+            "managingmadrid.com/real-madrid-cf-champions-league",
+        ]
 
-        if "managingmadrid.com/real-madrid-cf-transfer-talk" in low_link:
-            continue
-
-        if "managingmadrid.com/real-madrid-cf-champions-league" in low_link:
+        if any(path in low_link for path in category_paths) and "/20" not in low_link:
             continue
 
         if not is_relevant(text, ""):
@@ -446,6 +481,16 @@ def fetch_extra_sites() -> List[NewsItem]:
         "camavinga", "tchouameni", "modric", "guler", "endrick", "bernabeu",
     ]
 
+    bad_exact_urls = {
+        "https://www.managingmadrid.com",
+        "https://www.football-espana.net",
+        "https://en.as.com/soccer",
+        "https://www.skysports.com/la-liga",
+        "https://onefootball.com/en/competition/laliga-10",
+        "https://www.laliga.com/laliga-easports",
+        "https://www.newsnow.co.uk/h/?search=La%2BLiga&lang=a",
+    }
+
     items: List[NewsItem] = []
 
     for label, url, base in sources:
@@ -469,15 +514,7 @@ def fetch_extra_sites() -> List[NewsItem]:
                 else:
                     link = href
 
-                if link.rstrip("/") in [
-                    "https://www.managingmadrid.com",
-                    "https://www.football-espana.net",
-                    "https://en.as.com/soccer",
-                    "https://www.skysports.com/la-liga",
-                    "https://onefootball.com/en/competition/laliga-10",
-                    "https://www.laliga.com/laliga-easports",
-                    "https://www.newsnow.co.uk/h/?search=La%2BLiga&lang=a",
-                ]:
+                if link.rstrip("/") in bad_exact_urls:
                     continue
 
                 if not link.startswith("http"):
@@ -531,9 +568,11 @@ def collect_all_items() -> List[NewsItem]:
         print(f"[WARN] extra sites failed: {e}")
 
     rss_queries = [
-        ("Google News / Real Madrid", "Real Madrid"),
-        ("Google News / Managing Madrid", "Real Madrid site:managingmadrid.com"),
-        ("Google News / Football España", "Real Madrid site:football-espana.net"),
+        ("Google News / Real Madrid", "Real Madrid when:1d"),
+        ("Google News / Managing Madrid", "Real Madrid site:managingmadrid.com when:1d"),
+        ("Google News / Football España", "Real Madrid site:football-espana.net when:1d"),
+        ("Google News / AS", "Real Madrid site:en.as.com when:1d"),
+        ("Google News / Sky Sports", "Real Madrid site:skysports.com when:1d"),
     ]
 
     for label, query in rss_queries:
@@ -546,6 +585,14 @@ def collect_all_items() -> List[NewsItem]:
 
     all_items = dedupe_items(all_items)
     all_items = [item for item in all_items if "news.google.com" not in item.link]
+
+    recent_items = filter_recent_items(all_items, 24)
+
+    if len(recent_items) >= 3:
+        all_items = recent_items
+    else:
+        print("[WARN] recent items are few. fallback to all collected items.")
+
     all_items = sort_items(all_items)
 
     source_summary = {}
@@ -582,18 +629,7 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: in
         return domain
 
     def get_topic_group(item: NewsItem) -> str:
-        link = normalize_url(item.link)
         title = item.title.lower()
-
-        managing_groups = [
-            "/real-madrid-cf-news",
-            "/real-madrid-cf-transfer-talk",
-            "/real-madrid-cf-champions-league",
-        ]
-        for path in managing_groups:
-            if path in link:
-                return f"managingmadrid:{path}"
-
         simplified_title = re.sub(r"[^a-z0-9]+", "", title)
         return f"title:{simplified_title[:80]}"
 
@@ -628,6 +664,7 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: in
         return False
 
     filtered = [item for item in items if not is_bad_item(item)]
+    filtered = sort_items(filtered)
 
     picked = []
     domain_counts = {}
@@ -669,7 +706,7 @@ def pick_diverse_items(items: List[NewsItem], limit: int = 5, max_per_domain: in
 def build_note_md(items: List[NewsItem]) -> str:
     date_str = now_jst().strftime("%Y-%m-%d")
     lines = [
-        f"📰 レアル・マドリードニュースまとめ（{date_str})",
+        f"📰 レアル・マドリードニュースまとめ（{date_str}）",
         "",
     ]
 
@@ -687,20 +724,17 @@ def build_note_md(items: List[NewsItem]) -> str:
     number_map = ["①", "②", "③", "④", "⑤"]
 
     for i, item in enumerate(top_items):
-        en_summary, ja_summary = build_bilingual_summary(item, 150)
+        ja_summary = build_japanese_summary(item, 230)
         ja_title = translate_title_simple(item.title)
 
         lines += [
-            f"{number_map[i]} {item.title}",
-            ja_title,
+            f"{number_map[i]} **{item.title}**",
+            f"**{ja_title}**",
             "",
             "🔗 リンク",
             item.link,
             "",
-            "要約（英語）",
-            en_summary,
-            "",
-            "要約（日本語）",
+            "📝 要約（日本語）",
             ja_summary,
             "",
         ]
@@ -716,14 +750,24 @@ def build_note_md(items: List[NewsItem]) -> str:
 
 def build_x_text(items: List[NewsItem]) -> str:
     if not items:
-        return "【レアル・マドリード】本日は主要ニュースを確認できませんでした。#RealMadrid"
+        return "⚽レアル・マドリード最新ニュース\n\n本日は主要ニュースを確認できませんでした。\n\n▼noteで詳細\n\n#レアルマドリード #realmadrid #laliga"
 
-    top_items = pick_diverse_items(items, 5)
-    top = top_items[0] if top_items else items[0]
-    title = trim_summary(top.title, 85)
-    source = top.source
+    top_items = pick_diverse_items(items, 4)
 
-    return f"【レアル・マドリード速報】{title} ({source})\n{top.link}\n#RealMadrid"
+    bullets = []
+    for item in top_items:
+        title = trim_summary(item.title, 34)
+        bullets.append(f"・{title}")
+
+    return (
+        "⚽レアル・マドリード最新ニュース\n\n"
+        + "\n".join(bullets)
+        + "\n\n"
+        + "移籍、負傷、チーム状況まで要チェック。\n"
+        + "今のレアルは大きな分岐点にいる。\n\n"
+        + "▼noteで詳細\n\n"
+        + "#レアルマドリード #realmadrid #laliga"
+    )
 
 
 def build_json(items: List[NewsItem]) -> str:
