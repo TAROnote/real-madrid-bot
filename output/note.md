@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-27)
+📰 レアル・マドリードニュースまとめ（2026-04-28)
 
 ① Real Madrid want €60 million to sell Gonzalo García, Dortmund interested -report
 レアル・マドリード関連ニュース
@@ -55,7 +55,7 @@ It is looking increasingly likely that Real Madrid will seek a new manager in th
 https://www.laliga.com/noticias/laliga-experience-llega-a-sevilla-para-vivir-desde-dentro-el-real-betis-real-madrid
 
 要約（英語）
-LALIGA Experience & Programas de fidelización Máster en Dirección, Metodología y Análisis en el Fútbol Máster en Derecho Aplicado al Fútbol Profesion…
+記事の詳細はリンク先で確認してください。
 
 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
