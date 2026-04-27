@@ -1,64 +1,49 @@
-📰 レアル・マドリードニュースまとめ（2026-04-28)
+📰 レアル・マドリードニュースまとめ（2026-04-28）
 
-① Real Madrid want €60 million to sell Gonzalo García, Dortmund interested -report
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106970/real-madrid-gonzalo-garcia-news-rumors
-
-要約（英語）
-Real Madrid striker Gonzalo García could be on his way out of the club this summer and Los Blancos are open to selling the Spanish player if they rec…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-② Endrick: ““If I have to go back to Real Madrid, I’ll do it gladly and if I have to go somewhere else, I’ll do that too”
-レアル・マドリード関連ニュース
-
-🔗 リンク
-https://www.managingmadrid.com/106967/endrick-real-madrid-loan-quotes
-
-要約（英語）
-Real Madrid attacker Endrick talked to Canal+ France and shared some thoughts about his future. While most reports indicate that he will be a Real Ma…
-
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-③ Real Madrid will only sell forward if €60m offer received
-レアル・マドリード関連ニュース
+① **Real Madrid will only sell forward if €60m offer received**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
 https://www.football-espana.net/2026/04/27/real-madrid-sell-forward-e60m
 
-要約（英語）
-Real Madrid are open to letting a number of first team players leave during the upcoming summer transfer window. The likes of Dani Carvajal, David Al…
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-④ Real Madrid icon questions Jose Mourinho return – “Not in his prime”
-レアル・マドリード関連ニュース
+② **Real Madrid icon questions Jose Mourinho return – “Not in his prime”**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
 https://www.football-espana.net/2026/04/26/real-madrid-icon-questions-jose-mourinho-return
 
-要約（英語）
-It is looking increasingly likely that Real Madrid will seek a new manager in the summer, with Alvaro Arbeloa’s position looking increasingly untenab…
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
-
-⑤ LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir
-レアル・マドリード関連ニュース
+③ **LALIGA EA SPORTS MAR 21.04.2026 | LALIGA EXPERIENCE LALIGA EXPERIENCE llega a Sevilla para vivir desde dentro el Real Betis – Real Madrid Compartir**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
 https://www.laliga.com/noticias/laliga-experience-llega-a-sevilla-para-vivir-desde-dentro-el-real-betis-real-madrid
 
-要約（英語）
-記事の詳細はリンク先で確認してください。
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+④ **LALIGA EA SPORTS DOM 26.04.2026 | RESUMEN DE PARTIDO El Atlético de Madrid vence al Athletic Club pero pierde a Barrios para la Champions Compartir**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.laliga.com/videos/el-atletico-de-madrid-vence-al-athletic-club-pero-pierde-a-barrios-para-la-champions
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+
+⑤ **Real Madrid Transfer News**
+**移籍に関するニュース**
+
+🔗 リンク
+https://www.caughtoffside.com/tags/la-liga/real-madrid/
+
+📝 要約（日本語）
+移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
 🧾 記事全体のコメント
 
