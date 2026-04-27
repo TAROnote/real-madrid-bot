@@ -8,16 +8,6 @@ from typing import List, Optional
 from urllib.parse import quote_plus
 
 import feedparser
-import requestsimport json
-import re
-import time
-from dataclasses import dataclass, asdict
-from datetime import datetime, timezone, timedelta
-from pathlib import Path
-from typing import List, Optional
-from urllib.parse import quote_plus
-
-import feedparser
 import requests
 from bs4 import BeautifulSoup
 from dateutil import parser as dtparser
