@@ -1,28 +1,28 @@
 📰 レアル・マドリードニュースまとめ（2026-04-27)
 
-① Real Madrid tell Como they’ll trigger Nico Paz buyback option -report
+① Real Madrid want €60 million to sell Gonzalo García, Dortmund interested -report
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/106925/real-madrid-nico-paz-rumors-news-2026
+https://www.managingmadrid.com/106970/real-madrid-gonzalo-garcia-news-rumors
 
 要約（英語）
-Real Madrid have decided to tell Como and Nico Paz that they will trigger their option to buy the midfielder back from the Italian team, according to…
+Real Madrid striker Gonzalo García could be on his way out of the club this summer and Los Blancos are open to selling the Spanish player if they rec…
 
 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
-② Endrick’s Father: “At Real Madrid they took the playground away from him”
+② Endrick: ““If I have to go back to Real Madrid, I’ll do it gladly and if I have to go somewhere else, I’ll do that too”
 レアル・マドリード関連ニュース
 
 🔗 リンク
-https://www.managingmadrid.com/latest-news/106903/endricks-father-at-real-madrid-they-took-the-playground-away-from-him
+https://www.managingmadrid.com/106967/endrick-real-madrid-loan-quotes
 
 要約（英語）
-Douglas Sousa highlights Endrick’s World Cup ambitions and the importance of playing time Endrick’s father, Douglas Sousa, has offered insight into h…
+Real Madrid attacker Endrick talked to Canal+ France and shared some thoughts about his future. While most reports indicate that he will be a Real Ma…
 
 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。
 
 ③ Real Madrid icon questions Jose Mourinho return – “Not in his prime”
 レアル・マドリード関連ニュース
