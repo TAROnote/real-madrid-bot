@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-04-28）
+📰 レアル・マドリードニュースまとめ（2026-04-29）
 
 ① **Jose Mourinho emerges as favourite for Real Madrid job due to Florentino Perez backing**
 **レアル・マドリード関連ニュース**
@@ -18,29 +18,29 @@ https://www.football-espana.net/2026/04/28/video-trent-alexander-arnold-mocked-b
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS MAR 28.04.2026 | GENERAL Anticipación y definición cruzada: el gol de Vinicius en la Cartuja Compartir**
-**ヴィニシウスに関するニュース**
+③ **LALIGA EA SPORTS MAR 28.04.2026 | GENERAL Sørloth volvió a rescatar al Atlético de Madrid Compartir**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/anticipacion-y-definicion-cruzada-el-gol-de-vinicius-en-a-cartuja
+https://www.laliga.com/videos/sorloth-volvio-a-rescatar-al-atletico-de-madrid
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **Real Madrid Transfer News**
+④ **LALIGA EA SPORTS MAR 28.04.2026 | GENERAL La RefCam del Real Betis - Real Madrid Compartir**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.laliga.com/videos/la-refcam-del-real-betis-real-madrid
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+
+⑤ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
 https://www.caughtoffside.com/tags/la-liga/real-madrid/
-
-📝 要約（日本語）
-移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
-
-⑤ **Atletico Madrid Transfer News**
-**移籍に関するニュース**
-
-🔗 リンク
-https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
