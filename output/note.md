@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-04-28）
 
-① **Real Madrid will only sell forward if €60m offer received**
+① **The Alvaro Arbeloa dilemma: Should Real Madrid stick or twist?**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/27/real-madrid-sell-forward-e60m
+https://www.football-espana.net/2026/04/28/alvaro-arbeloa-dilemma-real-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid icon questions Jose Mourinho return – “Not in his prime”**
+② **Real Madrid will only sell forward if €60m offer received**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/26/real-madrid-icon-questions-jose-mourinho-return
+https://www.football-espana.net/2026/04/27/real-madrid-sell-forward-e60m
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
