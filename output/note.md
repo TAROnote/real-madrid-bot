@@ -1,40 +1,40 @@
 📰 レアル・マドリードニュースまとめ（2026-04-29）
 
-① **Jose Mourinho emerges as favourite for Real Madrid job due to Florentino Perez backing**
+① **Real Madrid keen to bring in three signings to one position group this summer**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/28/jose-mourinho-emerges-as-favourite-for-real-madrid-job-due-to-florentino-perez-backing
+https://www.football-espana.net/2026/04/29/real-madrid-keen-to-bring-in-three-signings-to-one-position-group-this-summer
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **VIDEO: Trent Alexander-Arnold mocked by Real Madrid captain on the bench**
+② **Jose Mourinho one of two ‘finalists’ for Real Madrid job**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/28/video-trent-alexander-arnold-mocked-by-real-madrid-captain-on-the-bench
+https://www.football-espana.net/2026/04/29/jose-mourinho-one-of-two-finalists-for-real-madrid-job
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS MAR 28.04.2026 | GENERAL Sørloth volvió a rescatar al Atlético de Madrid Compartir**
+③ **LALIGA EA SPORTS MAR 28.04.2026 | NOTICIAS Estadísticas del Real Madrid contra el FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/sorloth-volvio-a-rescatar-al-atletico-de-madrid
+https://www.laliga.com/noticias/estadisticas-real-madrid-barcelona
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-④ **LALIGA EA SPORTS MAR 28.04.2026 | GENERAL La RefCam del Real Betis - Real Madrid Compartir**
+④ **LALIGA EA SPORTS LUN 27.04.2026 | NOTICIAS Comparativa de los títulos del Real Madrid vs FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/la-refcam-del-real-betis-real-madrid
+https://www.laliga.com/noticias/comparativa-titulos-real-madrid-vs-fc-barcelona
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ⑤ **Real Madrid Transfer News**
 **移籍に関するニュース**
