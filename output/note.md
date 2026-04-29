@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-04-29）
+📰 レアル・マドリードニュースまとめ（2026-04-30）
 
-① **Real Madrid keen to bring in three signings to one position group this summer**
+① **Real Madrid open talks with Toni Kroos over return to club**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/29/real-madrid-keen-to-bring-in-three-signings-to-one-position-group-this-summer
+https://www.football-espana.net/2026/04/29/real-madrid-open-talks-with-toni-kroos-over-return-to-club
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Jose Mourinho one of two ‘finalists’ for Real Madrid job**
+② **Real Madrid keen to bring in three signings to one position group this summer**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/29/jose-mourinho-one-of-two-finalists-for-real-madrid-job
+https://www.football-espana.net/2026/04/29/real-madrid-keen-to-bring-in-three-signings-to-one-position-group-this-summer
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
