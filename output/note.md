@@ -1,6 +1,15 @@
-📰 レアル・マドリードニュースまとめ（2026-04-30）
+📰 レアル・マドリードニュースまとめ（2026-05-01）
 
-① **World Cup absence confirmed for Real Madrid star following successful surgery**
+① **Jurgen Klopp open to management return but not to Real Madrid**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/04/30/jurgen-klopp-open-to-management-return-but-not-to-real-madrid
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **World Cup absence confirmed for Real Madrid star following successful surgery**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/04/30/world-cup-absence-real-madrid-star
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **‘Vinicius law’ passed by IFAB with red cards to punish players caught out**
-**ヴィニシウスに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/04/29/vinicius-law-passed-by-ifab-with-red-cards-to-punish-players-caught-out
-
-📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 ③ **LALIGA EA SPORTS MAR 28.04.2026 | NOTICIAS Estadísticas del Real Madrid contra el FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
