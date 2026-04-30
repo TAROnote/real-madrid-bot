@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-04-30）
 
-① **Real Madrid open talks with Toni Kroos over return to club**
+① **World Cup absence confirmed for Real Madrid star following successful surgery**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/29/real-madrid-open-talks-with-toni-kroos-over-return-to-club
+https://www.football-espana.net/2026/04/30/world-cup-absence-real-madrid-star
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid keen to bring in three signings to one position group this summer**
-**レアル・マドリード関連ニュース**
+② **‘Vinicius law’ passed by IFAB with red cards to punish players caught out**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/29/real-madrid-keen-to-bring-in-three-signings-to-one-position-group-this-summer
+https://www.football-espana.net/2026/04/29/vinicius-law-passed-by-ifab-with-red-cards-to-punish-players-caught-out
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 ③ **LALIGA EA SPORTS MAR 28.04.2026 | NOTICIAS Estadísticas del Real Madrid contra el FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
