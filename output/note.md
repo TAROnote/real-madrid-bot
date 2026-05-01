@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-05-01）
 
-① **Real Madrid midfielder rejects interest from Manchester United and Liverpool**
+① **‘Nobody from Real Madrid has spoken to me’ – Benfica manager Jose Mourinho**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/01/midfielder-stay-real-madrid-man-united-liverpool
+https://www.football-espana.net/2026/05/01/jose-mourinho-real-madrid-talks
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid players not keen on Jose Mourinho return – “He is a ticking time bomb”**
-**レアル・マドリード関連ニュース**
+② **Real Madrid veteran ‘loses mind’ at teammate during training ground altercation**
+**トレーニングに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/30/real-madrid-players-jose-mourinho-return
+https://www.football-espana.net/2026/05/01/real-madrid-veteran-loses-mind-at-teammate-during-training-ground-altercation
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。主力選手の状態や起用法にも関わるため、試合前の流れを把握するうえで押さえておきたい内容。
 
 ③ **LALIGA EA SPORTS MAR 28.04.2026 | NOTICIAS Estadísticas del Real Madrid contra el FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
