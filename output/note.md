@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-05-01）
+📰 レアル・マドリードニュースまとめ（2026-05-02）
 
 ① **‘Nobody from Real Madrid has spoken to me’ – Benfica manager Jose Mourinho**
 **レアル・マドリード関連ニュース**
