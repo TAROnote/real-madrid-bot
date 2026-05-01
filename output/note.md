@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-01）
 
-① **Jurgen Klopp open to management return but not to Real Madrid**
+① **Real Madrid midfielder rejects interest from Manchester United and Liverpool**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/30/jurgen-klopp-open-to-management-return-but-not-to-real-madrid
+https://www.football-espana.net/2026/05/01/midfielder-stay-real-madrid-man-united-liverpool
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **World Cup absence confirmed for Real Madrid star following successful surgery**
+② **Real Madrid players not keen on Jose Mourinho return – “He is a ticking time bomb”**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/04/30/world-cup-absence-real-madrid-star
+https://www.football-espana.net/2026/04/30/real-madrid-players-jose-mourinho-return
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
