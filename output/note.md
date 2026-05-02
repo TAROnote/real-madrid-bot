@@ -1,6 +1,15 @@
-📰 レアル・マドリードニュースまとめ（2026-05-02）
+📰 レアル・マドリードニュースまとめ（2026-05-03）
 
-① **Real Madrid expect star player to return for decisive El Clasico showdown**
+① **Liverpool move ahead of Real Madrid in race to sign midfielder**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/05/02/liverpool-real-madrid-sign-midfielder
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Real Madrid expect star player to return for decisive El Clasico showdown**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/05/02/real-madrid-star-player-return-el-cla
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Dani Carvajal injury risks disappointing end to Real Madrid career**
-**負傷に関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/05/02/dani-carvajal-injury
-
-📝 要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。シーズン終盤や重要な試合が続く時期ほど、選手層やローテーションに大きく影響する可能性がある。
 
 ③ **LALIGA EA SPORTS MAR 28.04.2026 | NOTICIAS Estadísticas del Real Madrid contra el FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
