@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-03）
 
-① **Liverpool move ahead of Real Madrid in race to sign midfielder**
+① **Paris Saint-Germain set sights on poaching 18-year-old Real Madrid starlet**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/02/liverpool-real-madrid-sign-midfielder
+https://www.football-espana.net/2026/05/03/paris-saint-germain-set-sights-on-poaching-18-year-old-real-madrid-starlet
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid expect star player to return for decisive El Clasico showdown**
+② **Predicted Teams Espanyol-Real Madrid: A rare start for Gonzalo Garcia?**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/02/real-madrid-star-player-return-el-clasico
+https://www.football-espana.net/2026/05/03/predicted-teams-espanyol-real-madrid-a-rare-start-for-gonzalo-garcia
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
