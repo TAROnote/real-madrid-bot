@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-04）
 
-① **World Cup snub on the cards for under-fire Real Madrid star**
-**レアル・マドリード関連ニュース**
+① **Alvaro Arbeloa talks Vinicius Junior and Kylian Mbappe after Espanyol win – “I don’t doubt the commitment of my players”**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/03/world-cup-snub-real-madrid-star
+https://www.football-espana.net/2026/05/04/espanyol-real-madrid-la-liga-alvaro-arbeloa-reaction
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **€50m defender shuts down talk of Real Madrid and Barcelona moves**
-**レアル・マドリード関連ニュース**
+② **Real Madrid player ratings against Espanyol: Vinicius Junior keeps title race alive at RCDE Stadium**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/03/jon-martin-real-sociedad-future
+https://www.football-espana.net/2026/05/03/espanyol-real-madrid-la-liga-ratings
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
