@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-05-04）
 
-① **Alvaro Arbeloa talks Vinicius Junior and Kylian Mbappe after Espanyol win – “I don’t doubt the commitment of my players”**
-**ヴィニシウスに関するニュース**
+① **Alvaro Arbeloa accused of neglecting Real Madrid players as dressing room toxicity revealed**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/04/espanyol-real-madrid-la-liga-alvaro-arbeloa-reaction
+https://www.football-espana.net/2026/05/04/alvaro-arbeloa-neglecting-real-madrid-players
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid player ratings against Espanyol: Vinicius Junior keeps title race alive at RCDE Stadium**
-**ヴィニシウスに関するニュース**
+② **Vinicius Junior reacts to match-winning Real Madrid performance against Espanyol – “We knew we were going to win”**
+**試合に関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/03/espanyol-real-madrid-la-liga-ratings
+https://www.football-espana.net/2026/05/04/vinicius-junior-reacts-real-madrid-espanyol
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
 
 ③ **LALIGA EA SPORTS MAR 28.04.2026 | NOTICIAS Estadísticas del Real Madrid contra el FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
