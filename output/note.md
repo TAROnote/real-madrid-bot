@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-05-04）
+📰 レアル・マドリードニュースまとめ（2026-05-05）
 
-① **VIDEO: Real Madrid defender’s reaction to Alvaro Arbeloa snub goes viral**
+① **Second Real Madrid defender to undergo surgery after Espanyol win**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/04/real-madrid-defender-reaction-alvaro-arbeloa-snub
+https://www.football-espana.net/2026/05/04/second-real-madrid-defender-to-undergo-surgery-after-espanyol-win
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Forward has reservations about Real Madrid return – “I’d like to stay here”**
+② **VIDEO: Real Madrid defender’s reaction to Alvaro Arbeloa snub goes viral**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/04/forward-real-madrid-return
+https://www.football-espana.net/2026/05/04/real-madrid-defender-reaction-alvaro-arbeloa-snub
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
