@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-05）
 
-① **Real Madrid President Florentino Perez angry with Kylian Mbappe – expected to feature in El Clasico**
+① **Alvaro Arbeloa’s indirect messages to Real Madrid star Kylian Mbappe – ‘Talent alone isn’t enough’**
 **エムバペに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/05/real-madrid-president-florentino-perez-angry-with-kylian-mbappe-expected-to-feature-in-el-clasico
+https://www.football-espana.net/2026/05/05/arbeloa-mbappe-messages
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Second Real Madrid defender to undergo surgery after Espanyol win**
-**レアル・マドリード関連ニュース**
+② **Vinicius Junior to Espanyol defender: “Later you’ll be asking for my shirt, you’re going to Segunda”**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/04/second-real-madrid-defender-to-undergo-surgery-after-espanyol-win
+https://www.football-espana.net/2026/05/05/vinicius-el-hilali
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
@@ -27,14 +27,14 @@ https://www.laliga.com/noticias/estadisticas-real-madrid-barcelona
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-④ **LALIGA EA SPORTS LUN 27.04.2026 | NOTICIAS Comparativa de los títulos del Real Madrid vs FC Barcelona Compartir**
-**レアル・マドリード関連ニュース**
+④ **LALIGA EA SPORTS MAR 05.05.2026 | GENERAL Vinicius congeló a la defensa del RCD Espanyol con un amago de seda Compartir**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://www.laliga.com/noticias/comparativa-titulos-real-madrid-vs-fc-barcelona
+https://www.laliga.com/videos/vinicius-congelo-a-la-defensa-del-rcd-espanyol-con-un-amago-de-seda
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 ⑤ **Real Madrid Transfer News**
 **移籍に関するニュース**
