@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-05）
 
-① **Second Real Madrid defender to undergo surgery after Espanyol win**
-**レアル・マドリード関連ニュース**
+① **Real Madrid President Florentino Perez angry with Kylian Mbappe – expected to feature in El Clasico**
+**エムバペに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/04/second-real-madrid-defender-to-undergo-surgery-after-espanyol-win
+https://www.football-espana.net/2026/05/05/real-madrid-president-florentino-perez-angry-with-kylian-mbappe-expected-to-feature-in-el-clasico
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **VIDEO: Real Madrid defender’s reaction to Alvaro Arbeloa snub goes viral**
+② **Second Real Madrid defender to undergo surgery after Espanyol win**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/04/real-madrid-defender-reaction-alvaro-arbeloa-snub
+https://www.football-espana.net/2026/05/04/second-real-madrid-defender-to-undergo-surgery-after-espanyol-win
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
