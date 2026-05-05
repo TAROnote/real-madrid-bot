@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-05-05）
+📰 レアル・マドリードニュースまとめ（2026-05-06）
 
-① **Alvaro Arbeloa’s indirect messages to Real Madrid star Kylian Mbappe – ‘Talent alone isn’t enough’**
-**エムバペに関するニュース**
+① **Premier League manager ‘high’ on Real Madrid shortlist to replace Alvaro Arbeloa**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/05/arbeloa-mbappe-messages
+https://www.football-espana.net/2026/05/05/premier-league-manager-high-on-real-madrid-shortlist-to-replace-alvaro-arbeloa
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Vinicius Junior to Espanyol defender: “Later you’ll be asking for my shirt, you’re going to Segunda”**
-**ヴィニシウスに関するニュース**
+② **COLUMN: Let’s stop deluding ourselves about Real Madrid**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/05/vinicius-el-hilali
+https://www.football-espana.net/2026/05/05/deluding-ourselves-real-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
