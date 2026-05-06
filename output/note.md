@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-06）
 
-① **Premier League manager ‘high’ on Real Madrid shortlist to replace Alvaro Arbeloa**
+① **Real Madrid Castilla midfielder poised for summer exit with Como keen on signing**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/05/premier-league-manager-high-on-real-madrid-shortlist-to-replace-alvaro-arbeloa
+https://www.football-espana.net/2026/05/05/real-madrid-castilla-midfielder-poised-for-summer-exit-with-como-keen-on-signing
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **COLUMN: Let’s stop deluding ourselves about Real Madrid**
+② **Premier League manager ‘high’ on Real Madrid shortlist to replace Alvaro Arbeloa**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/05/deluding-ourselves-real-madrid
+https://www.football-espana.net/2026/05/05/premier-league-manager-high-on-real-madrid-shortlist-to-replace-alvaro-arbeloa
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
