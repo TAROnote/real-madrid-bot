@@ -1,22 +1,22 @@
-📰 レアル・マドリードニュースまとめ（2026-05-06）
+📰 レアル・マドリードニュースまとめ（2026-05-07）
 
-① **Jose Mourinho communicates terms for Real Madrid return**
+① **Benfica expecting Jose Mourinho exit amid Real Madrid talks**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/06/jose-mourinho-communicates-terms-for-real-madrid-return
+https://www.football-espana.net/2026/05/06/benfica-expecting-jose-mourinho-exit-amid-real-madrid-talks
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Jonatan Vazquez**
+② **Real Madrid midfielders nearly come to blows four days before El Clasico**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/author/jonatan-vazquez
+https://www.football-espana.net/2026/05/06/real-madrid-midfielders-nearly-come-to-blows-four-days-before-el-clasico
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.10? Compartir**
 **レアル・マドリード関連ニュース**
