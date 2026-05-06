@@ -1,24 +1,33 @@
 📰 レアル・マドリードニュースまとめ（2026-05-06）
 
-① **Real Madrid defender confirms physical altercation with Antonio Rudiger in statement**
+① **Jose Mourinho communicates terms for Real Madrid return**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/06/real-madrid-defender-confirms-physical-altercation-with-antonio-rudiger-in-statement
+https://www.football-espana.net/2026/05/06/jose-mourinho-communicates-terms-for-real-madrid-return
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid Castilla midfielder poised for summer exit with Como keen on signing**
+② **Jonatan Vazquez**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/05/real-madrid-castilla-midfielder-poised-for-summer-exit-with-como-keen-on-signing
+https://www.football-espana.net/author/jonatan-vazquez
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+
+③ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.10? Compartir**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.laliga.com/noticias/fc-barcelona-vs-real-madrid-donde-ver-elclasico-laliga
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS MAR 05.05.2026 | NOTICIAS Posibles alineaciones del FC Barcelona vs Real Madrid J.35 Compartir**
+④ **LALIGA EA SPORTS MAR 05.05.2026 | NOTICIAS Posibles alineaciones del FC Barcelona vs Real Madrid J.35 Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -26,15 +35,6 @@ https://www.laliga.com/noticias/alineaciones-probables-de-elclasico-real-madrid-
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-④ **LALIGA EA SPORTS MAR 05.05.2026 | GENERAL Vinicius congeló a la defensa del RCD Espanyol con un amago de seda Compartir**
-**ヴィニシウスに関するニュース**
-
-🔗 リンク
-https://www.laliga.com/videos/vinicius-congelo-a-la-defensa-del-rcd-espanyol-con-un-amago-de-seda
-
-📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 ⑤ **Real Madrid Transfer News**
 **移籍に関するニュース**
