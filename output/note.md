@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-05-06）
 
-① **Real Madrid Castilla midfielder poised for summer exit with Como keen on signing**
+① **Real Madrid defender confirms physical altercation with Antonio Rudiger in statement**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/05/06/real-madrid-defender-confirms-physical-altercation-with-antonio-rudiger-in-statement
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Real Madrid Castilla midfielder poised for summer exit with Como keen on signing**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -9,20 +18,11 @@ https://www.football-espana.net/2026/05/05/real-madrid-castilla-midfielder-poise
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Premier League manager ‘high’ on Real Madrid shortlist to replace Alvaro Arbeloa**
+③ **LALIGA EA SPORTS MAR 05.05.2026 | NOTICIAS Posibles alineaciones del FC Barcelona vs Real Madrid J.35 Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/05/premier-league-manager-high-on-real-madrid-shortlist-to-replace-alvaro-arbeloa
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-③ **LALIGA EA SPORTS MAR 28.04.2026 | NOTICIAS Estadísticas del Real Madrid contra el FC Barcelona Compartir**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.laliga.com/noticias/estadisticas-real-madrid-barcelona
+https://www.laliga.com/noticias/alineaciones-probables-de-elclasico-real-madrid-vs-fc-barcelona
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
