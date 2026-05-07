@@ -1,24 +1,24 @@
-📰 レアル・マドリードニュースまとめ（2026-05-07）
+📰 レアル・マドリードニュースまとめ（2026-05-08）
 
-① **Fede Valverde in hospital after second fight with Real Madrid teammate**
-**バルベルデに関するニュース**
+① **Barcelona and Eric Garcia troll Real Madrid and Kylian Mbappe before El Clasico**
+**エムバペに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/07/fede-valverde-in-hospital-after-second-fight-with-real-madrid-teammate
+https://www.football-espana.net/2026/05/07/barcelona-and-eric-garcia-troll-real-madrid-and-kylian-mbappe-before-el-clasico
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid forward Kylian Mbappe set to feature in El Clasico following injury tests**
-**負傷に関するニュース**
+② **Jonatan Vazquez**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/07/real-madrid-forward-kylian-mbappe-set-to-feature-in-el-clasico-following-injury-tests
+https://www.football-espana.net/author/jonatan-vazquez
 
 📝 要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。シーズン終盤や重要な試合が続く時期ほど、選手層やローテーションに大きく影響する可能性がある。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-③ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.10? Compartir**
+③ **LALIGA EA SPORTS MIE 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
