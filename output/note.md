@@ -1,24 +1,24 @@
 📰 レアル・マドリードニュースまとめ（2026-05-07）
 
-① **Benfica expecting Jose Mourinho exit amid Real Madrid talks**
+① **Six players cut contact with Real Madrid manager Alvaro Arbeloa**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/06/benfica-expecting-jose-mourinho-exit-amid-real-madrid-talks
+https://www.football-espana.net/2026/05/07/six-players-real-madrid-alvaro-arbeloa
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid midfielders nearly come to blows four days before El Clasico**
+② **Real Madrid president Florentino Perez to extend El Clasico boycott**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/06/real-madrid-midfielders-nearly-come-to-blows-four-days-before-el-clasico
+https://www.football-espana.net/2026/05/06/real-madrid-florentino-perez-el-clasico-boycott
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.10? Compartir**
+③ **LALIGA EA SPORTS MIE 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.10? Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
