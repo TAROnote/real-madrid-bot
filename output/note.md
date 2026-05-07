@@ -1,24 +1,24 @@
 📰 レアル・マドリードニュースまとめ（2026-05-07）
 
-① **Six players cut contact with Real Madrid manager Alvaro Arbeloa**
-**レアル・マドリード関連ニュース**
+① **Fede Valverde in hospital after second fight with Real Madrid teammate**
+**バルベルデに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/07/six-players-real-madrid-alvaro-arbeloa
+https://www.football-espana.net/2026/05/07/fede-valverde-in-hospital-after-second-fight-with-real-madrid-teammate
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid president Florentino Perez to extend El Clasico boycott**
-**レアル・マドリード関連ニュース**
+② **Real Madrid forward Kylian Mbappe set to feature in El Clasico following injury tests**
+**負傷に関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/06/real-madrid-florentino-perez-el-clasico-boycott
+https://www.football-espana.net/2026/05/07/real-madrid-forward-kylian-mbappe-set-to-feature-in-el-clasico-following-injury-tests
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。シーズン終盤や重要な試合が続く時期ほど、選手層やローテーションに大きく影響する可能性がある。
 
-③ **LALIGA EA SPORTS MIE 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.10? Compartir**
+③ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.10? Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
