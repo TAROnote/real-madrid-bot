@@ -1,37 +1,37 @@
 📰 レアル・マドリードニュースまとめ（2026-05-08）
 
-① **Parents of two Real Madrid players complained to Florentino Perez over manager decisions**
+① **Jonatan Vazquez**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/08/parents-real-madrid-players-florentino-perez
+https://www.football-espana.net/author/jonatan-vazquez
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+
+② **Aurelien Tchouameni likely to be available for Barcelona-Real Madrid despite disciplinary process**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/05/08/aurelien-tchouameni-likely-to-be-available-for-barcelona-real-madrid-despite-disciplinary-process
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Revealed: Real Madrid squad tensions began when Xabi Alonso was sacked**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/05/08/real-madrid-squad-tensions-xabi-alonso
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-③ **LALIGA EA SPORTS MIE 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.laliga.com/noticias/fc-barcelona-vs-real-madrid-donde-ver-elclasico-laliga
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-④ **LALIGA EA SPORTS MAR 05.05.2026 | NOTICIAS Posibles alineaciones del FC Barcelona vs Real Madrid J.35 Compartir**
+③ **LALIGA EA SPORTS JUE 07.05.2026 | NOTICIAS Posibles alineaciones del FC Barcelona vs Real Madrid J.35 Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
 https://www.laliga.com/noticias/alineaciones-probables-de-elclasico-real-madrid-vs-fc-barcelona
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+④ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.laliga.com/noticias/fc-barcelona-vs-real-madrid-donde-ver-elclasico-laliga
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
