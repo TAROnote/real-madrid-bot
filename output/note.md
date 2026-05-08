@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-05-08）
+📰 レアル・マドリードニュースまとめ（2026-05-09）
 
-① **Jonatan Vazquez**
-**レアル・マドリード関連ニュース**
+① **Aurelien Tchouameni releases statement on Fede Valverde fight – ‘No matter who was right or wrong…’**
+**バルベルデに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/author/jonatan-vazquez
+https://www.football-espana.net/2026/05/08/tchouameni-valverde-statement
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Aurelien Tchouameni likely to be available for Barcelona-Real Madrid despite disciplinary process**
-**レアル・マドリード関連ニュース**
+② **Real Madrid announce fines for Fede Valverde and Aurelien Tchouameni after fight**
+**バルベルデに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/08/aurelien-tchouameni-likely-to-be-available-for-barcelona-real-madrid-despite-disciplinary-process
+https://www.football-espana.net/2026/05/08/real-madrid-announce-fines-for-fede-valverde-and-aurelien-tchouameni-after-fight
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
@@ -27,7 +27,7 @@ https://www.laliga.com/noticias/alineaciones-probables-de-elclasico-real-madrid-
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-④ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
+④ **LALIGA EA SPORTS MIE 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
