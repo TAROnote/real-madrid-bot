@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-09）
 
-① **Aurelien Tchouameni releases statement on Fede Valverde fight – ‘No matter who was right or wrong…’**
-**バルベルデに関するニュース**
+① **Real Madrid manager Alvaro Arbeloa directs anger at mole after fight – ‘Whoever leaked this…’**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/08/tchouameni-valverde-statement
+https://www.football-espana.net/2026/05/09/arbeloa-mole-real-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid announce fines for Fede Valverde and Aurelien Tchouameni after fight**
+② **Alvaro Arbeloa on Aurelien Tchouameni-Fede Valverde fight: “It’s a healthy dressing room”**
 **バルベルデに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/08/real-madrid-announce-fines-for-fede-valverde-and-aurelien-tchouameni-after-fight
+https://www.football-espana.net/2026/05/09/arbeloa-tchouameni-valverde
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
@@ -27,7 +27,7 @@ https://www.laliga.com/noticias/alineaciones-probables-de-elclasico-real-madrid-
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-④ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
+④ **LALIGA EA SPORTS MIE 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
