@@ -27,7 +27,7 @@ https://www.laliga.com/noticias/alineaciones-probables-de-elclasico-real-madrid-
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-④ **LALIGA EA SPORTS MIE 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
+④ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
