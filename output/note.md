@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-05-10）
 
-① **Real Madrid stance on Aurelien Tchouameni and Fede Valverde sales amid Arsenal interest**
-**バルベルデに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/05/09/real-madrid-stance-aurelien-tchouameni-fede-valverde-arsenal
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Xabi Alonso regrets accepting Real Madrid job offer**
+① **Real Madrid make contact with agent of Manchester City defender**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/09/xabi-alonso-regrets-real-madrid-decision
+https://www.football-espana.net/2026/05/10/real-madrid-contact-agent-man-city-defender
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Barcelona heavyweight unlikely to start against Real Madrid as Hansi Flick debates key decision**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/05/09/barcelona-real-madrid-hansi-flick-decision
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 ③ **LALIGA EA SPORTS JUE 07.05.2026 | NOTICIAS Posibles alineaciones del FC Barcelona vs Real Madrid J.35 Compartir**
 **レアル・マドリード関連ニュース**
@@ -27,7 +27,7 @@ https://www.laliga.com/noticias/alineaciones-probables-de-elclasico-real-madrid-
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-④ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
+④ **LALIGA EA SPORTS MIE 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
