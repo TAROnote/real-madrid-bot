@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-11）
 
-① **Liverpool make contact with Real Madrid in pursuit of new manager**
-**レアル・マドリード関連ニュース**
+① **“I would have liked it if he played” – Real Madrid manager Alvaro Arbeloa on Kylian Mbappe’s El Clasico absence**
+**エムバペに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/10/liverpool-contact-real-madrid-new-manager
+https://www.football-espana.net/2026/05/10/barcelona-real-madrid-la-liga-alvaro-arbeloa-reaction
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Jose Mourinho speaks again on Real Madrid links – “I continue to run away from that”**
+② **Real Madrid player ratings against Barcelona: A performance to sum up a season for Los Blancos**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/10/jose-mourinho-real-madrid-links
+https://www.football-espana.net/2026/05/10/barcelona-real-madrid-la-liga-ratings-2
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
