@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-05-11）
 
-① **Real Madrid supporters fume at Kylian Mbappe social media post during El Clasico**
-**エムバペに関するニュース**
+① **Florentino Perez ready to make key Real Madrid managerial decisions**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/11/real-madrid-fume-kylian-mbappe-post
+https://www.football-espana.net/2026/05/11/florentino-perez-real-madrid-managerial-decisions
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **“I would have liked it if he played” – Real Madrid manager Alvaro Arbeloa on Kylian Mbappe’s El Clasico absence**
-**エムバペに関するニュース**
+② **Tensions between Alvaro Arbeloa and Real Madrid star began during transfer talks**
+**移籍に関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/10/barcelona-real-madrid-la-liga-alvaro-arbeloa-reaction
+https://www.football-espana.net/2026/05/11/tensions-alvaro-arbeloa-real-madrid-star-transfer-talks
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
 ③ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Comparativa de los títulos del Real Madrid vs FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
