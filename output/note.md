@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-05-11）
 
-① **“I would have liked it if he played” – Real Madrid manager Alvaro Arbeloa on Kylian Mbappe’s El Clasico absence**
+① **Real Madrid supporters fume at Kylian Mbappe social media post during El Clasico**
+**エムバペに関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/05/11/real-madrid-fume-kylian-mbappe-post
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **“I would have liked it if he played” – Real Madrid manager Alvaro Arbeloa on Kylian Mbappe’s El Clasico absence**
 **エムバペに関するニュース**
 
 🔗 リンク
@@ -9,29 +18,20 @@ https://www.football-espana.net/2026/05/10/barcelona-real-madrid-la-liga-alvaro-
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid player ratings against Barcelona: A performance to sum up a season for Los Blancos**
+③ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Comparativa de los títulos del Real Madrid vs FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/10/barcelona-real-madrid-la-liga-ratings-2
+https://www.laliga.com/noticias/comparativa-titulos-real-madrid-vs-fc-barcelona
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS JUE 07.05.2026 | NOTICIAS Posibles alineaciones del FC Barcelona vs Real Madrid J.35 Compartir**
+④ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Estadísticas del Real Madrid contra el FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/noticias/alineaciones-probables-de-elclasico-real-madrid-vs-fc-barcelona
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-④ **LALIGA EA SPORTS MIÉ 06.05.2026 | NOTICIAS ¿Dónde mirar Real Madrid vs FC Barcelona J.35? Compartir**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.laliga.com/noticias/fc-barcelona-vs-real-madrid-donde-ver-elclasico-laliga
+https://www.laliga.com/noticias/estadisticas-real-madrid-barcelona
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
