@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-12）
 
-① **Lamine Yamal flies Palestine flag, breaks out anti-Madridista shirt during Barcelona parade**
+① **Real Madrid captain Dani Carvajal left out of Spain World Cup squad**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/11/lamine-yamal-flies-palestine-flag-breaks-out-anti-madridista-shirt-during-barcelona-parade
+https://www.football-espana.net/2026/05/12/real-madrid-captain-dani-carvajal-left-out-of-spain-world-cup-squad
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Further details emerge on Jose Mourinho demands to take over Real Madrid**
-**レアル・マドリード関連ニュース**
+② **Report: ‘Mole’ who leaked Aurelien Tchouameni-Fede Valverde fight at Real Madrid exposed**
+**バルベルデに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/11/further-details-emerge-on-jose-mourinho-demands-to-take-over-real-madrid
+https://www.football-espana.net/2026/05/12/report-mole-who-leaked-aurelien-tchouameni-fede-valverde-fight-at-real-madrid-exposed
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
