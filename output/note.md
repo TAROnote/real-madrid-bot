@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-05-12）
+📰 レアル・マドリードニュースまとめ（2026-05-13）
 
-① **Real Madrid captain Dani Carvajal left out of Spain World Cup squad**
+① **Real Madrid President makes sexist comments during press conference calling elections**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/12/real-madrid-captain-dani-carvajal-left-out-of-spain-world-cup-squad
+https://www.football-espana.net/2026/05/12/real-madrid-president-makes-sexist-comments-during-press-conference-calling-elections
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Report: ‘Mole’ who leaked Aurelien Tchouameni-Fede Valverde fight at Real Madrid exposed**
-**バルベルデに関するニュース**
+② **Real Madrid President Florentino Perez calls elections after trophyless season**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/12/report-mole-who-leaked-aurelien-tchouameni-fede-valverde-fight-at-real-madrid-exposed
+https://www.football-espana.net/2026/05/12/real-madrid-president-florentino-perez-calls-elections-after-trophyless-season
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
