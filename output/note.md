@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-13）
 
-① **Barcelona studying legal action as Florentino Perez announces Negreira dossier for UEFA**
+① **Real Madrid President Florentino Perez – “Players have hit each other every year I’ve been here”**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/12/barcelona-studying-legal-action-as-florentino-perez-announces-negreira-dossier-for-uefa
+https://www.football-espana.net/2026/05/13/real-madrid-president-florentino-perez-players-have-hit-each-other-every-year-ive-been-here
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid President makes sexist comments during press conference calling elections**
+② **Barcelona studying legal action as Florentino Perez announces Negreira dossier for UEFA**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/12/real-madrid-president-makes-sexist-comments-during-press-conference-calling-elections
+https://www.football-espana.net/2026/05/12/barcelona-studying-legal-action-as-florentino-perez-announces-negreira-dossier-for-uefa
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
