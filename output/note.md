@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-05-13）
 
-① **Real Madrid President Florentino Perez – “Players have hit each other every year I’ve been here”**
+① **Real Madrid close to missing out on Manchester City midfielder Rodri Hernandez**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/13/real-madrid-president-florentino-perez-players-have-hit-each-other-every-year-ive-been-here
+https://www.football-espana.net/2026/05/13/real-madrid-close-to-missing-out-on-manchester-city-midfielder-rodri-hernandez
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Barcelona studying legal action as Florentino Perez announces Negreira dossier for UEFA**
+② **Real Madrid announce legal victory over Bernabeu concerts**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/12/barcelona-studying-legal-action-as-florentino-perez-announces-negreira-dossier-for-uefa
+https://www.football-espana.net/2026/05/13/real-madrid-announce-legal-victory-over-bernabeu-concerts
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。収益面やブランド価値にも関わるテーマであり、今後のレアル・マドリードの成長戦略を考えるうえでも重要なニュース。
 
 ③ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Comparativa de los títulos del Real Madrid vs FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
