@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-13）
 
-① **Real Madrid President makes sexist comments during press conference calling elections**
+① **Barcelona studying legal action as Florentino Perez announces Negreira dossier for UEFA**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/12/real-madrid-president-makes-sexist-comments-during-press-conference-calling-elections
+https://www.football-espana.net/2026/05/12/barcelona-studying-legal-action-as-florentino-perez-announces-negreira-dossier-for-uefa
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid President Florentino Perez calls elections after trophyless season**
+② **Real Madrid President makes sexist comments during press conference calling elections**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/12/real-madrid-president-florentino-perez-calls-elections-after-trophyless-season
+https://www.football-espana.net/2026/05/12/real-madrid-president-makes-sexist-comments-during-press-conference-calling-elections
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
