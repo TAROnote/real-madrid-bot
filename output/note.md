@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-05-14）
 
-① **Florentino Perez: Real Madrid have identified mole – “Everything is chaos”**
+① **Florentino Perez fuels tensions between Kylian Mbappe and Vinicius Junior – “He is our best player”**
+**ヴィニシウスに関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/05/13/florentino-perez-kylian-mbappe-vinicius-junior
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Florentino Perez: Real Madrid have identified mole – “Everything is chaos”**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -9,16 +18,25 @@ https://www.football-espana.net/2026/05/13/florentino-perez-real-madrid-mole
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Football España x CNN: Florentino Perez’s incredible press conference and What it means for Real Madrid**
+③ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Comparativa de los títulos del Real Madrid vs FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/13/football-espana-x-cnn-florentino-perezs-incredible-press-conference-and-what-it-means-for-real-madrid
+https://www.laliga.com/noticias/comparativa-titulos-real-madrid-vs-fc-barcelona
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **Real Madrid Transfer News**
+④ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Estadísticas del Real Madrid contra el FC Barcelona Compartir**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.laliga.com/noticias/estadisticas-real-madrid-barcelona
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+⑤ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -26,24 +44,6 @@ https://www.caughtoffside.com/tags/la-liga/real-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
-
-④ **Atletico Madrid Transfer News**
-**移籍に関するニュース**
-
-🔗 リンク
-https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
-
-📝 要約（日本語）
-移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
-
-⑤ **Siempre Madrid**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://siempremadrid.com
-
-📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 🧾 記事全体のコメント
 
