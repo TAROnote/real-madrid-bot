@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-14）
 
-① **Florentino Perez fuels tensions between Kylian Mbappe and Vinicius Junior – “He is our best player”**
-**ヴィニシウスに関するニュース**
+① **“I wasn’t wrong to hire Xabi Alonso” – Real Madrid President Florentino Perez also defends sacking**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/13/florentino-perez-kylian-mbappe-vinicius-junior
+https://www.football-espana.net/2026/05/14/i-wasnt-wrong-to-hire-xabi-alonso-real-madrid-president-florentino-perez-also-defends-sacking
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Florentino Perez: Real Madrid have identified mole – “Everything is chaos”**
+② **Paris Saint-Germain make contact with Real Madrid star over summer move**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/13/florentino-perez-real-madrid-mole
+https://www.football-espana.net/2026/05/14/paris-saint-germain-make-contact-with-real-madrid-star-over-summer-move
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
