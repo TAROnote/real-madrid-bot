@@ -1,22 +1,22 @@
-📰 レアル・マドリードニュースまとめ（2026-05-14）
+📰 レアル・マドリードニュースまとめ（2026-05-15）
 
-① **“I wasn’t wrong to hire Xabi Alonso” – Real Madrid President Florentino Perez also defends sacking**
-**レアル・マドリード関連ニュース**
+① **Real Madrid star appears to show support for Aurelien Tchouameni after Fede Valverde fight**
+**バルベルデに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/14/i-wasnt-wrong-to-hire-xabi-alonso-real-madrid-president-florentino-perez-also-defends-sacking
+https://www.football-espana.net/2026/05/14/real-madrid-star-appears-to-show-support-for-aurelien-tchouameni-after-fede-valverde-fight
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Paris Saint-Germain make contact with Real Madrid star over summer move**
+② **Jonatan Vazquez**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/14/paris-saint-germain-make-contact-with-real-madrid-star-over-summer-move
+https://www.football-espana.net/author/jonatan-vazquez
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 ③ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Comparativa de los títulos del Real Madrid vs FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
