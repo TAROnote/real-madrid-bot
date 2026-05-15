@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-15）
 
-① **WATCH: Kylian Mbappe whistled by Real Madrid fans on return to Santiago Bernabeu**
-**エムバペに関するニュース**
+① **Fede Valverde returns to Real Madrid training early after head injury**
+**トレーニングに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/15/watch-mbappe-whistles
+https://www.football-espana.net/2026/05/15/fede-valverde-returns-to-real-madrid-training-early-after-head-injury
 
 📝 要約（日本語）
-ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。収益面やブランド価値にも関わるテーマであり、今後のレアル・マドリードの成長戦略を考えるうえでも重要なニュース。
+チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。主力選手の状態や起用法にも関わるため、試合前の流れを把握するうえで押さえておきたい内容。
 
-② **Alvaro Arbeloa hits back at Kylian Mbappe claims – “I decide, I am the coach”**
+② **Jose Mourinho hurt by Arbeloa-Mbappe spat, “Didn’t even want to look at” Benfica contract offer**
 **エムバペに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/15/real-madrid-oviedo-la-liga-alvaro-arbeloa-reaction
+https://www.football-espana.net/2026/05/15/jose-mourinho-hurt-by-arbeloa-mbappe-spat-didnt-even-want-to-look-at-benfica-contract-offer
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
