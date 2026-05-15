@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-15）
 
-① **Alvaro Arbeloa hits back at Kylian Mbappe claims – “I decide, I am the coach”**
+① **WATCH: Kylian Mbappe whistled by Real Madrid fans on return to Santiago Bernabeu**
+**エムバペに関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/05/15/watch-mbappe-whistles
+
+📝 要約（日本語）
+ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。収益面やブランド価値にも関わるテーマであり、今後のレアル・マドリードの成長戦略を考えるうえでも重要なニュース。
+
+② **Alvaro Arbeloa hits back at Kylian Mbappe claims – “I decide, I am the coach”**
 **エムバペに関するニュース**
 
 🔗 リンク
 https://www.football-espana.net/2026/05/15/real-madrid-oviedo-la-liga-alvaro-arbeloa-reaction
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Kylian Mbappe breaks silence on Real Madrid drama – “Arbeloa told me I’m the fourth forward”**
-**エムバペに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/05/15/kylian-mbappe-real-madrid-drama
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
