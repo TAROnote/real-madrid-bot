@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-17）
 
-① **Alvaro Arbeloa reflects on Real Madrid legacy as exit nears – “I’ve spent 20 years here”**
+① **Fermin Lopez hits back at Florentino Perez over Barcelona claims – “You can’t say that”**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/17/alvaro-arbeloa-real-madrid-legacy
+https://www.football-espana.net/2026/05/17/fermin-lopez-florentino-perez-barcelona
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Alvaro Arbeloa on Mbappe situation – “I like that Kylian wasn’t happy”**
-**エムバペに関するニュース**
+② **Alvaro Arbeloa reflects on Real Madrid legacy as exit nears – “I’ve spent 20 years here”**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/16/alvaro-arbeloa-kylian-mbappe-situation
+https://www.football-espana.net/2026/05/17/alvaro-arbeloa-real-madrid-legacy
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
