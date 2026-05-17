@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-05-17）
+📰 レアル・マドリードニュースまとめ（2026-05-18）
 
 ① **Manchester City defender offers himself to Real Madrid**
 **レアル・マドリード関連ニュース**
