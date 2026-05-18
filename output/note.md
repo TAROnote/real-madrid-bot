@@ -1,22 +1,22 @@
-📰 レアル・マドリードニュースまとめ（2026-05-18）
+📰 レアル・マドリードニュースまとめ（2026-05-19）
 
-① **Dani Carvajal bids farewell to Real Madrid – “I leave calm and at peace”**
+① **Should Real Madrid sign a centre-forward this summer?**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/18/carvajal-farewell-real-madrid
+https://www.football-espana.net/2026/05/18/should-real-madrid-sign-a-centre-forward-this-summer
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid confirm club captain will leave upon contract expiry**
+② **Jonatan Vazquez**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/18/real-madrid-club-captain-leave
+https://www.football-espana.net/author/jonatan-vazquez
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 ③ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Comparativa de los títulos del Real Madrid vs FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
