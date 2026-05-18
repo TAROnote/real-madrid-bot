@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-18）
 
-① **Manchester City defender offers himself to Real Madrid**
+① **Real Madrid’s last game will be ‘a day of goodbyes, no doubt for some players too’ – Alvaro Arbeloa**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/17/man-city-defender-real-madrid
+https://www.football-espana.net/2026/05/17/arbeloa-real-madrid-goodbyes
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Fermin Lopez hits back at Florentino Perez over Barcelona claims – “You can’t say that”**
+② **Manchester City defender offers himself to Real Madrid**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/17/fermin-lopez-florentino-perez-barcelona
+https://www.football-espana.net/2026/05/17/man-city-defender-real-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
