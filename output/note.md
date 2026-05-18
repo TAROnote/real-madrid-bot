@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-18）
 
-① **Real Madrid’s last game will be ‘a day of goodbyes, no doubt for some players too’ – Alvaro Arbeloa**
+① **Jose Mourinho reaches agreement to become next Real Madrid manager**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/17/arbeloa-real-madrid-goodbyes
+https://www.football-espana.net/2026/05/18/jose-mourinho-next-real-madrid-manager
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Manchester City defender offers himself to Real Madrid**
+② **Jose Mourinho asks Real Madrid to sign Manchester City superstar this summer**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/17/man-city-defender-real-madrid
+https://www.football-espana.net/2026/05/18/jose-mourinho-real-madrid-sign-man-city-superstar
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
