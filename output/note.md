@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-18）
 
-① **Jose Mourinho reaches agreement to become next Real Madrid manager**
+① **Dani Carvajal bids farewell to Real Madrid – “I leave calm and at peace”**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/18/jose-mourinho-next-real-madrid-manager
+https://www.football-espana.net/2026/05/18/carvajal-farewell-real-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Jose Mourinho asks Real Madrid to sign Manchester City superstar this summer**
+② **Real Madrid confirm club captain will leave upon contract expiry**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/18/jose-mourinho-real-madrid-sign-man-city-superstar
+https://www.football-espana.net/2026/05/18/real-madrid-club-captain-leave
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
