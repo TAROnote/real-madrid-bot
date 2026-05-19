@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-05-19）
 
-① **Real Madrid have informed star he will replace Dani Carvajal as club captain**
+① **Real Madrid finalise terms of Jose Mourinho contract**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/19/real-madrid-have-informed-star-he-will-replace-dani-carvajal-as-club-captain
+https://www.football-espana.net/2026/05/19/real-madrid-finalise-terms-of-jose-mourinho-contract
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Three Real Madrid and Barcelona player join Neymar Junior in Brazil World Cup squad**
-**レアル・マドリード関連ニュース**
+② **Kylian Mbappe believes Real Madrid teammate is leaking negative stories about him**
+**エムバペに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/19/three-real-madrid-and-barcelona-player-join-neymar-junior-in-brazil-world-cup-squad
+https://www.football-espana.net/2026/05/19/kylian-mbappe-believes-real-madrid-teammate-is-leaking-negative-stories-about-him
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Comparativa de los títulos del Real Madrid vs FC Barcelona Compartir**
 **レアル・マドリード関連ニュース**
@@ -27,14 +27,14 @@ https://www.laliga.com/noticias/comparativa-titulos-real-madrid-vs-fc-barcelona
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-④ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Estadísticas del Real Madrid contra el FC Barcelona Compartir**
-**レアル・マドリード関連ニュース**
+④ **LALIGA EA SPORTS LUN 18.05.2026 | RESUMEN DE PARTIDO Vinicius decide en el Ramón Sánchez-Pizjuán Compartir**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://www.laliga.com/noticias/estadisticas-real-madrid-barcelona
+https://www.laliga.com/videos/vinicius-decide-en-el-ramon-sanchez-pizjuan
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 ⑤ **Real Madrid Transfer News**
 **移籍に関するニュース**
