@@ -1,6 +1,15 @@
-📰 レアル・マドリードニュースまとめ（2026-05-19）
+📰 レアル・マドリードニュースまとめ（2026-05-20）
 
-① **Real Madrid finalise terms of Jose Mourinho contract**
+① **Real Madrid line up move for Manchester City after Pep Guardiola exit**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/05/19/real-madrid-line-up-move-for-manchester-city-after-pep-guardiola-exit
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Real Madrid finalise terms of Jose Mourinho contract**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -9,25 +18,7 @@ https://www.football-espana.net/2026/05/19/real-madrid-finalise-terms-of-jose-mo
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Kylian Mbappe believes Real Madrid teammate is leaking negative stories about him**
-**エムバペに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/05/19/kylian-mbappe-believes-real-madrid-teammate-is-leaking-negative-stories-about-him
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-③ **LALIGA EA SPORTS LUN 11.05.2026 | NOTICIAS Comparativa de los títulos del Real Madrid vs FC Barcelona Compartir**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.laliga.com/noticias/comparativa-titulos-real-madrid-vs-fc-barcelona
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-④ **LALIGA EA SPORTS LUN 18.05.2026 | RESUMEN DE PARTIDO Vinicius decide en el Ramón Sánchez-Pizjuán Compartir**
+③ **LALIGA EA SPORTS LUN 18.05.2026 | RESUMEN DE PARTIDO Vinicius decide en el Ramón Sánchez-Pizjuán Compartir**
 **ヴィニシウスに関するニュース**
 
 🔗 リンク
@@ -36,11 +27,20 @@ https://www.laliga.com/videos/vinicius-decide-en-el-ramon-sanchez-pizjuan
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-⑤ **Real Madrid Transfer News**
+④ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
 https://www.caughtoffside.com/tags/la-liga/real-madrid/
+
+📝 要約（日本語）
+移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
+
+⑤ **Atletico Madrid Transfer News**
+**移籍に関するニュース**
+
+🔗 リンク
+https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
