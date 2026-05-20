@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-20）
 
-① **Real Madrid line up move for Manchester City after Pep Guardiola exit**
+① **Jose Mourinho suggests midfield signing to Real Madrid from Portugal**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/19/real-madrid-line-up-move-for-manchester-city-after-pep-guardiola-exit
+https://www.football-espana.net/2026/05/20/jose-mourinho-suggests-midfield-signing-to-real-madrid-from-portugal
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid finalise terms of Jose Mourinho contract**
+② **Real Madrid line up move for Manchester City after Pep Guardiola exit**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/19/real-madrid-finalise-terms-of-jose-mourinho-contract
+https://www.football-espana.net/2026/05/19/real-madrid-line-up-move-for-manchester-city-after-pep-guardiola-exit
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
