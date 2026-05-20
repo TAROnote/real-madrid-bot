@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-05-20）
+📰 レアル・マドリードニュースまとめ（2026-05-21）
 
 ① **Jose Mourinho suggests midfield signing to Real Madrid from Portugal**
 **レアル・マドリード関連ニュース**
