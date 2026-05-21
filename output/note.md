@@ -1,33 +1,24 @@
 📰 レアル・マドリードニュースまとめ（2026-05-21）
 
-① **Real Madrid star won’t be risked in final La Liga match ahead of 2026 World Cup**
-**試合に関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/05/21/real-madrid-star-wont-be-risked-in-final-la-liga-match-ahead-of-2026-world-cup
-
-📝 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
-
-② **Jose Mourinho wants to sign Barcelona star upon Real Madrid arrival**
+① **Real Madrid captain snubs manager Alvaro Arbeloa in farewell event**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/21/jose-mourinho-sign-barcelona-star-real-madrid
+https://www.football-espana.net/2026/05/21/real-madrid-captain-snubs-manager-alvaro-arbeloa-in-farewell-event
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS LUN 18.05.2026 | RESUMEN DE PARTIDO Vinicius decide en el Ramón Sánchez-Pizjuán Compartir**
-**ヴィニシウスに関するニュース**
+② **Jose Mourinho wants former Real Madrid player as part of coaching staff**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/vinicius-decide-en-el-ramon-sanchez-pizjuan
+https://www.football-espana.net/2026/05/21/jose-mourinho-wants-former-real-madrid-player-as-part-of-coaching-staff
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-④ **Real Madrid Transfer News**
+③ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -36,7 +27,7 @@ https://www.caughtoffside.com/tags/la-liga/real-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Atletico Madrid Transfer News**
+④ **Atletico Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -44,6 +35,15 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
+
+⑤ **Siempre Madrid**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://siempremadrid.com
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 🧾 記事全体のコメント
 
