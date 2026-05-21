@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-05-21）
+📰 レアル・マドリードニュースまとめ（2026-05-22）
 
-① **Real Madrid captain snubs manager Alvaro Arbeloa in farewell event**
+① **Real Madrid elections on: Florentino Perez rival informs board of candidacy**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/21/real-madrid-captain-snubs-manager-alvaro-arbeloa-in-farewell-event
+https://www.football-espana.net/2026/05/21/real-madrid-elections-on-florentino-perez-rival-informs-board-of-candidacy
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Jose Mourinho wants former Real Madrid player as part of coaching staff**
+② **Real Madrid evaluate three options to replace Dani Carvajal this summer**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/21/jose-mourinho-wants-former-real-madrid-player-as-part-of-coaching-staff
+https://www.football-espana.net/2026/05/21/real-madrid-evaluate-three-options-to-replace-dani-carvajal-this-summer
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
