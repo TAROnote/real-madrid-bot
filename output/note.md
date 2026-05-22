@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-05-22）
 
-① **Real Madrid elections on: Florentino Perez rival informs board of candidacy**
+① **Real Madrid set €80m asking price for midfielder**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/21/real-madrid-elections-on-florentino-perez-rival-informs-board-of-candidacy
+https://www.football-espana.net/2026/05/22/real-madrid-e80m-asking-price-midfielder
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid evaluate three options to replace Dani Carvajal this summer**
-**レアル・マドリード関連ニュース**
+② **Alvaro Arbeloa leaves out Vinicius Junior for final Real Madrid match of 2025-26 season**
+**試合に関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/21/real-madrid-evaluate-three-options-to-replace-dani-carvajal-this-summer
+https://www.football-espana.net/2026/05/21/alvaro-arbeloa-vinicius-junior-final-real-madrid-match
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
 
 ③ **Real Madrid Transfer News**
 **移籍に関するニュース**
