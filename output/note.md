@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-05-22）
 
-① **Real Madrid set €80m asking price for midfielder**
+① **Barcelona President elect Joan Laporta – ‘Negreira complaints are smokescreen for Real Madrid failure’**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/22/real-madrid-e80m-asking-price-midfielder
+https://www.football-espana.net/2026/05/22/barcelona-president-elect-joan-laporta-negreira-complaints-are-smokescreen-for-real-madrid-failure
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Alvaro Arbeloa leaves out Vinicius Junior for final Real Madrid match of 2025-26 season**
-**試合に関するニュース**
+② **“I give little important to Joan Laporta’s words” – Real Madrid manager Alvaro Arbeloa**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/21/alvaro-arbeloa-vinicius-junior-final-real-madrid-match
+https://www.football-espana.net/2026/05/22/i-give-little-important-to-joan-laportas-words-real-madrid-manager-alvaro-arbeloa
 
 📝 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **Real Madrid Transfer News**
 **移籍に関するニュース**
