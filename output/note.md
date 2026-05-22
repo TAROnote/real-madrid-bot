@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-05-22）
+📰 レアル・マドリードニュースまとめ（2026-05-23）
 
-① **Barcelona President elect Joan Laporta – ‘Negreira complaints are smokescreen for Real Madrid failure’**
+① **Real Madrid have Rodri Hernandez opening as Manchester City ramp up pressure**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/22/barcelona-president-elect-joan-laporta-negreira-complaints-are-smokescreen-for-real-madrid-failure
+https://www.football-espana.net/2026/05/22/real-madrid-have-rodri-hernandez-opening-as-manchester-city-ramp-up-pressure
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **“I give little important to Joan Laporta’s words” – Real Madrid manager Alvaro Arbeloa**
+② **Real Madrid announce exit of second veteran defender**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/22/i-give-little-important-to-joan-laportas-words-real-madrid-manager-alvaro-arbeloa
+https://www.football-espana.net/2026/05/22/real-madrid-announce-exit-of-second-veteran-defender
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
