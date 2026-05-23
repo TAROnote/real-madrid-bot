@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-05-23）
+📰 レアル・マドリードニュースまとめ（2026-05-24）
 
-① **Real Madrid have Rodri Hernandez opening as Manchester City ramp up pressure**
+① **Jose Mourinho ready to block summer exit for Real Madrid defender**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/22/real-madrid-have-rodri-hernandez-opening-as-manchester-city-ramp-up-pressure
+https://www.football-espana.net/2026/05/23/jose-mourinho-real-madrid-defender-exit
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid announce exit of second veteran defender**
+② **Jose Mourinho arrival opens door for Real Madrid to pursue Barcelona top target**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/22/real-madrid-announce-exit-of-second-veteran-defender
+https://www.football-espana.net/2026/05/23/jose-mourinho-real-madrid-barcelona-target
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
