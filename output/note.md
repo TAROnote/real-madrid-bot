@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-25）
 
-① **President confirms Real Madrid interest in star midfielder – “I’m not surprised”**
+① **Real Madrid forced to delay Jose Mourinho announcement**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/24/president-real-madrid-interest-midfielder
+https://www.football-espana.net/2026/05/25/real-madrid-delay-jose-mourinho-announcement
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Dani Carvajal breaks down after final Real Madrid appearance – “We have to get back up”**
+② **Bayern Munich respond after Jose Mourinho takes in performance of Real Madrid target**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/24/dani-carvajal-breaks-down-real-madrid
+https://www.football-espana.net/2026/05/24/bayern-munich-real-madrid-jose-mourinho-michael-olise
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
