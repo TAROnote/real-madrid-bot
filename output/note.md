@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-05-26）
 
-① **Kylian Mbappe and Alvaro Arbeloa settle feud with touching social media posts**
-**エムバペに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/05/25/kylian-mbappe-alvaro-arbeloa-settle-feud
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Real Madrid star included in Spain “B list” for 2026 World Cup**
+① **Real Madrid presidential candidate – “We have two international stars signed”**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/25/real-madrid-star-spain-2026-world-cup
+https://www.football-espana.net/2026/05/26/real-madrid-presidential-candidate-we-have-two-international-stars-signed
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Jose Mourinho sends Real Madrid document of 4-6 transfers wanted this summer**
+**移籍に関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/05/26/jose-mourinho-sends-real-madrid-document-of-4-6-transfers-wanted-this-summer
+
+📝 要約（日本語）
+移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
 ③ **Real Madrid Transfer News**
 **移籍に関するニュース**
