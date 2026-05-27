@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-27）
 
-① **COLUMN: The return of Jose Mourinho, the continuation of the Real Madrid cycle**
+① **Midfielder willing to reject summer Real Madrid move**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/26/mourinho-return-column
+https://www.football-espana.net/2026/05/27/midfielder-reject-real-madrid-move
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid players willing to following Alvaro Arbeloa to next club**
+② **Real Madrid announce date for first presidential election in 20 years**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/26/real-madrid-players-willing-to-following-alvaro-arbeloa-to-next-club
+https://www.football-espana.net/2026/05/26/real-madrid-date-presidential-election
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
