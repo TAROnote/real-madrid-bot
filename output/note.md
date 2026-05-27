@@ -1,24 +1,33 @@
 📰 レアル・マドリードニュースまとめ（2026-05-27）
 
-① **Midfielder willing to reject summer Real Madrid move**
-**レアル・マドリード関連ニュース**
+① **Vinicius Junior issues update amid contract uncertainty – “Real Madrid have to talk to me”**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/27/midfielder-reject-real-madrid-move
+https://www.football-espana.net/2026/05/27/vinicius-junior-update-contract-real-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid announce date for first presidential election in 20 years**
-**レアル・マドリード関連ニュース**
+② **Vinicius Junior explains Real Madrid dressing room tensions – “We don’t have enough experience”**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/26/real-madrid-date-presidential-election
+https://www.football-espana.net/2026/05/27/vinicius-junior-real-madrid-dressing-room-tensions
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **Real Madrid Transfer News**
+③ **LALIGA EA SPORTS MIE 27.05.2026 | GENERAL Zurdazo de Bellingham con un voleón en carrera Compartir**
+**ベリンガムに関するニュース**
+
+🔗 リンク
+https://www.laliga.com/videos/zurdazo-de-bellingham-con-un-voleon-en-carrera
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+
+④ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -27,7 +36,7 @@ https://www.caughtoffside.com/tags/la-liga/real-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-④ **Atletico Madrid Transfer News**
+⑤ **Atletico Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -35,15 +44,6 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
-
-⑤ **Siempre Madrid**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://siempremadrid.com
-
-📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 🧾 記事全体のコメント
 
