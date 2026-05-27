@@ -1,22 +1,22 @@
-📰 レアル・マドリードニュースまとめ（2026-05-27）
+📰 レアル・マドリードニュースまとめ（2026-05-28）
 
-① **Vinicius Junior issues update amid contract uncertainty – “Real Madrid have to talk to me”**
-**ヴィニシウスに関するニュース**
+① **Which Spanish Giant Has More Championships: Real Madrid or FC Barcelona?**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/27/vinicius-junior-update-contract-real-madrid
+https://www.football-espana.net/2026/05/27/barcelona-realmadrid-championship-spanish-giant
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Vinicius Junior explains Real Madrid dressing room tensions – “We don’t have enough experience”**
-**ヴィニシウスに関するニュース**
+② **Jonatan Vazquez**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/27/vinicius-junior-real-madrid-dressing-room-tensions
+https://www.football-espana.net/author/jonatan-vazquez
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 ③ **LALIGA EA SPORTS MIE 27.05.2026 | GENERAL Zurdazo de Bellingham con un voleón en carrera Compartir**
 **ベリンガムに関するニュース**
