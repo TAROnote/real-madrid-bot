@@ -18,7 +18,7 @@ https://www.football-espana.net/author/jonatan-vazquez
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-③ **LALIGA EA SPORTS MIE 27.05.2026 | GENERAL Zurdazo de Bellingham con un voleón en carrera Compartir**
+③ **LALIGA EA SPORTS MIÉ 27.05.2026 | GENERAL Zurdazo de Bellingham con un voleón en carrera Compartir**
 **ベリンガムに関するニュース**
 
 🔗 リンク
