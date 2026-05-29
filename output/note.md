@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-05-29）
 
-① **Real Madrid president Florentino Perez confirms upcoming Negreira case talks with UEFA**
+① **Jose Mourinho signs contract to become new Real Madrid manager despite elections**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/29/florentino-perez-negreira-case-talks-uefa
+https://www.football-espana.net/2026/05/29/jose-mourinho-signs-contract-to-become-new-real-madrid-manager-despite-elections
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid give huge boost in bid to sign Liverpool defender**
+② **Fifth Real Madrid star snubbed from World Cup after disappointing season**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/05/29/real-madrid-sign-liverpool-defender
+https://www.football-espana.net/2026/05/29/fifth-real-madrid-star-snubbed-from-world-cup-after-disappointing-season
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
