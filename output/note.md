@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-05-30）
 
-① **La Liga Team of the Season: Four Barcelona players included as midtable stars make impact**
+① **Real Madrid plan to announce first signing immediately after elections**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/05/30/real-madrid-plan-to-announce-first-signing-immediately-after-elections
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **La Liga Team of the Season: Four Barcelona players included as midtable stars make impact**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/05/30/team-of-the-season-la-liga
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
-
-② **Real Madrid President Florentino Perez lines up three transfers if he is re-elected**
-**移籍に関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/05/29/real-madrid-president-florentino-perez-lines-up-three-transfers-if-he-is-re-elected
-
-📝 要約（日本語）
-移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
 ③ **General VIE 29.05.2026 | GENERAL Brahim cierra la fiesta del Madrid tras revisión del VAR Compartir**
 **レアル・マドリード関連ニュース**
@@ -27,7 +27,7 @@ https://www.laliga.com/videos/brahim-cierra-la-fiesta-del-madrid-tras-revision-d
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **LALIGA EA SPORTS MIE 27.05.2026 | GENERAL Zurdazo de Bellingham con un voleón en carrera Compartir**
+④ **LALIGA EA SPORTS MIÉ 27.05.2026 | GENERAL Zurdazo de Bellingham con un voleón en carrera Compartir**
 **ベリンガムに関するニュース**
 
 🔗 リンク
