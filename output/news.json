@@ -1,7 +1,14 @@
 {
-  "generated_at_jst": "2026-05-30T11:05:30.891482+09:00",
-  "count": 70,
+  "generated_at_jst": "2026-05-30T17:17:03.065550+09:00",
+  "count": 71,
   "items": [
+    {
+      "title": "La Liga Team of the Season: Four Barcelona players included as midtable stars make impact",
+      "link": "https://www.football-espana.net/2026/05/30/team-of-the-season-la-liga",
+      "source": "Football España",
+      "published": "",
+      "summary": ""
+    },
     {
       "title": "Real Madrid President Florentino Perez lines up three transfers if he is re-elected",
       "link": "https://www.football-espana.net/2026/05/29/real-madrid-president-florentino-perez-lines-up-three-transfers-if-he-is-re-elected",
@@ -80,13 +87,6 @@
       "summary": ""
     },
     {
-      "title": "Barcelona and Real Madrid competing to sign €75m Manchester City star",
-      "link": "https://www.football-espana.net/2026/05/27/barcelona-real-madrid-sign-e75m-man-city-star",
-      "source": "Football España",
-      "published": "",
-      "summary": ""
-    },
-    {
       "title": "General VIE 29.05.2026 | GENERAL Brahim cierra la fiesta del Madrid tras revisión del VAR Compartir",
       "link": "https://www.laliga.com/videos/brahim-cierra-la-fiesta-del-madrid-tras-revision-del-var",
       "source": "LaLiga",
@@ -94,7 +94,7 @@
       "summary": ""
     },
     {
-      "title": "LALIGA EA SPORTS MIÉ 27.05.2026 | GENERAL Zurdazo de Bellingham con un voleón en carrera Compartir",
+      "title": "LALIGA EA SPORTS MIE 27.05.2026 | GENERAL Zurdazo de Bellingham con un voleón en carrera Compartir",
       "link": "https://www.laliga.com/videos/zurdazo-de-bellingham-con-un-voleon-en-carrera",
       "source": "LaLiga",
       "published": "",
@@ -115,22 +115,8 @@
       "summary": ""
     },
     {
-      "title": "Atletico Madrid open talks with Manchester City for midfielder",
-      "link": "https://www.football-espana.net/2026/05/29/atletico-madrid-open-talks-with-manchester-city-for-midfielder",
-      "source": "Football España Home",
-      "published": "",
-      "summary": ""
-    },
-    {
       "title": "Atletico Madrid deny Barcelona offer for Julian Alvarez – ‘Another lie’",
       "link": "https://www.football-espana.net/2026/05/29/atletico-madrid-deny-barcelona-offer-for-julian-alvarez-another-lie",
-      "source": "Football España Home",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Barcelona send first formal offer to Atletico Madrid for Julian Alvarez",
-      "link": "https://www.football-espana.net/2026/05/29/barcelona-send-first-formal-offer-to-atletico-madrid-for-julian-alvarez",
       "source": "Football España Home",
       "published": "",
       "summary": ""
@@ -143,8 +129,15 @@
       "summary": ""
     },
     {
-      "title": "Atletico Madrid hit back at Barcelona over Julian Alvarez saga – “Months of lies, half-truths”",
-      "link": "https://www.football-espana.net/2026/05/29/atletico-madrid-barcelona-julian-alvarez-saga",
+      "title": "Atletico Madrid open talks with Manchester City for midfielder",
+      "link": "https://www.football-espana.net/2026/05/29/atletico-madrid-open-talks-with-manchester-city-for-midfielder",
+      "source": "Football España Home",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Barcelona send first formal offer to Atletico Madrid for Julian Alvarez",
+      "link": "https://www.football-espana.net/2026/05/29/barcelona-send-first-formal-offer-to-atletico-madrid-for-julian-alvarez",
       "source": "Football España Home",
       "published": "",
       "summary": ""
@@ -215,20 +208,6 @@
     {
       "title": "The ‘de-Spanishification’ of Real Madrid",
       "link": "https://en.as.com/soccer/the-de-spanishification-of-real-madrid-f202605-n/",
-      "source": "AS",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Real Madrid makes presence felt at Champions League final",
-      "link": "https://en.as.com/soccer/real-madrid-makes-presence-felt-at-champions-league-final-f202605-n/",
-      "source": "AS",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Mourinho gets final green light for Real Madrid move",
-      "link": "https://en.as.com/soccer/mourinho-gets-final-green-light-for-real-madrid-move-f202605-n/",
       "source": "AS",
       "published": "",
       "summary": ""
@@ -320,6 +299,34 @@
     {
       "title": "Tensions rising at Real Madrid as Mbappe saga reaches 'flashpoint'",
       "link": "https://www.skysports.com/football/news/11095/13541024/kylian-mbappe-in-training-ground-row-as-real-madrid-tensions-rise-before-el-clasico",
+      "source": "Sky Sports",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Real Madrid president Perez keen on Mourinho reunion but no approach made",
+      "link": "https://www.skysports.com/football/news/11835/13538293/jose-mourinho-real-madrid-president-florentino-perez-keen-on-reunion-with-former-boss-but-no-approach-yet",
+      "source": "Sky Sports",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Real Madrid’s Champions League exit will bring big change at the Bernabeu",
+      "link": "https://www.skysports.com/football/news/11095/13532472/real-madrid-champions-league-exit-to-bayern-munich-will-bring-big-change-at-the-bernabeu",
+      "source": "Sky Sports",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Simeone silences Camp Nou – could Atletico Madrid finally win it?",
+      "link": "https://www.skysports.com/football/news/11095/13529546/barcelona-0-2-atletico-madrid-could-diego-simeone-s-wait-for-champions-league-glory-finally-come-to-an-end",
+      "source": "Sky Sports",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Real Madrid: What next after 'horrible' CL 'disgrace'?",
+      "link": "https://www.skysports.com/football/news/11095/13501120/real-madrid-should-brace-for-what-comes-next-after-horrible-champions-league-disgrace",
       "source": "Sky Sports",
       "published": "",
       "summary": ""
