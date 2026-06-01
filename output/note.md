@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-01）
+📰 レアル・マドリードニュースまとめ（2026-06-02）
 
 ① **Aurelien Tchouameni opens up on Fede Valverde altercation, denies punch**
 **バルベルデに関するニュース**
