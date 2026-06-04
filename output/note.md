@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Siempre Madrid**
+⑤ **Florentino with AS**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://siempremadrid.com
+https://en.as.com/soccer/florentino-perez-mourinho-and-konate-will-be-my-first-signings-f202606-n/
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
