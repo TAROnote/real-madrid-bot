@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-06）
+📰 レアル・マドリードニュースまとめ（2026-06-07）
 
 ① **Aurelien Tchouameni opens up on Fede Valverde altercation, denies punch**
 **バルベルデに関するニュース**
@@ -18,7 +18,16 @@ https://www.football-espana.net/2026/06/01/three-real-madrid-players-pick-up-cha
 📝 要約（日本語）
 チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
 
-③ **Real Madrid Transfer News**
+③ **LALIGA FC FUTURES SAB 06.06.2026 | LALIGA FC FUTURES Sevilla FC – Elche CF y Real Betis – Real Madrid, semifinales de LALIGA FC FUTURES Compartir**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.laliga.com/noticias/sevilla-fc-elche-cf-y-real-betis-real-madrid-semifinales-de-laliga-fc-futures
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+
+④ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -27,7 +36,7 @@ https://www.caughtoffside.com/tags/la-liga/real-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-④ **Atletico Madrid Transfer News**
+⑤ **Atletico Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -35,15 +44,6 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
-
-⑤ **The Madrid star who became Endrick’s lifeline**
-**エンドリッキに関するニュース**
-
-🔗 リンク
-https://en.as.com/soccer/endrick-reveals-the-real-madrid-star-who-helped-him-through-his-darkest-moments-he-called-me-every-day-f202606-n/
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 🧾 記事全体のコメント
 
