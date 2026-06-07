@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-06-07）
 
-① **Aurelien Tchouameni opens up on Fede Valverde altercation, denies punch**
+① **Real Madrid linked with Bayern winger Michael Olise in fresh report**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/06/07/real-madrid-linked-bayern-winger-michael-olise
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Aurelien Tchouameni opens up on Fede Valverde altercation, denies punch**
 **バルベルデに関するニュース**
 
 🔗 リンク
@@ -9,16 +18,7 @@ https://www.football-espana.net/2026/06/01/aurelien-tchouameni-opens-up-on-fede-
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Three Real Madrid players pick up Champions League awards**
-**チャンピオンズリーグに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/06/01/three-real-madrid-players-pick-up-champions-league-awards
-
-📝 要約（日本語）
-チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
-
-③ **LALIGA FC FUTURES SÁB 06.06.2026 | LALIGA FC FUTURES Sevilla FC – Elche CF y Real Betis – Real Madrid, semifinales de LALIGA FC FUTURES Compartir**
+③ **LALIGA FC Futures SÁB 06.06.2026 | LALIGA FC FUTURES Sevilla FC – Elche CF y Real Betis – Real Madrid, semifinales de LALIGA FC FUTURES Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
