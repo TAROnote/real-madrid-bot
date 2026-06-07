@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/06/01/three-real-madrid-players-pick-up-cha
 📝 要約（日本語）
 チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
 
-③ **LALIGA FC FUTURES SAB 06.06.2026 | LALIGA FC FUTURES Sevilla FC – Elche CF y Real Betis – Real Madrid, semifinales de LALIGA FC FUTURES Compartir**
+③ **LALIGA FC FUTURES SÁB 06.06.2026 | LALIGA FC FUTURES Sevilla FC – Elche CF y Real Betis – Real Madrid, semifinales de LALIGA FC FUTURES Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
