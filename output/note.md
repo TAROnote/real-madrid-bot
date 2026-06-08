@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-08）
+📰 レアル・マドリードニュースまとめ（2026-06-09）
 
 ① **Real Madrid linked with Bayern winger Michael Olise in fresh report**
 **レアル・マドリード関連ニュース**
