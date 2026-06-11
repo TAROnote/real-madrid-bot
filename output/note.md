@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/06/01/aurelien-tchouameni-opens-up-on-fede-
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA FC Futures SÁB 06.06.2026 | LALIGA FC FUTURES Sevilla FC – Elche CF y Real Betis – Real Madrid, semifinales de LALIGA FC FUTURES Compartir**
+③ **LALIGA FC Futures SAB 06.06.2026 | LALIGA FC FUTURES Sevilla FC – Elche CF y Real Betis – Real Madrid, semifinales de LALIGA FC FUTURES Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
