@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Barça formally request Florentino to retract slanderous comments**
-**レアル・マドリード関連ニュース**
+⑤ **Vinicius' future**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://en.as.com/soccer/barcelonareal-madrid-rivalry-erupts-into-a-legal-battle-over-negreira-accusations-f202606-n/
+https://en.as.com/soccer/world-cup/vinicius-breaks-silence-on-his-real-madrid-future-before-brazils-world-cup-opener-f202606-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
