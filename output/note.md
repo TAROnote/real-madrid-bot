@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-13）
+📰 レアル・マドリードニュースまとめ（2026-06-14）
 
 ① **Bernardo Silva Set to Join Real Madrid Ahead of World Cup**
 **レアル・マドリード関連ニュース**
