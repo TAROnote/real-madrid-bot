@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-14）
+📰 レアル・マドリードニュースまとめ（2026-06-15）
 
 ① **Bernardo Silva Set to Join Real Madrid Ahead of World Cup**
 **レアル・マドリード関連ニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **A masterclass from Vini, a statement from Morocco**
+⑤ **Cucu gives all of us Real Madrid fans reason to dream**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/world-cup/a-masterclass-from-vini-a-statement-from-morocco-f202606-n/
+https://en.as.com/soccer/cucu-gives-all-of-us-real-madrid-fans-reason-to-dream-f202606-n/
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
