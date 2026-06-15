@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-15）
+📰 レアル・マドリードニュースまとめ（2026-06-16）
 
 ① **Sami Khedira to Return to Real Madrid in Mourinho Coaching Staff Role**
 **レアル・マドリード関連ニュース**
