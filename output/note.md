@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-06-17）
 
-① **Rüdiger Signs Real Madrid Contract Extension Until 2027**
+① **Nico Paz Tells Real Madrid He Wants to Stay at Como**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/06/17/nico-paz-real-madrid-stay-como
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Rüdiger Signs Real Madrid Contract Extension Until 2027**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -9,16 +18,7 @@ https://www.football-espana.net/2026/06/17/rudiger-real-madrid-contract-extensio
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Sami Khedira to Return to Real Madrid in Mourinho Coaching Staff Role**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/06/15/khedira-returns-real-madrid-mourinho-coaching-staff
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-③ **General MIÉ 17.06.2026 | GENERAL Todos los goles del Atlético de Madrid en LALIGA 2025/26 Compartir**
+③ **LALIGA EA SPORTS MIE 17.06.2026 | GENERAL Todos los goles del Atlético de Madrid en LALIGA 2025/26 Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
