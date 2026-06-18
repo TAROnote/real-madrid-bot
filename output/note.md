@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-06-18）
 
-① **Nico Paz Tells Real Madrid He Wants to Stay at Como**
+① **Florentino Perez Willing to Spend Over €200m on Michael Olise This Summer**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/06/17/nico-paz-real-madrid-stay-como
+https://www.football-espana.net/2026/06/18/florentino-perez-200m-michael-olise-real-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Rüdiger Signs Real Madrid Contract Extension Until 2027**
+② **Nico Paz Tells Real Madrid He Wants to Stay at Como**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/06/17/rudiger-real-madrid-contract-extension-2027
+https://www.football-espana.net/2026/06/17/nico-paz-real-madrid-stay-como
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
