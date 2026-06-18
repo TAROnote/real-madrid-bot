@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-06-18）
+📰 レアル・マドリードニュースまとめ（2026-06-19）
 
-① **Florentino Perez Willing to Spend Over €200m on Michael Olise This Summer**
+① **Marc Cucurella: ‘I Had No Doubts’ – New Real Madrid Man Sends Message to Barcelona Fans**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/06/18/florentino-perez-200m-michael-olise-real-madrid
+https://www.football-espana.net/2026/06/18/cucurella-no-doubts-real-madrid-message-barcelona-fans
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Nico Paz Tells Real Madrid He Wants to Stay at Como**
+② **Florentino Perez Willing to Spend Over €200m on Michael Olise This Summer**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/06/17/nico-paz-real-madrid-stay-como
+https://www.football-espana.net/2026/06/18/florentino-perez-200m-michael-olise-real-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
