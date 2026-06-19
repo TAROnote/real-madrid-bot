@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-06-19）
 
-① **Free Transfer Coup: Konaté Commits to Real Madrid on Four-Year Deal**
+① **Mourinho’s Personal Call Sealed Cucurella’s £52m Real Madrid Move**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/06/19/cucurella-real-madrid-mourinho-transfer
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Free Transfer Coup: Konaté Commits to Real Madrid on Four-Year Deal**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/06/19/konate-real-madrid-free-transfer
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
-
-② **Marc Cucurella: ‘I Had No Doubts’ – New Real Madrid Man Sends Message to Barcelona Fans**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/06/18/cucurella-no-doubts-real-madrid-message-barcelona-fans
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **LALIGA EA SPORTS JUE 18.06.2026 | GENERAL Todos los goles y asistencias de Vini Jr. en LALIGA 2025/26 Compartir**
 **レアル・マドリード関連ニュース**
