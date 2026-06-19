@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-19）
+📰 レアル・マドリードニュースまとめ（2026-06-20）
 
 ① **Mourinho’s Personal Call Sealed Cucurella’s £52m Real Madrid Move**
 **レアル・マドリード関連ニュース**
