@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-20）
+📰 レアル・マドリードニュースまとめ（2026-06-21）
 
 ① **Courtois Rules Out Belgium Return as Madrid Contract Extension Nears**
 **クルトワに関するニュース**
