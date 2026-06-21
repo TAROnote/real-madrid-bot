@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-06-21）
 
-① **Courtois Rules Out Belgium Return as Madrid Contract Extension Nears**
-**クルトワに関するニュース**
+① **Tchouaméni or Camavinga: How Madrid Plan to Unlock the Olise Deal**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/06/20/courtois-real-madrid-career-contract-extension
+https://www.football-espana.net/2026/06/21/michael-olise-real-madrid-tchouameni-camavinga-deal
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Mourinho’s Personal Call Sealed Cucurella’s £52m Real Madrid Move**
-**レアル・マドリード関連ニュース**
+② **Courtois Rules Out Belgium Return as Madrid Contract Extension Nears**
+**クルトワに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/06/19/cucurella-real-madrid-mourinho-transfer
+https://www.football-espana.net/2026/06/20/courtois-real-madrid-career-contract-extension
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
