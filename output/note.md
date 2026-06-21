@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-21）
+📰 レアル・マドリードニュースまとめ（2026-06-22）
 
 ① **Tchouaméni or Camavinga: How Madrid Plan to Unlock the Olise Deal**
 **レアル・マドリード関連ニュース**
@@ -18,20 +18,20 @@ https://www.football-espana.net/2026/06/20/courtois-real-madrid-career-contract-
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS JUE 18.06.2026 | GENERAL Todos los goles y asistencias de Vini Jr. en LALIGA 2025/26 Compartir**
+③ **LaLiga Genuine Moeve DOM 21.06.2026 | LALIGA GENUINE MOEVE Madrid corona a los campeones de la 8ª temporada de LALIGA GENUINE Moeve Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/todos-los-goles-y-asistencias-de-vini-jr-en-laliga-2025-26
+https://www.laliga.com/noticias/madrid-corona-a-los-campeones-de-la-8a-temporada-de-laliga-genuine-moeve
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **General JUE 18.06.2026 | GENERAL Los 10 mejores goles del Atlético de Madrid en LALIGA 2025/26 Compartir**
+④ **LALIGA GENUINE MOEVE DOM 21.06.2026 | LALIGA GENUINE Madrid corona a los campeones de la temporada 2025-26 Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/los-10-mejores-goles-del-atletico-de-madrid-en-laliga-2025-26
+https://www.laliga.com/videos/madrid-corona-a-los-campeones-de-la-temporada-2025-26
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
