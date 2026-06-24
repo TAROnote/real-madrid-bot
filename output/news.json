@@ -1,6 +1,6 @@
 {
-  "generated_at_jst": "2026-06-24T17:53:13.225793+09:00",
-  "count": 68,
+  "generated_at_jst": "2026-06-24T23:06:21.664657+09:00",
+  "count": 69,
   "items": [
     {
       "title": "Tchouaméni or Camavinga: How Madrid Plan to Unlock the Olise Deal",
@@ -87,7 +87,7 @@
       "summary": ""
     },
     {
-      "title": "Nota Informativa MAR 23.06.2026 | NOTA INFORMATIVA La Audiencia Provincial de Madrid confirma la plena validez de los acuerdos de LALIGA con CVC Compartir",
+      "title": "institutional MAR 23.06.2026 | NOTA INFORMATIVA La Audiencia Provincial de Madrid confirma la plena validez de los acuerdos de LALIGA con CVC Compartir",
       "link": "https://www.laliga.com/noticias/la-audiencia-provincial-de-madrid-confirma-la-plena-validez-de-los-acuerdos-de-laliga-con-cvc",
       "source": "LaLiga",
       "published": "",
@@ -103,20 +103,6 @@
     {
       "title": "LALIGA GENUINE MOEVE DOM 21.06.2026 | LALIGA GENUINE Madrid corona a los campeones de la temporada 2025-26 Compartir",
       "link": "https://www.laliga.com/videos/madrid-corona-a-los-campeones-de-la-temporada-2025-26",
-      "source": "LaLiga",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "LALIGA EA SPORTS JUE 18.06.2026 | GENERAL Todos los goles y asistencias de Vini Jr. en LALIGA 2025/26 Compartir",
-      "link": "https://www.laliga.com/videos/todos-los-goles-y-asistencias-de-vini-jr-en-laliga-2025-26",
-      "source": "LaLiga",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "General JUE 18.06.2026 | GENERAL Los 10 mejores goles del Atlético de Madrid en LALIGA 2025/26 Compartir",
-      "link": "https://www.laliga.com/videos/los-10-mejores-goles-del-atletico-de-madrid-en-laliga-2025-26",
       "source": "LaLiga",
       "published": "",
       "summary": ""
@@ -202,6 +188,20 @@
       "title": "Atletico Madrid Transfer News",
       "link": "https://www.caughtoffside.com/tags/la-liga/atletico-madrid/",
       "source": "Football España Home",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Bellingham red card",
+      "link": "https://en.as.com/soccer/world-cup/why-was-jude-bellingham-not-shown-red-card-against-ghana-outcry-over-england-star-and-the-vinicius-law-f202606-n/",
+      "source": "AS",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "José Mourinho explains Real Madrid return and makes bold promise to Mbappé",
+      "link": "https://en.as.com/soccer/jose-mourinho-explains-real-madrid-return-and-makes-bold-promise-to-mbappe-f202606-n/",
+      "source": "AS",
       "published": "",
       "summary": ""
     },
@@ -311,15 +311,15 @@
       "summary": ""
     },
     {
-      "title": "Booed Mbappe claims to be Real's 'fourth forward'",
-      "link": "https://www.skysports.com/football/news/11095/13544267/kylian-mbappe-booed-real-madrid-striker-claims-to-be-fourth-forward-after-substitute-appearance-on-injury-return",
+      "title": "Transfer Centre LIVE! 'Real Madrid open to offers for Camavinga'",
+      "link": "https://www.skysports.com/football/live-blog/31771/12476234/transfer-centre-live-football-transfer-news-updates-and-rumours",
       "source": "Sky Sports",
       "published": "",
       "summary": ""
     },
     {
-      "title": "Mourinho increasingly likely to become next Real Madrid head coach",
-      "link": "https://www.skysports.com/football/news/11095/13542755/jose-mourinho-portuguese-increasingly-likely-to-become-next-real-madrid-head-coach",
+      "title": "Booed Mbappe claims to be Real's 'fourth forward'",
+      "link": "https://www.skysports.com/football/news/11095/13544267/kylian-mbappe-booed-real-madrid-striker-claims-to-be-fourth-forward-after-substitute-appearance-on-injury-return",
       "source": "Sky Sports",
       "published": "",
       "summary": ""
@@ -474,6 +474,13 @@
     {
       "title": "The Real Madrid Foundation and HSBC renew their alliance to promote inclusion through sports",
       "link": "https://www.realmadrid.com/en-US/news/club/foundation/la-fundacion-real-madrid-y-hsbc-renuevan-su-alianza-para-impulsar-la-inclusion-a-traves-del-deporte-24-06-2026",
+      "source": "Real Madrid Official",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Real Madrid Castilla, in Group 2 of the Primera Federación",
+      "link": "https://www.realmadrid.com/en-US/news/football/academy/latest-news/el-real-madrid-castilla-en-el-grupo-2-de-la-primera-federacion-24-06-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
