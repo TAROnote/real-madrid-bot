@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-26）
+📰 レアル・マドリードニュースまとめ（2026-06-27）
 
 ① **Tchouaméni or Camavinga: How Madrid Plan to Unlock the Olise Deal**
 **レアル・マドリード関連ニュース**
