@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-06-29）
+📰 レアル・マドリードニュースまとめ（2026-06-30）
 
 ① **Ceballos Waives Final Year of Wages to Exit Real Madrid a Year Early**
 **レアル・マドリード関連ニュース**
