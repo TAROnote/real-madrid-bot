@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/06/21/michael-olise-real-madrid-tchouameni-
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **Nota de Prensa JUE 02.07.2026 | NOTA DE PRENSA El Tribunal rechaza la petición del Real Madrid de suspender el Protocolo frente al acoso sexual de LALIGA Compartir**
+③ **institucional JUE 02.07.2026 | NOTA DE PRENSA El Tribunal rechaza la petición del Real Madrid de suspender el Protocolo frente al acoso sexual de LALIGA Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
