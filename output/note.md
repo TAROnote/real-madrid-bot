@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-07-11）
 
-① **Ceballos Waives Final Year of Wages to Exit Real Madrid a Year Early**
-**レアル・マドリード関連ニュース**
+① **Courtois Backs Real Madrid’s New Era: ‘Now It’s Up To Us’**
+**クルトワに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/06/28/dani-ceballos-real-madrid-contract-termination
+https://www.football-espana.net/2026/07/11/courtois-real-madrid-summer-rebuild-endorsement
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Tchouaméni or Camavinga: How Madrid Plan to Unlock the Olise Deal**
+② **Real Madrid Tie Down Tchouaméni to 2031 With Mourinho’s Backing**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/06/21/michael-olise-real-madrid-tchouameni-camavinga-deal
+https://www.football-espana.net/2026/07/11/tchouameni-real-madrid-extension-2031
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
