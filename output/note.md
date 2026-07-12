@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-07-12）
+📰 レアル・マドリードニュースまとめ（2026-07-13）
 
-① **Courtois Backs Real Madrid’s New Era: ‘Now It’s Up To Us’**
-**クルトワに関するニュース**
+① **Late-July Showdown: Can Real Madrid Lock Down Vinicius’ Future?**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/11/courtois-real-madrid-summer-rebuild-endorsement
+https://www.football-espana.net/2026/07/12/vinicius-junior-contract-real-madrid-july-talks
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid Tie Down Tchouaméni to 2031 With Mourinho’s Backing**
-**レアル・マドリード関連ニュース**
+② **Courtois Backs Real Madrid’s New Era: ‘Now It’s Up To Us’**
+**クルトワに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/11/tchouameni-real-madrid-extension-2031
+https://www.football-espana.net/2026/07/11/courtois-real-madrid-summer-rebuild-endorsement
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
