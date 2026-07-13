@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-07-13）
 
-① **Late-July Showdown: Can Real Madrid Lock Down Vinicius’ Future?**
-**ヴィニシウスに関するニュース**
+① **Real Madrid Board Forces Mourinho to Keep Pintus as Physical Trainer**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/12/vinicius-junior-contract-real-madrid-july-talks
+https://www.football-espana.net/2026/07/13/pintus-real-madrid-mourinho-physical-trainer
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。主力選手の状態や起用法にも関わるため、試合前の流れを把握するうえで押さえておきたい内容。
 
-② **Courtois Backs Real Madrid’s New Era: ‘Now It’s Up To Us’**
-**クルトワに関するニュース**
+② **Mourinho Takes First Training Session as Real Madrid Pre-Season Begins**
+**トレーニングに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/11/courtois-real-madrid-summer-rebuild-endorsement
+https://www.football-espana.net/2026/07/13/mourinho-real-madrid-pre-season-training
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。主力選手の状態や起用法にも関わるため、試合前の流れを把握するうえで押さえておきたい内容。
 
 ③ **institucional JUE 02.07.2026 | NOTA DE PRENSA El Tribunal rechaza la petición del Real Madrid de suspender el Protocolo frente al acoso sexual de LALIGA Compartir**
 **レアル・マドリード関連ニュース**
