@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-13）
+📰 レアル・マドリードニュースまとめ（2026-07-14）
 
 ① **Real Madrid Board Forces Mourinho to Keep Pintus as Physical Trainer**
 **レアル・マドリード関連ニュース**
