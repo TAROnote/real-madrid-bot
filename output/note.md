@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-15）
+📰 レアル・マドリードニュースまとめ（2026-07-16）
 
 ① **Courtois Groin Scare Proves Minor as Real Madrid Start Looms**
 **クルトワに関するニュース**
