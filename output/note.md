@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-17）
+📰 レアル・マドリードニュースまとめ（2026-07-18）
 
 ① **Courtois Groin Scare Proves Minor as Real Madrid Start Looms**
 **クルトワに関するニュース**
@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Barco provoked Bellingham twice**
-**ベリンガムに関するニュース**
+⑤ **Real Madrid’s flirtation with Pedro Porro**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/the-explanation-for-bellinghams-reaction-after-the-semi-final-defeat-to-argentina-barco-provoked-him-twice-f202607-n/
+https://en.as.com/soccer/world-cup/real-madrids-flirtation-with-pedro-porro-f202607-n/
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 🧾 記事全体のコメント
 
