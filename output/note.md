@@ -18,16 +18,7 @@ https://www.football-espana.net/2026/07/14/courtois-real-madrid-contract-2027-co
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **institucional JUE 02.07.2026 | NOTA DE PRENSA El Tribunal rechaza la petición del Real Madrid de suspender el Protocolo frente al acoso sexual de LALIGA Compartir**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.laliga.com/noticias/el-tribunal-rechaza-la-peticion-del-real-madrid-de-suspender-el-protocolo-frente-al-acoso-sexual-de-laliga
-
-📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
-
-④ **Real Madrid Transfer News**
+③ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -36,7 +27,7 @@ https://www.caughtoffside.com/tags/la-liga/real-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Atletico Madrid Transfer News**
+④ **Atletico Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -44,6 +35,15 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
+
+⑤ **Barco provoked Bellingham twice**
+**ベリンガムに関するニュース**
+
+🔗 リンク
+https://en.as.com/soccer/the-explanation-for-bellinghams-reaction-after-the-semi-final-defeat-to-argentina-barco-provoked-him-twice-f202607-n/
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 🧾 記事全体のコメント
 
