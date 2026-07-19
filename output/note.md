@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-19）
+📰 レアル・マドリードニュースまとめ（2026-07-20）
 
 ① **Real Madrid’s Right Flank Is Mastantuono’s to Lose This Preseason**
 **レアル・マドリード関連ニュース**
@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Mbappé's other Madrid love**
+⑤ **Confirmed: Real Madrid register summer signing in La Liga Real Madrid defender Denzel Dumfries has become the club’s first officially registered signing for the 2026/27 La Liga season, completing the necessary paperwork to be eligible for domestic competition.Registration process...**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/world-cup/who-is-kylian-mbappe-dating-this-is-his-girlfriend-spanish-actress-ester-exposito-f202607-n/
+https://onefootball.com/en/news/confirmed-real-madrid-register-summer-signing-in-la-liga-43154212
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 🧾 記事全体のコメント
 
