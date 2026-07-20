@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-20）
+📰 レアル・マドリードニュースまとめ（2026-07-21）
 
 ① **Real Madrid’s Right Flank Is Mastantuono’s to Lose This Preseason**
 **レアル・マドリード関連ニュース**
