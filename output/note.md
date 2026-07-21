@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-07-21）
+📰 レアル・マドリードニュースまとめ（2026-07-22）
 
-① **Real Madrid’s Right Flank Is Mastantuono’s to Lose This Preseason**
+① **Mourinho’s Trusted Aide Tralhão Joins Real Madrid Backroom Until 2029**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/18/mastantuono-real-madrid-preseason-mourinho
+https://www.football-espana.net/2026/07/21/tralho-real-madrid-assistant-manager-2029
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid Wait as Olise Makes His Wishes Clear to French Teammates**
+② **Real Madrid’s Right Flank Is Mastantuono’s to Lose This Preseason**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/18/olise-real-madrid-bayern-transfer
+https://www.football-espana.net/2026/07/18/mastantuono-real-madrid-preseason-mourinho
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Confirmed: Real Madrid register summer signing in La Liga Real Madrid defender Denzel Dumfries has become the club’s first officially registered signing for the 2026/27 La Liga season, completing the necessary paperwork to be eligible for domestic competition.Registration process...**
-**レアル・マドリード関連ニュース**
+⑤ **Rodrygo sees light at the end of the tunnel**
+**ロドリゴに関するニュース**
 
 🔗 リンク
-https://onefootball.com/en/news/confirmed-real-madrid-register-summer-signing-in-la-liga-43154212
+https://en.as.com/soccer/rodrygo-sees-light-at-the-end-of-the-tunnel-after-one-of-the-worst-days-of-his-life-f202607-n/
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 🧾 記事全体のコメント
 
