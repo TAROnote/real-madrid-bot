@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-07-23）
 
-① **Mourinho’s Trusted Aide Tralhão Joins Real Madrid Backroom Until 2029**
-**レアル・マドリード関連ニュース**
+① **Mourinho Plans Güler Role Modelled on Özil at Real Madrid**
+**ギュレルに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/21/tralho-real-madrid-assistant-manager-2029
+https://www.football-espana.net/2026/07/23/arda-guler-real-madrid-mourinho-ozil-role
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid’s Right Flank Is Mastantuono’s to Lose This Preseason**
+② **Mourinho’s Trusted Aide Tralhão Joins Real Madrid Backroom Until 2029**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/18/mastantuono-real-madrid-preseason-mourinho
+https://www.football-espana.net/2026/07/21/tralho-real-madrid-assistant-manager-2029
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Madrid prospects in play as Fulham pushes for two Real Madrid talents**
+⑤ **Real Madrid unveils new away uniform**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/madrid-prospects-in-play-as-fulham-pushes-for-two-real-madrid-talents-f202607-n/
+https://en.as.com/soccer/real-madrid-confirms-away-uniforms-for-202627-season-f202607-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
