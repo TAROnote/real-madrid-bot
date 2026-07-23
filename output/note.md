@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-23）
+📰 レアル・マドリードニュースまとめ（2026-07-24）
 
 ① **Mourinho Plans Güler Role Modelled on Özil at Real Madrid**
 **ギュレルに関するニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Real Madrid unveils new away uniform**
+⑤ **Barça rejected him, Madrid to reap the rewards**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/real-madrid-confirms-away-uniforms-for-202627-season-f202607-n/
+https://en.as.com/soccer/barcelona-rejected-him-now-real-madrid-get-to-reap-the-rewards-of-new-global-star-marc-cucurella-f202607-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
