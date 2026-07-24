@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-24）
+📰 レアル・マドリードニュースまとめ（2026-07-25）
 
 ① **Mourinho Plans Güler Role Modelled on Özil at Real Madrid**
 **ギュレルに関するニュース**
