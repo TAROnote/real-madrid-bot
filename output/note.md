@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-25）
+📰 レアル・マドリードニュースまとめ（2026-07-26）
 
 ① **Mourinho Plans Güler Role Modelled on Özil at Real Madrid**
 **ギュレルに関するニュース**
@@ -36,7 +36,7 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Why Camavinga could hold the key to Madrid's summer**
+⑤ **Real Madrid's key**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
