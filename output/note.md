@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-07-26）
 
-① **Mourinho Plans Güler Role Modelled on Özil at Real Madrid**
-**ギュレルに関するニュース**
+① **Vinícius Júnior Close to Real Madrid Contract Extension Worth Up to €30m**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/23/arda-guler-real-madrid-mourinho-ozil-role
+https://www.football-espana.net/2026/07/26/vinicus-junior-real-madrid-contract-extension-2030
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Mourinho’s Trusted Aide Tralhão Joins Real Madrid Backroom Until 2029**
-**レアル・マドリード関連ニュース**
+② **Mourinho Plans Güler Role Modelled on Özil at Real Madrid**
+**ギュレルに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/21/tralho-real-madrid-assistant-manager-2029
+https://www.football-espana.net/2026/07/23/arda-guler-real-madrid-mourinho-ozil-role
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
