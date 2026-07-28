@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-28）
+📰 レアル・マドリードニュースまとめ（2026-07-29）
 
 ① **Vinícius Júnior Close to Real Madrid Contract Extension Worth Up to €30m**
 **レアル・マドリード関連ニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Real Madrid board set to approve record revenue and Diomande signing**
+⑤ **Real Madrid sets revenue record with $1.4 billion last season**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/real-madrid-board-set-to-approve-record-revenue-and-diomande-signing-f202607-n/
+https://en.as.com/soccer/real-madrid-sets-revenue-record-with-14-billion-last-season-f202607-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
