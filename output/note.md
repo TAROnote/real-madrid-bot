@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-29）
+📰 レアル・マドリードニュースまとめ（2026-07-30）
 
 ① **Camavinga Digs In Despite Mourinho’s Pre-Season Warning at Real Madrid**
 **レアル・マドリード関連ニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Real Madrid doubles down on the Bellingham blueprint**
-**ベリンガムに関するニュース**
+⑤ **Rodri and Real Madrid, a 24-hour solution**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/real-madrid-doubles-down-on-the-bellingham-blueprint-with-yan-diomande-f202607-n/
+https://en.as.com/soccer/rodri-and-real-madrid-a-24-hour-solution-f202607-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
