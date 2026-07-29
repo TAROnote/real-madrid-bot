@@ -1,22 +1,22 @@
 📰 レアル・マドリードニュースまとめ（2026-07-29）
 
-① **Vinícius Júnior Close to Real Madrid Contract Extension Worth Up to €30m**
+① **Camavinga Digs In Despite Mourinho’s Pre-Season Warning at Real Madrid**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/26/vinicus-junior-real-madrid-contract-extension-2030
+https://www.football-espana.net/2026/07/29/camavinga-real-madrid-mourinho-warning
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Mourinho Plans Güler Role Modelled on Özil at Real Madrid**
-**ギュレルに関するニュース**
+② **Real Madrid’s Full Squad Is Blocking Transfer Business This Summer**
+**移籍に関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/07/23/arda-guler-real-madrid-mourinho-ozil-role
+https://www.football-espana.net/2026/07/29/real-madrid-squad-logjam-blocks-summer-signings
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
 ③ **Real Madrid Transfer News**
 **移籍に関するニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Real Madrid sets revenue record with $1.4 billion last season**
-**レアル・マドリード関連ニュース**
+⑤ **Real Madrid doubles down on the Bellingham blueprint**
+**ベリンガムに関するニュース**
 
 🔗 リンク
-https://en.as.com/soccer/real-madrid-sets-revenue-record-with-14-billion-last-season-f202607-n/
+https://en.as.com/soccer/real-madrid-doubles-down-on-the-bellingham-blueprint-with-yan-diomande-f202607-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
