@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-07-30）
+📰 レアル・マドリードニュースまとめ（2026-07-31）
 
 ① **Camavinga Digs In Despite Mourinho’s Pre-Season Warning at Real Madrid**
 **レアル・マドリード関連ニュース**
