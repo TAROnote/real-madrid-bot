@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-08-01）
 
-① **Camavinga Digs In Despite Mourinho’s Pre-Season Warning at Real Madrid**
+① **Diomande Set for Real Madrid as Rodri Talks Remain on Ice**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/08/01/yan-diomande-real-madrid-rodri-transfer-update
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Camavinga Digs In Despite Mourinho’s Pre-Season Warning at Real Madrid**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/07/29/camavinga-real-madrid-mourinho-warnin
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Real Madrid’s Full Squad Is Blocking Transfer Business This Summer**
-**移籍に関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/07/29/real-madrid-squad-logjam-blocks-summer-signings
-
-📝 要約（日本語）
-移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
 ③ **Nota de Prensa JUE 30.07.2026 | NOTA DE PRENSA El Tribunal de Instancia de Madrid desestima íntegramente la demanda del Real Madrid contra el criterio de implantación social aprobado por LALIGA Compartir**
 **レアル・マドリード関連ニュース**
