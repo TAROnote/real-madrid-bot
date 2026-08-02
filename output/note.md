@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-08-02）
+📰 レアル・マドリードニュースまとめ（2026-08-03）
 
 ① **Diomande Set for Real Madrid as Rodri Talks Remain on Ice**
 **レアル・マドリード関連ニュース**
