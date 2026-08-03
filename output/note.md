@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-08-03）
+📰 レアル・マドリードニュースまとめ（2026-08-04）
 
 ① **Mbappé and Vinicius Back in Group Training Ahead of Celta Vigo**
 **トレーニングに関するニュース**
