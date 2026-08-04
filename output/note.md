@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-08-04）
+📰 レアル・マドリードニュースまとめ（2026-08-05）
 
 ① **Bernardo Silva Opens Up on Why Real Madrid Move Was an Easy Decision**
 **レアル・マドリード関連ニュース**
