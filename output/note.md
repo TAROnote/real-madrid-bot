@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-08-05）
+📰 レアル・マドリードニュースまとめ（2026-08-06）
 
-① **Real Madrid’s Wage Hierarchy Puts Vinícius Future in Doubt Ahead of Crunch Talks**
+① **Real Madrid Fee Concerns Cast Doubt Over Rodri’s Clear Transfer Preference**
+**移籍に関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/08/05/rodri-real-madrid-transfer-fee-gap
+
+📝 要約（日本語）
+移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
+
+② **Real Madrid’s Wage Hierarchy Puts Vinícius Future in Doubt Ahead of Crunch Talks**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
 https://www.football-espana.net/2026/08/05/vincius-jr-real-madrid-contract-talks-arsenal
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Bernardo Silva Opens Up on Why Real Madrid Move Was an Easy Decision**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/08/04/bernardo-silva-real-madrid-move-decision
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
