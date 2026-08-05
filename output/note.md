@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-08-05）
 
-① **Bernardo Silva Opens Up on Why Real Madrid Move Was an Easy Decision**
+① **Real Madrid’s Wage Hierarchy Puts Vinícius Future in Doubt Ahead of Crunch Talks**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/08/05/vincius-jr-real-madrid-contract-talks-arsenal
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Bernardo Silva Opens Up on Why Real Madrid Move Was an Easy Decision**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/08/04/bernardo-silva-real-madrid-move-decis
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Mbappé and Vinicius Back in Group Training Ahead of Celta Vigo**
-**トレーニングに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/08/03/mbappe-vinicius-group-training-celta-vigo
-
-📝 要約（日本語）
-チームは次戦に向けて調整を進めており、コンディションや戦術面の確認が主なポイントになっている。主力選手の状態や起用法にも関わるため、試合前の流れを把握するうえで押さえておきたい内容。
 
 ③ **institucional JUE 30.07.2026 | NOTA DE PRENSA El Tribunal de Instancia de Madrid desestima íntegramente la demanda del Real Madrid contra el criterio de implantación social aprobado por LALIGA Compartir**
 **レアル・マドリード関連ニュース**
