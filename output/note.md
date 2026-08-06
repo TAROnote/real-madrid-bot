@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-08-06）
+📰 レアル・マドリードニュースまとめ（2026-08-07）
 
 ① **Real Madrid Fee Concerns Cast Doubt Over Rodri’s Clear Transfer Preference**
 **移籍に関するニュース**
