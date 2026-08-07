@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-08-07）
 
-① **Real Madrid Fee Concerns Cast Doubt Over Rodri’s Clear Transfer Preference**
+① **Vinícius ends Arsenal speculation with Real Madrid renewal**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/08/07/vinicius-real-madrid-renewal
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Real Madrid Fee Concerns Cast Doubt Over Rodri’s Clear Transfer Preference**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/08/05/rodri-real-madrid-transfer-fee-gap
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
-
-② **Real Madrid’s Wage Hierarchy Puts Vinícius Future in Doubt Ahead of Crunch Talks**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/08/05/vincius-jr-real-madrid-contract-talks-arsenal
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **institucional JUE 30.07.2026 | NOTA DE PRENSA El Tribunal de Instancia de Madrid desestima íntegramente la demanda del Real Madrid contra el criterio de implantación social aprobado por LALIGA Compartir**
 **レアル・マドリード関連ニュース**
@@ -27,20 +27,20 @@ https://www.laliga.com/noticias/el-tribunal-de-instancia-de-madrid-desestima-int
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **LALIGA EA SPORTS MAR 04.08.2026 | GENERAL Marc Pubill, presente y futuro del Atlético de Madrid Compartir**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.laliga.com/videos/marc-pubill-presente-y-futuro-del-atletico-de-madrid
-
-📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
-
-⑤ **Real Madrid Transfer News**
+④ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
 https://www.caughtoffside.com/tags/la-liga/real-madrid/
+
+📝 要約（日本語）
+移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
+
+⑤ **Atletico Madrid Transfer News**
+**移籍に関するニュース**
+
+🔗 リンク
+https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
