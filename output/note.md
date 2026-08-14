@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-08-14）
+📰 レアル・マドリードニュースまとめ（2026-08-15）
 
 ① **Vinícius ends Arsenal speculation with Real Madrid renewal**
 **レアル・マドリード関連ニュース**
