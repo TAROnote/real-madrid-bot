@@ -1,6 +1,15 @@
-📰 レアル・マドリードニュースまとめ（2026-08-15）
+📰 レアル・マドリードニュースまとめ（2026-08-16）
 
-① **Vinícius ends Arsenal speculation with Real Madrid renewal**
+① **Real Madrid Members Question Rules Governing Criticism of Club**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/08/15/real-madrid-social-discipline-rules
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Vinícius ends Arsenal speculation with Real Madrid renewal**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/08/07/vinicius-real-madrid-renewal
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Real Madrid Fee Concerns Cast Doubt Over Rodri’s Clear Transfer Preference**
-**移籍に関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/08/05/rodri-real-madrid-transfer-fee-gap
-
-📝 要約（日本語）
-移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
 ③ **institucional JUE 30.07.2026 | NOTA DE PRENSA El Tribunal de Instancia de Madrid desestima íntegramente la demanda del Real Madrid contra el criterio de implantación social aprobado por LALIGA Compartir**
 **レアル・マドリード関連ニュース**
