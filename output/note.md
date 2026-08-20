@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-08-20）
+📰 レアル・マドリードニュースまとめ（2026-08-21）
 
 ① **Real Madrid Members Question Rules Governing Criticism of Club**
 **レアル・マドリード関連ニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Vargas surplus to requirements at Atlético Madrid**
+⑤ **Adrián backing Konaté to shine at Real Madrid**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/mexican-international-obed-vargas-surplus-to-requirements-at-atletico-madrid-f202608-n/
+https://en.as.com/soccer/adrian-san-miguel-konate-has-the-personality-and-experience-to-shine-at-real-madrid-f202608-n/
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
