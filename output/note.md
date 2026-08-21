@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Adrián backing Konaté to shine at Real Madrid**
+⑤ **Steve McManaman on Mourinho’s “key priority” in Madrid**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/adrian-san-miguel-konate-has-the-personality-and-experience-to-shine-at-real-madrid-f202608-n/
+https://en.as.com/soccer/steve-mcmanaman-real-madrid-legend-on-mourinhos-key-priority-this-season-f202608-n/
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 🧾 記事全体のコメント
 
