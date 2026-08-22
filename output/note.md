@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-08-22）
+📰 レアル・マドリードニュースまとめ（2026-08-23）
 
 ① **Real Madrid Members Question Rules Governing Criticism of Club**
 **レアル・マドリード関連ニュース**
