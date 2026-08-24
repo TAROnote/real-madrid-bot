@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-08-24）
+📰 レアル・マドリードニュースまとめ（2026-08-25）
 
-① **Real Madrid Members Question Rules Governing Criticism of Club**
+① **Carlos Espí rescues Mourinho’s Real Madrid return in stoppage time**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/08/15/real-madrid-social-discipline-rules
+https://www.football-espana.net/2026/08/24/mourinho-real-madrid-return
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Vinícius ends Arsenal speculation with Real Madrid renewal**
+② **Real Madrid Members Question Rules Governing Criticism of Club**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/08/07/vinicius-real-madrid-renewal
+https://www.football-espana.net/2026/08/15/real-madrid-social-discipline-rules
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
