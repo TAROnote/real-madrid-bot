@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-08-28）
+📰 レアル・マドリードニュースまとめ（2026-08-29）
 
 ① **Real Madrid TV Revives Referee Criticism After Espanyol Win**
 **レアル・マドリード関連ニュース**
