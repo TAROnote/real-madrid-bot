@@ -1,33 +1,24 @@
-📰 レアル・マドリードニュースまとめ（2026-08-31）
+📰 レアル・マドリードニュースまとめ（2026-09-01）
 
-① **Real Madrid TV Revives Referee Criticism After Espanyol Win**
-**レアル・マドリード関連ニュース**
+① **Bellingham credits Mourinho freedom after Real Madrid cruise**
+**ベリンガムに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/08/25/real-madrid-tv-referee-analysis
+https://www.football-espana.net/2026/08/31/bellingham-mourinho-freedom
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Carlos Espí rescues Mourinho’s Real Madrid return in stoppage time**
+② **Schröder stars then sees red as Real Madrid edge Atlético**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/08/24/mourinho-real-madrid-return
+https://www.football-espana.net/2026/08/31/real-madrid-atletico-madrid-derby
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS DOM 30.08.2026 | RESUMEN DE PARTIDO El Real Madrid sonríe en el Bernabéu Compartir**
-**ベルナベウに関するニュース**
-
-🔗 リンク
-https://www.laliga.com/videos/el-real-madrid-sonrie-en-el-bernabeu
-
-📝 要約（日本語）
-ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。収益面やブランド価値にも関わるテーマであり、今後のレアル・マドリードの成長戦略を考えるうえでも重要なニュース。
-
-④ **Real Madrid Transfer News**
+③ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -36,7 +27,7 @@ https://www.caughtoffside.com/tags/la-liga/real-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Atletico Madrid Transfer News**
+④ **Atletico Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -44,6 +35,15 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
+
+⑤ **Official: Real Madrid sign midfield starlet**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://en.as.com/soccer/real-madrid-to-sign-racing-midfielder-who-is-sergio-martinez-f202608-n/
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 🧾 記事全体のコメント
 
