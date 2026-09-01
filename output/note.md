@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-01）
+📰 レアル・マドリードニュースまとめ（2026-09-02）
 
 ① **Bellingham credits Mourinho freedom after Real Madrid cruise**
 **ベリンガムに関するニュース**
