@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Real Madrid sell another young star to Fulham**
+⑤ **LaLiga is spending big again: Real Madrid leads $858m spree**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/real-madrid-sell-another-young-star-to-fulham-f202609-n/
+https://en.as.com/soccer/real-madrid-has-gone-on-a-summer-spending-spree-and-laliga-is-finally-opening-its-checkbook-again-f202609-n/
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
