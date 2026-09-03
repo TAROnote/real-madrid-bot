@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-09-03）
 
-① **Bellingham credits Mourinho freedom after Real Madrid cruise**
-**ベリンガムに関するニュース**
+① **Luka Modric sees Madrid as home after his playing career**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/08/31/bellingham-mourinho-freedom
+https://www.football-espana.net/2026/09/03/luka-modric-future-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Schröder stars then sees red as Real Madrid edge Atlético**
-**レアル・マドリード関連ニュース**
+② **Bellingham credits Mourinho freedom after Real Madrid cruise**
+**ベリンガムに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/08/31/real-madrid-atletico-madrid-derby
+https://www.football-espana.net/2026/08/31/bellingham-mourinho-freedom
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Modric: “Cristiano will reach 1,000 goals for sure"**
+⑤ **The Xabi Alonso warning hanging over Mourinho’s Madrid**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/modric-cristiano-will-reach-1000-goals-and-as-long-as-my-body-speaks-ill-keep-playing-f202609-n/
+https://en.as.com/soccer/the-xabi-alonso-warning-hanging-over-jose-mourinhos-real-madrid-f202609-n/
 
 📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 🧾 記事全体のコメント
 
