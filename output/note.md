@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **“If Mourinho called me about Real Madrid, honestly, I’d think about it”**
+⑤ **Modric: “Cristiano will reach 1,000 goals for sure"**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/if-mourinho-called-me-about-real-madrid-honestly-id-think-about-it-f202609-n/
+https://en.as.com/soccer/modric-cristiano-will-reach-1000-goals-and-as-long-as-my-body-speaks-ill-keep-playing-f202609-n/
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
