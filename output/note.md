@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-09-03）
+📰 レアル・マドリードニュースまとめ（2026-09-04）
 
-① **Luka Modric sees Madrid as home after his playing career**
+① **Real Madrid Women Complete Champions League Return With Ajax Win**
+**チャンピオンズリーグに関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/09/03/real-madrid-women-champions-league
+
+📝 要約（日本語）
+チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
+
+② **Luka Modric sees Madrid as home after his playing career**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
 https://www.football-espana.net/2026/09/03/luka-modric-future-madrid
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Bellingham credits Mourinho freedom after Real Madrid cruise**
-**ベリンガムに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/08/31/bellingham-mourinho-freedom
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **The Xabi Alonso warning hanging over Mourinho’s Madrid**
+⑤ **Figo delivers verdict on Real Madrid’s new signings**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/the-xabi-alonso-warning-hanging-over-jose-mourinhos-real-madrid-f202609-n/
+https://en.as.com/soccer/luis-figo-delivers-his-verdict-on-real-madrids-new-signings-and-issues-a-warning-f202609-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
