@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **José's two-faced Real Madrid**
-**レアル・マドリード関連ニュース**
+⑤ **Mourinho explains why PSG and Bayern are ahead of Real Madrid in the Champions League**
+**チャンピオンズリーグに関するニュース**
 
 🔗 リンク
-https://en.as.com/soccer/real-madrid-has-two-faces-and-the-numbers-reveal-a-troubling-divide-f202609-n/
+https://en.as.com/videos/mourinho-explains-why-psg-and-bayern-are-ahead-of-real-madrid-in-the-champions-league-f202609-v/?pbsvideo=top
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
 
 🧾 記事全体のコメント
 
