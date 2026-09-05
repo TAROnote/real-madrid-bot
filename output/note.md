@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-05）
+📰 レアル・マドリードニュースまとめ（2026-09-06）
 
 ① **Real Madrid Women Complete Champions League Return With Ajax Win**
 **チャンピオンズリーグに関するニュース**
