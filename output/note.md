@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Enzo Fernández found in Maresca what Real Madrid couldn’t give him**
+⑤ **Real Madrid’s billion-dollar record**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/enzo-fernandez-found-in-maresca-what-real-madrid-couldnt-give-him-f202609-n/
+https://en.as.com/soccer/real-madrids-billion-dollar-record-f202609-n/
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
