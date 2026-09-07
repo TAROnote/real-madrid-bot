@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Mourinho explains why PSG and Bayern are ahead of Real Madrid in the Champions League**
-**チャンピオンズリーグに関するニュース**
+⑤ **Enzo Fernández found in Maresca what Real Madrid couldn’t give him**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/videos/mourinho-explains-why-psg-and-bayern-are-ahead-of-real-madrid-in-the-champions-league-f202609-v/?pbsvideo=top
+https://en.as.com/soccer/enzo-fernandez-found-in-maresca-what-real-madrid-couldnt-give-him-f202609-n/
 
 📝 要約（日本語）
-チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 🧾 記事全体のコメント
 
