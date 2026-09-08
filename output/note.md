@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-09-08）
 
-① **Mourinho Welcomes Three Back Before Real Madrid’s Inter Opener**
+① **Six Real Madrid absences put Mourinho’s options under pressure**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/09/08/real-madrid-absences-inter
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Mourinho Welcomes Three Back Before Real Madrid’s Inter Opener**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/09/07/real-madrid-training-inter
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Real Madrid Women Complete Champions League Return With Ajax Win**
-**チャンピオンズリーグに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/09/03/real-madrid-women-champions-league
-
-📝 要約（日本語）
-チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
 
 ③ **LALIGA EA SPORTS LUN 07.09.2026 | GENERAL Los mejores goles de falta del Atlético de Madrid en LALIGA Compartir**
 **レアル・マドリード関連ニュース**
