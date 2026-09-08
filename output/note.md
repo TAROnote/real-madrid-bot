@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/09/03/real-madrid-women-champions-league
 📝 要約（日本語）
 チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
 
-③ **General LUN 07.09.2026 | GENERAL Los mejores goles de falta del Atlético de Madrid en LALIGA Compartir**
+③ **LALIGA EA SPORTS LUN 07.09.2026 | GENERAL Los mejores goles de falta del Atlético de Madrid en LALIGA Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
