@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-08）
+📰 レアル・マドリードニュースまとめ（2026-09-09）
 
 ① **Six Real Madrid absences put Mourinho’s options under pressure**
 **レアル・マドリード関連ニュース**
