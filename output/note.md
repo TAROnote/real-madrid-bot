@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-09-09）
+📰 レアル・マドリードニュースまとめ（2026-09-10）
 
-① **Courtois Save Preserves Real Madrid Win Over Inter Milan**
+① **Mbappé Puts Champions League Glory Ahead of Ballon d’Or**
+**チャンピオンズリーグに関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/09/09/champions-league-mbappe-ambition
+
+📝 要約（日本語）
+チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
+
+② **Courtois Save Preserves Real Madrid Win Over Inter Milan**
 **クルトワに関するニュース**
 
 🔗 リンク
 https://www.football-espana.net/2026/09/09/real-madrid-win-inter-milan
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Six Real Madrid absences put Mourinho’s options under pressure**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/09/08/real-madrid-absences-inter
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
