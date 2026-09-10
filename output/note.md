@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-10）
+📰 レアル・マドリードニュースまとめ（2026-09-11）
 
 ① **Mbappé Puts Champions League Glory Ahead of Ballon d’Or**
 **チャンピオンズリーグに関するニュース**
