@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-11）
+📰 レアル・マドリードニュースまとめ（2026-09-12）
 
 ① **Courtois reportedly set to stay at Real Madrid through 2028**
 **クルトワに関するニュース**
