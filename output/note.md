@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-09-11）
 
-① **Mbappé Puts Champions League Glory Ahead of Ballon d’Or**
+① **Courtois reportedly set to stay at Real Madrid through 2028**
+**クルトワに関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/09/11/courtois-contract-extension-real-madrid
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Mbappé Puts Champions League Glory Ahead of Ballon d’Or**
 **チャンピオンズリーグに関するニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/09/09/champions-league-mbappe-ambition
 
 📝 要約（日本語）
 チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
-
-② **Courtois Save Preserves Real Madrid Win Over Inter Milan**
-**クルトワに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/09/09/real-madrid-win-inter-milan
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **LALIGA EA SPORTS LUN 07.09.2026 | GENERAL Los mejores goles de falta del Atlético de Madrid en LALIGA Compartir**
 **レアル・マドリード関連ニュース**
