@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-12）
+📰 レアル・マドリードニュースまとめ（2026-09-13）
 
 ① **Courtois reportedly set to stay at Real Madrid through 2028**
 **クルトワに関するニュース**
@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Mbappé puts Real Madrid’s Champions League dream above the Ballon d’Or**
-**チャンピオンズリーグに関するニュース**
+⑤ **Real Madrid RMA**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/videos/mbappe-puts-real-madrids-champions-league-dream-above-the-ballon-dor-f202609-v/?pbsvideo=top
+https://en.as.com/resultados/ficha/equipo/real_madrid/1/
 
 📝 要約（日本語）
-チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 🧾 記事全体のコメント
 
