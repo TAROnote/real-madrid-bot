@@ -18,7 +18,16 @@ https://www.football-espana.net/2026/09/09/champions-league-mbappe-ambition
 📝 要約（日本語）
 チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
 
-③ **Real Madrid Transfer News**
+③ **Resumen de Partido SAB 12.09.2026 | RESUMEN DE PARTIDO El Bernabéu disfruta y el Real Madrid golea contra el Rayo Vallecano Compartir**
+**ベルナベウに関するニュース**
+
+🔗 リンク
+https://www.laliga.com/videos/el-bernabeu-disfruta-y-el-real-madrid-golea-contra-el-rayo-vallecano
+
+📝 要約（日本語）
+ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。収益面やブランド価値にも関わるテーマであり、今後のレアル・マドリードの成長戦略を考えるうえでも重要なニュース。
+
+④ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -27,7 +36,7 @@ https://www.caughtoffside.com/tags/la-liga/real-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-④ **Atletico Madrid Transfer News**
+⑤ **Atletico Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -35,15 +44,6 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
-
-⑤ **Real Madrid RMA**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://en.as.com/resultados/ficha/equipo/real_madrid/1/
-
-📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 🧾 記事全体のコメント
 
