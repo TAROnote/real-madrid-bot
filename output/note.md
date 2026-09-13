@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-13）
+📰 レアル・マドリードニュースまとめ（2026-09-14）
 
 ① **Mbappé Double Helps Real Madrid See Off Rayo Fightback**
 **レアル・マドリード関連ニュース**
