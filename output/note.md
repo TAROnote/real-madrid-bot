@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/09/11/courtois-contract-extension-real-madr
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **Resumen de Partido SAB 12.09.2026 | RESUMEN DE PARTIDO El Bernabéu disfruta y el Real Madrid golea contra el Rayo Vallecano Compartir**
+③ **LALIGA EA SPORTS SAB 12.09.2026 | RESUMEN DE PARTIDO El Bernabéu disfruta y el Real Madrid golea contra el Rayo Vallecano Compartir**
 **ベルナベウに関するニュース**
 
 🔗 リンク
