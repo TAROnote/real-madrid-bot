@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-09-14）
+📰 レアル・マドリードニュースまとめ（2026-09-15）
 
-① **Mbappé Double Helps Real Madrid See Off Rayo Fightback**
+① **Mbappé brace sends Real Madrid level with Barcelona**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/09/13/real-madrid-4-1-result
+https://www.football-espana.net/2026/09/14/real-madrid-rayo-vallecano-win
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Courtois reportedly set to stay at Real Madrid through 2028**
-**クルトワに関するニュース**
+② **Mbappé Double Helps Real Madrid See Off Rayo Fightback**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/09/11/courtois-contract-extension-real-madrid
+https://www.football-espana.net/2026/09/13/real-madrid-4-1-result
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
