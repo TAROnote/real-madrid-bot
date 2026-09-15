@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Nadal and Jódar get emotional during Real Madrid anthem at the Bernabéu**
-**ベルナベウに関するニュース**
+⑤ **Real Madrid to dampen Elche 50 celebrations**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/videos/nadal-and-jodar-get-emotional-during-real-madrid-anthem-at-the-bernabeu-f202609-v/?pbsvideo=top
+https://en.as.com/soccer/how-many-times-has-elche-beaten-real-madrid-at-home-when-was-the-last-time-f202609-n/
 
 📝 要約（日本語）
-ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。収益面やブランド価値にも関わるテーマであり、今後のレアル・マドリードの成長戦略を考えるうえでも重要なニュース。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 🧾 記事全体のコメント
 
