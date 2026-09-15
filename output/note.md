@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-15）
+📰 レアル・マドリードニュースまとめ（2026-09-16）
 
 ① **Mbappé brace sends Real Madrid level with Barcelona**
 **レアル・マドリード関連ニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Real Madrid to dampen Elche 50 celebrations**
+⑤ **Real Madrid’s plan for Tchouameni**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/how-many-times-has-elche-beaten-real-madrid-at-home-when-was-the-last-time-f202609-n/
+https://en.as.com/soccer/real-madrids-plan-for-tchouameni-f202609-n/
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
