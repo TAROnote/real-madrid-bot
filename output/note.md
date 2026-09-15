@@ -18,16 +18,7 @@ https://www.football-espana.net/2026/09/13/real-madrid-4-1-result
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS SAB 12.09.2026 | RESUMEN DE PARTIDO El Bernabéu disfruta y el Real Madrid golea contra el Rayo Vallecano Compartir**
-**ベルナベウに関するニュース**
-
-🔗 リンク
-https://www.laliga.com/videos/el-bernabeu-disfruta-y-el-real-madrid-golea-contra-el-rayo-vallecano
-
-📝 要約（日本語）
-ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。収益面やブランド価値にも関わるテーマであり、今後のレアル・マドリードの成長戦略を考えるうえでも重要なニュース。
-
-④ **Real Madrid Transfer News**
+③ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -36,7 +27,7 @@ https://www.caughtoffside.com/tags/la-liga/real-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Atletico Madrid Transfer News**
+④ **Atletico Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -44,6 +35,15 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
+
+⑤ **Nadal and Jódar get emotional during Real Madrid anthem at the Bernabéu**
+**ベルナベウに関するニュース**
+
+🔗 リンク
+https://en.as.com/videos/nadal-and-jodar-get-emotional-during-real-madrid-anthem-at-the-bernabeu-f202609-v/?pbsvideo=top
+
+📝 要約（日本語）
+ベルナベウに関する話題で、スタジアムの機能やクラブの将来性に注目が集まっている。収益面やブランド価値にも関わるテーマであり、今後のレアル・マドリードの成長戦略を考えるうえでも重要なニュース。
 
 🧾 記事全体のコメント
 
