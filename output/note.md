@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/09/13/real-madrid-4-1-result
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **Resumen de Partido MIE 16.09.2026 | RESUMEN DE PARTIDO ¡Carlos Espí decide el Elche - Real Madrid en el descuento! Compartir**
+③ **LALIGA EA SPORTS MIE 16.09.2026 | RESUMEN DE PARTIDO ¡Carlos Espí decide el Elche - Real Madrid en el descuento! Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
