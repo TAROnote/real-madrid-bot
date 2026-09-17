@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-17）
+📰 レアル・マドリードニュースまとめ（2026-09-18）
 
 ① **Mbappé brace sends Real Madrid level with Barcelona**
 **レアル・マドリード関連ニュース**
