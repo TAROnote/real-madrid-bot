@@ -18,20 +18,20 @@ https://www.football-espana.net/2026/09/13/real-madrid-4-1-result
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS MIE 16.09.2026 | RESUMEN DE PARTIDO Goleada del Atlético de Madrid para dejar los tres puntos en el Metropolitano Compartir**
+③ **General JUE 17.09.2026 | GENERAL Los mejores goles en el último minuto del Real Madrid en LALIGA EA SPORTS Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/goleada-del-atletico-de-madrid-para-dejar-los-tres-puntos-en-el-metropolitan
+https://www.laliga.com/videos/los-mejores-goles-en-el-ultimo-minuto-del-real-madrid-en-laliga-ea-sports
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **LALIGA EA SPORTS MIE 16.09.2026 | RESUMEN DE PARTIDO ¡Carlos Espí decide el Elche - Real Madrid en el descuento! Compartir**
+④ **LALIGA EA SPORTS MIE 16.09.2026 | RESUMEN DE PARTIDO Goleada del Atlético de Madrid para dejar los tres puntos en el Metropolitano Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/carlos-espi-decide-el-elche-real-madrid-en-el-descuento
+https://www.laliga.com/videos/goleada-del-atletico-de-madrid-para-dejar-los-tres-puntos-en-el-metropolitan
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
