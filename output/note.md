@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Atletico vs Real Madrid live**
-**レアル・マドリード関連ニュース**
+⑤ **Valverde suffers “severe” injury as Madrid derby controversy deepens**
+**バルベルデに関するニュース**
 
 🔗 リンク
-https://en.as.com/soccer/atletico-madrid-vs-real-madrid-live-online-score-stats-goals-updates-laliga-202627-f202609-n/
+https://en.as.com/soccer/fede-valverde-suffers-severe-injury-as-madrid-derby-controversy-deepens-f202609-n/
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。シーズン終盤や重要な試合が続く時期ほど、選手層やローテーションに大きく影響する可能性がある。
 
 🧾 記事全体のコメント
 
