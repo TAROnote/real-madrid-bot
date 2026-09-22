@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-09-23）
 
-① **Huijsen Sent Off After VAR Review Changes Madrid Derby Sanction**
+① **Mbappé Shifts Focus From Derby Officials to Real Madrid’s Response**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/09/22/mbappe-derby-comments
+
+📝 要約（日本語）
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
+
+② **Huijsen Sent Off After VAR Review Changes Madrid Derby Sanction**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/09/21/var-audio-huijsen-red-card
 
 📝 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
-
-② **Uruguay window in doubt as Fede Valverde awaits ankle tests**
-**バルベルデに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/09/21/fede-valverde-injury
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **Real Madrid Transfer News**
 **移籍に関するニュース**
