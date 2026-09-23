@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-09-24）
 
-① **Real Madrid Defends Its TV Channel After Gara Comparison**
+① **Valverde to miss Uruguay duty after Real Madrid derby injury**
+**バルベルデに関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/09/23/fede-valverde-injury-2
+
+📝 要約（日本語）
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。シーズン終盤や重要な試合が続く時期ほど、選手層やローテーションに大きく影響する可能性がある。
+
+② **Real Madrid Defends Its TV Channel After Gara Comparison**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -9,16 +18,16 @@ https://www.football-espana.net/2026/09/23/real-madrid-tv-gara-comparison
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Mbappé Shifts Focus From Derby Officials to Real Madrid’s Response**
+③ **General MIE 23.09.2026 | GENERAL POV: ¡el Derbi de Madrid desde dentro! Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/09/22/mbappe-derby-comments
+https://www.laliga.com/videos/pov-el-derbi-de-madrid-desde-dentro
 
 📝 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-③ **Real Madrid Transfer News**
+④ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -27,7 +36,7 @@ https://www.caughtoffside.com/tags/la-liga/real-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-④ **Atletico Madrid Transfer News**
+⑤ **Atletico Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
@@ -35,15 +44,6 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
-
-⑤ **Real Madrid made to stew over derby defeat**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://en.as.com/soccer/when-is-real-madrids-next-game-why-is-there-such-a-long-gap-f202609-n/
-
-📝 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
 
 🧾 記事全体のコメント
 
