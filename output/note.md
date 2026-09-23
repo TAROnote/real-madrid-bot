@@ -1,19 +1,19 @@
-📰 レアル・マドリードニュースまとめ（2026-09-23）
+📰 レアル・マドリードニュースまとめ（2026-09-24）
 
-① **Mbappé Shifts Focus From Derby Officials to Real Madrid’s Response**
+① **Real Madrid Defends Its TV Channel After Gara Comparison**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/09/23/real-madrid-tv-gara-comparison
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Mbappé Shifts Focus From Derby Officials to Real Madrid’s Response**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
 https://www.football-espana.net/2026/09/22/mbappe-derby-comments
-
-📝 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
-
-② **Huijsen Sent Off After VAR Review Changes Madrid Derby Sanction**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/09/21/var-audio-huijsen-red-card
 
 📝 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
@@ -36,14 +36,14 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Mbappé explains his stance on Olise to Madrid**
+⑤ **Real Madrid made to stew over derby defeat**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/mbappe-explains-his-stance-on-olise-to-real-madrid-move-speculation-i-think-it-would-be-disrespectful-f202609-n/
+https://en.as.com/soccer/when-is-real-madrids-next-game-why-is-there-such-a-long-gap-f202609-n/
 
 📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
 
 🧾 記事全体のコメント
 
