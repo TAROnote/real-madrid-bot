@@ -1,22 +1,22 @@
-📰 レアル・マドリードニュースまとめ（2026-09-24）
+📰 レアル・マドリードニュースまとめ（2026-09-25）
 
-① **Real Madrid face kick-off warning as derby bans are confirmed**
+① **Real Madrid TV rejects Juanma Castaño’s apology as criticism continues**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/09/24/real-madrid-sanctions
+https://www.football-espana.net/2026/09/24/real-madrid-tv-castano-apology
 
 📝 要約（日本語）
-試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Valverde to miss Uruguay duty after Real Madrid derby injury**
-**バルベルデに関するニュース**
+② **Real Madrid TV revisits referee disputes in Atlético response**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/09/23/fede-valverde-injury-2
+https://www.football-espana.net/2026/09/24/real-madrid-tv-atletico-response
 
 📝 要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。シーズン終盤や重要な試合が続く時期ほど、選手層やローテーションに大きく影響する可能性がある。
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **LALIGA EA SPORTS MIE 23.09.2026 | GENERAL POV: ¡el Derbi de Madrid desde dentro! Compartir**
 **レアル・マドリード関連ニュース**
