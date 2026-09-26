@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-26）
+📰 レアル・マドリードニュースまとめ（2026-09-27）
 
 ① **A Decade of Clips Fuels Real Madrid’s Clash With Juanma Castaño**
 **レアル・マドリード関連ニュース**
