@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-09-27）
 
-① **A Decade of Clips Fuels Real Madrid’s Clash With Juanma Castaño**
+① **Real Madrid’s Midfield Woes Resurface After Atlético Loss**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/09/25/real-madrid-video-castano-dispute
+https://www.football-espana.net/2026/09/26/real-madrid-atletico-derby
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Castaño stands firm as Real Madrid video escalates row**
+② **A Decade of Clips Fuels Real Madrid’s Clash With Juanma Castaño**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/09/25/juanma-castano-real-madrid-video
+https://www.football-espana.net/2026/09/25/real-madrid-video-castano-dispute
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
