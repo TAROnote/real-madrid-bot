@@ -1,6 +1,15 @@
-📰 レアル・マドリードニュースまとめ（2026-09-27）
+📰 レアル・マドリードニュースまとめ（2026-09-28）
 
-① **Kylian Mbappe’s Knee Injury Leaves Return Date Unclear**
+① **Final assessment cleared as Militao’s Real Madrid return nears**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/09/27/eder-militao-return-final-assessment
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+
+② **Kylian Mbappe’s Knee Injury Leaves Return Date Unclear**
 **負傷に関するニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/09/27/mbappe-injury-real-madrid
 
 📝 要約（日本語）
 負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。シーズン終盤や重要な試合が続く時期ほど、選手層やローテーションに大きく影響する可能性がある。
-
-② **Real Madrid’s Midfield Woes Resurface After Atlético Loss**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/09/26/real-madrid-atletico-derby
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **LALIGA EA SPORTS MIE 23.09.2026 | GENERAL POV: ¡el Derbi de Madrid desde dentro! Compartir**
 **レアル・マドリード関連ニュース**
