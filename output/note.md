@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-09-27）
 
-① **Real Madrid’s Midfield Woes Resurface After Atlético Loss**
+① **Kylian Mbappe’s Knee Injury Leaves Return Date Unclear**
+**負傷に関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/09/27/mbappe-injury-real-madrid
+
+📝 要約（日本語）
+負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。シーズン終盤や重要な試合が続く時期ほど、選手層やローテーションに大きく影響する可能性がある。
+
+② **Real Madrid’s Midfield Woes Resurface After Atlético Loss**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
 https://www.football-espana.net/2026/09/26/real-madrid-atletico-derby
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **A Decade of Clips Fuels Real Madrid’s Clash With Juanma Castaño**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/09/25/real-madrid-video-castano-dispute
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
