@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-09-28）
 
-① **Final assessment cleared as Militao’s Real Madrid return nears**
+① **Jude Bellingham’s World Cup haul earns second England award**
+**ベリンガムに関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/09/28/jude-bellingham-england-award
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Final assessment cleared as Militao’s Real Madrid return nears**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/09/27/eder-militao-return-final-assessment
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
-
-② **Kylian Mbappe’s Knee Injury Leaves Return Date Unclear**
-**負傷に関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/09/27/mbappe-injury-real-madrid
-
-📝 要約（日本語）
-負傷やコンディションに関する更新で、今後の起用や復帰時期にも注目したい内容。シーズン終盤や重要な試合が続く時期ほど、選手層やローテーションに大きく影響する可能性がある。
 
 ③ **Real Madrid Transfer News**
 **移籍に関するニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Mora's ‘message’ to Madrid and Barça**
+⑤ **How loyalty led Mourinho back to Madrid**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/gilberto-mora-sends-message-to-real-madrid-and-barcelona-f202609-n/
+https://en.as.com/soccer/portugal-called-jose-mourinho-but-the-coach-chose-to-help-a-friend-f202609-n/
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
