@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-09-29）
+📰 レアル・マドリードニュースまとめ（2026-09-30）
 
 ① **Como Starter Jacobo Ramón Chooses Minutes Over Real Madrid Return**
 **レアル・マドリード関連ニュース**
