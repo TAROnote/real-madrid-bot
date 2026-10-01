@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-10-01）
+📰 レアル・マドリードニュースまとめ（2026-10-02）
 
 ① **Asencio surgery leaves Real Madrid with one centre-back**
 **レアル・マドリード関連ニュース**
