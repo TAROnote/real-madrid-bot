@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-10-01）
 
-① **Como Starter Jacobo Ramón Chooses Minutes Over Real Madrid Return**
+① **Asencio surgery leaves Real Madrid with one centre-back**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/09/28/jacobo-ramon-como-future
+https://www.football-espana.net/2026/10/01/asencio-surgery-real-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Jude Bellingham’s World Cup haul earns second England award**
-**ベリンガムに関するニュース**
+② **La Fábrica’s €215m return is helping fund Real Madrid’s rebuild**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/09/28/jude-bellingham-england-award
+https://www.football-espana.net/2026/10/01/real-madrid-academy-sales
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
