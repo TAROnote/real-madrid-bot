@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-10-02）
+📰 レアル・マドリードニュースまとめ（2026-10-03）
 
 ① **UEFA confirms Real Madrid complaint as Negreira probe continues**
 **レアル・マドリード関連ニュース**
