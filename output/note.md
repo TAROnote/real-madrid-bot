@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-10-02）
 
-① **Asencio surgery leaves Real Madrid with one centre-back**
+① **UEFA confirms Real Madrid complaint as Negreira probe continues**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/10/01/asencio-surgery-real-madrid
+https://www.football-espana.net/2026/10/02/negreira-investigation-madrid-complaint
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **La Fábrica’s €215m return is helping fund Real Madrid’s rebuild**
+② **Asencio surgery leaves Real Madrid with one centre-back**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/10/01/real-madrid-academy-sales
+https://www.football-espana.net/2026/10/01/asencio-surgery-real-madrid
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
