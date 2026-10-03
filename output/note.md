@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/10/01/asencio-surgery-real-madrid
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA FC FUTURES VIE 02.10.2026 | LALIGA FC FUTURES El Real Madrid impresiona en la jornada inaugural de LALIGA FC FUTURES en Orlando Compartir**
+③ **LALIGA FC Futures VIE 02.10.2026 | LALIGA FC FUTURES El Real Madrid impresiona en la jornada inaugural de LALIGA FC FUTURES en Orlando Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
