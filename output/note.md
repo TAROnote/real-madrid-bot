@@ -18,20 +18,20 @@ https://www.football-espana.net/2026/10/02/negreira-investigation-madrid-complai
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA FC Futures VIE 02.10.2026 | LALIGA FC FUTURES El Real Madrid impresiona en la jornada inaugural de LALIGA FC FUTURES en Orlando Compartir**
+③ **LALIGA FC FUTURES DOM 04.10.2026 | LALIGA FC FUTURES Flamengo – River Plate y Atlético de Madrid – Real Betis, semifinales de LALIGA FC FUTURES Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/noticias/el-real-madrid-impresiona-en-la-jornada-inaugural-de-laliga-fc-futures-en-orlando
+https://www.laliga.com/noticias/flamengo-river-plate-y-atletico-de-madrid-real-betis-semifinales-de-laliga-fc-futures
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **LALIGA EA SPORTS MAR 29.09.2026 | GENERAL Los mejores goles del Real Madrid de Mourinho Compartir**
+④ **LALIGA FC Futures VIE 02.10.2026 | LALIGA FC FUTURES El Real Madrid impresiona en la jornada inaugural de LALIGA FC FUTURES en Orlando Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/los-mejores-goles-del-real-madrid-de-mourinho
+https://www.laliga.com/noticias/el-real-madrid-impresiona-en-la-jornada-inaugural-de-laliga-fc-futures-en-orlando
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
