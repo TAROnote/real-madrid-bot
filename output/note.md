@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/10/02/negreira-investigation-madrid-complai
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA FC FUTURES DOM 04.10.2026 | LALIGA FC FUTURES Flamengo – River Plate y Atlético de Madrid – Real Betis, semifinales de LALIGA FC FUTURES Compartir**
+③ **LALIGA FC Futures DOM 04.10.2026 | LALIGA FC FUTURES Flamengo – River Plate y Atlético de Madrid – Real Betis, semifinales de LALIGA FC FUTURES Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
