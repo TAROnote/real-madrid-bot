@@ -1,6 +1,15 @@
-📰 レアル・マドリードニュースまとめ（2026-10-05）
+📰 レアル・マドリードニュースまとめ（2026-10-06）
 
-① **Yáñez settles five-goal Madrid derby for Castilla**
+① **Haaland’s 2027 Talk Puts Real Madrid and Barcelona in Focus**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/10/05/haaland-spain-move-2027
+
+📝 要約（日本語）
+この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
+
+② **Yáñez settles five-goal Madrid derby for Castilla**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/10/03/real-madrid-castilla-derby-win
 
 📝 要約（日本語）
 試合に向けた見どころや状況を整理した内容で、チーム状態を把握するうえで押さえておきたい。相手との力関係だけでなく、選手起用や直近の流れも結果を左右するポイントになりそうだ。
-
-② **UEFA confirms Real Madrid complaint as Negreira probe continues**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/10/02/negreira-investigation-madrid-complaint
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **LALIGA FC Futures DOM 04.10.2026 | LALIGA FC FUTURES Flamengo – River Plate y Atlético de Madrid – Real Betis, semifinales de LALIGA FC FUTURES Compartir**
 **レアル・マドリード関連ニュース**
