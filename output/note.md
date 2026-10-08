@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-10-08）
+📰 レアル・マドリードニュースまとめ（2026-10-09）
 
 ① **Arda Güler’s Real Madrid renewal has one key detail unresolved**
 **ギュレルに関するニュース**
