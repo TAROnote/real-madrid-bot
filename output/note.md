@@ -1,6 +1,15 @@
-📰 レアル・マドリードニュースまとめ（2026-10-09）
+📰 レアル・マドリードニュースまとめ（2026-10-10）
 
-① **Arda Güler’s Real Madrid renewal has one key detail unresolved**
+① **Modrić leaves future Real Madrid role undecided**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/10/09/real-madrid-role-modric
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Arda Güler’s Real Madrid renewal has one key detail unresolved**
 **ギュレルに関するニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/10/06/arda-guler-contract-renewal
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Haaland’s 2027 Talk Puts Real Madrid and Barcelona in Focus**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/10/05/haaland-spain-move-2027
-
-📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
 ③ **LALIGA FC Futures DOM 04.10.2026 | LALIGA FC FUTURES Flamengo – River Plate y Atlético de Madrid – Real Betis, semifinales de LALIGA FC FUTURES Compartir**
 **レアル・マドリード関連ニュース**
