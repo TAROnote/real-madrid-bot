@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-10-11）
 
-① **Modrić leaves future Real Madrid role undecided**
+① **Mourinho leaves Vinícius role open as Real Madrid weigh next step**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/10/09/real-madrid-role-modric
+https://www.football-espana.net/2026/10/10/vinicius-form-mourinho-plan
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Arda Güler’s Real Madrid renewal has one key detail unresolved**
-**ギュレルに関するニュース**
+② **Modrić leaves future Real Madrid role undecided**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/10/06/arda-guler-contract-renewal
+https://www.football-espana.net/2026/10/09/real-madrid-role-modric
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
