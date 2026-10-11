@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-10-11）
 
-① **Mourinho leaves Vinícius role open as Real Madrid weigh next step**
+① **Vinícius red card overshadows Diomandé’s Real Madrid breakthrough**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/10/10/vinicius-form-mourinho-plan
+https://www.football-espana.net/2026/10/11/vinicius-red-card
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Modrić leaves future Real Madrid role undecided**
+② **Mourinho leaves Vinícius role open as Real Madrid weigh next step**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/10/09/real-madrid-role-modric
+https://www.football-espana.net/2026/10/10/vinicius-form-mourinho-plan
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
@@ -27,7 +27,7 @@ https://www.laliga.com/noticias/flamengo-river-plate-y-atletico-de-madrid-real-b
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **Resumen de Partido DOM 11.10.2026 | RESUMEN DE PARTIDO El Real Madrid resiste con diez y conquista los tres puntos Compartir**
+④ **LALIGA EA SPORTS DOM 11.10.2026 | RESUMEN DE PARTIDO El Real Madrid resiste con diez y conquista los tres puntos Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
