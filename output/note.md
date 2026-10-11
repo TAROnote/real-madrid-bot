@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-10-11）
+📰 レアル・マドリードニュースまとめ（2026-10-12）
 
 ① **Vinícius red card overshadows Diomandé’s Real Madrid breakthrough**
 **レアル・マドリード関連ニュース**
