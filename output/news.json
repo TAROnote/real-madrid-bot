@@ -1,6 +1,6 @@
 {
-  "generated_at_jst": "2026-10-11T05:52:56.539943+09:00",
-  "count": 71,
+  "generated_at_jst": "2026-10-11T11:52:11.106753+09:00",
+  "count": 72,
   "items": [
     {
       "title": "Mourinho leaves Vinícius role open as Real Madrid weigh next step",
@@ -89,6 +89,20 @@
     {
       "title": "LALIGA FC Futures DOM 04.10.2026 | LALIGA FC FUTURES Flamengo – River Plate y Atlético de Madrid – Real Betis, semifinales de LALIGA FC FUTURES Compartir",
       "link": "https://www.laliga.com/noticias/flamengo-river-plate-y-atletico-de-madrid-real-betis-semifinales-de-laliga-fc-futures",
+      "source": "LaLiga",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Resumen de Partido DOM 11.10.2026 | RESUMEN DE PARTIDO El Real Madrid resiste con diez y conquista los tres puntos Compartir",
+      "link": "https://www.laliga.com/videos/el-real-madrid-resiste-con-diez-y-conquista-los-tres-puntos",
+      "source": "LaLiga",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "LALIGA EA SPORTS DOM 11.10.2026 | RESUMEN DE PARTIDO El Atlético de Madrid prolonga su racha con un triunfo de peso en Mendizorroza Compartir",
+      "link": "https://www.laliga.com/videos/el-atletico-de-madrid-prolonga-su-racha-con-un-triunfo-de-peso-en-mendizorroza",
       "source": "LaLiga",
       "published": "",
       "summary": ""
@@ -199,7 +213,14 @@
       "summary": ""
     },
     {
-      "title": "Vini Jr red!",
+      "title": "Vinicius Jr",
+      "link": "https://en.as.com/soccer/vinicius-jr-may-miss-el-clasico-after-red-card-f202610-n/",
+      "source": "AS",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Vini Jr sees red in crazy head loss",
       "link": "https://en.as.com/soccer/why-is-vinicius-jr-not-playing-for-real-madrid-against-villarreal-in-laliga-today-f202610-n/",
       "source": "AS",
       "published": "",
@@ -213,7 +234,7 @@
       "summary": ""
     },
     {
-      "title": "Real Madrid vs Villarreal: live",
+      "title": "Madrid's rough Diomande sparkles in dramatic win",
       "link": "https://en.as.com/soccer/real-madrid-vs-villarreal-live-online-score-stats-goals-updates-laliga-202627-f202610-n/",
       "source": "AS",
       "published": "",
@@ -276,6 +297,13 @@
       "summary": ""
     },
     {
+      "title": "Vinicius Jr sent off in Real win as Gordon scores first Barcelona goal",
+      "link": "https://www.skysports.com/football/live-blog/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "source": "Sky Sports",
+      "published": "",
+      "summary": ""
+    },
+    {
       "title": "LIGA Real Madrid 1 8:00pm 0 Villarreal",
       "link": "https://www.skysports.com/football/real-madrid-vs-villarreal/563002",
       "source": "Sky Sports",
@@ -290,8 +318,15 @@
       "summary": ""
     },
     {
-      "title": "Mbappe to win Ballon d'Or? The Galactico's top five goals from 2025/26",
-      "link": "https://www.skysports.com/football/video/13591091/kylian-mbappe-top-five-goals-for-real-madrid-in-laliga-in-2025-26",
+      "title": "Crazy scenes! Vinicius Jr SENT OFF and has goal disallowed for hair pull!",
+      "link": "https://www.skysports.com/football/video/13597628/from-celebrations-to-despair-vinicius-junior-is-red-carded-after-his-goal-is-disallowed-for-hair-pull",
+      "source": "Sky Sports",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Diomande seals Madrid win and VAR drama as Vinicius Jr is sent off",
+      "link": "https://www.skysports.com/football/video/13597630/real-madrid-1-0-villarreal-la-liga-highlights",
       "source": "Sky Sports",
       "published": "",
       "summary": ""
@@ -304,37 +339,23 @@
       "summary": ""
     },
     {
-      "title": "Euro Debrief: Parrott knocks Madrid off their perch as Barca show brilliance",
-      "link": "https://www.skysports.com/football/news/13580730/troy-parrott-stuns-old-boss-jose-mourinho-as-kylian-mbappe-costs-real-madrid-plus-lots-more-in-the-euro-debrief",
-      "source": "Sky Sports",
+      "title": "Top 10 players: Real Madrid 1-0 Villarreal",
+      "link": "https://www.managingmadrid.com/real-madrid-cf-data-analysis/113906/top-10-players-real-madrid-1-0-villarreal",
+      "source": "Managing Madrid",
       "published": "",
       "summary": ""
     },
     {
-      "title": "Euro Debrief: Mourinho getting best out of Bellingham at Real Madrid",
-      "link": "https://www.skysports.com/football/news/13576939/jude-bellingham-jose-mourinho-getting-best-out-of-england-star-as-a-no-10-at-real-madrid-plus-lots-more-in-the-euro-debrief",
-      "source": "Sky Sports",
+      "title": "Player Ratings: Real Madrid 1–0 Villarreal",
+      "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/113902/player-ratings-real-madrid-1-0-villarreal",
+      "source": "Managing Madrid",
       "published": "",
       "summary": ""
     },
     {
-      "title": "'London or Madrid' - Alvarez's Arsenal ultimatum explained",
-      "link": "https://www.skysports.com/football/news/13577751/julian-alvarez-transfer-news-atletico-madrid-wont-sell-striker-to-barcelona-with-arsenal-the-only-option",
-      "source": "Sky Sports",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Meet Osasuna's new coach who started in Real Madrid's academy",
-      "link": "https://www.skysports.com/football/news/13568018/luis-miguel-ramis-interview-osasuna-boss-ready-for-laliga-after-long-route-to-the-top-via-real-madrids-academy",
-      "source": "Sky Sports",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Papers: Real Madrid open to Arsenal target Vinicius Jr leaving club",
-      "link": "https://www.skysports.com/football/transfer-paper-talk/13568924/vinicius-junior-transfer-news-real-madrid-open-to-possibility-of-arsenal-target-leaving-paper-talk",
-      "source": "Sky Sports",
+      "title": "Immediate Reaction: Real Madrid 1-0 Villarreal",
+      "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/113890/immediate-reaction-real-madrid-1-0-villarreal",
+      "source": "Managing Madrid",
       "published": "",
       "summary": ""
     },
@@ -402,29 +423,29 @@
       "summary": ""
     },
     {
-      "title": "Four Real Madrid Questions That Need To Be Answered",
-      "link": "https://www.managingmadrid.com/kiyans-observations/113735/real-madrid-tactical-struggles-2026-2027-season-mourinho-florentino-perez-concerns",
-      "source": "Managing Madrid",
+      "title": "1-0: Real Madrid defeats Villarreal with a goal by Diomande",
+      "link": "https://www.realmadrid.com/en-US/news/football/first-team/reports/cronica-real-madrid-villarreal-j8-liga-10-10-2026",
+      "source": "Real Madrid Official",
       "published": "",
       "summary": ""
     },
     {
-      "title": "Madrid Daily: Konaté’s return, Espí’s wait and Carvajal’s Getafe talks",
-      "link": "https://www.managingmadrid.com/latest-news/113759/madrid-daily-konates-return-espis-wait-and-carvajals-getafe-talks",
-      "source": "Managing Madrid",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Militao, Konaté complete Tuesday’s training session with Real Madrid’s squad",
-      "link": "https://www.managingmadrid.com/113767/militao-konate-complete-tuesdays-training-session-with-real-madrids-squad",
-      "source": "Managing Madrid",
+      "title": "Tchouameni, 200 matches with Real Madrid: “It’s a dream to be here every day”",
+      "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/tchouameni-alcanza-los-200-partidos-con-el-real-madrid-10-10-2026",
+      "source": "Real Madrid Official",
       "published": "",
       "summary": ""
     },
     {
       "title": "Under-20 Intercontinental Cup champions present the title at the Bernabéu",
       "link": "https://www.realmadrid.com/en-US/news/football/academy/latest-news/el-juvenil-a-ofrecio-el-titulo-de-la-copa-intercontinental-sub-20-al-bernabeu-10-10-2026",
+      "source": "Real Madrid Official",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Real Madrid-Manresa: aiming to maintain the perfect winning streak in the League",
+      "link": "https://www.realmadrid.com/en-US/news/basket/first-team/fixtures/real-madrid-manresa-11-10-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
@@ -472,29 +493,15 @@
       "summary": ""
     },
     {
-      "title": "Real Madrid's starting lineup against Villarreal",
-      "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/once-inicial-del-real-madrid-ante-el-villarreal-10-10-2026",
+      "title": "Florentino Pérez with the students from the Foundation's schools in Cambodia",
+      "link": "https://www.realmadrid.com/en-US/news/club/latest-news/florentino-perez-con-los-alumnos-de-las-escuelas-de-la-fundacion-en-camboya-10-10-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
     },
     {
-      "title": "This was Real Madrid's arrival at the Bernabéu",
-      "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/asi-fue-la-llegada-del-real-madrid-al-bernabeu-10-10-2026",
-      "source": "Real Madrid Official",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Real Madrid-Villarreal: The League returns to the Bernabéu",
-      "link": "https://www.realmadrid.com/en-US/news/football/first-team/fixtures/real-madrid-villarreal-partido-exigente-en-el-regreso-a-la-competicion-10-10-2026",
-      "source": "Real Madrid Official",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Real Madrid-Burgos: aiming for the third consecutive victory in Liga U",
-      "link": "https://www.realmadrid.com/en-US/news/basket/academy/fixtures/real-madrid-burgos-a-por-la-tercera-victoria-consecutiva-en-la-liga-u-09-10-2026",
+      "title": "Vini Jr.: 250 La Liga matches as a madridista",
+      "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/vini-jr-250-partidos-de-liga-como-madridista-10-10-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
