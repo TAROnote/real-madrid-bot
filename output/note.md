@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-10-12）
+📰 レアル・マドリードニュースまとめ（2026-10-13）
 
 ① **Vinícius Suspension Puts Real Madrid’s Clásico Plans at Risk**
 **レアル・マドリード関連ニュース**
@@ -27,20 +27,20 @@ https://www.laliga.com/noticias/flamengo-river-plate-y-atletico-de-madrid-real-b
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **LALIGA EA SPORTS DOM 11.10.2026 | RESUMEN DE PARTIDO El Real Madrid resiste con diez y conquista los tres puntos Compartir**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.laliga.com/videos/el-real-madrid-resiste-con-diez-y-conquista-los-tres-puntos
-
-📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
-
-⑤ **Real Madrid Transfer News**
+④ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
 https://www.caughtoffside.com/tags/la-liga/real-madrid/
+
+📝 要約（日本語）
+移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
+
+⑤ **Atletico Madrid Transfer News**
+**移籍に関するニュース**
+
+🔗 リンク
+https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
