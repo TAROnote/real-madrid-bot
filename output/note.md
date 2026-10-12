@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-10-12）
 
-① **Vinícius red card overshadows Diomandé’s Real Madrid breakthrough**
+① **Vinícius Suspension Puts Real Madrid’s Clásico Plans at Risk**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/10/11/vinicius-red-card
+https://www.football-espana.net/2026/10/12/vinicius-red-card-suspension
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Mourinho leaves Vinícius role open as Real Madrid weigh next step**
+② **Vinícius red card overshadows Diomandé’s Real Madrid breakthrough**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/10/10/vinicius-form-mourinho-plan
+https://www.football-espana.net/2026/10/11/vinicius-red-card
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
