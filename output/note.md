@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-10-13）
+📰 レアル・マドリードニュースまとめ（2026-10-14）
 
 ① **One-year extension would keep Courtois at Real Madrid until 2028**
 **クルトワに関するニュース**
