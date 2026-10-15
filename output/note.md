@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-10-15）
+📰 レアル・マドリードニュースまとめ（2026-10-16）
 
 ① **Three late corners rescue Real Madrid in chaotic Roma thriller**
 **レアル・マドリード関連ニュース**
@@ -18,11 +18,11 @@ https://www.football-espana.net/2026/10/14/vinicius-form-champions-league
 📝 要約（日本語）
 チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
 
-③ **LALIGA FC Futures DOM 04.10.2026 | LALIGA FC FUTURES Flamengo – River Plate y Atlético de Madrid – Real Betis, semifinales de LALIGA FC FUTURES Compartir**
+③ **LALIGA EA SPORTS JUE 15.10.2026 | GENERAL La RefCam del Real Madrid - Villarreal CF Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/noticias/flamengo-river-plate-y-atletico-de-madrid-real-betis-semifinales-de-laliga-fc-futures
+https://www.laliga.com/videos/la-refcam-del-real-madrid-villarreal-cf
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
