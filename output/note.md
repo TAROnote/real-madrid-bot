@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-10-15）
 
-① **Champions League offers Vinícius a route out of Real Madrid slump**
+① **Three late corners rescue Real Madrid in chaotic Roma thriller**
+**レアル・マドリード関連ニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/10/15/real-madrid-roma-comeback
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Champions League offers Vinícius a route out of Real Madrid slump**
 **チャンピオンズリーグに関するニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/10/14/vinicius-form-champions-league
 
 📝 要約（日本語）
 チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
-
-② **One-year extension would keep Courtois at Real Madrid until 2028**
-**クルトワに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/10/13/courtois-contract-extension
-
-📝 要約（日本語）
-レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
 ③ **LALIGA FC Futures DOM 04.10.2026 | LALIGA FC FUTURES Flamengo – River Plate y Atlético de Madrid – Real Betis, semifinales de LALIGA FC FUTURES Compartir**
 **レアル・マドリード関連ニュース**

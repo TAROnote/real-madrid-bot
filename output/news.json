@@ -1,7 +1,14 @@
 {
-  "generated_at_jst": "2026-10-15T11:20:31.015905+09:00",
-  "count": 69,
+  "generated_at_jst": "2026-10-15T19:33:02.904566+09:00",
+  "count": 70,
   "items": [
+    {
+      "title": "Three late corners rescue Real Madrid in chaotic Roma thriller",
+      "link": "https://www.football-espana.net/2026/10/15/real-madrid-roma-comeback",
+      "source": "Football España",
+      "published": "",
+      "summary": ""
+    },
     {
       "title": "Champions League offers Vinícius a route out of Real Madrid slump",
       "link": "https://www.football-espana.net/2026/10/14/vinicius-form-champions-league",
@@ -75,13 +82,6 @@
     {
       "title": "Asencio surgery leaves Real Madrid with one centre-back",
       "link": "https://www.football-espana.net/2026/10/01/asencio-surgery-real-madrid",
-      "source": "Football España",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "La Fábrica’s €215m return is helping fund Real Madrid’s rebuild",
-      "link": "https://www.football-espana.net/2026/10/01/real-madrid-academy-sales",
       "source": "Football España",
       "published": "",
       "summary": ""
@@ -220,6 +220,20 @@
       "summary": ""
     },
     {
+      "title": "Why nothing is coincidental at Real Madrid this season",
+      "link": "https://en.as.com/soccer/why-nothing-is-coincidental-at-real-madrid-this-season-f202610-n/",
+      "source": "AS",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Bellingham’s bizarre ham-cutting skills spark a social media storm",
+      "link": "https://en.as.com/videos/bellinghams-bizarre-ham-cutting-skills-spark-a-social-media-storm-f202610-v/?pbsvideo=top",
+      "source": "AS",
+      "published": "",
+      "summary": ""
+    },
+    {
       "title": "Vinicius on his punishment: “The card always goes to me. It’s very easy…”",
       "link": "https://en.as.com/soccer/vinicius-on-his-punishment-the-card-always-goes-to-me-its-very-easy-f202610-n/",
       "source": "AS",
@@ -243,13 +257,6 @@
     {
       "title": "The return of the immortal Real Madrid",
       "link": "https://en.as.com/soccer/real-madrids-immortality-strikes-again-in-stunning-comeback-against-roma-f202610-n/",
-      "source": "AS",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Bellingham’s bizarre ham-cutting skills spark a social media storm",
-      "link": "https://en.as.com/videos/bellinghams-bizarre-ham-cutting-skills-spark-a-social-media-storm-f202610-v/?pbsvideo=top",
       "source": "AS",
       "published": "",
       "summary": ""
@@ -320,13 +327,6 @@
     {
       "title": "00:49 Simeone reflects on hard-fought 2-1 win over Alavés Atlético de Madrid",
       "link": "https://onefootball.com/en/video/simeone-reflects-on-hard-fought-2-1-win-over-alaves-43600296",
-      "source": "OneFootball",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "00:52 Grimaldo on Atlético's momentum after Alavés win Atlético de Madrid",
-      "link": "https://onefootball.com/en/video/grimaldo-on-atleticos-momentum-after-alaves-win-43600208",
       "source": "OneFootball",
       "published": "",
       "summary": ""
@@ -467,6 +467,13 @@
     {
       "title": "A look at the new Santiago Bernabéu",
       "link": "https://www.realmadrid.com/en-US/news/club/latest-news/a-look-at-the-new-santiago-bernabeu",
+      "source": "Real Madrid Official",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Tenth consecutive away victory against Italian teams in the Champions League",
+      "link": "https://www.realmadrid.com/en-US/news/football/first-team/latest-news/decima-victoria-seguida-a-domicilio-frente-a-equipos-italianos-en-la-champions-14-10-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
