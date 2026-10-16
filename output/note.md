@@ -1,6 +1,15 @@
 📰 レアル・マドリードニュースまとめ（2026-10-16）
 
-① **Three late corners rescue Real Madrid in chaotic Roma thriller**
+① **Endrick’s Roma goal sharpens Real Madrid loan question**
+**エンドリッキに関するニュース**
+
+🔗 リンク
+https://www.football-espana.net/2026/10/16/endrick-loan-real-madrid
+
+📝 要約（日本語）
+レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
+
+② **Three late corners rescue Real Madrid in chaotic Roma thriller**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -8,15 +17,6 @@ https://www.football-espana.net/2026/10/15/real-madrid-roma-comeback
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
-
-② **Champions League offers Vinícius a route out of Real Madrid slump**
-**チャンピオンズリーグに関するニュース**
-
-🔗 リンク
-https://www.football-espana.net/2026/10/14/vinicius-form-champions-league
-
-📝 要約（日本語）
-チャンピオンズリーグに関する話題で、試合内容やチームの戦い方を確認するうえで重要な内容。レアル・マドリードにとって欧州での結果はクラブ評価に直結するため、注目度の高いニュース。
 
 ③ **LALIGA EA SPORTS JUE 15.10.2026 | GENERAL La RefCam del Real Madrid - Villarreal CF Compartir**
 **レアル・マドリード関連ニュース**
