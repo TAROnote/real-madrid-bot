@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-10-16）
+📰 レアル・マドリードニュースまとめ（2026-10-17）
 
 ① **Endrick’s Roma goal sharpens Real Madrid loan question**
 **エンドリッキに関するニュース**
