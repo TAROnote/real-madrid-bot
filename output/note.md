@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-10-17）
+📰 レアル・マドリードニュースまとめ（2026-10-18）
 
 ① **Real Madrid seek Tebas exit from LaLiga and RFEF roles**
 **レアル・マドリード関連ニュース**
