@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-10-21）
+📰 レアル・マドリードニュースまとめ（2026-10-22）
 
 ① **Real Madrid’s 4-1 win yielded little from set pieces**
 **レアル・マドリード関連ニュース**
@@ -18,11 +18,11 @@ https://www.football-espana.net/2026/10/17/tebas-resignation-real-madrid
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS LUN 19.10.2026 | RESUMEN DE PARTIDO El Madrid cumple ante el Sevilla y mantiene el pulso por la zona alta Compartir**
+③ **General MIE 21.10.2026 | GENERAL La RefCam del Real Madrid - Sevilla FC Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/el-madrid-cumple-ante-el-sevilla-y-mantiene-el-pulso-por-la-zona-alta
+https://www.laliga.com/videos/la-refcam-del-real-madrid-sevilla-fc
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
