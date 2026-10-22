@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/10/17/tebas-resignation-real-madrid
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **General MIE 21.10.2026 | GENERAL La RefCam del Real Madrid - Sevilla FC Compartir**
+③ **LALIGA EA SPORTS MIE 21.10.2026 | GENERAL La RefCam del Real Madrid - Sevilla FC Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
