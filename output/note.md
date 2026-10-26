@@ -1,19 +1,19 @@
 📰 レアル・マドリードニュースまとめ（2026-10-26）
 
-① **Real Madrid’s 4-1 win yielded little from set pieces**
-**レアル・マドリード関連ニュース**
+① **Valverde played over 40 minutes injured as Real Madrid face three away games in a week**
+**バルベルデに関するニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/10/19/real-madrid-set-pieces
+https://www.football-espana.net/2026/10/26/valverde-injury-real-madrid-away-run
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-② **Real Madrid seek Tebas exit from LaLiga and RFEF roles**
+② **Real Madrid’s 4-1 win yielded little from set pieces**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.football-espana.net/2026/10/17/tebas-resignation-real-madrid
+https://www.football-espana.net/2026/10/19/real-madrid-set-pieces
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
