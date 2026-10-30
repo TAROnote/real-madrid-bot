@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/10/19/real-madrid-set-pieces
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **Fundación JUE 29.10.2026 | FUNDACIÓN Madrid recibe a jóvenes futbolistas de India en una experiencia de aprendizaje e intercambio impulsada por la Fundación Vicente Ferrer, Liga F y FUNDACIÓN LALIGA Compartir**
+③ **institutional JUE 29.10.2026 | FUNDACIÓN Madrid recibe a jóvenes futbolistas de India en una experiencia de aprendizaje e intercambio impulsada por la Fundación Vicente Ferrer, Liga F y FUNDACIÓN LALIGA Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
@@ -27,7 +27,7 @@ https://www.laliga.com/noticias/madrid-recibe-a-jovenes-futbolistas-de-india-en-
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **General JUE 29.10.2026 | GENERAL Caras nuevas, energía renovada: así brillan los fichajes del Real Madrid Compartir**
+④ **LALIGA EA SPORTS JUE 29.10.2026 | GENERAL Caras nuevas, energía renovada: así brillan los fichajes del Real Madrid Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
