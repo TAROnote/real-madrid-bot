@@ -1,6 +1,6 @@
 {
-  "generated_at_jst": "2026-11-02T06:29:27.805836+09:00",
-  "count": 70,
+  "generated_at_jst": "2026-11-02T12:21:46.043111+09:00",
+  "count": 72,
   "items": [
     {
       "title": "Valverde played over 40 minutes injured as Real Madrid face three away games in a week",
@@ -89,6 +89,13 @@
     {
       "title": "institutional JUE 29.10.2026 | FUNDACIÓN Madrid recibe a jóvenes futbolistas de India en una experiencia de aprendizaje e intercambio impulsada por la Fundación Vicente Ferrer, Liga F y FUNDACIÓN LALIGA Compartir",
       "link": "https://www.laliga.com/noticias/madrid-recibe-a-jovenes-futbolistas-de-india-en-una-experiencia-de-aprendizaje-e-intercambio-impulsada-por-la-fundacion-vicente-ferrer-liga-f-y-fundacion-laliga",
+      "source": "LaLiga",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "LALIGA EA SPORTS DOM 01.11.2026 | RESUMEN DE PARTIDO El Real Madrid resuelve en El Sardinero antes del descanso Compartir",
+      "link": "https://www.laliga.com/videos/el-real-madrid-resuelve-en-el-sardinero-antes-del-descanso",
       "source": "LaLiga",
       "published": "",
       "summary": ""
@@ -241,8 +248,8 @@
       "summary": ""
     },
     {
-      "title": "Mourinho sends clear message to Mbappe after Ballon d’Or disappointment",
-      "link": "https://en.as.com/videos/mourinho-sends-clear-message-to-mbappe-after-ballon-dor-disappointment-f202610-v/?pbsvideo=top",
+      "title": "Mbappé and Tchouaméni’s heartwarming gesture towards a young fan after the Real Madrid game",
+      "link": "https://en.as.com/videos/mbappe-and-tchouamenis-heartwarming-gesture-towards-a-young-fan-after-the-real-madrid-game-f202611-v/?pbsvideo=top",
       "source": "AS",
       "published": "",
       "summary": ""
@@ -339,9 +346,16 @@
       "summary": ""
     },
     {
-      "title": "Mbappe's late strike earns Mourinho and Real Clasico glory at Barca",
-      "link": "https://www.skysports.com/football/barcelona-vs-real-madrid/report/563017",
-      "source": "Sky Sports",
+      "title": "Real Madrid’s Big Chance Conversion Rate Surges — And History Shows That Wins La Liga",
+      "link": "https://www.managingmadrid.com/real-madrid-cf-data-analysis/114911/real-madrid-big-chance-conversion-rate-closes-gap-barcelona",
+      "source": "Managing Madrid",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Player Ratings: Racing Santander 0–3 Real Madrid",
+      "link": "https://www.managingmadrid.com/real-madrid-cf-la-liga/114972/player-ratings-racing-santander-0-3-real-madrid",
+      "source": "Managing Madrid",
       "published": "",
       "summary": ""
     },
@@ -362,13 +376,6 @@
     {
       "title": "CONFIRMED lineups: Racing Santander vs Real Madrid, 2026 La Liga",
       "link": "https://www.managingmadrid.com/114949/racing-santander-vs-real-madrid-2026-la-liga-live-online-stream",
-      "source": "Managing Madrid",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Five Bullet Points From Real Madrid’s Win Over Barcelona",
-      "link": "https://www.managingmadrid.com/kiyans-observations/114688/real-madrid-review-barcelona-el-clasico-camp-nou-2026-tactics",
       "source": "Managing Madrid",
       "published": "",
       "summary": ""
@@ -418,13 +425,6 @@
     {
       "title": "Vinicius and Endrick make Brazil’s list for the next FIFA break",
       "link": "https://www.managingmadrid.com/114842/vinicius-and-endrick-make-brazils-list-for-the-next-fifa-break",
-      "source": "Managing Madrid",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Police identify Barcelona fan who assaulted Real Madrid players during El Clásico",
-      "link": "https://www.managingmadrid.com/114822/police-identify-barcelona-fan-who-assaulted-real-madrid-players-during-el-clasico",
       "source": "Managing Madrid",
       "published": "",
       "summary": ""
@@ -481,6 +481,20 @@
     {
       "title": "A look at the new Santiago Bernabéu",
       "link": "https://www.realmadrid.com/en-US/news/club/latest-news/a-look-at-the-new-santiago-bernabeu",
+      "source": "Real Madrid Official",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Real Madrid hosts Panathinaikos on Wednesday",
+      "link": "https://www.realmadrid.com/en-US/news/basket/first-team/latest-news/el-real-madrid-recibe-el-miercoles-al-panathinaikos-en-la-euroliga-02-11-2026",
+      "source": "Real Madrid Official",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Athenea, 150 League matches with Real Madrid",
+      "link": "https://www.realmadrid.com/en-US/news/football/womens-team/latest-news/athenea-150-partidos-liga-01-11-2026",
       "source": "Real Madrid Official",
       "published": "",
       "summary": ""
