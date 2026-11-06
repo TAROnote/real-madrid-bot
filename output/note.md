@@ -27,11 +27,11 @@ https://www.laliga.com/noticias/madrid-recibe-a-jovenes-futbolistas-de-india-en-
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **LALIGA EA SPORTS JUE 05.11.2026 | GENERAL La RefCam del Real Racing Club - Real Madrid Compartir**
-**レアル・マドリード関連ニュース**
+④ **LALIGA EA SPORTS VIE 06.11.2026 | GENERAL El efecto Bellingham en LALIGA EA SPORTS Compartir**
+**ベリンガムに関するニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/la-refcam-del-real-racing-club-real-madrid
+https://www.laliga.com/videos/el-efecto-bellingham-en-laliga-ea-sports
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
