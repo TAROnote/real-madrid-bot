@@ -27,7 +27,7 @@ https://www.laliga.com/noticias/madrid-recibe-a-jovenes-futbolistas-de-india-en-
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **Resumen de Partido DOM 08.11.2026 | RESUMEN DE PARTIDO Arda Güler guía al Real Madrid en Mestalla Compartir**
+④ **LALIGA EA SPORTS DOM 08.11.2026 | RESUMEN DE PARTIDO Arda Güler guía al Real Madrid en Mestalla Compartir**
 **ギュレルに関するニュース**
 
 🔗 リンク
