@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-11-09）
+📰 レアル・マドリードニュースまとめ（2026-11-10）
 
 ① **Valverde played over 40 minutes injured as Real Madrid face three away games in a week**
 **バルベルデに関するニュース**
@@ -18,16 +18,7 @@ https://www.football-espana.net/2026/10/19/real-madrid-set-pieces
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **institutional JUE 29.10.2026 | FUNDACIÓN Madrid recibe a jóvenes futbolistas de India en una experiencia de aprendizaje e intercambio impulsada por la Fundación Vicente Ferrer, Liga F y FUNDACIÓN LALIGA Compartir**
-**レアル・マドリード関連ニュース**
-
-🔗 リンク
-https://www.laliga.com/noticias/madrid-recibe-a-jovenes-futbolistas-de-india-en-una-experiencia-de-aprendizaje-e-intercambio-impulsada-por-la-fundacion-vicente-ferrer-liga-f-y-fundacion-laliga
-
-📝 要約（日本語）
-この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
-
-④ **LALIGA EA SPORTS DOM 08.11.2026 | RESUMEN DE PARTIDO Arda Güler guía al Real Madrid en Mestalla Compartir**
+③ **LALIGA EA SPORTS DOM 08.11.2026 | RESUMEN DE PARTIDO Arda Güler guía al Real Madrid en Mestalla Compartir**
 **ギュレルに関するニュース**
 
 🔗 リンク
@@ -36,11 +27,20 @@ https://www.laliga.com/videos/arda-guler-guia-al-real-madrid-en-mestalla
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-⑤ **Real Madrid Transfer News**
+④ **Real Madrid Transfer News**
 **移籍に関するニュース**
 
 🔗 リンク
 https://www.caughtoffside.com/tags/la-liga/real-madrid/
+
+📝 要約（日本語）
+移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
+
+⑤ **Atletico Madrid Transfer News**
+**移籍に関するニュース**
+
+🔗 リンク
+https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
