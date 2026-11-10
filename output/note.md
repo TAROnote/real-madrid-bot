@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-11-10）
+📰 レアル・マドリードニュースまとめ（2026-11-11）
 
 ① **Valverde played over 40 minutes injured as Real Madrid face three away games in a week**
 **バルベルデに関するニュース**
@@ -18,11 +18,11 @@ https://www.football-espana.net/2026/10/19/real-madrid-set-pieces
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS DOM 08.11.2026 | RESUMEN DE PARTIDO Arda Güler guía al Real Madrid en Mestalla Compartir**
-**ギュレルに関するニュース**
+③ **General MAR 10.11.2026 | GENERAL Fermín, Valverde... y todos los goles de la J12 de LALIGA EA SPORTS Compartir**
+**バルベルデに関するニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/arda-guler-guia-al-real-madrid-en-mestalla
+https://www.laliga.com/videos/fermin-valverde-y-todos-los-goles-de-la-j12-de-laliga-ea-sports
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
