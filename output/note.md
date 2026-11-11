@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-11-11）
+📰 レアル・マドリードニュースまとめ（2026-11-12）
 
 ① **Valverde played over 40 minutes injured as Real Madrid face three away games in a week**
 **バルベルデに関するニュース**
@@ -18,20 +18,20 @@ https://www.football-espana.net/2026/10/19/real-madrid-set-pieces
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **LALIGA EA SPORTS MIE 11.11.2026 | GENERAL Revive el Atlético de Madrid - FC Barcelona desde la RefCam Compartir**
+③ **General MIE 11.11.2026 | GENERAL Así se vio el Valencia CF - Real Madrid desde la RefCam Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/revive-el-atletico-de-madrid-fc-barcelona-desde-la-refcam
+https://www.laliga.com/videos/asi-se-vio-el-valencia-cf-real-madrid-desde-la-refcam
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
 
-④ **LALIGA EA SPORTS MAR 10.11.2026 | GENERAL Fermín, Valverde... y todos los goles de la J12 de LALIGA EA SPORTS Compartir**
-**バルベルデに関するニュース**
+④ **LALIGA EA SPORTS MIE 11.11.2026 | GENERAL Revive el Atlético de Madrid - FC Barcelona desde la RefCam Compartir**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://www.laliga.com/videos/fermin-valverde-y-todos-los-goles-de-la-j12-de-laliga-ea-sports
+https://www.laliga.com/videos/revive-el-atletico-de-madrid-fc-barcelona-desde-la-refcam
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
