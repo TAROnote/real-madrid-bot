@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-11-15）
+📰 レアル・マドリードニュースまとめ（2026-11-16）
 
 ① **Valverde played over 40 minutes injured as Real Madrid face three away games in a week**
 **バルベルデに関するニュース**
