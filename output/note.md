@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-11-16）
+📰 レアル・マドリードニュースまとめ（2026-11-17）
 
 ① **Valverde played over 40 minutes injured as Real Madrid face three away games in a week**
 **バルベルデに関するニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Endrick’s $80 million temptation**
-**エンドリッキに関するニュース**
+⑤ **Ancelotti fires back at Romario after Brazilian legend demands he be sacked**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/endricks-80-million-temptation-f202611-n/
+https://en.as.com/videos/ancelotti-fires-back-at-romario-after-brazilian-legend-demands-his-sack-f202611-v/?pbsvideo=top
 
 📝 要約（日本語）
 この記事ではレアル・マドリードに関する主要な話題が扱われており、今後の動向を追ううえでも注目したい。チーム状況やクラブの判断を知る材料として、引き続きチェックしておきたい内容。
