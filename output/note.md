@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Real Madrid fined for Tebas and Negreira banner**
+⑤ **United’s loss, Madrid’s Gabriel**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/real-madrid-fined-for-tebas-and-negreira-banner-f202611-n/
+https://en.as.com/soccer/how-much-is-real-madrid-paying-for-jj-gabriel-and-will-he-train-with-the-first-team-f202611-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
