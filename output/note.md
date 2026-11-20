@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-11-20）
+📰 レアル・マドリードニュースまとめ（2026-11-21）
 
 ① **Valverde played over 40 minutes injured as Real Madrid face three away games in a week**
 **バルベルデに関するニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Tchouaméni extends Real Madrid stay**
-**レアル・マドリード関連ニュース**
+⑤ **Courtois pens Madrid extension**
+**クルトワに関するニュース**
 
 🔗 リンク
-https://en.as.com/soccer/real-madrid-renew-aurelien-tchouamenis-contract-how-much-will-he-earn-and-how-long-is-the-deal-f202611-n/
+https://en.as.com/soccer/thibaut-courtois-signs-new-real-madrid-contract-how-many-trophies-has-he-won-f202611-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
