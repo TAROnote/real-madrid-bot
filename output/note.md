@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-11-24）
+📰 レアル・マドリードニュースまとめ（2026-11-25）
 
 ① **Valverde played over 40 minutes injured as Real Madrid face three away games in a week**
 **バルベルデに関するニュース**
@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Madrid and Barça sit out Copa del Rey draw**
-**レアル・マドリード関連ニュース**
+⑤ **Mourinho puts an end to the Vinicius debate**
+**ヴィニシウスに関するニュース**
 
 🔗 リンク
-https://en.as.com/soccer/202627-copa-del-rey-second-round-draw-why-arent-real-madrid-and-barcelona-playing-f202611-n/
+https://en.as.com/soccer/what-is-real-madrids-starting-xi-against-psv-eindhoven-in-the-champions-league-f202611-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
