@@ -36,11 +36,11 @@ https://www.caughtoffside.com/tags/la-liga/atletico-madrid/
 📝 要約（日本語）
 移籍や補強に関する話題で、今後のチーム編成や市場での動きに関わる内容として注目したい。若手の去就や主力選手の契約状況は、来季のレアル・マドリードの戦い方にも影響しそうだ。
 
-⑤ **Mourinho puts an end to the Vinicius debate**
-**ヴィニシウスに関するニュース**
+⑤ **Real Madrid vs PSV**
+**レアル・マドリード関連ニュース**
 
 🔗 リンク
-https://en.as.com/soccer/what-is-real-madrids-starting-xi-against-psv-eindhoven-in-the-champions-league-f202611-n/
+https://en.as.com/soccer/real-madrid-vs-psv-eindhoven-live-online-score-stats-goals-updates-champions-league-202627-f202611-n/
 
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
