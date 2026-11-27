@@ -1,4 +1,4 @@
-📰 レアル・マドリードニュースまとめ（2026-11-27）
+📰 レアル・マドリードニュースまとめ（2026-11-28）
 
 ① **Valverde played over 40 minutes injured as Real Madrid face three away games in a week**
 **バルベルデに関するニュース**
@@ -18,7 +18,7 @@ https://www.football-espana.net/2026/10/19/real-madrid-set-pieces
 📝 要約（日本語）
 レアル・マドリードに関する重要トピックで、チームやクラブの動きを追ううえで確認しておきたい内容。選手の状態、監督方針、移籍市場の動きなど、今後の流れを読む材料になりそうだ。
 
-③ **General JUE 26.11.2026 | GENERAL El Real Madrid - RC Celta visto desde la REFCAM Compartir**
+③ **LALIGA EA SPORTS JUE 26.11.2026 | GENERAL El Real Madrid - RC Celta visto desde la REFCAM Compartir**
 **レアル・マドリード関連ニュース**
 
 🔗 リンク
